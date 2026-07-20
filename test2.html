@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>泰文 Test 2 複習 — 第 3、4 課</title>
+<style>
+  :root{
+    --bg:#faf7f2; --card:#ffffff; --ink:#25211c; --muted:#7a7266;
+    --line:#e7e0d5; --accent:#c2410c; --accent2:#0f766e;
+    --thai:#1e3a8a; --band:#f3ede2; --hi:#fff7ed;
+  }
+  *{box-sizing:border-box;}
+  html,body{overflow-x:hidden;}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:"Noto Sans TC","PingFang TC","Microsoft JhengHei","Noto Sans Thai",system-ui,-apple-system,sans-serif;
+    line-height:1.55;font-size:16px;-webkit-text-size-adjust:100%;}
+  .wrap{max-width:1000px;margin:0 auto;padding:20px 14px 70px;}
+  header.top{background:linear-gradient(135deg,#c2410c,#9a3412);color:#fff;border-radius:16px;
+    padding:20px 20px;box-shadow:0 6px 22px rgba(154,52,18,.22);}
+  header.top h1{margin:0 0 6px;font-size:22px;letter-spacing:.3px;}
+  header.top p{margin:2px 0;opacity:.93;font-size:13.5px;}
+  .tag{display:inline-block;background:rgba(255,255,255,.2);border-radius:999px;
+    padding:3px 12px;font-size:12.5px;margin-top:8px;}
+  nav.toc{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 4px;}
+  nav.toc a{text-decoration:none;background:var(--card);border:1px solid var(--line);
+    color:var(--ink);padding:7px 13px;border-radius:999px;font-size:13.5px;}
+  nav.toc a:active{border-color:var(--accent);color:var(--accent);}
+  h2.lesson{margin:30px 0 4px;font-size:20px;color:var(--accent);
+    border-bottom:3px solid var(--accent);padding-bottom:6px;}
+  h2.lesson .th{color:var(--thai);font-size:19px;display:block;margin-top:2px;}
+  h2.lesson .en{color:var(--muted);font-size:13px;font-weight:400;display:block;}
+  h3.sec{margin:22px 0 10px;font-size:15.5px;color:#0b5d56;
+    background:var(--band);padding:9px 13px;border-radius:10px;border-left:5px solid var(--accent2);
+    line-height:1.45;}
+  /* mobile-first vocab cards */
+  .vlist{display:grid;grid-template-columns:1fr;gap:8px;}
+  .ventry{background:var(--card);border:1px solid var(--line);border-radius:12px;
+    padding:10px 13px;box-shadow:0 1px 4px rgba(0,0,0,.03);}
+  .ventry .r1{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;}
+  .ventry .th{font-family:"Noto Sans Thai","Leelawadee UI","Tahoma",sans-serif;
+    color:var(--thai);font-size:20px;font-weight:700;line-height:1.35;
+    overflow-wrap:anywhere;word-break:break-word;}
+  .ventry .rom{color:#a15a1e;font-style:italic;font-size:14px;overflow-wrap:anywhere;}
+  .ventry .r2{margin-top:3px;display:flex;gap:10px;flex-wrap:wrap;align-items:baseline;}
+  .ventry .cn{font-weight:600;font-size:15px;}
+  .ventry .en{color:var(--muted);font-size:13px;overflow-wrap:anywhere;}
+  @media(min-width:620px){ .vlist{grid-template-columns:1fr 1fr;} }
+  @media(min-width:900px){ .vlist{grid-template-columns:1fr 1fr 1fr;} }
+  /* grammar */
+  .gram{background:var(--card);border:1px solid var(--line);border-radius:14px;
+    padding:12px 15px;margin:10px 0 18px;box-shadow:0 1px 4px rgba(0,0,0,.03);}
+  .gpt{margin:12px 0;padding:11px 13px;background:var(--hi);border-radius:10px;border-left:4px solid var(--accent);}
+  .gpt:first-child{margin-top:2px;}
+  .gpt b.k{color:var(--accent);font-size:16px;}
+  .gpt .k .th{display:inline;font-size:18px;}
+  .th{font-family:"Noto Sans Thai","Leelawadee UI","Tahoma",sans-serif;color:var(--thai);}
+  .rom{font-family:inherit;}
+  .struct{display:inline-block;background:#eef2ff;color:#3730a3;border-radius:8px;
+    padding:3px 10px;margin:6px 0;font-size:13.5px;font-family:"Noto Sans Thai",sans-serif;
+    overflow-wrap:anywhere;}
+  .ex{margin:6px 0 2px;padding-left:11px;border-left:2px dashed #d6cdbd;}
+  .ex .thline{font-family:"Noto Sans Thai",sans-serif;color:var(--thai);font-size:15.5px;overflow-wrap:anywhere;}
+  .ex .note{color:var(--muted);font-size:12.5px;}
+  .mini{font-size:13px;color:var(--muted);margin:6px 0 0;overflow-wrap:anywhere;}
+  .pill{display:inline-block;font-size:11.5px;background:#dcfce7;color:#166534;border-radius:6px;padding:1px 8px;margin-right:4px;}
+  .pill.neg{background:#fee2e2;color:#991b1b;}
+  .pill.q{background:#e0e7ff;color:#3730a3;}
+  .tipbox{background:#fffbeb;border:1px solid #fde68a;border-radius:14px;padding:14px 18px;margin:18px 0;}
+  .tipbox h3{margin:0 0 8px;color:#b45309;font-size:15.5px;}
+  .tipbox ul{margin:6px 0 0;padding-left:20px;}
+  .tipbox li{margin:5px 0;overflow-wrap:anywhere;}
+  footer{color:var(--muted);font-size:12.5px;text-align:center;margin-top:28px;overflow-wrap:anywhere;}
+  @media print{ nav.toc{display:none;} body{background:#fff;} }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="top">
+  <h1>泰文 Test 2 複習講義</h1>
+  <p>Intensive Thai 3 — 考試範圍：<b>第 3 課</b> 與 <b>第 4 課</b>（依 Handbook 時程）</p>
+  <p>每個單字：泰文 · 羅馬讀音 · 中文 · English。</p>
+  <span class="tag">羅馬讀音為近似發音，聲調以課本音檔為準</span>
+</header>
+<nav class="toc">
+  <a href="#l3v">第3課 單字</a>
+  <a href="#l3g">第3課 文法</a>
+  <a href="#l4v">第4課 單字</a>
+  <a href="#l4g">第4課 文法</a>
+  <a href="#tips">考試重點</a>
+</nav>
+
+<h2 class="lesson" id="l3v">第 3 課
+  <span class="th">บทที่ ๓ เรื่องในครัว</span>
+  <span class="en">Kitchen matters · 廚房裡的事</span></h2>
+<h3 class="sec">單字 ① — 課文：แกงจืดเต้าหู้ไข่ม้วน（蛋捲豆腐清湯做法）</h3>
+<div class="vlist">
+<div class="ventry"><div class="r1"><span class="th">วิธีทำ</span><span class="rom">wí-thii-tham</span></div><div class="r2"><span class="cn">做法、步驟</span><span class="en">instructions; how to</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">นำ</span><span class="rom">nam</span></div><div class="r2"><span class="cn">拿、帶（正式）</span><span class="en">to bring; to take (formal)</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">น้ำซุปกระดูกหมู</span><span class="rom">nám-súp-grà-dùuk-mǔu</span></div><div class="r2"><span class="cn">豬骨高湯</span><span class="en">stock; bone broth</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ต้ม</span><span class="rom">dtôm</span></div><div class="r2"><span class="cn">煮、燙</span><span class="en">to boil</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">เดือด</span><span class="rom">dèuat</span></div><div class="r2"><span class="cn">沸騰</span><span class="en">to be boiled (boiling point)</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">หมูสับ</span><span class="rom">mǔu-sàp</span></div><div class="r2"><span class="cn">豬絞肉</span><span class="en">minced pork</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">วุ้นเส้น</span><span class="rom">wún-sên</span></div><div class="r2"><span class="cn">冬粉</span><span class="en">glass noodles</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">เห็ด</span><span class="rom">hèt</span></div><div class="r2"><span class="cn">菇</span><span class="en">mushroom</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ซอสปรุงรส</span><span class="rom">sórt-bprung-rót</span></div><div class="r2"><span class="cn">調味醬（多指醬油）</span><span class="en">seasoning sauce</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">พริกไทยป่น</span><span class="rom">prík-thai-bpòn</span></div><div class="r2"><span class="cn">胡椒粉</span><span class="en">ground pepper</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">หมัก</span><span class="rom">màk</span></div><div class="r2"><span class="cn">醃</span><span class="en">to marinate</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ข้ามคืน</span><span class="rom">khâam-kheun</span></div><div class="r2"><span class="cn">過夜、隔夜</span><span class="en">overnight</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">แช่</span><span class="rom">châe</span></div><div class="r2"><span class="cn">冰、浸泡</span><span class="en">to put/leave in a fridge</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">เจียวไข่</span><span class="rom">jiao-khài</span></div><div class="r2"><span class="cn">煎蛋（動作）</span><span class="en">to deep-fry eggs</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ไข่เจียว</span><span class="rom">khài-jiao</span></div><div class="r2"><span class="cn">煎蛋、蛋餅</span><span class="en">omelet; deep-fried egg</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ห่อ</span><span class="rom">hòr</span></div><div class="r2"><span class="cn">包（起來）</span><span class="en">to wrap</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">มัด</span><span class="rom">mát</span></div><div class="r2"><span class="cn">綁、捆</span><span class="en">to tie</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ลวก</span><span class="rom">lûak</span></div><div class="r2"><span class="cn">快速汆燙</span><span class="en">to quickly boil</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">หั่น</span><span class="rom">hàn</span></div><div class="r2"><span class="cn">切（用刀）</span><span class="en">to chop; to slice; to cut</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ชิ้น</span><span class="rom">chín</span></div><div class="r2"><span class="cn">塊、片（量詞）</span><span class="en">piece</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">สักครู่</span><span class="rom">sàk-krûu</span></div><div class="r2"><span class="cn">一會兒（正式）</span><span class="en">a short moment (formal)</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">พร้อม</span><span class="rom">próm</span></div><div class="r2"><span class="cn">準備好、完成</span><span class="en">ready</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">รับประทาน</span><span class="rom">ráp-bprà-thaan</span></div><div class="r2"><span class="cn">吃（正式）</span><span class="en">to eat (formal)</span></div></div>
+</div>
+<h3 class="sec">單字 ② — 寫作範例1：ข้อควรระวังในการใช้กาต้มน้ำไฟฟ้า（電熱水壺注意事項）</h3>
+<div class="vlist">
+<div class="ventry"><div class="r1"><span class="th">ข้อ</span><span class="rom">khôr</span></div><div class="r2"><span class="cn">項目、要點</span><span class="en">item; point</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ใช้งาน</span><span class="rom">chái-ngaan</span></div><div class="r2"><span class="cn">使用（正式）</span><span class="en">to use (formal)</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">โปรด</span><span class="rom">bpròot</span></div><div class="r2"><span class="cn">請（正式）</span><span class="en">please (formal)</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">พื้น</span><span class="rom">phéun</span></div><div class="r2"><span class="cn">地板、表面</span><span class="en">floor; surface</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ฝา</span><span class="rom">fǎa</span></div><div class="r2"><span class="cn">蓋子</span><span class="en">lid; cover; cap</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">เตาอบ</span><span class="rom">dtao-òp</span></div><div class="r2"><span class="cn">烤箱</span><span class="en">oven</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ระวัง</span><span class="rom">rá-wang</span></div><div class="r2"><span class="cn">小心、注意</span><span class="en">be careful; watch out</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">กาต้มน้ำ</span><span class="rom">gaa-dtôm-nám</span></div><div class="r2"><span class="cn">水壺</span><span class="en">kettle</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">คู่มือ</span><span class="rom">khûu-meu</span></div><div class="r2"><span class="cn">說明書、手冊</span><span class="en">manual</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">เรียบ</span><span class="rom">rîap</span></div><div class="r2"><span class="cn">平坦、平滑</span><span class="en">smooth; even</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">เตา</span><span class="rom">dtao</span></div><div class="r2"><span class="cn">爐子</span><span class="en">stove</span></div></div>
+</div>
+<h3 class="sec">單字 ③ — 寫作範例2：สิ่งที่ต้องทำเวลาใช้ห้องครัว（使用廚房該做的事）</h3>
+<div class="vlist">
+<div class="ventry"><div class="r1"><span class="th">ไฟไหม้</span><span class="rom">fai-mâi</span></div><div class="r2"><span class="cn">失火、著火</span><span class="en">to be on fire</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">เตือน</span><span class="rom">dteuan</span></div><div class="r2"><span class="cn">提醒、警告</span><span class="en">to remind; to warn</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">เครื่องใช้ไฟฟ้า</span><span class="rom">khrêuang-chái-fai-fáa</span></div><div class="r2"><span class="cn">電器用品</span><span class="en">electronic devices</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ไอน้ำ</span><span class="rom">ai-nám</span></div><div class="r2"><span class="cn">水蒸氣</span><span class="en">vapor</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ทำความสะอาด</span><span class="rom">tham-khwaam-sà-àat</span></div><div class="r2"><span class="cn">打掃、清潔</span><span class="en">to clean</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ใส่ใจ</span><span class="rom">sài-jai</span></div><div class="r2"><span class="cn">留意、用心</span><span class="en">to pay attention</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">เครื่องตั้งเวลา</span><span class="rom">khrêuang-dtâng-wee-laa</span></div><div class="r2"><span class="cn">計時器</span><span class="en">timer</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ตรวจสอบ</span><span class="rom">dtrùat-sòp</span></div><div class="r2"><span class="cn">檢查</span><span class="en">to check</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">สัมผัส</span><span class="rom">sǎm-phàt</span></div><div class="r2"><span class="cn">觸碰（正式）</span><span class="en">to touch (formal)</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ลวก</span><span class="rom">lûak</span></div><div class="r2"><span class="cn">燙傷</span><span class="en">to scald; to burn</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">อุบัติเหตุ</span><span class="rom">ù-bàt-dtì-hèet</span></div><div class="r2"><span class="cn">意外、事故</span><span class="en">accident</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ความปลอดภัย</span><span class="rom">khwaam-bplòt-phai</span></div><div class="r2"><span class="cn">安全</span><span class="en">safety</span></div></div>
+</div>
+<h3 class="sec">單字 ④ — 對話：ทำส้มตำ（做涼拌木瓜絲）</h3>
+<div class="vlist">
+<div class="ventry"><div class="r1"><span class="th">ต่างชาติ</span><span class="rom">dtàang-châat</span></div><div class="r2"><span class="cn">外國（人）</span><span class="en">foreign</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">กระเทียม</span><span class="rom">grà-thiam</span></div><div class="r2"><span class="cn">大蒜</span><span class="en">garlic</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ถั่วลิสง</span><span class="rom">thùa-lí-sǒng</span></div><div class="r2"><span class="cn">花生</span><span class="en">peanut</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ผงชูรส</span><span class="rom">phǒng-chuu-rót</span></div><div class="r2"><span class="cn">味精</span><span class="en">MSG</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ต่อไป</span><span class="rom">dtòr-bpai</span></div><div class="r2"><span class="cn">接下來</span><span class="en">next</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ผสม</span><span class="rom">phà-sǒm</span></div><div class="r2"><span class="cn">混合</span><span class="en">to mix</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ฟังดู</span><span class="rom">fang-duu</span></div><div class="r2"><span class="cn">聽起來</span><span class="en">to sound</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">มะละกอ</span><span class="rom">má-lá-gor</span></div><div class="r2"><span class="cn">木瓜</span><span class="en">papaya</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">มะนาว</span><span class="rom">má-naao</span></div><div class="r2"><span class="cn">檸檬</span><span class="en">lime; lemon</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">กุ้งแห้ง</span><span class="rom">gûng-hâeng</span></div><div class="r2"><span class="cn">蝦米</span><span class="en">dried shrimp</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">อย่างแรก</span><span class="rom">yàang-râek</span></div><div class="r2"><span class="cn">首先</span><span class="en">firstly</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">สุดท้าย</span><span class="rom">sùt-tháai</span></div><div class="r2"><span class="cn">最後</span><span class="en">lastly; finally</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">เข้ากัน</span><span class="rom">khâo-gan</span></div><div class="r2"><span class="cn">融合、搭</span><span class="en">well-mixed</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">หก</span><span class="rom">hòk</span></div><div class="r2"><span class="cn">灑出、翻倒</span><span class="en">to spill</span></div></div>
+</div>
+<h3 class="sec" id="l3g">文法 — การใช้ภาษา（口語語助詞 / 慣用語）</h3>
+<div class="gram">
+  <div class="gpt"><b class="k"><span class="th">ง่ายนิดเดียว</span></b> <span class="rom">ngâai-nít-diao</span><br>
+    = ง่ายมาก ๆ ไม่ยากเลย　「超簡單、一點都不難」。</div>
+  <div class="gpt"><b class="k"><span class="th">ก็แล้วกัน</span></b> <span class="rom">gôr-láeo-gan</span><br>
+    表示說話者做了決定，常用在「有選項要選一個」時。
+    <div class="ex"><span class="thline">กินกาแฟหรือชาไทยดี → เอากาแฟ<b>ก็แล้วกัน</b> ฉันง่วง</span><br>
+    <span class="note">喝咖啡還是泰式奶茶好？→ 那就咖啡吧，我很睏。</span></div></div>
+  <div class="gpt"><b class="k"><span class="th">บ้าง</span></b> <span class="rom">bâang</span>　<span class="pill q">句尾語助詞</span><br>
+    用於想要「一串列舉的答案」時。
+    <div class="ex"><span class="thline">เธออยากกินอะไร<b>บ้าง</b> → ฉันอยากกินส้มตำ ขนมจีน แล้วก็ชาลาเปา</span><br>
+    <span class="note">你想吃些什麼？→ 我想吃涼拌木瓜、米線，還有叉燒包。</span></div></div>
+  <div class="gpt"><b class="k"><span class="th">ต่าง ๆ (นานา)</span></b> <span class="rom">dtàang-dtàang (naa-naa)</span><br>
+    表示「還有很多沒提到的東西」。
+    <div class="ex"><span class="thline">ในห้องเรียน มีนักเรียนมาจากประเทศ<b>ต่าง ๆ</b></span><br>
+    <span class="note">教室裡有來自各國的學生。</span></div></div>
+  <div class="gpt"><b class="k"><span class="th">อยู่แล้ว</span></b> <span class="rom">yùu-láeo</span><br>
+    表示某人/某物「本身就具備此特質」，不必再多加什麼。
+    <div class="ex"><span class="thline">ฉันจะสอบผ่านไหมนะ → เธอเก่ง<b>อยู่แล้ว</b> สอบผ่านแน่นอน</span><br>
+    <span class="note">我會考過嗎？→ 你本來就很強，一定會過。</span></div></div>
+  <div class="gpt"><b class="k"><span class="th">อย่า ... ล่ะ</span></b> <span class="rom">yàa ... lâ</span><br>
+    「Just don't + 做某事」，常用於提醒或叮嚀。
+    <div class="ex"><span class="thline">เธอ<b>อย่า</b>มาสาย<b>ล่ะ</b></span><br>
+    <span class="note">你可別遲到囉。</span></div></div>
+</div>
+
+<h3 class="sec">文法 — ไวยากรณ์（正式文法）：表狀態句 ประโยคแสดงสภาพ</h3>
+<div class="gram">
+  <div class="gpt"><b class="k">第 3 型：主詞 + <span class="th">เป็น</span> + 特質/身分</b>
+    <div class="struct">ประธาน + เป็น + ลักษณะ/สถานภาพ</div>
+    <div class="ex">
+      <span class="pill">肯定</span><span class="thline">แจน<b>เป็น</b>เพื่อนของฉัน · แม่ของเขา<b>เป็น</b>พยาบาล · หมอคนนี้<b>เป็น</b>คนใจดี</span><br>
+      <span class="pill neg">否定</span><span class="thline">แจน<b>ไม่ใช่</b>เพื่อนของฉัน / <b>ไม่ได้เป็น</b>เพื่อนของฉัน</span><br>
+      <span class="pill q">疑問</span><span class="thline">แจน<b>เป็นใคร</b> · แม่ของเขา<b>ทำงานอะไร</b> · หมอคนนี้<b>เป็นคนยังไง</b></span>
+    </div>
+    <p class="mini">⚠️ 重點差別：一般否定用 <b>ไม่ใช่</b>；用 <b>ไม่ได้เป็น</b> 表示「身分不像別人以為的那樣」。例：แม่ของเขาเป็นพยาบาลเหรอ → แม่ของเขา<b>ไม่ได้เป็น</b>พยาบาล แม่ของเขาเป็นหมอ（不是護士，是醫生）。</p>
+  </div>
+  <div class="gpt"><b class="k">第 4 型：主詞 + <span class="th">คือ</span> + 介紹/說明</b>
+    <div class="struct">ประธาน + คือ + การแนะนำ/การอธิบาย</div>
+    <div class="ex">
+      <span class="pill">肯定</span><span class="thline">นี่<b>คือ</b>เก้าอี้ · แจน<b>คือ</b>เพื่อนของฉัน · แม่ของเขา<b>คือ</b>พยาบาลคนนั้น</span><br>
+      <span class="pill neg">否定</span><span class="thline">นี่<b>ไม่ใช่</b>เก้าอี้ · แจน<b>ไม่ใช่</b>เพื่อนของฉัน</span><br>
+      <span class="pill q">疑問</span><span class="thline">นี่<b>คืออะไร</b> · แจน<b>คือใคร</b> · แม่ของเขา<b>คือ(พยาบาล)คนไหน</b></span>
+    </div>
+    <p class="mini">💡 <b>เป็น</b> 多用於描述「性質/身分」；<b>คือ</b> 多用於「指認/下定義」。</p>
+  </div>
+</div>
+
+<h3 class="sec">文法 — 祈使句 ประโยคบอกให้ทำ ＋ 疊字用法</h3>
+<div class="gram">
+  <div class="gpt"><b class="k">祈使句三種</b>
+    <div class="ex">
+      <span class="pill">命令 สั่ง</span><span class="thline"><b>อย่า</b>โกหกฉัน / อย่าโกหกฉัน<b>นะ</b> / อย่าโกหกฉัน<b>สิ</b> · คุณ<b>ต้องไม่</b>โกหกฉัน</span><br>
+      <span class="pill q">請求 ขอร้อง</span><span class="thline"><b>กรุณา</b>บอกความจริงกับฉัน · <b>ได้โปรด</b>อย่าโกหกฉัน · บอกความจริงกับฉัน<b>ได้ไหม</b></span><br>
+      <span class="pill neg">禁止 ห้าม</span><span class="thline">(คุณ)<b>ห้าม</b>โกหกฉัน</span>
+    </div>
+  </div>
+  <div class="gpt"><b class="k">用疊字下指令：動作動詞 + [狀態動詞 + ๆ]</b>
+    <div class="struct">คำกริยาแสดงอาการ + [คำกริยาบอกสภาพ + ๆ]</div>
+    <div class="ex">
+      <span class="thline">ตี + แรง ๆ → ตีให้แรง(ขึ้น)</span> <span class="note">打大力點</span><br>
+      <span class="thline">วิ่ง + ช้า ๆ → วิ่งให้ช้า(ลง)</span> <span class="note">跑慢一點</span><br>
+      <span class="thline">พูด + ดัง ๆ → พูดให้ดัง(ขึ้น)</span> <span class="note">說大聲點</span><br>
+      <span class="thline">ร้อง + เพราะ ๆ → ร้อง(เพลง)ให้เพราะ(ขึ้น)</span> <span class="note">唱好聽點</span><br>
+      <span class="thline">เดิน + เบา ๆ → เดินให้เบา(ลง)</span> <span class="note">走輕一點</span><br>
+      <span class="thline">เขียน + สวย ๆ → เขียนให้สวย(ขึ้น)</span> <span class="note">寫漂亮點</span>
+    </div>
+    <p class="mini">唸法：疊字唸兩次（ตี-แรง-แรง），有「請把動作做得更…」的語氣。</p>
+  </div>
+</div>
+
+<h2 class="lesson" id="l4v">第 4 課
+  <span class="th">บทที่ ๔ ประกาศตามหาของ</span>
+  <span class="en">Lost &amp; found · 尋物啟事</span></h2>
+<h3 class="sec">單字 ① — 課文：ทำกระเป๋าหาย（弄丟包包的尋物啟事）</h3>
+<div class="vlist">
+<div class="ventry"><div class="r1"><span class="th">ประกาศ</span><span class="rom">bprà-gàat</span></div><div class="r2"><span class="cn">公告、宣布</span><span class="en">to announce; announcement</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">หาย</span><span class="rom">hǎai</span></div><div class="r2"><span class="cn">不見、遺失</span><span class="en">to be lost</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">สำคัญ</span><span class="rom">sǎm-khan</span></div><div class="r2"><span class="cn">重要</span><span class="en">important</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">เย็บ</span><span class="rom">yép</span></div><div class="r2"><span class="cn">縫</span><span class="en">to sew</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">กระเป๋าสะพายข้าง</span><span class="rom">grà-bpǎo-sà-phaai-khâang</span></div><div class="r2"><span class="cn">側背包、斜背包</span><span class="en">shoulder / cross-body bag</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ทรง</span><span class="rom">song</span></div><div class="r2"><span class="cn">形狀、款式</span><span class="en">shape</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">สามารถ ... ได้</span><span class="rom">sǎa-mâat ... dâai</span></div><div class="r2"><span class="cn">能夠（正式）</span><span class="en">can; to be able to (formal)</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">สายสะพาย</span><span class="rom">sǎai-sà-phaai</span></div><div class="r2"><span class="cn">背帶</span><span class="en">strap (for carrying)</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ความยาว</span><span class="rom">khwaam-yaao</span></div><div class="r2"><span class="cn">長度</span><span class="en">length</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ตามหา</span><span class="rom">dtaam-hǎa</span></div><div class="r2"><span class="cn">尋找</span><span class="en">to look for</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ทำ ... หาย</span><span class="rom">tham ... hǎai</span></div><div class="r2"><span class="cn">把…弄丟</span><span class="en">to lose (something)</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ผ้าไหม</span><span class="rom">phâa-mǎi</span></div><div class="r2"><span class="cn">絲綢</span><span class="en">silk</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ลาย</span><span class="rom">laai</span></div><div class="r2"><span class="cn">花紋、圖案</span><span class="en">pattern</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">สะพาย</span><span class="rom">sà-phaai</span></div><div class="r2"><span class="cn">背（於肩上）</span><span class="en">to carry (on shoulder)</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">สี่เหลี่ยม</span><span class="rom">sìi-lìam</span></div><div class="r2"><span class="cn">長方形、四邊形</span><span class="en">rectangle</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">พอดี</span><span class="rom">phor-dii</span></div><div class="r2"><span class="cn">剛好、正合適</span><span class="en">just right; perfectly</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ปรับ</span><span class="rom">bpràp</span></div><div class="r2"><span class="cn">調整</span><span class="en">to adjust</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ช่องใส่ของ</span><span class="rom">chông-sài-khǒng</span></div><div class="r2"><span class="cn">置物袋、口袋</span><span class="en">pocket</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ซิป</span><span class="rom">síp</span></div><div class="r2"><span class="cn">拉鍊</span><span class="en">zipper</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">เกือบ</span><span class="rom">gèuap</span></div><div class="r2"><span class="cn">幾乎、差一點</span><span class="en">almost</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">แจ้งความ</span><span class="rom">jâeng-khwaam</span></div><div class="r2"><span class="cn">報案</span><span class="en">to report to police</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ตก</span><span class="rom">dtòk</span></div><div class="r2"><span class="cn">掉落、掉出</span><span class="en">to fall out / down</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">(หา)เจอ</span><span class="rom">(hǎa)-jer</span></div><div class="r2"><span class="cn">找到</span><span class="en">to find (after looking)</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">โชคดี</span><span class="rom">chôok-dii</span></div><div class="r2"><span class="cn">幸運、好運</span><span class="en">lucky</span></div></div>
+</div>
+<h3 class="sec">單字 ② — 寫作範例1：尋貓啟事</h3>
+<div class="vlist">
+<div class="ventry"><div class="r1"><span class="th">เลี้ยง</span><span class="rom">líang</span></div><div class="r2"><span class="cn">養（寵物）</span><span class="en">to raise; to have (as pet)</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">จุดพลุ</span><span class="rom">jùt-phlú</span></div><div class="r2"><span class="cn">放煙火</span><span class="en">to light a firework</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">หนี</span><span class="rom">nǐi</span></div><div class="r2"><span class="cn">逃跑</span><span class="en">to flee</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ขน</span><span class="rom">khǒn</span></div><div class="r2"><span class="cn">毛（毛髮）</span><span class="en">fur; (body) hair</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">น้ำหนัก</span><span class="rom">nám-nàk</span></div><div class="r2"><span class="cn">體重、重量</span><span class="en">weight</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ติดต่อ</span><span class="rom">dtìt-dtòr</span></div><div class="r2"><span class="cn">聯絡</span><span class="en">to contact</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">รีบ</span><span class="rom">rîip</span></div><div class="r2"><span class="cn">趕快、匆忙</span><span class="en">to hurry</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ทันที</span><span class="rom">than-thii</span></div><div class="r2"><span class="cn">立刻、馬上</span><span class="en">immediately</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ช่วง</span><span class="rom">chûang</span></div><div class="r2"><span class="cn">（一段）期間</span><span class="en">around (a period of time)</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ตกใจ</span><span class="rom">dtòk-jai</span></div><div class="r2"><span class="cn">嚇到、驚訝</span><span class="en">shocked</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">พบ</span><span class="rom">phóp</span></div><div class="r2"><span class="cn">找到、遇見（正式）</span><span class="en">to find (formal)</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">พันธุ์</span><span class="rom">phan</span></div><div class="r2"><span class="cn">品種</span><span class="en">breed</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">แถว</span><span class="rom">thǎeo</span></div><div class="r2"><span class="cn">附近、一帶</span><span class="en">around (an area)</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ข้อความ</span><span class="rom">khôr-khwaam</span></div><div class="r2"><span class="cn">訊息</span><span class="en">message</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">รับ</span><span class="rom">ráp</span></div><div class="r2"><span class="cn">拿到、收到</span><span class="en">to get; to receive</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">รางวัล</span><span class="rom">raang-wan</span></div><div class="r2"><span class="cn">獎賞、獎金</span><span class="en">prize</span></div></div>
+</div>
+<h3 class="sec">單字 ③ — 寫作範例2：尋找失蹤長者</h3>
+<div class="vlist">
+<div class="ventry"><div class="r1"><span class="th">ส่วนสูง</span><span class="rom">sùan-sǔung</span></div><div class="r2"><span class="cn">身高</span><span class="en">height</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">เสื้อคอกระเช้า</span><span class="rom">sêua-khor-grà-cháo</span></div><div class="r2"><span class="cn">泰式細肩背心</span><span class="en">Thai traditional vest</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ผ้าถุง</span><span class="rom">phâa-thǔng</span></div><div class="r2"><span class="cn">泰式筒裙</span><span class="en">Thai traditional skirt</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">โรคความจำเสื่อม</span><span class="rom">rôok-khwaam-jam-sèuam</span></div><div class="r2"><span class="cn">失智症、健忘症</span><span class="en">Alzheimer; amnesia</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ดวงตา</span><span class="rom">duang-dtaa</span></div><div class="r2"><span class="cn">眼睛（正式）</span><span class="en">eye (formal)</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">พบเห็น</span><span class="rom">phóp-hěn</span></div><div class="r2"><span class="cn">看到、發現（正式）</span><span class="en">to find; to see (formal)</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ศาลาวัด</span><span class="rom">sǎa-laa-wát</span></div><div class="r2"><span class="cn">寺廟涼亭</span><span class="en">temple pavilion</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">นุ่ง</span><span class="rom">nûng</span></div><div class="r2"><span class="cn">穿（下身衣物）</span><span class="en">to wear</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ลายดอก</span><span class="rom">laai-dòk</span></div><div class="r2"><span class="cn">花朵圖案</span><span class="en">flower-patterned</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">หลง</span><span class="rom">lǒng</span></div><div class="r2"><span class="cn">迷路、糊塗</span><span class="en">confused; lost</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">(ตา)บอด</span><span class="rom">(dtaa)-bòt</span></div><div class="r2"><span class="cn">失明、瞎</span><span class="en">blind</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">กรุณา</span><span class="rom">gà-rú-naa</span></div><div class="r2"><span class="cn">請、勞駕（正式）</span><span class="en">please (formal)</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ปรากฏว่า</span><span class="rom">bpraa-gòt-wâa</span></div><div class="r2"><span class="cn">結果是、原來</span><span class="en">to turn out to be</span></div></div>
+</div>
+<h3 class="sec">單字 ④ — 對話：描述外貌找人</h3>
+<div class="vlist">
+<div class="ventry"><div class="r1"><span class="th">หยิบ</span><span class="rom">yìp</span></div><div class="r2"><span class="cn">拿起、撿起</span><span class="en">to pick (sth) up</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ผิว</span><span class="rom">phǐu</span></div><div class="r2"><span class="cn">皮膚</span><span class="en">skin</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">กลม</span><span class="rom">glom</span></div><div class="r2"><span class="cn">圓（的）</span><span class="en">round</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">อวบ</span><span class="rom">ùap</span></div><div class="r2"><span class="cn">豐腴、胖胖的</span><span class="en">plump; chubby</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">รองเท้าแตะ</span><span class="rom">rong-tháo-dtàe</span></div><div class="r2"><span class="cn">拖鞋、涼鞋</span><span class="en">flip-flops; sandals</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">รูปร่างหน้าตา</span><span class="rom">rûup-râang-nâa-dtaa</span></div><div class="r2"><span class="cn">外貌、長相</span><span class="en">appearance</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">(ตา)ตี่</span><span class="rom">(dtaa)-dtìi</span></div><div class="r2"><span class="cn">（眼睛）細小</span><span class="en">small; narrow (eyes)</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">สิว</span><span class="rom">sǐu</span></div><div class="r2"><span class="cn">痘痘、青春痘</span><span class="en">acne; pimple</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ไหล่</span><span class="rom">lài</span></div><div class="r2"><span class="cn">肩膀</span><span class="en">shoulder</span></div></div>
+<div class="ventry"><div class="r1"><span class="th">ย้าย</span><span class="rom">yáai</span></div><div class="r2"><span class="cn">移動、搬</span><span class="en">to move</span></div></div>
+</div>
+<h3 class="sec" id="l4g">文法 — การใช้ภาษา（口語語助詞）</h3>
+<div class="gram">
+  <div class="gpt"><b class="k"><span class="th">เมื่อกี้</span></b> <span class="rom">mêua-gîi（口語 mêua-gíi）</span><br>
+    「剛剛、不久前」。可放句首或句尾。
+    <div class="ex"><span class="thline"><b>เมื่อกี้</b>ผมเห็นแมวของคุณกระโดดออกไปนอกหน้าต่าง · ฉันเพิ่งเจอเขา<b>เมื่อกี้</b></span></div></div>
+  <div class="gpt"><b class="k">形容詞/副詞 疊字（如 <span class="th">แดง ๆ</span>）</b> <span class="rom">daeng-daeng</span><br>
+    重複兩次會改變語氣，有兩種意思：
+    <div class="ex">
+      <span class="pill">① 加強</span><span class="thline">อากาศร้อน<b>มาก ๆ</b> · เขาพูด<b>จริง ๆ</b> นะ!</span> <span class="note">很熱／真的啦！</span><br>
+      <span class="pill q">② 約略</span><span class="thline">ผู้ชายตัว<b>สูง ๆ</b> · กระเป๋าสี<b>แดง ๆ</b></span> <span class="note">高高的男生／紅紅的包</span>
+    </div></div>
+  <div class="gpt"><b class="k"><span class="th">เดี๋ยวก่อน</span></b> <span class="rom">dǐao-gòn</span>　「等一下！」</div>
+  <div class="gpt"><b class="k"><span class="th">เหรอ</span></b> <span class="rom">rǒe</span>　<span class="pill q">疑問語助詞</span><br>
+    放句尾表「驚訝、好奇」，情緒比一般問句更強。
+    <div class="ex"><span class="thline">เธอจะไม่ไปจริง ๆ <b>เหรอ</b> · เธอกินอะไร<b>เหรอ</b></span><br><span class="note">你真的不去喔？／你在吃什麼呀？</span></div></div>
+  <div class="gpt"><b class="k"><span class="th">ไง</span></b> <span class="rom">ngai</span><br>
+    放句尾，表示說話者「覺得聽者早就該知道這件事」（帶點理所當然）。
+    <div class="ex"><span class="thline">เขาชื่ออะไรนะ → ทามกะ<b>ไง</b> เรียนด้วยกันมาสามวันแล้วนะ</span><br><span class="note">他叫什麼來著？→ 就 Tham-ga 啊，都一起上三天課了耶。</span></div></div>
+</div>
+
+<h3 class="sec">文法 — ไวยากรณ์：表感知/經歷句 ประโยคแสดงการประสบ</h3>
+<div class="gram">
+  <div class="gpt"><b class="k">第 1 型：主詞 + 感官感知</b>
+    <div class="struct">ประธาน + การรับรู้</div>
+    <p class="mini">感知動詞：เห็น 看見 · เจอ 遇見 · ได้รส 嚐到 · ได้กลิ่น 聞到 · ได้ยิน 聽見（皆為「不經意接收到」）</p>
+    <div class="ex">
+      <span class="pill">肯定</span><span class="thline">ฉัน<b>เห็น</b>เพื่อนที่ห้าง · แจน<b>ได้รส</b>กาแฟ · แม่ของเขา<b>ได้กลิ่น</b>น้ำหอม · คุณหมอ<b>ได้ยิน</b>(เสียง)เพลง</span><br>
+      <span class="pill neg">否定</span><span class="thline"><b>ไม่</b>เห็น / <b>ไม่</b>ได้รส / <b>ไม่</b>ได้กลิ่น / <b>ไม่</b>ได้ยิน</span><br>
+      <span class="pill q">疑問</span><span class="thline">เห็น+ใคร/อะไร · ได้รส+อะไร · ได้กลิ่น+อะไร/ใคร · ได้ยิน(เสียง)+อะไร/ใคร</span>
+    </div>
+  </div>
+  <div class="gpt"><b class="k">⚠️ 感知 vs 動作（重要對照）</b><br>
+    有些感知詞另有「刻意做」的動作動詞版本：
+    <div class="ex">
+      <span class="thline">เห็น 看見 → <b>ดู/มอง</b> 看電影/眺望 · ได้รส 嚐到 → <b>ชิม</b> 品嚐 · ได้กลิ่น 聞到 → <b>ดม</b> 嗅 · ได้ยิน 聽見 → <b>ฟัง</b> 聆聽</span>
+    </div>
+    <p class="mini">• 用 <b>ไม่</b> 否定動作動詞 = 主詞「刻意不做」該動作。<br>• 用 <b>ไม่ได้</b> 否定動作動詞 = ① 動作和別人想的不同（แจน<b>ไม่ได้</b>ชิมกาแฟ แจนชิมชา）或 ② 過去沒發生（เมื่อวานนี้ ฉัน<b>ไม่ได้</b>ดูหนัง）。</p>
+  </div>
+  <div class="gpt"><b class="k">第 2 型：主詞 + 情緒/感受</b>
+    <div class="struct">ประธาน + ความรู้สึก</div>
+    <p class="mini">感受詞：เศร้า 難過 · ดีใจ 開心 · โกรธ 生氣</p>
+    <div class="ex">
+      <span class="pill">肯定</span><span class="thline">ฉัน<b>เศร้า</b> · แจน<b>ดีใจ</b> · แม่ของเขา<b>โกรธ</b>พ่อของเขา</span><br>
+      <span class="pill neg">否定</span><span class="thline"><b>ไม่</b>เศร้า / <b>ไม่</b>ดีใจ；用 <b>ไม่ได้</b> 表示「感受和別人想的不同」→ แจน<b>ไม่ได้</b>ดีใจ แจนเสียใจ</span><br>
+      <span class="pill q">疑問</span><span class="thline">(ฉัน)เป็นอะไร · (แจน)รู้สึกยังไง/อย่างไร · โกรธ+ใคร/อะไร</span>
+    </div>
+  </div>
+</div>
+
+<div class="tipbox" id="tips">
+  <h3>📌 考試重點提醒</h3>
+  <ul>
+    <li><b>เป็น vs คือ</b>：เป็น 描述性質/身分；คือ 指認/下定義。否定都常用 ไม่ใช่。</li>
+    <li><b>ไม่ใช่ vs ไม่ได้</b>：ไม่ใช่ = 單純否定；ไม่ได้ = 「不像別人想的那樣」或「過去沒發生」。最容易考！</li>
+    <li><b>感知 vs 動作動詞</b>：เห็น/ได้ยิน/ได้กลิ่น/ได้รส（不經意）↔ ดู/ฟัง/ดม/ชิม（刻意）。</li>
+    <li><b>語助詞</b> บ้าง、เหรอ、ไง、ก็แล้วกัน、อยู่แล้ว 的語感差異。</li>
+    <li><b>疊字</b>：加強語氣 vs 約略；祈使句疊字（พูดดัง ๆ）唸兩次。</li>
+    <li>單字先熟：料理動作（ต้ม/ลวก/หั่น/หมัก）、廚房安全、尋物描述（ทรง/ลาย/สี่เหลี่ยม）、外貌（ผิว/กลม/ไหล่/สิว）。</li>
+  </ul>
+</div>
+
+<footer>
+  整理自 Intensive Thai 3 課本（第 3、4 課）· 泰文與英文釋義取自課本單字表，中文與羅馬讀音為輔助（讀音為近似發音）。<br>
+  祝考試順利 💪 สู้ ๆ นะ!
+</footer>
+</div>
+</body>
+</html>

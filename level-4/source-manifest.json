@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "scope": "level-4-lessons-1-8",
+  "totalUnitCount": 100,
+  "lessons": [
+    {
+      "lesson": 1,
+      "kind": "dialogue",
+      "unitCount": 13,
+      "orderedThaiSha256": "87ec06d2ccc6e2c451320d8704ba7b59a83909878a8990f6bfe71a72626573cd"
+    },
+    {
+      "lesson": 2,
+      "kind": "reading",
+      "unitCount": 20,
+      "orderedThaiSha256": "572745f45996c5cfa73c69902658a5936e1d8366792ce6c103e3882210b539f3"
+    },
+    {
+      "lesson": 3,
+      "kind": "dialogue",
+      "unitCount": 16,
+      "orderedThaiSha256": "d6f9978daa7e0962904877dadcb92676a96ff0921d828a6a81c675f9c4a6193c"
+    },
+    {
+      "lesson": 4,
+      "kind": "reading",
+      "unitCount": 8,
+      "orderedThaiSha256": "e809d404d965a09bf97bcecb6e0fc5353d784072013bd13f75d552054d19196c"
+    },
+    {
+      "lesson": 5,
+      "kind": "dialogue",
+      "unitCount": 15,
+      "orderedThaiSha256": "e37e1eeb998c6296011443af9df53f038a56d1aadde8b0f4625b95e42ce61f62"
+    },
+    {
+      "lesson": 6,
+      "kind": "reading",
+      "unitCount": 12,
+      "orderedThaiSha256": "4a25c3ecadd584db79fcdc7c16980bbffd1d89757b74ecd769f49d2ab494eb2b"
+    },
+    {
+      "lesson": 7,
+      "kind": "dialogue",
+      "unitCount": 11,
+      "orderedThaiSha256": "ecd0dd6c5e6f4d5f3751621e6ae8048d9c206cd30bdff34e74b8575c2f4c4571"
+    },
+    {
+      "lesson": 8,
+      "kind": "reading",
+      "unitCount": 5,
+      "orderedThaiSha256": "4d6e94203a7f0cec15bd3430e80895de5fed9c05c826e9f0ee83902a48998f7f"
+    }
+  ]
+}

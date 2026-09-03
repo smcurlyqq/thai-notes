@@ -258,7 +258,12 @@ def main() -> None:
                     total_content_rows += 1
                 for language in ("zh-Hant", "en", "ja", "ko"):
                     translation = node.select_one(f'[data-translation="{language}"]')
-                    if not translation or translation.get_text(strip=True) != unit[language]:
+                    expected_translation = (
+                        unit[language].splitlines()[0]
+                        if category != "main" and unit.get("thaiBody")
+                        else unit[language]
+                    )
+                    if not translation or translation.get_text(strip=True) != expected_translation:
                         errors.append(f"{label}: rendered {language} differs")
 
         extra_translation_keys = set(lesson_translations) - {"lesson"} - used_translation_keys

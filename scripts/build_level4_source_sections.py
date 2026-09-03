@@ -61,6 +61,19 @@ def render_translation(item: dict[str, str], language: str, extra: bool = False)
     )
 
 
+def heading_translations(item: dict[str, str]) -> dict[str, str]:
+    """Keep aggregate examples out of the source-heading row.
+
+    Multi-line source items store a legacy summary followed by example
+    translations. The examples are rendered sentence by sentence below the
+    heading, so the heading row must contain only the leading explanation.
+    """
+    return {
+        language: item[language].splitlines()[0]
+        for language in ("zh-Hant", "en", "ja", "ko")
+    }
+
+
 def render_sentence_row(
     thai: str,
     romanization: str,
@@ -127,7 +140,14 @@ def render_supporting_unit(
             raise ValueError(f"L{lesson} {key}: line translations do not match Thai body")
         if len(romanization_lines) != len(thai_lines):
             raise ValueError(f"L{lesson} {key}: romanization lines do not match Thai body")
-        rows = [render_sentence_row(item["thai"], item["romanization"], item, True)]
+        rows = [
+            render_sentence_row(
+                item["thai"],
+                item["romanization"],
+                heading_translations(item),
+                True,
+            )
+        ]
         rows.extend(
             render_sentence_row(thai, romanization, translated)
             for thai, romanization, translated in zip(

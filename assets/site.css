@@ -227,7 +227,10 @@ html.js:not(.languages-expanded) [data-extra-language] {
   gap: 20px;
   margin-top: 24px;
 }
-.lesson-section { scroll-margin-top: 80px; }
+.lesson-section {
+  min-width: 0;
+  scroll-margin-top: 80px;
+}
 .lesson-section > h2 {
   margin: 36px 0 12px;
   color: var(--blue-dark);
@@ -248,13 +251,17 @@ html.js:not(.languages-expanded) [data-extra-language] {
   background: var(--red-soft);
   color: var(--red-dark);
 }
-.content-card { padding: clamp(18px, 3vw, 28px); }
+.content-card {
+  min-width: 0;
+  padding: clamp(18px, 3vw, 28px);
+}
 [data-content-unit] + [data-content-unit] {
   margin-top: 18px;
   padding-top: 18px;
   border-top: 1px solid var(--line);
 }
 [data-content-unit] {
+  min-width: 0;
   position: relative;
 }
 .source-page {
@@ -274,12 +281,20 @@ html.js:not(.languages-expanded) [data-extra-language] {
   font-family: "Noto Sans Thai", "Leelawadee UI", Tahoma, sans-serif;
   font-size: 1.28rem;
   font-weight: 700;
+  overflow-wrap: anywhere;
+}
+[data-source-text] {
+  color: var(--ink);
+  font-size: 1.08rem;
+  font-weight: 700;
+  overflow-wrap: anywhere;
 }
 [data-romanization] {
   margin-top: 2px;
   color: var(--blue);
   font-size: 0.93rem;
   font-style: italic;
+  overflow-wrap: anywhere;
 }
 .thai-source-body,
 .romanization-source-body,
@@ -309,9 +324,29 @@ html.js:not(.languages-expanded) [data-extra-language] {
   font-style: italic;
   line-height: 1.65;
 }
+.sentence-row {
+  clear: both;
+  padding: 16px 0;
+}
+.sentence-row + .sentence-row {
+  border-top: 1px solid var(--line);
+}
+.source-heading-row {
+  padding-top: 0;
+}
+.source-heading-row [data-thai] {
+  font-weight: 750;
+}
+.source-heading-row [data-source-text] {
+  font-weight: 750;
+}
+.source-heading-row + .sentence-row {
+  margin-top: 8px;
+}
 [data-translation] {
   clear: both;
   margin-top: 8px;
+  overflow-wrap: anywhere;
 }
 [data-translation="zh-Hant"] { font-weight: 600; }
 [data-extra-language] {

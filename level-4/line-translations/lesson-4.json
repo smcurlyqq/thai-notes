@@ -1,0 +1,86 @@
+{
+  "lesson": 4,
+  "grammar-1": [
+    ["การ 是加在前面的詞素，能把表示動作的動詞變成名詞，指過程或行為。", "การ is a prefix that turns an action verb into a noun meaning a process or action.", "การ は動作を表す動詞を、過程や行為を意味する名詞に変える接頭要素です。", "การ는 동작 동사를 과정이나 행위를 뜻하는 명사로 바꾸는 접두 요소입니다."],
+    ["1) 跑步能讓心臟更強健。", "1) Running makes the heart stronger.", "1) 走ることは心臓を強くします。", "1) 달리기는 심장을 더 튼튼하게 해요."],
+    ["2) 吃有益健康的食物能讓身體強健。", "2) Eating nutritious food makes the body strong.", "2) 体に良い食べ物を食べると健康になります。", "2) 몸에 좋은 음식을 먹으면 건강해져요."],
+    ["3) 學習語言能幫助你了解使用該語言的人們的文化。", "3) Learning a language helps you understand the culture of its speakers.", "3) 言語を学ぶと、その言語を使う人々の文化を理解できます。", "3) 언어를 배우면 그 언어를 쓰는 사람들의 문화를 이해하는 데 도움이 돼요."]
+  ],
+  "grammar-2": [
+    ["ความ 能把表示情緒、認知的動詞或形容詞變成名詞，指狀態或情況。", "ความ turns verbs of emotion or perception, or adjectives, into nouns denoting a state or condition.", "ความ は感情・認知を表す動詞や形容詞を、状態を意味する名詞に変えます。", "ความ은 감정·인지 동사나 형용사를 상태를 뜻하는 명사로 바꿉니다."],
+    ["1) 每個人都需要身邊人的愛。", "1) Everyone needs love from those around them.", "1) 誰でも周りの人からの愛を必要とします。", "1) 누구나 주변 사람들의 사랑이 필요해요."],
+    ["2) 不要放棄夢想與希望。", "2) Do not abandon your dreams and hopes.", "2) 夢と希望を捨てないでください。", "2) 꿈과 희망을 버리지 마세요."],
+    ["3) 在這條路上，車速不得超過每小時 90 公里。", "3) You may not exceed 90 kilometers per hour on this road.", "3) この道路では時速90キロを超えてはいけません。", "3) 이 도로에서는 시속 90킬로미터를 넘으면 안 돼요."]
+  ],
+  "grammar-3": [
+    ["用來催促對方趕快做某個動作。", "Used to urge someone to perform an action quickly.", "早く動作をするよう促すときに使います。", "상대에게 빨리 어떤 행동을 하라고 재촉할 때 씁니다."],
+    ["1) 快點起來。", "1) Get up quickly.", "1) 早く起きて。", "1) 빨리 일어나."],
+    ["2) 快點走。", "2) Hurry up and go.", "2) 早く行って。", "2) 빨리 가."],
+    ["3) 快吃，這樣才能走。", "3) Eat up so we can go.", "3) 早く食べて。そうすれば行けるから。", "3) 빨리 먹어. 그래야 갈 수 있어."],
+    ["4) 快做，這樣才能完成。", "4) Get it done so it will be finished.", "4) 早くやって。そうすれば終わるから。", "4) 빨리 해. 그래야 끝나."]
+  ],
+  "grammar-4": [
+    ["表示對先前說的話或做的事感到不高興或不同意。", "Shows displeasure or disagreement with what was previously said or done.", "先ほど言ったことやしたことへの不満・反対を表します。", "앞서 말하거나 한 일에 대한 불쾌함이나 반대를 나타냅니다."],
+    ["1) A：泰國人真的非常懶。", "1) A: Thai people are very lazy.", "1) A：タイ人は本当にとても怠け者だ。", "1) A: 태국 사람들은 정말 게을러."],
+    ["B：瞧你這話說的，太沒禮貌了。", "B: Listen to what you are saying. That is very impolite.", "B：そんな言い方をして。とても失礼だよ。", "B: 말하는 것 좀 봐. 정말 무례하네."],
+    ["2)（孩子把點心吃得到處都是）媽媽：瞧你吃成這樣，全弄髒了，好好吃！", "2) (A child makes a mess eating.) Mother: Look at what you have done. It is filthy. Eat properly!", "2)（子どもがお菓子を散らかして食べる）母：こんな食べ方をして。全部汚れたでしょう。ちゃんと食べて！", "2) (아이가 간식을 흘리며 먹는다) 엄마: 먹는 것 좀 봐. 다 더러워졌잖아. 제대로 먹어!"]
+  ],
+  "grammar-5": [
+    ["表示成功做到某件事，通常和感知或思考有關。", "Shows successful completion, often involving perception or thought.", "何かをうまくできたことを表し、知覚や思考に関係することが多いです。", "어떤 일을 성공적으로 해냈음을 나타내며 주로 지각이나 사고와 관련됩니다."],
+    ["1) 你聽得懂電視裡的新聞嗎？", "1) Can you understand the news on television?", "1) テレビのニュースを聞き取れますか。", "1) 텔레비전 뉴스를 알아들을 수 있어요?"],
+    ["2) 泰語密集班的學生每個泰文字都讀得出來。", "2) Intensive Thai students can read every Thai word.", "2) タイ語集中講座の学生はタイ語の単語をすべて読めます。", "2) 태국어 집중반 학생들은 태국어 단어를 모두 읽을 수 있어요."]
+  ],
+  "grammar-6": [
+    ["用來表達和前一個意見不同的看法。", "Used to express a viewpoint different from the previous opinion.", "直前の意見とは異なる見方を表します。", "앞선 의견과 다른 관점을 나타낼 때 씁니다."],
+    ["1) A：今天天氣有點冷。", "1) A: The weather is a little cold today.", "1) A：今日は少し寒いね。", "1) A: 오늘 날씨가 좀 춥네."],
+    ["B：不會啊，明明很熱。", "B: No, it is actually hot.", "B：いや、むしろ暑いよ。", "B: 아닌데, 오히려 더워."],
+    ["2) A：這部電影無聊得要命。", "2) A: This movie is terribly boring.", "2) A：この映画は退屈でたまらない。", "2) A: 이 영화는 너무 지루해."],
+    ["B：是嗎？我覺得明明很有趣。", "B: Really? I think it is actually fun.", "B：そう？私はむしろ面白いと思う。", "B: 그래? 나는 오히려 재미있는데."]
+  ],
+  "grammar-7": [
+    ["意思是「有點、相當」，大多用來表示不同意。", "Means “rather” or “somewhat” and is mostly used to disagree.", "「やや・かなり」を意味し、主に反対意見を示すときに使います。", "‘조금, 꽤’라는 뜻으로 주로 동의하지 않을 때 씁니다."],
+    ["1) A：泰式點心味道怎麼樣？", "1) A: What do Thai desserts taste like?", "1) A：タイのお菓子はどんな味ですか。", "1) A: 태국 디저트 맛은 어때요?"],
+    ["B：味道有點太甜了。", "B: They taste a little too sweet.", "B：少し甘すぎると思います。", "B: 맛이 좀 너무 단 것 같아요."],
+    ["2) A：這件衣服怎麼樣？合身嗎？", "2) A: How is this shirt? Does it fit?", "2) A：この服はどうですか。ちょうどいいですか。", "2) A: 이 옷 어때요? 잘 맞아요?"],
+    ["B：我覺得有點太鬆了。", "B: I think it is a little too loose.", "B：少しゆるすぎると思います。", "B: 조금 헐렁한 것 같아요."]
+  ],
+  "exercise-1": [
+    ["判斷下列敘述正確或錯誤。", "Decide whether the following statements are true or false.", "次の文が正しいか間違っているか判断しなさい。", "다음 문장이 맞는지 틀리는지 판단하세요."],
+    ["1. 水燈節的傳統和河川有關。", "1. The Loy Krathong tradition is connected with rivers.", "1. ロイクラトンの伝統は川と関係があります。", "1. 러이끄라통 전통은 강과 관련이 있어요."],
+    ["2. 水燈節每年都在同一天舉行。", "2. Loy Krathong is held on the same date every year.", "2. ロイクラトンは毎年同じ日に行われます。", "2. 러이끄라통은 매년 같은 날 열려요."],
+    ["3.「水燈」只有一個意思，就是用香蕉葉做成的容器。", "3. Krathong has only one meaning: a container made from banana leaves.", "3. 「クラトン」はバナナの葉で作った容器という一つの意味しかありません。", "3. ‘끄라통’은 바나나 잎으로 만든 용기라는 한 가지 뜻만 있어요."],
+    ["4. 現在的水燈使用許多材料製作，例如蠟、冰、麵包和魚飼料。", "4. Today, krathongs are made from wax, ice, bread, fish food, and other materials.", "4. 現在は、ろう、氷、パン、魚の餌など、さまざまな材料でクラトンを作ります。", "4. 요즘 끄라통은 밀랍, 얼음, 빵, 물고기 먹이 등 여러 재료로 만들어요."],
+    ["5. 有些人相信和戀人一起放水燈會讓感情更深。", "5. Some believe floating a krathong with a partner makes their love stronger.", "5. 恋人と一緒にクラトンを流すと、愛が深まると信じる人もいます。", "5. 연인과 함께 끄라통을 띄우면 사랑이 깊어진다고 믿는 사람도 있어요."],
+    ["回答問題。", "Answer the questions.", "質問に答えなさい。", "질문에 답하세요."],
+    ["1. 為什麼規劃參加水燈節前應該先仔細確認日期？", "1. Why should you check carefully before planning a Loy Krathong trip?", "1. ロイクラトン旅行を計画する前に、なぜ日程をよく確認すべきですか。", "1. 러이끄라통 여행을 계획하기 전에 왜 날짜를 잘 확인해야 하나요?"],
+    ["2. 以前用什麼製作水燈的底座？為什麼？", "2. What was used for the base of a krathong in the past, and why?", "2. 昔は何をクラトンの土台に使いましたか。また、なぜですか。", "2. 예전에는 무엇으로 끄라통 받침을 만들었으며 그 이유는 무엇인가요?"],
+    ["3. 想讓厄運從生命中漂走的人，放水燈時通常會做什麼？", "3. What do people usually do if they want bad luck to float away from their lives?", "3. 不運を人生から流し去りたい人は、クラトンを流すときに何をしますか。", "3. 불운이 삶에서 떠내려가길 바라는 사람들은 끄라통을 띄울 때 보통 무엇을 하나요?"],
+    ["4. 泰國哪個地區流行把天燈放上天空？", "4. Which region of Thailand commonly releases lanterns into the sky?", "4. タイのどの地域で空へランタンを飛ばす習慣がありますか。", "4. 태국 어느 지역에서 풍등을 하늘로 띄우나요?"],
+    ["5. 為什麼許多人開始不認同水燈節的傳統？", "5. Why are many people beginning to disagree with the Loy Krathong tradition?", "5. なぜ多くの人がロイクラトンの伝統に反対し始めていますか。", "5. 왜 많은 사람이 러이끄라통 전통에 반대하기 시작했나요?"]
+  ],
+  "exercise-2": [
+    ["指示：在下列動詞前正確選填 การ 或 ความ。", "Choose การ or ความ correctly before the following words.", "次の語の前に การ または ความ を正しく入れなさい。", "다음 단어 앞에 การ 또는 ความ을 알맞게 넣으세요."],
+    ["1) __愛　2) __困難　3) __工作　4) __疲累　5) __難過", "1) __love 2) __difficulty 3) __work 4) __tiredness 5) __sadness", "1) __愛 2) __難しさ 3) __仕事 4) __疲れ 5) __悲しみ", "1) __사랑 2) __어려움 3) __일 4) __피로 5) __슬픔"],
+    ["6) __休息　7) __運動　8) __滿意　9) __跳舞　10) __懷疑", "6) __rest 7) __play sports 8) __satisfaction 9) __dance 10) __doubt", "6) __休息 7) __運動 8) __満足 9) __踊り 10) __疑い", "6) __휴식 7) __운동 8) __만족 9) __춤 10) __의심"],
+    ["指示：在下列句子的動詞前正確選填 การ 或 ความ。", "Choose การ or ความ correctly before the verbs in the following sentences.", "次の文の動詞の前に การ または ความ を正しく入れなさい。", "다음 문장의 동사 앞에 การ 또는 ความ을 알맞게 넣으세요."],
+    ["1) 所有泰國人都深愛國家、宗教與國王。立正向國旗致敬，是人人都能做到、最簡單的敬意表達。", "1) All Thai people deeply love the nation, religion, and king. Standing for the flag is the simplest expression of respect everyone can perform.", "1) タイ人は皆、国・宗教・国王を深く愛しています。国旗に敬意を表して立つことは、誰でもできる最も簡単な敬意の示し方です。", "1) 모든 태국인은 국가, 종교, 국왕을 깊이 사랑합니다. 국기에 경의를 표하며 서는 것은 누구나 할 수 있는 가장 간단한 존경의 표현입니다."],
+    ["2) 娛樂是從唱歌、看電影、運動或健身等活動中獲得滿足感。", "2) Entertainment is the feeling of satisfaction gained from activities such as singing, watching movies, sports, or exercise.", "2) 娯楽とは、歌う、映画を見る、スポーツや運動をするなどの活動から得られる満足感です。", "2) 오락은 노래, 영화 감상, 스포츠나 운동 같은 활동에서 얻는 만족감입니다."]
+  ],
+  "exercise-3": [
+    ["指示：用動詞後助詞 เข้า 和 ออก 填入下列空格。", "Fill the blanks with the post-verbal particles เข้า and ออก.", "動詞後の助詞 เข้า と ออก を空欄に入れなさい。", "동사 뒤 보조어 เข้า와 ออก을 빈칸에 넣으세요."],
+    ["1. 快點穿好衣服________，不然上學要遲到了。", "1. Hurry and get dressed ________, or you will be late for school.", "1. 早く着替え________。学校に遅れるよ。", "1. 빨리 옷 입어________. 학교에 늦겠어."],
+    ["2. 每次遇到外國人，我總是說不________。", "2. Whenever I meet a foreigner, I cannot get the words ________.", "2. 外国人に会うと、いつも言葉が________ません。", "2. 외국인을 만날 때마다 말이 ________지 않아요."],
+    ["3. A：日本料理很好吃。B：是嗎？我覺得明明很淡________。", "3. A: Japanese food is delicious. B: Really? I think it is actually bland ________.", "3. A：日本料理はおいしい。B：そう？むしろ味が薄い________と思う。", "3. A: 일본 음식은 맛있어. B: 그래? 나는 오히려 싱거운________."],
+    ["4. 快點吃________，電影要開始了。", "4. Eat up ________; the movie is about to start.", "4. 早く食べ________。映画が始まるよ。", "4. 빨리 먹어________. 영화가 곧 시작해."],
+    ["5. 曼谷有很多人識字，會讀________也會寫。", "5. Many people in Bangkok can read ________ and write.", "5. バンコクには読み________書きできる人が大勢います。", "5. 방콕에는 읽________ 쓸 줄 아는 사람이 많아요."],
+    ["請學生分享自己曾參加過的節慶或傳統活動經驗。", "Have students share experiences from festivals or traditions they have attended.", "参加したことのある祭りや伝統行事の経験を話しなさい。", "학생들이 참여해 본 축제나 전통 행사 경험을 이야기하게 하세요."]
+  ],
+  "exercise-4": [
+    ["請學生使用下列指定詞語或文法造句。", "Make sentences using the following words or grammar.", "次の語句や文法を使って文を作りなさい。", "다음 단어나 문법을 사용해 문장을 만드세요."],
+    ["1. ประเพณี（傳統）", "1. ประเพณี (tradition)", "1. ประเพณี（伝統）", "1. ประเพณี(전통)"],
+    ["2. ศาสนา（宗教）", "2. ศาสนา (religion)", "2. ศาสนา（宗教）", "2. ศาสนา(종교)"],
+    ["3. เกี่ยวข้องกับ（與……有關）", "3. เกี่ยวข้องกับ (be related to)", "3. เกี่ยวข้องกับ（～に関係する）", "3. เกี่ยวข้องกับ(~와 관련되다)"],
+    ["4. การ（動作名詞前綴）", "4. การ (action nominalizer)", "4. การ（動作名詞化）", "4. การ(동작 명사화)"],
+    ["5. ความ（狀態名詞前綴）", "5. ความ (state nominalizer)", "5. ความ（状態名詞化）", "5. ความ(상태 명사화)"]
+  ]
+}

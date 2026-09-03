@@ -13,6 +13,7 @@ ROOT = Path(__file__).resolve().parents[1]
 MAIN_CONTENT_PATH = ROOT / "level-4" / "lesson-content.json"
 SUPPORTING_CONTENT_PATH = ROOT / "level-4" / "supporting-content.json"
 EXERCISE_CONTENT_PATH = ROOT / "level-4" / "exercise-content.json"
+LINE_TRANSLATIONS_DIR = ROOT / "level-4" / "line-translations"
 PAGE_BY_LESSON = {
     1: "l1-2.html", 2: "l1-2.html", 3: "l3-4.html", 4: "l3-4.html",
     5: "l5-6.html", 6: "l5-6.html", 7: "l7-8.html", 8: "l7-8.html",
@@ -33,6 +34,7 @@ SECTION_HEADINGS = {
     "grammar": ("課本文法", "Textbook grammar"),
     "exercise": ("課本練習", "Textbook exercises"),
 }
+THAI_LETTER_RE = re.compile(r"[\u0E01-\u0E2E\u0E30-\u0E3A\u0E40-\u0E4E]")
 
 
 def escaped(value: str) -> str:
@@ -59,6 +61,40 @@ def render_translation(item: dict[str, str], language: str, extra: bool = False)
     )
 
 
+def render_sentence_row(
+    thai: str,
+    romanization: str,
+    translations: dict[str, str] | list[str],
+    heading: bool = False,
+) -> str:
+    if isinstance(translations, list):
+        translations = dict(zip(("zh-Hant", "en", "ja", "ko"), translations, strict=True))
+    classes = "sentence-row source-heading-row" if heading else "sentence-row"
+    item = {language: translations[language] for language in ("zh-Hant", "en", "ja", "ko")}
+    if THAI_LETTER_RE.search(thai):
+        source = [
+            "              <div data-thai-unit>",
+            f'                <div data-thai lang="th">{escaped(thai)}</div>',
+            f'                <div data-romanization lang="th-Latn">{escaped(romanization)}</div>',
+            "              </div>",
+        ]
+    else:
+        source = [
+            '              <div data-source-text-unit data-source-language="en">',
+            f'                <div data-source-text lang="en">{escaped(thai)}</div>',
+            "              </div>",
+        ]
+    return "\n".join([
+        f'            <div class="{classes}" data-content-unit>',
+        *source,
+        f'              {render_translation(item, "zh-Hant")}',
+        f'              {render_translation(item, "en", True)}',
+        f'              {render_translation(item, "ja", True)}',
+        f'              {render_translation(item, "ko", True)}',
+        "            </div>",
+    ])
+
+
 def render_main_unit(unit: dict[str, str], lesson: int, sequence: int) -> str:
     page = str(unit["page"])
     if page != main_page(lesson, sequence):
@@ -78,25 +114,38 @@ def render_main_unit(unit: dict[str, str], lesson: int, sequence: int) -> str:
     ])
 
 
-def render_supporting_unit(item: dict[str, str], lesson: int, category: str, sequence: int) -> str:
+def render_supporting_unit(
+    item: dict[str, str], lesson: int, category: str, sequence: int, line_translations: dict
+) -> str:
     page = str(item["page"])
-    thai_content = escaped(item["thai"])
-    romanization_content = escaped(item["romanization"])
     if item.get("thaiBody"):
-        thai_content = (
-            f'<span class="thai-source-heading">{escaped(item["thai"])}</span>'
-            f'<span class="thai-source-body">{escaped(item["thaiBody"])}</span>'
+        key = f"{category}-{sequence}"
+        translations = line_translations.get(key)
+        thai_lines = item["thaiBody"].splitlines()
+        romanization_lines = item["romanizationBody"].splitlines()
+        if translations is None or len(translations) != len(thai_lines):
+            raise ValueError(f"L{lesson} {key}: line translations do not match Thai body")
+        if len(romanization_lines) != len(thai_lines):
+            raise ValueError(f"L{lesson} {key}: romanization lines do not match Thai body")
+        rows = [render_sentence_row(item["thai"], item["romanization"], item, True)]
+        rows.extend(
+            render_sentence_row(thai, romanization, translated)
+            for thai, romanization, translated in zip(
+                thai_lines, romanization_lines, translations, strict=True
+            )
         )
-        romanization_content = (
-            f'<span class="romanization-source-heading">{escaped(item["romanization"])}</span>'
-            f'<span class="romanization-source-body">{escaped(item["romanizationBody"])}</span>'
-        )
+        return "\n".join([
+            f'          <article data-source-unit data-source-category="{category}" data-source-lesson="{lesson}" data-source-sequence="{sequence}" data-source-page="{escaped(page)}">',
+            f"            {page_badge(page)}",
+            *rows,
+            "          </article>",
+        ])
     return "\n".join([
         f'          <article data-content-unit data-source-unit data-source-category="{category}" data-source-lesson="{lesson}" data-source-sequence="{sequence}" data-source-page="{escaped(page)}">',
         f"            {page_badge(page)}",
         "            <div data-thai-unit>",
-        f'              <div data-thai lang="th">{thai_content}</div>',
-        f'              <div data-romanization lang="th-Latn">{romanization_content}</div>',
+        f'              <div data-thai lang="th">{escaped(item["thai"])}</div>',
+        f'              <div data-romanization lang="th-Latn">{escaped(item["romanization"])}</div>',
         "            </div>",
         f'            {render_translation(item, "zh-Hant")}',
         f'            {render_translation(item, "en", True)}',
@@ -113,6 +162,7 @@ def render_section(
     units: list[dict],
     sequence_start: int,
     kind: str = "",
+    line_translations: dict | None = None,
 ) -> str:
     if category == "main":
         zh_heading = "完整對話" if kind == "dialogue" else "完整閱讀"
@@ -124,7 +174,7 @@ def render_section(
     else:
         zh_heading, en_heading = SECTION_HEADINGS[category]
         rendered = "\n".join(
-            render_supporting_unit(unit, lesson, category, sequence)
+            render_supporting_unit(unit, lesson, category, sequence, line_translations or {})
             for sequence, unit in enumerate(units, start=sequence_start)
         )
     return "\n".join([
@@ -138,7 +188,7 @@ def render_section(
     ])
 
 
-def render_lesson(main: dict, support: dict, exercise: dict) -> str:
+def render_lesson(main: dict, support: dict, exercise: dict, line_translations: dict) -> str:
     lesson = main["lesson"]
     categories = {
         "main": main["units"],
@@ -161,6 +211,7 @@ def render_lesson(main: dict, support: dict, exercise: dict) -> str:
                 categories[category][start - 1:end],
                 start,
                 main["kind"],
+                line_translations,
             )
         )
     for category, units in categories.items():
@@ -174,6 +225,10 @@ def main() -> None:
     main_data = json.loads(MAIN_CONTENT_PATH.read_text(encoding="utf-8"))
     support_data = json.loads(SUPPORTING_CONTENT_PATH.read_text(encoding="utf-8"))
     exercise_data = json.loads(EXERCISE_CONTENT_PATH.read_text(encoding="utf-8"))
+    translations_by_lesson = {
+        lesson: json.loads((LINE_TRANSLATIONS_DIR / f"lesson-{lesson}.json").read_text(encoding="utf-8"))
+        for lesson in range(1, 9)
+    }
     support_by_lesson = {item["lesson"]: item for item in support_data["lessons"]}
     exercise_by_lesson = {item["lesson"]: item for item in exercise_data["lessons"]}
     page_lessons: dict[str, list[dict]] = {}
@@ -193,6 +248,7 @@ def main() -> None:
                 lesson_data,
                 support_by_lesson[lesson],
                 exercise_by_lesson[lesson],
+                translations_by_lesson[lesson],
             ) + "\n"
             page, replacements = pattern.subn(replacement, page, count=1)
             if replacements != 1:

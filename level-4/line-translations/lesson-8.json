@@ -1,0 +1,108 @@
+{
+  "lesson": 8,
+  "grammar-1": [
+    ["用來強調後面的名詞，表示特別、尤其。", "Emphasizes the following noun, meaning “especially.”", "後ろの名詞を強調し、「特に」という意味を表します。", "뒤의 명사를 강조하며 ‘특히’라는 뜻입니다."],
+    ["1) 他喜歡所有泰國菜，尤其是冬蔭功。", "1) He likes all Thai food, especially tom yum goong.", "1) 彼はタイ料理がすべて好きで、特にトムヤムクンが好きです。", "1) 그는 모든 태국 음식을 좋아하고 특히 똠얌꿍을 좋아해요."],
+    ["2) 泰國天氣炎熱，尤其是四月。", "2) Thailand is hot, especially in April.", "2) タイは暑く、特に4月は暑いです。", "2) 태국은 날씨가 덥고 특히 4월이 더워요."]
+  ],
+  "grammar-2": [
+    ["用來逐一談論每個人或每樣物品，通常和量詞搭配。", "Refers to people or things individually, usually with a classifier.", "人や物を一人ずつ・一つずつ述べるときに使い、通常は類別詞を伴います。", "사람이나 사물을 하나씩 따로 말할 때 쓰며 보통 분류사와 함께 씁니다."],
+    ["1) 這家店每一個包包的價格都不同。", "1) Each bag in this shop has a different price.", "1) この店ではバッグ一つ一つの値段が異なります。", "1) 이 가게의 가방은 각각 가격이 달라요."],
+    ["2) 每個孩子都有不同的個性。", "2) Each child has a different personality.", "2) 子ども一人一人の性格は異なります。", "2) 아이마다 성격이 달라요."]
+  ],
+  "grammar-3": [
+    ["把人逐一分開來說，表示每個人都做同一個動作，但不是一起做。", "Separates people individually: everyone performs the same action, but not together.", "人を一人ずつ分けて述べ、全員が同じ動作をするものの、一緒には行わないことを表します。", "사람을 각각 나누어 말하며 모두 같은 행동을 하지만 함께 하지는 않음을 나타냅니다."],
+    ["1) 每位拳擊手分別用拳打和腳踢攻擊自己的對手。", "1) Each boxer separately attacks their opponent by punching and kicking.", "1) ボクサーはそれぞれパンチとキックで相手を攻撃します。", "1) 권투 선수들은 각자 주먹과 발로 상대를 공격해요."],
+    ["2) 所有學生各自做自己的作業。", "2) Every student does their own homework separately.", "2) 学生は皆、それぞれ自分の宿題をします。", "2) 모든 학생이 각자 자기 숙제를 해요."]
+  ],
+  "grammar-4": [
+    ["ต่าง ๆ 放在名詞後面，表示多種彼此不同的東西。", "ต่าง ๆ follows a noun and means various different kinds.", "ต่าง ๆ は名詞の後ろに置き、互いに異なるさまざまなものを表します。", "ต่าง ๆ는 명사 뒤에 놓여 서로 다른 여러 종류를 나타냅니다."],
+    ["1) 我們應該食用各種有益健康的蔬菜和水果。", "1) We should eat various vegetables and fruits that are good for the body.", "1) 体に良いさまざまな野菜や果物を食べるべきです。", "1) 몸에 좋은 여러 가지 채소와 과일을 먹어야 해요."],
+    ["2) 這座森林裡棲息著各種動物。", "2) Various animals live in this forest.", "2) この森にはさまざまな動物が暮らしています。", "2) 이 숲에는 여러 동물이 살고 있어요."]
+  ],
+  "grammar-5": [
+    ["ถูก 或 โดน 放在承受動作的主詞後面，通常帶有負面意義。", "ถูก or โดน follows the subject receiving an action and usually has a negative meaning.", "ถูก または โดน は動作を受ける主語の後ろに置かれ、通常は否定的な意味を伴います。", "ถูก 또는 โดน은 행동을 당하는 주어 뒤에 오며 대체로 부정적인 뜻을 가집니다."],
+    ["1) 孩子被媽媽打／媽媽打孩子。", "1) The child was hit by Mother / Mother hit the child.", "1) 子どもは母にたたかれた／母は子どもをたたいた。", "1) 아이가 엄마에게 맞았다 / 엄마가 아이를 때렸다."],
+    ["2) 小偷被警察逮捕／警察逮捕小偷。", "2) The thief was arrested by police / Police arrested the thief.", "2) 泥棒は警察に逮捕された／警察は泥棒を逮捕した。", "2) 도둑이 경찰에게 잡혔다 / 경찰이 도둑을 잡았다."],
+    ["3) 他的朋友被車撞／車撞了他的朋友。", "3) His friend was hit by a car / A car hit his friend.", "3) 彼の友人は車にはねられた／車が彼の友人をはねた。", "3) 그의 친구가 차에 치였다 / 차가 그의 친구를 쳤다."],
+    ["4) 青少年被狗咬／狗咬了青少年。", "4) The teenager was bitten by a dog / A dog bit the teenager.", "4) 若者は犬にかまれた／犬が若者をかんだ。", "4) 청소년이 개에게 물렸다 / 개가 청소년을 물었다."],
+    ["ได้รับ 是帶有正面意義的被動語態標記。", "ได้รับ is a positive passive marker.", "ได้รับ は肯定的な意味を持つ受動態の標識です。", "ได้รับ은 긍정적인 의미의 피동 표현입니다."],
+    ["5) 他受邀參加宴會。", "5) He was invited to a party.", "5) 彼はパーティーに招待されました。", "5) 그는 파티에 초대받았어요."],
+    ["6) Somchai 先生獲選為主管。", "6) Mr. Somchai was selected as the leader.", "6) ソムチャイさんは責任者に選ばれました。", "6) 쏨차이 씨가 책임자로 선출됐어요."]
+  ],
+  "exercise-1": [
+    ["1. ________ 童年是需要父母疼愛的階段。", "1. ________ Childhood is a stage that needs parental love.", "1. ________ 幼年期は両親の愛を必要とする時期です。", "1. ________ 아동기는 부모의 사랑이 필요한 시기예요."],
+    ["2. ________ 青少年期是身體完全成長的階段。", "2. ________ Adolescence is the stage when the body fully develops.", "2. ________ 青年期は体が十分に成長する時期です。", "2. ________ 청소년기는 신체가 완전히 성장하는 시기예요."],
+    ["3. ________ 孩子是否有良好個性，取決於環境和教養方式。", "3. ________ A child's good character depends on environment and upbringing.", "3. ________ 子どもの性格がよくなるかは、環境と育て方によります。", "3. ________ 아이의 좋은 성격은 환경과 양육 방식에 달려 있어요."],
+    ["4. ________ 一般而言，成年人有很高的責任感。", "4. ________ In general, adults have a strong sense of responsibility.", "4. ________ 一般的に、大人は責任感が強いです。", "4. ________ 일반적으로 성인은 책임감이 높아요."],
+    ["5. ________ 老年人常因白髮和皺皮而感到煩躁與憂鬱。", "5. ________ Older people often feel irritable and depressed because of gray hair and wrinkled skin.", "5. ________ 高齢者は白髪やしわのため、いら立ちや憂うつを感じることがあります。", "5. ________ 노인은 흰머리와 주름진 피부 때문에 짜증이나 우울함을 느끼곤 해요."]
+  ],
+  "exercise-2": [
+    ["1. 如果孩子受到正確方式的教養，會成為怎樣的人？", "1. What will a child be like if raised properly?", "1. 子どもが正しく育てられたら、どのような人になりますか。", "1. 아이가 올바른 방식으로 양육되면 어떻게 될까요?"],
+    ["2. 根據文章，父母為什麼應密切照顧青少年子女？", "2. According to the reading, why should parents closely care for adolescent children?", "2. 本文によると、なぜ親は思春期の子どもを注意深く見守るべきですか。", "2. 본문에 따르면 부모는 왜 청소년 자녀를 세심히 돌봐야 하나요?"],
+    ["3. 身體完全成長的是哪個人生階段？", "3. During which life stage does the body fully develop?", "3. 体が十分に成長するのはどの時期ですか。", "3. 신체가 완전히 성장하는 시기는 언제인가요?"],
+    ["4. 老年期必須面對哪些變化？請舉例。", "4. What changes must people face in old age? Give examples.", "4. 老年期にはどのような変化に直面しますか。例を挙げなさい。", "4. 노년기에 어떤 변화들을 겪게 되나요? 예를 들어 보세요."],
+    ["5. 子孫為什麼應該給予老年人愛與關心？", "5. Why should children and grandchildren give older people love and attention?", "5. なぜ子や孫は高齢者に愛情と気遣いを与えるべきですか。", "5. 자녀와 손주는 왜 노인에게 사랑과 관심을 드려야 하나요?"]
+  ],
+  "exercise-3": [
+    ["指示：將詞語排列成正確句子。", "Arrange the words into correct sentences.", "語を正しい文に並べ替えなさい。", "단어를 올바른 문장으로 배열하세요."],
+    ["例：（果汁／老師／尤其／喝／喜歡／每天／柳橙汁）", "Example: (fruit juice/teacher/especially/drink/like/every day/orange juice)", "例：（果汁／先生／特に／飲む／好き／毎日／オレンジジュース）", "예: (과일 주스/선생님/특히/마시다/좋아하다/매일/오렌지 주스)"],
+    ["答案：老師每天都喜歡喝果汁，尤其是柳橙汁。", "Answer: The teacher likes drinking fruit juice every day, especially orange juice.", "答え：先生は毎日果汁を飲むのが好きで、特にオレンジジュースが好きです。", "정답: 선생님은 매일 과일 주스를 마시는 것을 좋아하고 특히 오렌지 주스를 좋아해요."],
+    ["1)（種類／運動／喜歡／哥哥／網球／所有／玩／尤其）", "1) (type/sport/like/older brother/tennis/every/play/especially)", "1)（種類／スポーツ／好き／兄／テニス／すべて／する／特に）", "1) (종류/운동/좋아하다/형·오빠/테니스/모든/하다/특히)"],
+    ["2)（許多／癌症／危險／關係詞／有／現在／疾病／尤其）", "2) (many/cancer/dangerous/that/exist/now/disease/especially)", "2)（多く／がん／危険／関係詞／ある／現在／病気／特に）", "2) (여러/암/위험하다/관계사/있다/요즘/질병/특히)"],
+    ["3)（所有／流行／尤其／年齡層／泰國人／iPhone／使用／青少年）", "3) (every/popular/especially/age group/Thai people/iPhone/use/teenagers)", "3)（すべて／人気／特に／年代／タイ人／iPhone／使う／若者）", "3) (모든/유행하다/특히/연령대/태국인/iPhone/사용하다/청소년)"]
+  ],
+  "exercise-4": [
+    ["指示：使用下列資料和「แต่ละ」造句。", "Use the following information to make sentences containing แต่ละ.", "次の情報を使い、「แต่ละ」を含む文を作りなさい。", "다음 정보를 사용해 ‘แต่ละ’가 들어간 문장을 만드세요."],
+    ["例，資料：桌上的水果味道不同。", "Example information: The fruit on the table tastes different.", "例、情報：テーブルの果物は味が異なる。", "예시 정보: 탁자 위의 과일은 맛이 다르다."],
+    ["答案：桌上每一種水果的味道都不同。", "Answer: Each type of fruit on the table tastes different.", "答え：テーブルの果物は種類ごとに味が異なります。", "정답: 탁자 위의 과일은 종류마다 맛이 달라요."],
+    ["1) 資料：貓咖啡店裡的貓正在和客人玩。", "1) Information: The cats in the cat café are playing with customers.", "1) 情報：猫カフェの猫が客と遊んでいる。", "1) 정보: 고양이 카페의 고양이들이 손님과 놀고 있다."],
+    ["2) 資料：餐廳有特別菜單。", "2) Information: The restaurant has a special menu.", "2) 情報：レストランには特別メニューがある。", "2) 정보: 식당에 특별 메뉴가 있다."],
+    ["3) 資料：警察試圖逮捕小偷。", "3) Information: The police are trying to catch thieves.", "3) 情報：警察が泥棒を捕まえようとしている。", "3) 정보: 경찰이 도둑을 잡으려고 한다."],
+    ["4) 資料：泰國國家足球隊員的身高不同。", "4) Information: Thailand's national football players have different heights.", "4) 情報：タイ代表サッカー選手は身長が異なる。", "4) 정보: 태국 국가대표 축구 선수들의 키가 다르다."]
+  ],
+  "exercise-5": [
+    ["指示：把下列句子翻成泰語。", "Translate the following sentences into Thai.", "次の文をタイ語に訳しなさい。", "다음 문장을 태국어로 번역하세요."],
+    ["1) 學生各自在家讀書。（不是一起讀。）", "1) Students read books at home, not together.", "1) 学生はそれぞれ家で本を読みます。（一緒ではありません。）", "1) 학생들은 각자 집에서 책을 읽어요. (함께가 아님.)"],
+    ["2) 孩子們各自運動。（不是一起運動。）", "2) Children play sports, not together.", "2) 子どもたちはそれぞれスポーツをします。（一緒ではありません。）", "2) 아이들은 각자 운동해요. (함께가 아님.)"],
+    ["3) 孩子們各自吃水果。（不是一起吃。）", "3) Children eat fruit, not together.", "3) 子どもたちはそれぞれ果物を食べます。（一緒ではありません。）", "3) 아이들은 각자 과일을 먹어요. (함께가 아님.)"],
+    ["4) 清潔人員各自做家事。（不是一起做。）", "4) Housekeepers do housework, not together.", "4) 家政婦たちはそれぞれ家事をします。（一緒ではありません。）", "4) 가사 도우미들은 각자 집안일을 해요. (함께가 아님.)"],
+    ["5) 老師們各自看電視。（不是一起看。）", "5) Teachers watch television, not together.", "5) 先生たちはそれぞれテレビを見ます。（一緒ではありません。）", "5) 선생님들은 각자 텔레비전을 봐요. (함께가 아님.)"]
+  ],
+  "exercise-6": [
+    ["指示：使用指定資料和「ต่าง ๆ」完成句子。", "Use the given information and ต่าง ๆ to make complete sentences.", "指定された情報と「ต่าง ๆ」を使って文を完成させなさい。", "주어진 정보와 ‘ต่าง ๆ’를 사용해 완전한 문장을 만드세요."],
+    ["例，資料：女商販／炸／昆蟲（蚱蜢和蟲）／買／帶走。", "Example information: vendor/fry/insects (grasshoppers and worms)/buy/take away", "例、情報：女性の売り手／揚げる／昆虫（バッタと虫）／買う／持って行く", "예시 정보: 여상인/튀기다/곤충(메뚜기와 애벌레)/사다/가져가다"],
+    ["答案：女商販買了各種昆蟲回去炸。", "Answer: The vendor bought various insects to fry.", "答え：女性の売り手は揚げるためにさまざまな昆虫を買いました。", "정답: 여상인은 튀길 여러 곤충을 샀어요."],
+    ["1) 顧客／電器（電視、收音機和冰箱）／購買。", "1) customer/electrical appliances (television, radio, refrigerator)/buy", "1) 客／家電（テレビ、ラジオ、冷蔵庫）／買う", "1) 고객/가전제품(텔레비전, 라디오, 냉장고)/사다"],
+    ["2) 外國人／在泰國／府（普吉、清邁和大城）／旅行。", "2) foreigners/in Thailand/provinces (Phuket, Chiang Mai, Ayutthaya)/travel", "2) 外国人／タイ国内／県（プーケット、チェンマイ、アユタヤ）／旅行する", "2) 외국인/태국에서/지역(푸껫, 치앙마이, 아유타야)/여행하다"],
+    ["3) 青少年／空閒時間／運動（足球、網球、桌球）／玩。", "3) teenagers/free time/sports (football, tennis, table tennis)/play", "3) 若者／自由時間／スポーツ（サッカー、テニス、卓球）／する", "3) 청소년/여가 시간/운동(축구, 테니스, 탁구)/하다"]
+  ],
+  "exercise-7": [
+    ["把下列句子改成正確的被動句。", "Change the following sentences into correct passive sentences.", "次の文を正しい受動文に直しなさい。", "다음 문장을 올바른 피동문으로 바꾸세요."],
+    ["例：姊姊打朋友一巴掌。", "Example: The older sister slapped her friend.", "例：姉が友人を平手打ちした。", "예: 언니가 친구의 뺨을 때렸다."],
+    ["答案：朋友被姊姊打了一巴掌。", "Answer: The friend was slapped by the older sister.", "答え：友人は姉に平手打ちされた。", "정답: 친구가 언니에게 뺨을 맞았다."],
+    ["1) 商販欺騙旅客。", "1) The vendor cheated the tourist.", "1) 商人が旅行者をだました。", "1) 상인이 여행객을 속였다."],
+    ["2) 叔叔欺騙阿姨。", "2) The uncle deceived the aunt.", "2) おじが叔母をだました。", "2) 아저씨가 아주머니를 속였다."],
+    ["3) 拳擊手踢司機。", "3) The boxer kicked the driver.", "3) ボクサーが運転手を蹴った。", "3) 권투 선수가 운전기사를 찼다."],
+    ["4) 老師受邀到外府的大學演講。", "4) The teacher was invited to lecture at a university in another province.", "4) 先生は地方の大学で講演するよう招かれました。", "4) 선생님은 지방 대학교에서 강연하도록 초대받았어요."],
+    ["5) 她獲選為泰國小姐。", "5) She was selected as Miss Thailand.", "5) 彼女はミス・タイランドに選ばれました。", "5) 그녀는 미스 타일랜드로 선발됐어요."],
+    ["使用括號中的詞填入句子。（แต่ละ／ต่าง／ต่าง ๆ／ถูก／โดน／ได้รับ）", "Fill the sentences with the words in parentheses: แต่ละ, ต่าง, ต่าง ๆ, ถูก, โดน, or ได้รับ.", "括弧内の語（แต่ละ／ต่าง／ต่าง ๆ／ถูก／โดน／ได้รับ）を文に入れなさい。", "괄호 안의 단어(แต่ละ/ต่าง/ต่าง ๆ/ถูก/โดน/ได้รับ)를 문장에 넣으세요."],
+    ["1) 因為圖書館關門，學生們________各自在家讀書。", "1) The library is closed, so the students ________ read at their own homes.", "1) 図書館が閉まっているので、学生は________それぞれ自宅で本を読みます。", "1) 도서관이 닫아서 학생들은 ________ 각자 집에서 책을 읽어요."],
+    ["2) 妹妹在屋後________蛇咬了。", "2) The younger sister was ________ bitten by a snake behind the house.", "2) 妹は家の裏で蛇に________かまれました。", "2) 여동생은 집 뒤에서 뱀에게 ________ 물렸어요."],
+    ["3) Kinokuniya 有________各種有趣的書，我們應該買來看。", "3) Kinokuniya has ________ interesting books; we should buy some to read.", "3) 紀伊國屋には面白い本が________あります。買って読むべきです。", "3) 기노쿠니야에는 흥미로운 책이 ________ 있어요. 사서 읽어야 해요."],
+    ["4) 國慶父親節時，________每一戶都會在屋前掛國旗。", "4) On Father's Day, ________ house displays a national flag in front.", "4) 父の日には、________家が家の前に国旗を掲げます。", "4) 아버지의 날에는 ________ 집마다 앞에 국기를 달아요."],
+    ["5) 去市集買衣服的顧客________被商販欺騙。", "5) Customers buying clothes at the market were ________ cheated by sellers.", "5) 市場で服を買った客は売り手に________だまされました。", "5) 시장에서 옷을 산 고객이 상인에게 ________ 속았어요."],
+    ["6) 我的包包________每一個都不低於一萬泰銖。", "6) ________ one of my bags costs at least 10,000 baht.", "6) 私のバッグは________一つが1万バーツ以上します。", "6) 내 가방은 ________ 하나가 만 바트 이상이에요."],
+    ["7) 那位醫生________受邀在婚禮上致詞。", "7) That doctor was ________ invited to speak at a wedding.", "7) その医師は結婚式で話すよう________招待されました。", "7) 그 의사는 결혼식에서 말하도록 ________ 초대받았어요."]
+  ],
+  "exercise-8": [
+    ["你認為愛情是什麼顏色？為什麼？例如紅色，因為紅色是身體裡血液的顏色；血液由心臟送出並讓我們活著，愛也同樣讓我們活下去。", "What color do you think love is, and why? For example, red because it is the color of blood; blood comes from the heart and keeps us alive, and love also keeps us alive.", "愛は何色だと思いますか。なぜですか。例えば赤です。赤は体内の血の色で、血は心臓から送られて私たちを生かします。愛も私たちを生かしてくれるからです。", "사랑은 무슨 색이라고 생각하며 그 이유는 무엇인가요? 예를 들면 빨간색입니다. 빨간색은 몸속 피의 색이고, 피는 심장에서 나와 우리를 살게 합니다. 사랑도 우리를 살아가게 하기 때문입니다."],
+    ["造句。", "Make sentences.", "文を作りなさい。", "문장을 만드세요."],
+    ["1. โดยเฉพาะ（尤其）", "1. โดยเฉพาะ (especially)", "1. โดยเฉพาะ（特に）", "1. โดยเฉพาะ(특히)"],
+    ["2. แต่ละ（每一個）", "2. แต่ละ (each)", "2. แต่ละ（それぞれ）", "2. แต่ละ(각각)"],
+    ["3. ต่าง ๆ（各種）", "3. ต่าง ๆ (various)", "3. ต่าง ๆ（さまざまな）", "3. ต่าง ๆ(여러 가지)"],
+    ["4. โดยทั่วไป（一般而言）", "4. โดยทั่วไป (in general)", "4. โดยทั่วไป（一般的に）", "4. โดยทั่วไป(일반적으로)"],
+    ["5. ถูก（被……）", "5. ถูก (passive marker)", "5. ถูก（～される）", "5. ถูก(피동 표지)"],
+    ["6. เอาใจใส่（關心、照顧）", "6. เอาใจใส่ (care for; pay attention)", "6. เอาใจใส่（気遣う）", "6. เอาใจใส่(관심을 기울이다)"]
+  ]
+}

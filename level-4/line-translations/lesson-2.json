@@ -1,0 +1,89 @@
+{
+  "lesson": 2,
+  "grammar-1": [
+    ["使用動詞「เป็น」描述健康問題。", "Use the verb เป็น to describe health problems.", "動詞「เป็น」を使って健康上の問題を表します。", "동사 ‘เป็น’을 사용해 건강 문제를 설명합니다."],
+    ["病人：醫生，我得了什麼病？", "Patient: What is wrong with me, doctor?", "患者：先生、私は何の病気ですか。", "환자: 선생님, 제가 무슨 병인가요?"],
+    ["醫生：你得了流行性感冒。", "Doctor: You have influenza.", "医師：インフルエンザです。", "의사: 독감에 걸리셨어요."],
+    ["疾病例子：心臟病／癌症／糖尿病／胃病／流行性感冒／過敏症／水泡。", "Examples: heart disease, cancer, diabetes, stomach disease, influenza, allergies, and blisters.", "病気の例：心臓病、がん、糖尿病、胃病、インフルエンザ、アレルギー、水ぶくれ。", "질병 예: 심장병, 암, 당뇨병, 위장병, 독감, 알레르기, 물집."]
+  ],
+  "grammar-2": [
+    ["有些疾病症狀可以直接當作動詞使用。", "Some symptoms can be used directly as verbs.", "一部の症状はそのまま動詞として使えます。", "일부 증상은 바로 동사처럼 사용할 수 있습니다."],
+    ["醫生：病人有哪些症狀？", "Doctor: What symptoms does the patient have?", "医師：どのような症状がありますか。", "의사: 어떤 증상이 있나요?"],
+    ["病人：我會噁心，也有一點頭暈眼花。", "Patient: I feel nauseous and a little faint.", "患者：吐き気がして、少し目まいもします。", "환자: 메스껍고 조금 어지러워요."],
+    ["症狀例子：腹瀉／食物中毒／發燒／噁心／暈眩／眼前發黑／流鼻水／打嗝。", "Examples: diarrhea, food poisoning, fever, nausea, dizziness, faintness, a runny nose, and hiccups.", "症状の例：下痢、食中毒、発熱、吐き気、めまい、立ちくらみ、鼻水、しゃっくり。", "증상 예: 설사, 식중독, 발열, 메스꺼움, 어지럼증, 현기증, 콧물, 딸꾹질."]
+  ],
+  "grammar-3": [
+    ["身體某個部位骨折、腫脹或瘀青時，使用「身體部位＋หัก／บวม／ช้ำ」的結構。", "For a broken, swollen, or bruised body part, use body part + หัก/บวม/ช้ำ.", "体の一部が骨折・腫れ・あざになった場合は「体の部位＋หัก／บวม／ช้ำ」の形を使います。", "신체 부위가 부러지거나 붓거나 멍들었을 때는 ‘신체 부위 + หัก/บวม/ช้ำ’ 구조를 씁니다."],
+    ["醫生：今天哪裡不舒服？", "Doctor: What brings you in today?", "医師：今日はどうされましたか。", "의사: 오늘 어디가 불편해서 오셨나요?"],
+    ["病人：我的腿腫了。", "Patient: My leg is swollen.", "患者：脚が腫れています。", "환자: 다리가 부었어요."]
+  ],
+  "grammar-4": [
+    ["在身體部位前使用「เจ็บ」或「ปวด」；เจ็บ 通常描述突然的疼痛，ปวด 通常描述持續較久的疼痛。", "Use เจ็บ or ปวด before a body part. เจ็บ often describes sudden pain, while ปวด usually describes pain lasting longer.", "体の部位の前に「เจ็บ」または「ปวด」を使います。เจ็บ は急な痛み、ปวด は比較的長く続く痛みを表すことが多いです。", "신체 부위 앞에 ‘เจ็บ’ 또는 ‘ปวด’를 씁니다. เจ็บ은 갑작스러운 통증, ปวด는 더 오래 지속되는 통증을 주로 나타냅니다."],
+    ["醫生：感覺怎麼樣？", "Doctor: How are you feeling?", "医師：具合はいかがですか。", "의사: 상태가 어떠세요?"],
+    ["病人：我的左腿痛。", "Patient: My left leg hurts.", "患者：左脚が痛いです。", "환자: 왼쪽 다리가 아파요."],
+    ["1) 我的頭受傷了／頭部有急性疼痛。", "1) My head hurts from an acute pain or injury.", "1) 頭に急な痛みがあります。", "1) 머리가 갑자기 아프거나 다쳤어요."],
+    ["2) 我頭痛。", "2) I have a headache.", "2) 頭痛がします。", "2) 머리가 아파요."]
+  ],
+  "grammar-5": [
+    ["某人＋給＋某物＋某人。", "Someone + give + something + someone.", "人＋与える＋物＋相手。", "사람 + 주다 + 물건 + 받는 사람."],
+    ["1) 媽媽每週給我 200 泰銖。", "1) Mother gives me 200 baht per week.", "1) 母は毎週私に200バーツくれます。", "1) 어머니는 매주 저에게 200바트를 주세요."],
+    ["2) 大家在新年互送禮物。", "2) Everyone gives one another gifts on New Year's Day.", "2) みんな新年にプレゼントを贈り合います。", "2) 모두 새해에 서로 선물을 줍니다."]
+  ],
+  "grammar-6": [
+    ["第一種表示接受者：某人＋做某事＋ให้＋某人。", "The first pattern marks the recipient: someone + do something + ให้ + someone.", "一つ目は受け手を表します：人＋何かをする＋ให้＋相手。", "첫 번째는 수혜자를 나타냅니다: 사람 + 어떤 일을 하다 + ให้ + 받는 사람."],
+    ["爸爸在結婚紀念日買禮物給媽媽。", "Father bought Mother a gift for their wedding anniversary.", "父は結婚記念日に母へプレゼントを買いました。", "아버지는 결혼기념일에 어머니께 선물을 사 드렸어요."],
+    ["他寄了一封電子郵件給朋友。", "He sent an email to his friend.", "彼は友人にメールを送りました。", "그는 친구에게 이메일을 보냈어요."],
+    ["第二種表示第一個動詞的目的：某人＋V1＋ให้＋某人＋V2。", "The second pattern shows the purpose of the first verb: someone + V1 + ให้ + someone + V2.", "二つ目は最初の動詞の目的を表します：人＋V1＋ให้＋相手＋V2。", "두 번째는 첫 번째 동사의 목적을 나타냅니다: 사람 + V1 + ให้ + 상대 + V2."],
+    ["老師讀單字給學生聽。", "The teacher reads the vocabulary aloud for the students to hear.", "先生は学生に聞かせるために単語を読みます。", "선생님이 학생들에게 들려주려고 단어를 읽어요."],
+    ["媽媽做飯給孩子們吃。", "Mother cooks food for the children to eat.", "母は子どもたちが食べる料理を作ります。", "어머니는 아이들이 먹을 음식을 만들어요."]
+  ],
+  "grammar-7": [
+    ["ให้ 後接形容詞或狀態動詞時，表示目標或期望的結果。", "When ให้ is followed by an adjective or stative verb, it expresses a goal or expected result.", "ให้ の後に形容詞や状態動詞が続くと、目標や期待する結果を表します。", "ให้ 뒤에 형용사나 상태 동사가 오면 목표나 기대 결과를 나타냅니다."],
+    ["1) 把作業做完。", "1) Finish the homework.", "1) 宿題を終わらせなさい。", "1) 숙제를 끝내세요."],
+    ["2) 好好享用這頓飯。", "2) Enjoy your meal.", "2) おいしく食べてください。", "2) 맛있게 드세요."],
+    ["3) 寫得漂亮一點。", "3) Write neatly.", "3) きれいに書いてください。", "3) 예쁘게 쓰세요."]
+  ],
+  "grammar-8": [
+    ["ให้ 和 ขอ 一起出現時，用來表達祝願。", "When ให้ appears with ขอ, it expresses a wish.", "ให้ が ขอ と一緒に使われると、願いを表します。", "ให้가 ขอ와 함께 쓰이면 바람이나 축원을 나타냅니다."],
+    ["1) 祝你好運。", "1) I wish you good luck.", "1) 幸運を祈ります。", "1) 행운을 빌어요."],
+    ["2) 祝你成功。", "2) I wish you success.", "2) 成功を祈ります。", "2) 성공하기를 바라요."]
+  ],
+  "grammar-9": [
+    ["某人＋讓／叫＋某人＋做某事。", "Someone + have/let + somebody + do something.", "人＋相手に＋何かをさせる。", "사람 + 상대에게 + 어떤 일을 하게 하다."],
+    ["1) 老師讓學生寫有關文化的文章。", "1) The teacher has the students write about culture.", "1) 先生は学生に文化について書かせます。", "1) 선생님은 학생들에게 문화에 관해 쓰게 해요."],
+    ["2) 他叫我去替他買藥。", "2) He had me buy medicine for him.", "2) 彼は私に自分の薬を買いに行かせました。", "2) 그는 나에게 자기를 위해 약을 사 오라고 했어요."],
+    ["3) 讓我幫忙吧。", "3) Let me help.", "3) 私に手伝わせてください。", "3) 제가 도와드릴게요."]
+  ],
+  "exercise-1": [
+    ["1. ________ 艾克得了流行性感冒。", "1. ________ Ek has influenza.", "1. ________ エークはインフルエンザです。", "1. ________ 엑은 독감에 걸렸어요."],
+    ["2. ________ 普洛伊和艾克一樣不舒服，所以和艾克一起來醫院。", "2. ________ Ploy is ill like Ek, so she came to the hospital with him.", "2. ________ プロイもエークと同じように具合が悪いため、一緒に病院へ来ました。", "2. ________ 플로이도 엑처럼 아파서 엑과 함께 병원에 왔어요."],
+    ["3. ________ 醫生替旅客打針，因為旅客的傷口疼痛。", "3. ________ The doctor gave the tourist an injection because the wound hurt.", "3. ________ 旅行者が傷口を痛がっていたので、医師が注射をしました。", "3. ________ 여행객의 상처가 아파서 의사가 주사를 놓았어요."],
+    ["4. ________ 艾克必須住院。", "4. ________ Ek must stay in the hospital.", "4. ________ エークは入院しなければなりません。", "4. ________ 엑은 입원해야 해요."],
+    ["5. ________ 艾克必須把藥帶回家吃。", "5. ________ Ek must take the medicine home and take it there.", "5. ________ エークは薬を家に持ち帰って飲まなければなりません。", "5. ________ 엑은 약을 집에 가져가서 먹어야 해요."]
+  ],
+  "exercise-2": [
+    ["1. 艾克去哪裡看醫生？", "1. Where did Ek go to see a doctor?", "1. エークはどこへ診察を受けに行きましたか。", "1. 엑은 어디로 진료를 받으러 갔나요?"],
+    ["2. 那位旅客發生了什麼事？", "2. What happened to the tourist?", "2. 旅行者に何が起きましたか。", "2. 여행객에게 무슨 일이 생겼나요?"],
+    ["3. 艾克看醫生前必須做哪些事？", "3. What must Ek do before seeing the doctor?", "3. エークは診察を受ける前に何をしなければなりませんか。", "3. 엑은 의사를 만나기 전에 무엇을 해야 하나요?"],
+    ["4. 醫生建議艾克如何照顧自己？", "4. How does the doctor advise Ek to take care of himself?", "4. 医師はエークにどのように自己管理するよう勧めましたか。", "4. 의사는 엑에게 어떻게 몸을 돌보라고 조언했나요?"]
+  ],
+  "exercise-3": [
+    ["指示：將指定詞語排列成語意正確的句子。", "Instructions: Arrange the given words into meaningful sentences.", "指示：指定された語を意味の通る文に並べ替えなさい。", "지시: 주어진 단어를 올바른 의미의 문장으로 배열하세요."],
+    ["例：（部下／寄／給／電子郵件／主管）答案：主管寄電子郵件給部下。", "Example: (subordinate/send/to/email/boss) Answer: The boss sends an email to the subordinate.", "例：（部下／送る／に／メール／上司）答え：上司は部下にメールを送ります。", "예: (부하/보내다/에게/이메일/상사) 정답: 상사가 부하에게 이메일을 보냅니다."],
+    ["1.（做蛋糕／外婆／孫子／給／吃）", "1. (make cake/grandmother/grandchild/ให้/eat)", "1.（ケーキを作る／祖母／孫／ให้／食べる）", "1. (케이크를 만들다/외할머니/손주/ให้/먹다)"],
+    ["2.（貓／不讓／主人／雞／吃）", "2. (cat/not let/owner/chicken/eat)", "2.（猫／させない／飼い主／鶏／食べる）", "2. (고양이/못 하게 하다/주인/닭/먹다)"],
+    ["3.（主管／清潔人員／打掃／讓／辦公室）", "3. (boss/cleaner/clean/have/office)", "3.（上司／清掃員／掃除する／させる／オフィス）", "3. (상사/청소 직원/청소하다/시키다/사무실)"],
+    ["4.（奶奶／孫子／讓／剪頭髮）", "4. (grandmother/grandchild/have/get a haircut)", "4.（祖母／孫／させる／髪を切る）", "4. (할머니/손주/시키다/머리를 자르다)"],
+    ["5.（努姆／禮物／普洛伊／給）", "5. (Noom/gift/Ploy/give)", "5.（ヌム／プレゼント／プロイ／与える）", "5. (눔/선물/플로이/주다)"]
+  ],
+  "exercise-4": [
+    ["請學生分成每組 2–3 人，一起構想理想中的醫院應具備哪些特色與服務。", "Have students form groups of two or three and discuss the features and services their dream hospital should have.", "学生を2～3人のグループに分け、理想の病院に必要な特徴やサービスを一緒に考えさせなさい。", "학생들을 2~3명씩 모둠으로 나누고 꿈의 병원에 어떤 특징과 서비스가 있어야 하는지 함께 생각하게 하세요."],
+    ["請學生使用下列指定詞語或文法造句。", "Have students make sentences using the following assigned words or grammar.", "次の指定された語句や文法を使って文を作りなさい。", "학생들이 다음에 제시된 단어나 문법을 사용해 문장을 만들게 하세요."],
+    ["1. ฉีดยา（打針）", "1. ฉีดยา (give an injection)", "1. ฉีดยา（注射する）", "1. ฉีดยา(주사를 놓다)"],
+    ["2. ส่วน（至於、部分）", "2. ส่วน (as for; part)", "2. ส่วน（～については、部分）", "2. ส่วน(~은/는, 부분)"],
+    ["3. คอย（等待、持續留意）", "3. คอย (wait; keep watching)", "3. คอย（待つ、見守る）", "3. คอย(기다리다, 지켜보다)"],
+    ["4. อาการ（症狀）", "4. อาการ (symptom)", "4. อาการ（症状）", "4. อาการ(증상)"],
+    ["5. งด（停止、避免）", "5. งด (refrain from)", "5. งด（控える、中止する）", "5. งด(삼가다, 중단하다)"],
+    ["6. ขอให้（祝願）", "6. ขอให้ (wish that)", "6. ขอให้（～でありますように）", "6. ขอให้(~하기를 바라다)"]
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "lesson": 6,
+  "grammar-1": [
+    ["ขี้ 和 ช่าง 加上動詞或形容詞，用來表示個性或經常做的事。以 ขี้ 開頭通常偏負面，ช่าง 則較偏正面。", "ขี้ and ช่าง plus a verb or adjective describe a trait or habitual behavior. ขี้ is usually negative, while ช่าง is relatively positive.", "ขี้／ช่าง＋動詞・形容詞で、性格や習慣を表します。ขี้ は否定的、ช่าง は比較的肯定的な傾向があります。", "ขี้/ช่าง + 동사·형용사는 성격이나 습관을 나타냅니다. ขี้는 대체로 부정적이고 ช่าง은 비교적 긍정적입니다."],
+    ["怕熱／怕冷／健忘／害羞。", "sensitive to heat / sensitive to cold / forgetful / shy", "暑がり／寒がり／忘れっぽい／恥ずかしがり", "더위를 타다 / 추위를 타다 / 잘 잊다 / 부끄러움을 타다"],
+    ["愛思考／擅長寫作／愛發問／愛說話。", "thoughtful / fond of writing / inquisitive / talkative", "よく考える／文章好き／質問好き／話好き", "생각이 많다 / 글쓰기를 좋아하다 / 질문이 많다 / 말이 많다"]
+  ],
+  "grammar-2": [
+    ["แต่ 意思是 but，口語與書面語都能使用。", "แต่ means “but” and is used in both speech and writing.", "แต่ は「しかし」を意味し、話し言葉と書き言葉の両方で使えます。", "แต่는 ‘하지만’이라는 뜻으로 구어와 문어 모두에서 씁니다."],
+    ["1) 泰國菜很好吃，但是很辣。", "1) Thai food is delicious but spicy.", "1) タイ料理はおいしいですが辛いです。", "1) 태국 음식은 맛있지만 매워요."],
+    ["2) 弟弟喜歡吃榴槤，但姊姊不喜歡。", "2) The younger brother likes durian, but the older sister does not.", "2) 弟はドリアンが好きですが、姉は好きではありません。", "2) 남동생은 두리안을 좋아하지만 누나는 좋아하지 않아요."],
+    ["อย่างไรก็ตาม 意思是 however，用於書面語。", "อย่างไรก็ตาม means “however” and is used in writing.", "อย่างไรก็ตาม は「しかしながら」を意味し、書き言葉で使います。", "อย่างไรก็ตาม은 ‘그러나’라는 뜻으로 문어에서 씁니다."],
+    ["3) 獅子座的人心胸寬大、慷慨助人；然而，他們也很固執。", "3) Leos are broad-minded and generous; however, they are also stubborn.", "3) 獅子座の人は心が広く寛大です。しかし、頑固でもあります。", "3) 사자자리 사람은 마음이 넓고 관대하지만, 한편으로 고집이 세요."],
+    ["4) 泰國南部有很多旅遊景點；然而，若管理不當，遊客可能不想前來。", "4) Southern Thailand has many attractions; however, poor management may discourage tourists from visiting.", "4) タイ南部には観光地が多くあります。しかし、管理が悪ければ観光客が来たがらない可能性があります。", "4) 태국 남부에는 관광지가 많지만 관리가 잘못되면 관광객이 오고 싶어 하지 않을 수 있어요."],
+    ["比較：泰國觀光業改善很多，但人民收入沒有增加／雖然觀光業改善很多，然而人民收入仍未增加。", "Compare: Thai tourism has improved greatly, but people's incomes have not increased / Although tourism has improved greatly, people's incomes have nevertheless not increased.", "比較：タイの観光業は大きく改善したが国民の所得は増えていない／観光業は大きく改善したものの、国民の所得は依然増えていない。", "비교: 태국 관광업은 크게 좋아졌지만 국민 소득은 늘지 않았다 / 관광업이 크게 좋아졌음에도 국민 소득은 여전히 늘지 않았다."]
+  ],
+  "grammar-3": [
+    ["談到兩方的人或事物時，用來引出另一方，不表示對立。", "Introduces the other of two people or things without indicating contrast.", "二つの人や物について述べる際、対立ではなくもう一方を示します。", "두 사람이나 사물을 말할 때 대립 없이 다른 한쪽을 소개합니다."],
+    ["1) 夏季時，北部炎熱但不太潮濕；南部則又熱又潮濕。", "1) In summer, the north is hot and not very humid, while the south is hot and humid.", "1) 夏は北部が暑くあまり湿気がない一方、南部は暑く湿気があります。", "1) 여름에 북부는 덥지만 덜 습하고, 남부는 덥고 습해요."],
+    ["2) 他的父親是美國人，母親則是日本人。", "2) His father is American, while his mother is Japanese.", "2) 彼の父はアメリカ人で、母は日本人です。", "2) 그의 아버지는 미국인이고 어머니는 일본인이에요."]
+  ],
+  "grammar-4": [
+    ["放在時間詞前，表示持續到該時間。", "Before a time expression, it means continuing until that time.", "時間表現の前では、その時点まで続くことを表します。", "시간 표현 앞에서는 그때까지 계속됨을 뜻합니다."],
+    ["1) 因為工作沒完成，我們在辦公室工作到很晚。", "1) We worked at the office until late because the work was unfinished.", "1) 仕事が終わらなかったので、私たちは夜遅くまでオフィスで働きました。", "1) 일이 끝나지 않아서 우리는 사무실에서 늦게까지 일했어요."],
+    ["2) 他迷上韓劇，從晚上十一點看到早上，完全沒睡。", "2) He was hooked on a Korean series and watched from 11 p.m. until morning without sleeping.", "2) 彼は韓国ドラマにはまり、夜11時から朝まで見続け、一睡もしませんでした。", "2) 그는 한국 드라마에 빠져 밤 11시부터 아침까지 보느라 전혀 자지 않았어요."],
+    ["放在動詞前，表示「非常……以至於……」。", "Before a verb, it means “so much that…”.", "動詞の前では「～するほど…」を表します。", "동사 앞에서는 ‘너무 ~해서 …할 정도’라는 뜻입니다."],
+    ["3) 他每天淋雨，結果生病了。", "3) He was caught in the rain every day until he became ill.", "3) 彼は毎日雨にぬれて、とうとう病気になりました。", "3) 그는 매일 비를 맞다가 결국 아팠어요."],
+    ["4) 我們大聲喊到喉嚨痛，但站在遠處的朋友仍沒聽見。", "4) We shouted until our throats hurt, but our distant friend still did not hear.", "4) 喉が痛くなるほど大声で叫びましたが、遠くの友人には聞こえませんでした。", "4) 목이 아플 정도로 크게 외쳤지만 멀리 있던 친구는 듣지 못했어요."]
+  ],
+  "grammar-5": [
+    ["เพราะ 意思是 because，後面可以接句子或單詞。", "เพราะ means “because” and may be followed by a clause or a word.", "เพราะ は「なぜなら」を意味し、文または単語が続きます。", "เพราะ는 ‘왜냐하면’이라는 뜻으로 뒤에 문장이나 단어가 올 수 있습니다."],
+    ["1) 芳決定今天不來參加活動，因為艾克說他會來。", "1) Fon decided not to attend today because Ek said he would come.", "1) エークが来ると言ったので、フォンは今日の行事に来ないことにしました。", "1) 엑이 온다고 해서 폰은 오늘 행사에 오지 않기로 했어요."],
+    ["2) 芳決定今天不來參加活動，因為艾克。", "2) Fon decided not to attend today because of Ek.", "2) フォンはエークのため、今日の行事に来ないことにしました。", "2) 폰은 엑 때문에 오늘 행사에 오지 않기로 했어요."],
+    ["口語中，若後面接句子可使用 เพราะว่า，但後面不能只接單詞。", "In speech, เพราะว่า can precede a clause but not a single word.", "話し言葉では、後ろに文が続く場合は เพราะว่า を使えますが、単語だけを続けることはできません。", "구어에서는 뒤에 문장이 올 때 เพราะว่า를 쓸 수 있지만 단어 하나만 뒤따를 수는 없습니다."],
+    ["3) 芳決定今天不來參加活動，因為艾克說他會來。", "3) Fon decided not to attend today because Ek said he would come.", "3) エークが来ると言ったので、フォンは今日の行事に来ないことにしました。", "3) 엑이 온다고 해서 폰은 오늘 행사에 오지 않기로 했어요."],
+    ["4)「芳決定今天不來參加活動，因為艾克」這種搭配不成立。", "4) *Fon decided not to attend today because-of Ek. (เพราะว่า cannot take only a noun.)", "4) 「フォンはエークのため今日来ない」のように เพราะว่า の直後に名詞だけを置くことはできません。", "4) เพราะว่า 뒤에 명사만 두어 ‘폰은 엑 때문에 오늘 오지 않는다’라고 할 수 없습니다."]
+  ],
+  "grammar-6": [
+    ["用法和 เพราะ 相同，但主要用於書面語。", "Used like เพราะ, but mainly in writing.", "เพราะ と同じ用法ですが、主に書き言葉で使います。", "เพราะ와 같은 뜻이지만 주로 문어에서 씁니다."],
+    ["1) 天秤座的人很有魅力，因為天秤座的人非常有禮貌。", "1) Libras are charming because they are very polite.", "1) 天秤座の人はとても礼儀正しいため、魅力があります。", "1) 천칭자리 사람은 매우 예의 바르기 때문에 매력적이에요."],
+    ["2) 我們無法進入大樓，因為我們不在這裡工作。", "2) We cannot enter the building because we do not work here.", "2) 私たちはここで働いていないため、建物に入れません。", "2) 우리는 여기서 일하지 않기 때문에 건물에 들어갈 수 없어요."]
+  ],
+  "exercise-1": [
+    ["判斷下列敘述正確或錯誤。", "Decide whether the following statements are true or false.", "次の文が正しいか間違っているか判断しなさい。", "다음 문장이 맞는지 틀리는지 판단하세요."],
+    ["1. 雙子座的人內心充滿矛盾。", "1. Geminis have conflicting traits within themselves.", "1. 双子座の人は内面に矛盾を抱えています。", "1. 쌍둥이자리 사람은 내면에 모순이 있어요."],
+    ["2. 水瓶座有很多值得信賴的知心朋友。", "2. Aquarians have many close friends they can trust.", "2. 水瓶座の人には信頼できる親友が大勢います。", "2. 물병자리 사람은 믿을 수 있는 친한 친구가 아주 많아요."],
+    ["3. 處女座的人愛說閒話。", "3. Virgos are gossipy.", "3. 乙女座の人はうわさ話が好きです。", "3. 처녀자리 사람은 남의 이야기를 잘해요."],
+    ["4. 雙魚座喜歡面對所有真相。", "4. Pisces like confronting every truth.", "4. 魚座の人はあらゆる現実に向き合うのが好きです。", "4. 물고기자리 사람은 모든 현실을 마주하는 것을 좋아해요."],
+    ["5. 牡羊座不太聽別人的意見。", "5. Aries rarely listen to other people's opinions.", "5. 牡羊座の人は他人の意見をあまり聞きません。", "5. 양자리 사람은 다른 사람의 의견을 잘 듣지 않아요."],
+    ["回答問題。", "Answer the questions.", "質問に答えなさい。", "질문에 답하세요."],
+    ["1. 摩羯座的優點是什麼？", "1. What are the strengths of Capricorns?", "1. 山羊座の人の長所は何ですか。", "1. 염소자리 사람의 장점은 무엇인가요?"],
+    ["2. 雙魚座的缺點是什麼？", "2. What are the weaknesses of Pisces?", "2. 魚座の人の短所は何ですか。", "2. 물고기자리 사람의 단점은 무엇인가요?"],
+    ["3. 哪個星座的人個性隨和？", "3. Which zodiac sign is easygoing?", "3. どの星座の人がおおらかですか。", "3. 어느 별자리 사람이 느긋한가요?"],
+    ["4. 哪個星座最有魅力？為什麼？", "4. Which zodiac sign is the most charming, and why?", "4. どの星座が最も魅力的ですか。なぜですか。", "4. 어느 별자리가 가장 매력적이며 그 이유는 무엇인가요?"],
+    ["5. 哪個星座的人最敏感？", "5. Which zodiac sign is the most sensitive?", "5. どの星座の人が最も繊細ですか。", "5. 어느 별자리 사람이 가장 예민한가요?"]
+  ],
+  "exercise-2": [
+    ["指示：使用「ส่วน」、「อย่างไรก็ตาม」、「จน」或「เนื่องจาก」正確連接下列句子。", "Join the following sentences correctly using ส่วน, อย่างไรก็ตาม, จน, or เนื่องจาก.", "ส่วน、อย่างไรก็ตาม、จน、เนื่องจาก を使って次の文を正しくつなぎなさい。", "ส่วน, อย่างไรก็ตาม, จน 또는 เนื่องจาก를 사용해 다음 문장을 올바르게 연결하세요."],
+    ["1. 他的伴侶喜歡喝酒，________他完全不喜歡喝。", "1. His partner likes drinking, ________ he does not like it at all.", "1. 彼の恋人は酒が好きで、________彼は全く好きではありません。", "1. 그의 연인은 술을 좋아하고 ________ 그는 전혀 좋아하지 않아요."],
+    ["2. 芳日以繼夜地工作，________沒有時間休息。", "2. Fon worked day and night ________ she had no time to rest.", "2. フォンは昼夜を問わず働き、________休む時間がありませんでした。", "2. 폰은 밤낮없이 일해서 ________ 쉴 시간이 없었어요."],
+    ["3. 學生無法作答，________不明白問題。", "3. The student could not answer ________ they did not understand the question.", "3. 学生は質問を理解できなかった________、答えられませんでした。", "3. 학생은 질문을 이해하지 못해서 ________ 답을 쓸 수 없었어요."],
+    ["4. 曼谷有空鐵和地鐵，________曼谷人幾乎每天仍遇到塞車問題。", "4. Bangkok has both skytrains and subways; ________ residents still face traffic almost daily.", "4. バンコクには高架鉄道も地下鉄もあります。________市民はほぼ毎日渋滞に悩まされています。", "4. 방콕에는 전철과 지하철이 있지만 ________ 시민들은 거의 매일 교통 체증을 겪어요."],
+    ["5. 學生有很多作業，有些日子必須做到________沒辦法睡覺。", "5. Students have so much homework that some days they work ________ they cannot sleep.", "5. 学生は宿題が多く、日によっては________眠れないほど宿題をします。", "5. 학생들은 숙제가 많아서 어떤 날은 ________ 잠도 못 잘 만큼 해야 해요."],
+    ["如果要在公司組建工作團隊，你想要與不想要哪些個性的人？各舉三項並說明理由。", "If you formed a company team, what personalities would and would not you want? Give three examples of each with reasons.", "会社でチームを作るなら、どのような性格の人を入れたいですか、また入れたくないですか。それぞれ三つ挙げて理由を説明しなさい。", "회사에서 팀을 만든다면 어떤 성격의 사람을 원하고 원하지 않나요? 각각 세 가지 예와 이유를 드세요."]
+  ],
+  "exercise-3": [
+    ["1. 缺點", "1. disadvantage", "1. 短所", "1. 단점"],
+    ["2. 樂觀地看待世界", "2. be optimistic", "2. 楽観的に考える", "2. 세상을 긍정적으로 보다"],
+    ["3. 親近的朋友", "3. close friend", "3. 親友", "3. 친한 친구"],
+    ["4. 情緒", "4. emotion", "4. 感情", "4. 감정"],
+    ["5. 有禮貌", "5. polite", "5. 礼儀正しい", "5. 예의 바르다"]
+  ]
+}

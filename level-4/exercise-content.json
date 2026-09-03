@@ -1,0 +1,768 @@
+{
+  "schemaVersion": 1,
+  "scope": "level-4-lessons-1-8-textbook-exercises",
+  "lessons": [
+    {
+      "lesson": 1,
+      "layout": [
+        [
+          "main",
+          1,
+          13
+        ],
+        [
+          "vocabulary",
+          1,
+          19
+        ],
+        [
+          "notes",
+          1,
+          6
+        ],
+        [
+          "exercise",
+          1,
+          2
+        ],
+        [
+          "grammar",
+          1,
+          1
+        ],
+        [
+          "exercise",
+          3,
+          3
+        ],
+        [
+          "grammar",
+          2,
+          2
+        ],
+        [
+          "exercise",
+          4,
+          4
+        ],
+        [
+          "grammar",
+          3,
+          7
+        ],
+        [
+          "exercise",
+          5,
+          6
+        ]
+      ],
+      "exercises": [
+        {
+          "page": "11",
+          "thai": "แบบฝึกหัดถูก-ผิด: ข้อความต่อไปนี้ถูกหรือผิด",
+          "thaiBody": "1. ____________ โรคเดิมของเอกคือกรดไหลย้อน\n2. ____________ ช่วงนี้เอกทำงานหนักบ่อย ๆ\n3. ____________ เอกไม่เคยไปหาหมอ\n4. ____________ พลอยแนะนำเอกว่า ควรกินมื้อดึก\n5. ____________ อาการของเอกดีขึ้น",
+          "zh-Hant": "判斷五個敘述正誤：艾克的舊病、近期工作量、是否看過醫生、普洛伊對宵夜的建議，以及症狀是否改善。",
+          "en": "Mark five statements true or false about Ek's old illness, recent workload, doctor visit, Ploy's late-night-meal advice, and whether his symptoms improved.",
+          "ja": "エークの持病、最近の仕事量、受診の有無、夜食へのプロイの助言、症状の改善について、五つの文の正誤を判断します。",
+          "ko": "엑의 지병, 최근 업무량, 병원 방문, 야식에 대한 플로이의 조언, 증상 호전 여부에 관한 다섯 문장의 참·거짓을 판단합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt tùuk-pìt: kɔ̂ɔ-kwaam dtɔ̀ɔ-bpai-níi tùuk rʉ̌ʉ pìt",
+          "romanizationBody": "1. ____________ rôok dəəm kɔ̌ɔng èek kʉʉ gròt lǎi yɔ́ɔn\n2. ____________ chûuang-níi èek tam-ngaan-nàk bɔ̀ɔi-bɔ̀ɔi\n3. ____________ èek mâi kəəi bpai-hǎa mɔ̌ɔ\n4. ____________ plɔɔi nɛ́-nam ee gwàa kuuan gin mʉ́ʉ dʉ̀k\n5. ____________ aa-gaan kɔ̌ɔng èek dii-kʉ̂n"
+        },
+        {
+          "page": "12",
+          "thai": "แบบฝึกหัดตอบคำถาม",
+          "thaiBody": "1. เอกคิดว่าอะไรทำให้เขานอนไม่หลับ\n2. ทำไมพลอยอยากให้เอกไปหาหมอ\n3. ทำไมพลอยถามเอกว่ากินมื้อดึกด้วยหรือเปล่า\n4. นักเรียนคิดว่าเรากินมื้อดึกได้หรือไม่ได้ เพราะเหตุใด",
+          "zh-Hant": "回答四題：失眠原因、普洛伊為何要艾克看醫生、為何詢問宵夜，以及你對吃宵夜的看法與理由。",
+          "en": "Answer four questions about the cause of Ek's insomnia, why Ploy wants him to see a doctor, why she asks about late-night meals, and your own view with reasons.",
+          "ja": "不眠の原因、プロイが受診を勧める理由、夜食を尋ねた理由、夜食についての自分の意見と理由の四問に答えます。",
+          "ko": "불면의 원인, 플로이가 진료를 권한 이유, 야식을 물은 이유, 야식에 대한 자신의 의견과 근거 등 네 질문에 답합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt dtɔ̀ɔp-kam-tǎam",
+          "romanizationBody": "1. èek kít wâa à-rai tam-hâi kǎo nɔɔn-mâi-làp\n2. tam-mai plɔɔi yàak hâi èek bpai-hǎa mɔ̌ɔ\n3. tam-mai plɔɔi tǎam ee gwàa gin mʉ́ʉ dʉ̀k dûuai rʉ̌ʉ-bplàao\n4. nák-riian kít wâa rao gin mʉ́ʉ dʉ̀k dâai rʉ̌ʉ-mâi dâai prɔ́ɔ-hèet-dai"
+        },
+        {
+          "page": "15",
+          "thai": "แบบฝึกหัด: ส่วนเติมเต็มบอกผล",
+          "thaiBody": "ตัวอย่าง: พลอย____________ (นอน/หลับ) เพราะเอกกรนทั้งคืน\nตอบ พลอยนอนไม่หลับ เพราะเอกกรนทั้งคืน\n1. ผู้ชายพยายามเปิดประตู แต่_____________ (เปิด/ออก)\n2. เขา_________________แล้ว ก็นอน (กิน/อิ่ม)\n3. แพร__________________ตั้งแต่ 4 ขวบ (อ่าน/ออก)\n4. เขา__________________ว่าจะกินอาหารอะไรดี ระหว่างอาหารจีนกับอาหารไทย (คิด/ออก)\n5. แม่___________แก้ว____________ (ทำตก/แตก)\n6. นักท่องเที่ยว_________________กรุงเทพฯ ตั้งแต่เมื่อวาน (มา/ถึง)",
+          "zh-Hant": "依提示完成六句結果補語，練習「打不開、吃飽、會讀、想不出、摔破杯子、抵達曼谷」等結果。",
+          "en": "Complete six resultant-complement sentences expressing cannot open, eat until full, be able to read, cannot figure out, drop-and-break a glass, and arrive in Bangkok.",
+          "ja": "「開けられない・満腹になる・読める・思いつかない・コップを落として割る・バンコクに着く」を表す結果補語で六文を完成します。",
+          "ko": "열지 못함, 배부르게 먹음, 읽을 수 있음, 생각해 내지 못함, 잔을 떨어뜨려 깨뜨림, 방콕 도착을 나타내는 결과 보어로 여섯 문장을 완성합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt: sùuan dtəəm-dtem bɔ̀ɔk pǒn",
+          "romanizationBody": "dtuua-yàang: plɔɔi____________ (nɔɔn/làp) prɔ́ɔ èek gron táng-kʉʉn\ndtɔ̀ɔp plɔɔi nɔɔn-mâi-làp prɔ́ɔ èek gron táng-kʉʉn\n1. pûu-chaai pá-yaa-yaam bpə̀ət bprà-dtuu dtɛ̀ɛ_____________ (bpə̀ət/ɔ̀ɔk)\n2. kǎo_________________lɛ́ɛo gɔ̂ɔ nɔɔn (gin/ìm)\n3. prɛɛ__________________dtâng-dtɛ̀ɛ 4 kùuap (àan/ɔ̀ɔk)\n4. kǎo__________________wâa jà gin aa-hǎan à-rai dii rá-wàang aa-hǎan-jiin gàp aa-hǎan tai (kít/ɔ̀ɔk)\n5. mɛ̂ɛ___________gɛ̂ɛo____________ (tam dtòk/dtɛ̀ɛk)\n6. nák-tɔ̂ɔng-tîiao_________________grung-têep dtâng-dtɛ̀ɛ mʉ̂ʉa-waan (maa/tʉ̌ng)"
+        },
+        {
+          "page": "16",
+          "thai": "แบบฝึกหัด: เผื่อ",
+          "thaiBody": "1. ไปก่อนสักครึ่งชั่วโมงนะ เผื่อ__________________________\n2. พรุ่งนี้เอาคอมพิวเตอร์มาด้วยนะ เผื่อ___________________\n3. อย่าลืมโทรกลับหาเขานะ เผื่อ_________________________",
+          "zh-Hant": "用 phʉ̀a「以防／預備」完成三句：提早半小時、明天帶電腦、別忘了回電。",
+          "en": "Complete three sentences with phʉ̀a “in case”: leave half an hour early, bring a computer tomorrow, and remember to call back.",
+          "ja": "phʉ̀a「念のため」を使い、30分早く行く、明日パソコンを持つ、電話をかけ直す、の三文を完成します。",
+          "ko": "phʉ̀a ‘혹시 몰라’를 사용해 30분 일찍 가기, 내일 컴퓨터 가져오기, 전화 다시 하기의 세 문장을 완성합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt: pʉ̀ʉa",
+          "romanizationBody": "1. bpai gɔ̀ɔn sàk krʉ̂ng chûua-moong ná pʉ̀ʉa__________________________\n2. prûng-níi ao kɔɔm-piu-dtəə maa dûuai ná pʉ̀ʉa___________________\n3. yàa lʉʉm too glàp hǎa kǎo ná pʉ̀ʉa_________________________"
+        },
+        {
+          "page": "18",
+          "thai": "แบบฝึกหัด: ประเภทของคำซ้ำ",
+          "thaiBody": "คำสั่ง: จงบอกว่าคำซ้ำในประโยคต่อไปนี้เป็นคำซ้ำประเภทใด\n1. พหูพจน์ 2. เน้นหนัก 3. ไม่แน่ใจหรือไม่เจาะจง 4. แยกเป็นส่วน ๆ\n1) __________ ไปหาหนังสนุก ๆ ดูกันดีไหม\n2) __________ พ่อแม่จะพาเราไปเจอญาติ ๆ ในวันปีใหม่\n3) __________ เด็กเสิร์ฟตักข้าวเป็นจาน ๆ ให้แขก\n4) __________ เชียงใหม่เป็นเมืองที่น่ายู้ น่าอยู่\n5) __________ เธอแบ่งคนเป็นกลุ่ม ๆ สิ!",
+          "zh-Hant": "判斷五句重疊詞屬於複數、加強、不確定／不特定，或分成一份份。",
+          "en": "Classify the duplicated words in five sentences as plural, intensive, uncertain/indefinite, or divided into separate portions.",
+          "ja": "五つの文の反復語を、複数・強調・不確定／不特定・部分ごとの分離に分類します。",
+          "ko": "다섯 문장의 중첩어를 복수, 강조, 불확실·불특정, 부분별 분리로 분류합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt: bprà-pêet kɔ̌ɔng kam sám",
+          "romanizationBody": "kam-sàng: jong bɔɔ gwàa kam sám nai bprà-yòok dtɔ̀ɔ-bpai-níi bpen kam sám bprà-pêet dai\n1. pá-hù-pót 2. néen-nàk 3. mâi nɛ̂ɛ-jai rʉ̌ʉ-mâi jɔ̀ɔ-jong 4. yɛ̂ɛk bpen sùuan sùuan\n1) __________ bpai-hǎa nǎng sà-nùk sà-nùk duu gan dii mǎi\n2) __________ pɔ̂ɔ-mɛ̂ɛ jà paa rao bpai jəə yâat yâat nai wan bpii-mài\n3) __________ dèk-səəp dtàk kâao bpen jaan jaan hâi kɛ̀ɛk\n4) __________ chiiang-mài bpen mʉʉang tîi nâa yúu nâa-yùu\n5) __________ təə bɛ̀ng kon bpen glùm glùm sì!"
+        },
+        {
+          "page": "19",
+          "thai": "แบบฝึกหัดการพูดและแต่งประโยค",
+          "thaiBody": "ให้นักเรียนพูดคุยแลกเปลี่ยนแสดงความคิดเห็นเกี่ยวกับความสำคัญของการนอนหลับหรือปัญหาในการนอนหลับ\nให้นักเรียนแต่งประโยคโดยใช้คำหรือไวยากรณ์ที่กำหนดให้ต่อไปนี้\n1. เผื่อ (in case)\n2. เมื่อก่อน\n3. หลับ\n4. แทบ\n5. เดี๋ยว\n6. เครียด",
+          "zh-Hant": "口說：討論睡眠的重要性或睡眠問題。造句：使用 phʉ̀a、mʉ̂a-gɔ̀ɔn、làp、thɛ̂ɛp、dǐiao、khrîat。",
+          "en": "Speaking: discuss the importance of sleep or sleep problems. Sentence practice: use phʉ̀a, mʉ̂a-gɔ̀ɔn, làp, thɛ̂ɛp, dǐiao, and khrîat.",
+          "ja": "会話：睡眠の重要性や睡眠問題を話し合います。作文：phʉ̀a、mʉ̂a-gɔ̀ɔn、làp、thɛ̂ɛp、dǐiao、khrîat を使います。",
+          "ko": "말하기: 수면의 중요성이나 수면 문제를 토론합니다. 문장 만들기: phʉ̀a, mʉ̂a-gɔ̀ɔn, làp, thɛ̂ɛp, dǐiao, khrîat을 사용합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt gaan pûut lɛ́ dtɛ̀ng bprà-yòok",
+          "romanizationBody": "hâi nák-riian pûut-kui lɛ̂ɛk-bplìian sà-dɛɛng-kwaam-kít-hěn gìiao-gàp kwaam-sǎm-kan kɔ̌ɔng gaan nɔɔn-làp rʉ̌ʉ bpan-hǎa nai gaan nɔɔn-làp\nhâi nák-riian dtɛ̀ng bprà-yòok dooi cháai kam rʉ̌ʉ wai-yaa-gɔɔn tîi gam-nòt-hâi dtɔ̀ɔ-bpai-níi\n1. pʉ̀ʉa (in case)\n2. mʉ̂a-gɔ̀ɔn\n3. làp\n4. tɛ̂ɛp\n5. dǐiao\n6. krîiat"
+        }
+      ]
+    },
+    {
+      "lesson": 2,
+      "layout": [
+        [
+          "main",
+          1,
+          20
+        ],
+        [
+          "vocabulary",
+          1,
+          37
+        ],
+        [
+          "exercise",
+          1,
+          2
+        ],
+        [
+          "grammar",
+          1,
+          9
+        ],
+        [
+          "exercise",
+          3,
+          4
+        ]
+      ],
+      "exercises": [
+        {
+          "page": "23",
+          "thai": "แบบฝึกหัดถูก-ผิด: ข้อความต่อไปนี้ถูกหรือผิด",
+          "thaiBody": "1. ____________ เอกเป็นไข้หวัดใหญ่\n2. ____________ พลอยไม่สบายเหมือนกับเอก ก็เลยมาโรงพยาบาลกับเอก\n3. ____________ หมอฉีดยาให้นักท่องเที่ยวเพราะนักท่องเที่ยวปวดแผล\n4. ____________ เอกต้องนอนโรงพยาบาล\n5. ____________ เอกต้องเอายาไปกินที่บ้าน",
+          "zh-Hant": "判斷五個醫院情節敘述正誤：流感、普洛伊同行、旅客打針原因、住院，以及回家服藥。",
+          "en": "Mark five hospital-story statements true or false about influenza, Ploy accompanying Ek, the tourist's injection, hospitalization, and taking medicine at home.",
+          "ja": "インフルエンザ、プロイの同行、旅行者への注射、入院、自宅での服薬について五文の正誤を判断します。",
+          "ko": "독감, 플로이의 동행, 관광객 주사, 입원, 집에서 약 복용에 관한 다섯 문장의 참·거짓을 판단합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt tùuk-pìt: kɔ̂ɔ-kwaam dtɔ̀ɔ-bpai-níi tùuk rʉ̌ʉ pìt",
+          "romanizationBody": "1. ____________ èek bpen kâi-wàt-yài\n2. ____________ plɔɔi mâi sà-baai mʉ̌ʉan-gàp èek gɔ̂ɔ ləəi maa roong-pá-yaa-baan gàp èek\n3. ____________ mɔ̌ɔ chìit-yaa hâi nák-tɔ̂ɔng-tîiao prɔ́ɔ nák-tɔ̂ɔng-tîiao bpùuat plɛ̌ɛ\n4. ____________ èek dtɔ̂ɔng nɔɔn roong-pá-yaa-baan\n5. ____________ èek dtɔ̂ɔng ao yaa bpai gin-tîi bâan"
+        },
+        {
+          "page": "24",
+          "thai": "แบบฝึกหัดตอบคำถาม",
+          "thaiBody": "1. เอกไปหาหมอที่ไหน\n2. เกิดอะไรขึ้นกับนักท่องเที่ยว\n3. เอกต้องทำอะไรก่อนพบหมอบ้าง\n4. หมอแนะนำให้เอกดูแลตัวเองอย่างไรบ้าง",
+          "zh-Hant": "回答艾克在哪裡看醫生、旅客發生什麼事、看診前要做什麼，以及醫生如何建議他照顧自己。",
+          "en": "Answer where Ek sees the doctor, what happened to the tourist, what Ek must do before the consultation, and how the doctor advises him to care for himself.",
+          "ja": "エークの受診場所、旅行者に起きたこと、診察前の手順、医師のセルフケア助言に答えます。",
+          "ko": "엑이 진료받은 곳, 관광객에게 생긴 일, 진료 전 절차, 의사의 자기 관리 조언에 답합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt dtɔ̀ɔp-kam-tǎam",
+          "romanizationBody": "1. èek bpai-hǎa mɔ̌ɔ tîi-nǎi\n2. gə̀ət à-rai kʉ̂n-gàp nák-tɔ̂ɔng-tîiao\n3. èek dtɔ̂ɔng tam à-rai gɔ̀ɔn póp mɔ̌ɔ bâang\n4. mɔ̌ɔ nɛ́-nam hâi èek duu-lɛɛ-dtuua-eeng yàang-rai-bâang"
+        },
+        {
+          "page": "29",
+          "thai": "แบบฝึกหัด: ให้",
+          "thaiBody": "คำสั่ง: จงเรียงคำที่กำหนดให้มีความหมายที่ถูกต้อง\nตัวอย่าง: (ลูกน้อง/ส่ง/ให้/อีเมล/เจ้านาย) ตอบ เจ้านายส่งอีเมลให้ลูกน้อง\n1. (ทำเค้ก/ยาย/หลาน/ให้/กิน)\n2. (แมว/ไม่ให้/เจ้าของ/ไก่/กิน)\n3. (เจ้านาย/แม่บ้าน/ทำความสะอาด/ให้/ออฟฟิศ)\n4. (ย่า/หลาน/ให้/ตัดผม)\n5. (หนุ่ม/ของขวัญ/พลอย/ให้)",
+          "zh-Hant": "重排五組詞，練習 hâi 的受益者、使役或給予結構；例題是「老闆寄電子郵件給部屬」。",
+          "en": "Reorder five word sets to practice recipient, causative, and giving patterns with hâi; the example is “The boss sent an email to the subordinate.”",
+          "ja": "五組の語を並べ替え、hâi の受益者・使役・授与構文を練習します。例は「上司が部下にメールを送った」です。",
+          "ko": "다섯 단어 묶음을 재배열해 hâi의 수혜자·사역·수여 구문을 연습합니다. 예문은 ‘상사가 부하에게 이메일을 보냈다’입니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt: hâi",
+          "romanizationBody": "kam-sàng: jong riiang kam tîi gam-nòt-hâi mii-kwaam-mǎai tîi tùuk-dtɔ̂ɔng\ndtuua-yàang: (lûuk-nɔ́ɔng/sòng/hâi/ii-meel/jâo-naai) dtɔ̀ɔp jâo-naai sòng ii-meel hâi lûuk-nɔ́ɔng\n1. (tam kéek/yaai/lǎan/hâi/gin)\n2. (mɛɛo/mâi hâi/jâo-kɔ̌ɔng/gài/gin)\n3. (jâo-naai/mɛ̂ɛ-bâan/tam-kwaam-sà-àat/hâi/ɔ̀ɔf-fít)\n4. (yâa/lǎan/hâi/dtàt-pǒm)\n5. (nùm/kɔ̌ɔng-kwǎn/plɔɔi/hâi)"
+        },
+        {
+          "page": "30",
+          "thai": "แบบฝึกหัดการพูดและแต่งประโยค",
+          "thaiBody": "ให้นักเรียนจับกลุ่มกัน กลุ่มละ 2–3 คน ช่วยกันคิดเกี่ยวกับโรงพยาบาลในฝันว่าควรมีลักษณะอย่างไรและมีบริการอะไรบ้าง\nให้นักเรียนแต่งประโยคโดยใช้คำหรือไวยากรณ์ที่กำหนดให้ต่อไปนี้\n1. ฉีดยา\n2. ส่วน\n3. คอย\n4. อาการ\n5. งด\n6. ขอให้",
+          "zh-Hant": "口說：兩至三人設計夢想醫院及服務。造句：使用「打針、至於／部分、等待、症狀、避免、祝願」。",
+          "en": "Speaking: in groups of 2–3, design a dream hospital and its services. Make sentences with chìit-yaa, sùuan, khɔɔi, aa-kaan, ngót, and khɔ̌ɔ-hâi.",
+          "ja": "会話：2〜3人で理想の病院とサービスを考えます。作文：chìit-yaa、sùuan、khɔɔi、aa-kaan、ngót、khɔ̌ɔ-hâi を使います。",
+          "ko": "말하기: 2~3명씩 꿈의 병원과 서비스를 설계합니다. 문장 만들기: chìit-yaa, sùuan, khɔɔi, aa-kaan, ngót, khɔ̌ɔ-hâi를 사용합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt gaan pûut lɛ́ dtɛ̀ng bprà-yòok",
+          "romanizationBody": "hâi nák-riian jàp-glùm gan glùm lá 2–3 kon chûuai-gan kít gìiao-gàp roong-pá-yaa-baan nai fǎn wâa kuuan mii lák-sà-nà yàang-rai lɛ́ mii bɔɔ-rí-gaan à-rai bâang\nhâi nák-riian dtɛ̀ng bprà-yòok dooi cháai kam rʉ̌ʉ wai-yaa-gɔɔn tîi gam-nòt-hâi dtɔ̀ɔ-bpai-níi\n1. chìit-yaa\n2. sùuan\n3. kɔɔi\n4. aa-gaan\n5. ngót\n6. kɔ̌ɔ-hâi"
+        }
+      ]
+    },
+    {
+      "lesson": 3,
+      "layout": [
+        [
+          "main",
+          1,
+          16
+        ],
+        [
+          "vocabulary",
+          1,
+          17
+        ],
+        [
+          "notes",
+          1,
+          5
+        ],
+        [
+          "exercise",
+          1,
+          1
+        ],
+        [
+          "grammar",
+          1,
+          8
+        ],
+        [
+          "exercise",
+          2,
+          2
+        ],
+        [
+          "grammar",
+          9,
+          15
+        ],
+        [
+          "exercise",
+          3,
+          4
+        ]
+      ],
+      "exercises": [
+        {
+          "page": "41",
+          "thai": "แบบฝึกหัดถูก-ผิดและตอบคำถาม",
+          "thaiBody": "ข้อความต่อไปนี้ถูกหรือผิด\n1. ฮิเดะไม่อยากยืนเพราะเหนื่อยและร้อน\n2. ที่เมืองไทย ใคร ๆ ก็ยืนตรงเคารพธงชาติเวลา 8 โมงเช้าและ 6 โมงเย็น\n3. เพลงสรรเสริญพระบารมีเป็นเพลงสำหรับพระมหากษัตริย์\n4. ฮิเดะคิดว่าธรรมเนียมและมารยาทที่ไทยเข้าใจง่าย\n5. ฝนบอกฮิเดะว่าให้ลองสังเกตคนอื่น ๆ\nตอบคำถาม\n1. ฮิเดะคิดว่าเวลายืนเคารพธงชาติดูเหมือนอะไร\n2. ทำไมใคร ๆ ถึงเคารพธงชาติเวลา 8 โมงเช้าและ 6 โมงเย็น\n3. เพลงสรรเสริญพระบารมีเป็นเพลงที่ใช้สำหรับใคร\n4. นักเรียนคิดว่าสำนวน “เข้าเมืองตาหลิ่ว ต้องหลิ่วตาตาม” หมายความว่าอะไร",
+          "zh-Hant": "先判斷五個敘述正誤，再回答四題，主題是立正尊重國旗、王室頌歌、泰國禮俗，以及「入境隨俗」的含義。",
+          "en": "Judge five statements, then answer four questions about standing for the flag, the royal anthem, Thai customs, and the meaning of “When in Rome, do as the Romans do.”",
+          "ja": "五文の正誤を判断し、国旗への敬意、王室賛歌、タイの習慣、「郷に入っては郷に従え」の意味について四問に答えます。",
+          "ko": "다섯 문장의 참·거짓을 판단한 뒤 국기 경례, 왕실 찬가, 태국 관습, ‘로마에 가면 로마법을 따르라’의 의미에 관한 네 질문에 답합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt tùuk-pìt lɛ́ dtɔ̀ɔp-kam-tǎam",
+          "romanizationBody": "kɔ̂ɔ-kwaam dtɔ̀ɔ-bpai-níi tùuk rʉ̌ʉ pìt\n1. hí dè mâi yàak yʉʉn prɔ́ɔ nʉ̀ʉai lɛ́ rɔ́ɔn\n2. tîi mʉʉang tai krai-krai gɔ̂ɔ yʉʉn dtrong kao-róp tong-châat wee-laa 8 moong cháao lɛ́ 6 moong yen\n3. pleeng sǎn-sə̌ən prá baa-rá-mii bpen pleeng sǎm-ràp phrá-má-hǎa-gà-sàt\n4. hí dè kít wâa tam-niiam lɛ́ maa-rá-yâat tîi tai kâo-jai-ngâai\n5. fǒn bɔ̀ɔk hí dè wâa hâi lɔɔng sǎng-gèet kon-ʉ̀ʉn kon-ʉ̀ʉn\ndtɔ̀ɔp-kam-tǎam\n1. hí dè kít wâa wee-laa yʉʉn kao-róp tong-châat duu-mʉ̌ʉan à-rai\n2. tam-mai krai-krai tʉ̌ng kao-róp tong-châat wee-laa 8 moong cháao lɛ́ 6 moong yen\n3. pleeng sǎn-sə̌ən prá baa-rá-mii bpen pleeng tîi cháai sǎm-ràp krai\n4. nák-riian kít wâa sǎm-nuuan “kâo mʉʉang dtaa lìu dtɔ̂ɔng lìu-dtaa dtaam” mǎai-kwaam-wâa à-rai"
+        },
+        {
+          "page": "44",
+          "thai": "แบบฝึกหัด: ไป และ มา",
+          "thaiBody": "คำสั่ง: จงเติมคำในช่องว่างต่อไปนี้ด้วยคำช่วยหลังกริยา ไป และ มา\n1. พลอยไปเที่ยวญี่ปุ่น___________ ซื้อของมาฝากเยอะเลย\n2. เอกชอบนั่งทำงาน___________ จิบกาแฟ___________\n3. ส้มตำอร่อยมาก แต่เผ็ด____________หน่อย\n4. เราเรียนภาษาไทยที่จุฬาฯ ____________3 คอร์สแล้ว\n5. นั่งรอ_____________เรื่อย ๆ เดี๋ยวฝนก็มา\n6. ไม่ได้มากรุงเทพฯ นาน บรรยากาศเปลี่ยน____________มาก",
+          "zh-Hant": "在六句空格填入 bpai 或 maa，練習動作延續、同時進行、過度、持續到現在，以及狀態改變。",
+          "en": "Fill six blanks with bpai or maa to practice continuing actions, simultaneous actions, excess, continuation until now, and change of state.",
+          "ja": "六文に bpai／maa を入れ、動作の継続・同時進行・過剰・現在までの継続・状態変化を練習します。",
+          "ko": "여섯 빈칸에 bpai 또는 maa를 넣어 동작 지속, 동시 행동, 과도함, 현재까지의 지속, 상태 변화를 연습합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt: bpai lɛ́ maa",
+          "romanizationBody": "kam-sàng: jong dtəəm kam nai chɔ̂ɔng-wâang dtɔ̀ɔ-bpai-níi dûuai kam chûuai lǎng grì-yaa bpai lɛ́ maa\n1. plɔɔi bpai-tîiao yîi-bpùn___________ sʉ́ʉ kɔ̌ɔng maa fàak yə́ ləəi\n2. èek chɔ̂ɔp nâng tam-ngaan___________ jìp gaa-fɛɛ___________\n3. sôm-dtam a-rɔ̀ɔi mâak dtɛ̀ɛ pèt____________nɔ̀ɔi\n4. rao riian paa-sǎa-tai tîi jù-laa ____________3 kɔ̂ɔt lɛ́ɛo\n5. nâng rɔɔ_____________rʉ̂ʉai-rʉ̂ʉai dǐiao fǒn gɔ̂ɔ maa\n6. mâi dâai-maa grung-têep naan ban-yaa-gàat bplìian____________mâak"
+        },
+        {
+          "page": "46",
+          "thai": "แบบฝึกหัด: ขึ้น และ ลง และแบบฝึกหัดการพูด",
+          "thaiBody": "คำสั่ง: จงเติมคำในช่องว่างต่อไปนี้ด้วยคำช่วยหลังกริยา ขึ้น และ ลง\n1. เขาตื่น_____________มาอาบน้ำ แต่งตัวตั้งแต่เช้า\n2. เขาเดิน___________บันได จากชั้น 3 ไปชั้น 5\n3. ฉันอิ่มแล้ว ตอนนี้กินอะไรไม่___________แล้ว\n4. อากาศเย็น_________ทีไร ฉันไม่สบายทุกที\n5. งานปีใหม่จะจัด____________ในวันที่ 31 ธันวาคมนี้\n6. ตึกสีขาว ๆ ตรงนั้นเพิ่งสร้าง__________มาได้ไม่นาน\nให้นักเรียนพูดคุยแลกเปลี่ยนเกี่ยวกับธรรมเนียมที่นักเรียนเคยทำหรือรู้จัก",
+          "zh-Hant": "填入 kʉ̂n 或 long 完成六句，再分享自己做過或知道的習俗。",
+          "en": "Complete six sentences with kʉ̂n or long, then discuss customs you have practiced or know.",
+          "ja": "六文に kʉ̂n／long を入れ、自分が経験した、または知っている習慣について話します。",
+          "ko": "여섯 문장에 kʉ̂n 또는 long을 넣고, 직접 해 보았거나 아는 관습을 이야기합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt: kʉ̂n lɛ́ long lɛ́ bɛ̀ɛp-fʉ̀k-hàt gaan pûut",
+          "romanizationBody": "kam-sàng: jong dtəəm kam nai chɔ̂ɔng-wâang dtɔ̀ɔ-bpai-níi dûuai kam chûuai lǎng grì-yaa kʉ̂n lɛ́ long\n1. kǎo dtʉ̀ʉn_____________maa àap-náam dtɛ̀ng dtuua-dtâng dtɛ̀ɛ-cháao\n2. kǎo dəən___________ban-dai jàak chán 3 bpai chán 5\n3. chǎn ìm lɛ́ɛo dtɔɔn-níi gin à-rai mâi___________lɛ́ɛo\n4. aa-gàat yen_________tii-rai chǎn mâi sà-baai túk-tii\n5. ngaan bpii-mài jà jàt____________nai wan-tîi 31 tan-waa-kom níi\n6. dtʉ̀k sǐi kǎao kǎao dtrong-nán pə̂ng sâang__________maa dâai mâi naan\nhâi nák-riian pûut-kui lɛ̂ɛk-bplìian gìiao-gàp tam-niiam tîi nák-riian kəəi tam rʉ̌ʉ rúu-jàk"
+        },
+        {
+          "page": "47",
+          "thai": "แบบฝึกหัดแต่งประโยค",
+          "thaiBody": "ให้นักเรียนแต่งประโยคโดยใช้คำหรือไวยากรณ์ที่กำหนดให้ต่อไปนี้\n1. ใคร ๆ (ก็)\n2. เคารพ\n3. ชิน\n4. ......ไป.......ไป\n5. มา\n6. ขึ้น\n7. ลง",
+          "zh-Hant": "使用 krai-krai (gɔ̂ɔ)、尊敬、習慣、…bpai…bpai、maa、kʉ̂n、long 各自造句。",
+          "en": "Make sentences with krai-krai (gɔ̂ɔ), “respect,” “be accustomed,” …bpai…bpai, maa, kʉ̂n, and long.",
+          "ja": "krai-krai (gɔ̂ɔ)、尊敬、慣れる、…bpai…bpai、maa、kʉ̂n、long を使って文を作ります。",
+          "ko": "krai-krai (gɔ̂ɔ), 존경하다, 익숙하다, …bpai…bpai, maa, kʉ̂n, long을 사용해 문장을 만듭니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt dtɛ̀ng bprà-yòok",
+          "romanizationBody": "hâi nák-riian dtɛ̀ng bprà-yòok dooi cháai kam rʉ̌ʉ wai-yaa-gɔɔn tîi gam-nòt-hâi dtɔ̀ɔ-bpai-níi\n1. krai-krai (gɔ̂ɔ)\n2. kao-róp\n3. chin\n4. ......bpai.......bpai\n5. maa\n6. kʉ̂n\n7. long"
+        }
+      ]
+    },
+    {
+      "lesson": 4,
+      "layout": [
+        [
+          "main",
+          1,
+          8
+        ],
+        [
+          "vocabulary",
+          1,
+          27
+        ],
+        [
+          "exercise",
+          1,
+          1
+        ],
+        [
+          "grammar",
+          1,
+          2
+        ],
+        [
+          "exercise",
+          2,
+          2
+        ],
+        [
+          "grammar",
+          3,
+          7
+        ],
+        [
+          "exercise",
+          3,
+          4
+        ]
+      ],
+      "exercises": [
+        {
+          "page": "51",
+          "thai": "แบบฝึกหัดถูก-ผิดและตอบคำถาม",
+          "thaiBody": "ข้อความต่อไปนี้ถูกหรือผิด\n1. ประเพณีลอยกระทงเกี่ยวข้องกับแม่น้ำ\n2. วันลอยกระทงจัดขึ้นตรงกันทุกปี\n3. คำว่า “กระทง” มีความหมายเดียว แปลว่า ภาชนะทำจากใบตอง\n4. สมัยนี้กระทงทำจากวัสดุหลายอย่าง เช่น ขี้ผึ้ง น้ำแข็ง ขนมปัง อาหารปลา\n5. บางคนเชื่อว่าถ้าลอยกระทงกับแฟนจะทำให้รักกันมากขึ้น\nตอบคำถาม\n1. ทำไมจึงควรเช็คให้ดีก่อนวางแผนมาเที่ยวงานลอยกระทง\n2. สมัยก่อนใช้อะไรทำฐานของกระทง และเพราะเหตุใด\n3. คนที่ไปลอยกระทงมักจะทำอะไร ถ้าอยากให้โชคร้ายลอยไปจากชีวิต\n4. ภูมิภาคใดของประเทศไทยที่นิยมลอยโคมขึ้นไปบนฟ้า\n5. ทำไมหลายคนจึงเริ่มไม่เห็นด้วยกับประเพณีลอยกระทง",
+          "zh-Hant": "判斷五個水燈節敘述正誤，再回答日期、傳統材料、祈求除厄、放天燈地區，以及環境爭議等五題。",
+          "en": "Judge five Loy Krathong statements, then answer five questions about the date, traditional materials, sending bad luck away, sky-lantern regions, and environmental objections.",
+          "ja": "ロイクラトンに関する五文の正誤を判断し、日付、伝統素材、厄払い、天灯の地域、環境面の反対理由の五問に答えます。",
+          "ko": "러이끄라통에 관한 다섯 문장의 참·거짓을 판단하고 날짜, 전통 재료, 액운 보내기, 풍등 지역, 환경적 반대 이유에 관한 다섯 질문에 답합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt tùuk-pìt lɛ́ dtɔ̀ɔp-kam-tǎam",
+          "romanizationBody": "kɔ̂ɔ-kwaam dtɔ̀ɔ-bpai-níi tùuk rʉ̌ʉ pìt\n1. bprà-pee-nii lɔɔi-grà-tong kìiao-kɔ̂ɔng gàp mɛ̂ɛ-náam\n2. wan lɔɔi-grà-tong jàt kʉ̂n dtrong-gan túk-bpii\n3. kam wâa “grà-tong” mii-kwaam-mǎai diiao bplɛɛ wâa pâa-chá-ná tam jàak bai-dtɔɔng\n4. sà-mǎi-níi grà-tong tam jàak wát-sà-dù lǎai-yàang chên kîi-pʉ̂ng náam-kɛ̌ng kà-nǒm-bpang aa-hǎan bplaa\n5. baang-kon chʉ̂ʉa wâa tâa lɔɔi-grà-tong gàp fɛɛn jà tam-hâi rák gan mâak-kʉ̂n\ndtɔ̀ɔp-kam-tǎam\n1. tam-mai jʉng kuuan chék hâi dii gɔ̀ɔn waang-pɛ̌ɛn maa tîiao-ngaan lɔɔi-grà-tong\n2. sà-mǎi-gɔ̀ɔn cháai à-rai tam tǎan kɔ̌ɔng grà-tong lɛ́ prɔ́ɔ-hèet-dai\n3. kon tîi bpai lɔɔi-grà-tong mák-jà tam à-rai tâa yàak hâi chôok-ráai lɔɔi bpai jàak chii-wít\n4. puu-mí-pâak dai kɔ̌ɔng bprà-têet tai tîi ní-yom lɔɔi koom kʉ̂n-bpai bon fáa\n5. tam-mai lǎai kon jʉng rə̂əm mâi hěn-dûuai gàp bprà-pee-nii lɔɔi-grà-tong"
+        },
+        {
+          "page": "53",
+          "thai": "แบบฝึกหัด: การ และ ความ",
+          "thaiBody": "คำสั่ง: จงเลือกเติม การ และ ความ หน้าคำกริยาต่อไปนี้ให้ถูกต้อง\n1) ______รัก 2) ______ยาก 3) ______ทำงาน 4) ______เหนื่อย 5) ______เสียใจ\n6) ______พักผ่อน 7) ______เล่นกีฬา 8) ______พึงพอใจ 9) ______เต้น 10) ______สงสัย\nคำสั่ง: จงเลือกเติม การ และ ความ หน้าคำกริยาต่อไปนี้ให้ถูกต้อง\n1) คนไทยทุกคนมี______รักต่อชาติ ศาสนา พระมหากษัตริย์มาก ______ยืนตรงเคารพธงชาติ เป็น______แสดง______เคารพอย่างง่ายที่สุดเท่าที่ทุกคนจะทำได้\n2) ______บันเทิงเป็น______รู้สึกพอใจจาก______ทำกิจกรรมต่าง ๆ เช่น ______ร้องเพลง ______ดูหนัง รวมถึง ______เล่นกีฬา หรือ______ออกกำลังกายด้วย",
+          "zh-Hant": "先替十個詞選擇 gaan 或 kwaam 名詞化，再在兩段關於愛國與娛樂的文字中填入正確形式。",
+          "en": "Choose gaan or kwaam to nominalize ten words, then fill the correct forms in two passages about patriotism and entertainment.",
+          "ja": "十語を gaan／kwaam で名詞化し、愛国心と娯楽についての二段落に正しい形を入れます。",
+          "ko": "열 단어를 gaan 또는 kwaam으로 명사화한 뒤 애국심과 오락에 관한 두 글에 알맞은 형태를 넣습니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt: gaan lɛ́ kwaam",
+          "romanizationBody": "kam-sàng: jong lʉ̂ʉak dtəəm gaan lɛ́ kwaam nâa kam-grì-yaa dtɔ̀ɔ-bpai-níi hâi tùuk-dtɔ̂ɔng\n1) ______rák 2) ______yâak 3) ______tam-ngaan 4) ______nʉ̀ʉai 5) ______sǐia-jai\n6) ______pák-pɔ̀ɔn 7) ______lên gii-laa 8) ______pʉng-pɔɔ-jai 9) ______dtên 10) ______sǒng-sǎi\nkam-sàng: jong lʉ̂ʉak dtəəm gaan lɛ́ kwaam nâa kam-grì-yaa dtɔ̀ɔ-bpai-níi hâi tùuk-dtɔ̂ɔng\n1) kon-tai túk-kon mii______rák dtɔ̀ɔ châat sàat-sà-nǎa phrá-má-hǎa-gà-sàt mâak ______yʉʉn dtrong kao-róp tong-châat bpen______sà-dɛɛng______kao-róp yàang ngâai tîi-sùt tâo-tîi túk-kon jà tam-dâai\n2) ______ban-təəng bpen______rúu-sʉ̀k pɔɔ-jai jàak______tam-gìt-jà-gam dtàang-dtàang chên ______rɔ́ɔng-pleeng ______duu nǎng ruuam-tʉ̌ng ______lên gii-laa rʉ̌ʉ______ɔ̀ɔk-gam-lang-gaai dûuai"
+        },
+        {
+          "page": "55",
+          "thai": "แบบฝึกหัด: เข้า และ ออก และแบบฝึกหัดการพูด",
+          "thaiBody": "คำสั่ง: จงเติมคำในช่องว่างต่อไปนี้ด้วยคำช่วยหลังกริยา เข้า และ ออก\n1. รีบ ๆ แต่งตัว___________ เดี๋ยวจะไปโรงเรียนสาย\n2. เวลาเจอฝรั่งทีไร พูดไม่____________ทุกที\n3. ก: อาหารญี่ปุ่นอร่อยมาก ข: เหรอ ฉันว่าจืด__________\n4. กินเร็ว ๆ ____________ หนังจะฉายแล้ว\n5. ในกรุงเทพฯ มีคนอ่าน__________เขียนได้เยอะ\nให้นักเรียนเล่าประสบการณ์เกี่ยวกับเทศกาลหรือประเพณีที่เคยเข้าร่วม",
+          "zh-Hant": "填入 khâo 或 ɔ̀ɔk 完成五句，再敘述參加過的節慶或傳統活動。",
+          "en": "Complete five sentences with khâo or ɔ̀ɔk, then describe a festival or traditional event you have attended.",
+          "ja": "五文に khâo／ɔ̀ɔk を入れ、参加した祭りや伝統行事の経験を話します。",
+          "ko": "다섯 문장에 khâo 또는 ɔ̀ɔk을 넣고 참여해 본 축제나 전통 행사 경험을 이야기합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt: kâo lɛ́ ɔ̀ɔk lɛ́ bɛ̀ɛp-fʉ̀k-hàt gaan pûut",
+          "romanizationBody": "kam-sàng: jong dtəəm kam nai chɔ̂ɔng-wâang dtɔ̀ɔ-bpai-níi dûuai kam chûuai lǎng grì-yaa kâo lɛ́ ɔ̀ɔk\n1. rîip-rîip dtɛ̀ng-dtuua___________ dǐiao jà bpai roong-riian sǎai\n2. wee-laa jəə fà-ràng tii-rai pûut mâi____________túk-tii\n3. gà: aa-hǎan yîi-bpùn a-rɔ̀ɔi mâak kà: rə̌ə chǎn wâa jʉ̀ʉt__________\n4. gin reo-reo ____________ nǎng jà chǎai lɛ́ɛo\n5. nai grung-têep mii kon-àan__________kǐian dâai yə́\nhâi nák-riian lâo bprà-sòp-gaan gìiao-gàp têet-sà-gaan rʉ̌ʉ bprà-pee-nii tîi kəəi kâo-rûuam"
+        },
+        {
+          "page": "56",
+          "thai": "แบบฝึกหัดแต่งประโยค",
+          "thaiBody": "ให้นักเรียนแต่งประโยคโดยใช้คำหรือไวยากรณ์ที่กำหนดให้ต่อไปนี้\n1. ประเพณี\n2. ศาสนา\n3. เกี่ยวข้องกับ\n4. การ\n5. ความ",
+          "zh-Hant": "使用「傳統、宗教、與……相關、gaan、kwaam」各自造句。",
+          "en": "Make sentences using “tradition,” “religion,” “be related to,” gaan, and kwaam.",
+          "ja": "「伝統・宗教・〜に関係する・gaan・kwaam」を使って文を作ります。",
+          "ko": "전통, 종교, ~와 관련되다, gaan, kwaam을 사용해 문장을 만듭니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt dtɛ̀ng bprà-yòok",
+          "romanizationBody": "hâi nák-riian dtɛ̀ng bprà-yòok dooi cháai kam rʉ̌ʉ wai-yaa-gɔɔn tîi gam-nòt-hâi dtɔ̀ɔ-bpai-níi\n1. bprà-pee-nii\n2. sàat-sà-nǎa\n3. kìiao-kɔ̂ɔng gàp\n4. gaan\n5. kwaam"
+        }
+      ]
+    },
+    {
+      "lesson": 5,
+      "layout": [
+        [
+          "main",
+          1,
+          15
+        ],
+        [
+          "vocabulary",
+          1,
+          12
+        ],
+        [
+          "notes",
+          1,
+          9
+        ],
+        [
+          "exercise",
+          1,
+          2
+        ],
+        [
+          "grammar",
+          1,
+          3
+        ],
+        [
+          "exercise",
+          3,
+          3
+        ],
+        [
+          "grammar",
+          4,
+          6
+        ],
+        [
+          "exercise",
+          4,
+          4
+        ]
+      ],
+      "exercises": [
+        {
+          "page": "68",
+          "thai": "แบบฝึกหัดถูก-ผิด: ข้อความต่อไปนี้ถูกหรือผิด",
+          "thaiBody": "1. ____________ เอกเชื่อหมอดู ก็เลยอยากไปดูหมอกับฝนและอ้อย\n2. ____________ ค่าดูดวง 199 บาท\n3. ____________ ฝนกับอ้อยดูดวงกันทุกสองเดือน\n4. ____________ เอกคิดว่าดูดวงไร้สาระ\n5. ____________ เอกบอกว่าการดูดวงเป็นวิทยาศาสตร์",
+          "zh-Hant": "判斷五個算命情節敘述正誤：艾克是否相信、費用、頻率，以及他認為算命是胡說還是科學。",
+          "en": "Mark five fortune-telling statements true or false about Ek's belief, the fee, frequency, and whether he calls fortune-telling nonsense or science.",
+          "ja": "エークが占いを信じるか、料金、頻度、占いを無意味または科学と考えるかについて五文の正誤を判断します。",
+          "ko": "엑이 점을 믿는지, 비용, 빈도, 점을 허튼소리 또는 과학으로 보는지에 관한 다섯 문장의 참·거짓을 판단합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt tùuk-pìt: kɔ̂ɔ-kwaam dtɔ̀ɔ-bpai-níi tùuk rʉ̌ʉ pìt",
+          "romanizationBody": "1. ____________ èek chʉ̂ʉa mɔ̌ɔ-duu gɔ̂ɔ ləəi yàak bpai duu-mɔ̌ɔ gàp fǒn lɛ́ ɔ̂ɔi\n2. ____________ kâa duu-duuang 199 bàat\n3. ____________ fǒn gàp ɔ̂ɔi duu-duuang gan túk sɔ̌ɔng dʉʉan\n4. ____________ èek kít wâa duu-duuang rái-sǎa-rá\n5. ____________ èek bɔ̀ɔk wâa-gaan duu-duuang bpen wít-tá-yaa-sàat"
+        },
+        {
+          "page": "69",
+          "thai": "แบบฝึกหัดตอบคำถาม",
+          "thaiBody": "1. ทำไมวันนี้ฝนกับอ้อยจึงแต่งตัวสวย\n2. หมอดูทำนายว่าปีนี้ชีวิตของอ้อยจะเป็นอย่างไร\n3. เอกฟังคำทำนายของหมอดูของอ้อยแล้ว เอกเห็นด้วยหรือไม่",
+          "zh-Hant": "回答三題：芬和奧伊為何打扮漂亮、算命師如何預言奧伊今年的生活，以及艾克是否同意。",
+          "en": "Answer why Fon and Oi dress up, what the fortune-teller predicts for Oi this year, and whether Ek agrees after hearing the prediction.",
+          "ja": "フォンとオーイが着飾った理由、占い師の今年の予言、それを聞いたエークが同意したかの三問に答えます。",
+          "ko": "폰과 어이가 꾸민 이유, 점쟁이가 예언한 올해의 삶, 이를 들은 엑의 동의 여부에 관한 세 질문에 답합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt dtɔ̀ɔp-kam-tǎam",
+          "romanizationBody": "1. tam-mai wan-níi fǒn gàp ɔ̂ɔi jʉng dtɛ̀ng-dtuua sǔuai\n2. mɔ̌ɔ-duu tam-naai wâa bpii níi chii-wít kɔ̌ɔng ɔ̂ɔi jà bpen yàang-rai\n3. èek fang kam-tam-naai kɔ̌ɔng mɔ̌ɔ-duu kɔ̌ɔng ɔ̂ɔi lɛ́ɛo èek hěn-dûuai rʉ̌ʉ-mâi"
+        },
+        {
+          "page": "71",
+          "thai": "แบบฝึกหัด: เอง ตัวเอง หรือ คนเดียว",
+          "thaiBody": "คำสั่ง: เลือกใช้ เอง ตัวเอง หรือ คนเดียว ให้ถูกต้อง\n1) เราชอบทำอาหารกิน_______ที่บ้านมากกว่า\n2) วันเกิดปีนี้ฉันวางแผนว่าจะซื้อของขวัญให้_______เป็นรถคันใหม่\n3) ไม่เป็นไรค่ะ ฉันทำ_______ได้\n4) ลูกอยู่_________ได้ไหม\n5) นักเรียนที่มาอยู่เมืองไทย_________ ไม่มีเพื่อน ไม่มีญาติ ต้องช่วยเหลือ__________เวลามีปัญหา\n6) จอห์นพูดภาษาไทยเก่งมาก เขาเรียนภาษาไทย_______ไม่มีใครสอน\n7) เอกมักจะไปเที่ยว_______บ่อย ๆ เขาไม่ชอบไปไหนมาไหนกับใคร\n8) หลังจากหย่ากับภรรยา ต้นคอยถาม________อยู่เสมอว่าเขาทำอะไรผิด",
+          "zh-Hant": "在八段情境中選擇 eeng、dtuua-eeng 或 khon-diiao，區分親自、自己與獨自。",
+          "en": "Choose eeng, dtuua-eeng, or khon-diiao in eight contexts to distinguish “by oneself,” reflexive “self,” and “alone.”",
+          "ja": "八つの文脈で eeng、dtuua-eeng、khon-diiao を選び、「自分で・自分自身・一人で」を区別します。",
+          "ko": "여덟 상황에서 eeng, dtuua-eeng, khon-diiao를 골라 ‘직접’, ‘자기 자신’, ‘혼자’를 구별합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt: eeng dtuua-eeng rʉ̌ʉ kon-diiao",
+          "romanizationBody": "kam-sàng: lʉ̂ʉak cháai eeng dtuua-eeng rʉ̌ʉ kon-diiao hâi tùuk-dtɔ̂ɔng\n1) rao chɔ̂ɔp tam-aa-hǎan gin_______tîi bâan mâak-gwàa\n2) wan-gə̀ət bpii níi chǎn waang-pɛ̌ɛn wâa jà sʉ́ʉ kɔ̌ɔng-kwǎn hâi_______bpen rót kan mài\n3) mâi-bpen-rai kâ chǎn tam_______dâai\n4) lûuk yùu_________dâai mǎi\n5) nák-riian tîi-maa yùu mʉʉang tai_________ mâi mii pʉ̂ʉan mâi mii yâat dtɔ̂ɔng chûuai-lʉ̌ʉa__________wee-laa mii-bpan-hǎa\n6) jɔɔn pûut paa-sǎa-tai gèng mâak kǎo riian paa-sǎa-tai_______mâi mii krai sɔ̌ɔn\n7) èek mák-jà bpai-tîiao_______bɔ̀ɔi-bɔ̀ɔi kǎo mâi chɔ̂ɔp bpai nǎi maa nǎi gàp krai\n8) lǎng-jàak yàa gàp pan-rá-yaa dtôn kɔɔi tǎam________yùu sà-mə̌ə wâa kǎo tam à-rai pìt"
+        },
+        {
+          "page": "73",
+          "thai": "แบบฝึกหัดการพูดและแต่งประโยค",
+          "thaiBody": "การพูด: ท่านเชื่อเรื่องดวงหรือไม่ และท่านคิดว่าการดูดวงมีข้อดีและข้อเสียอย่างไรบ้าง\nแต่งประโยค\n1. โชค\n2. แม่น\n3. ดูดวง\n4. ไร้สาระ\n5. ตั้ง",
+          "zh-Hant": "口說：你是否相信命運，算命有何優缺點？造句：使用「運氣、準確、算命、荒謬、足足／設立」。",
+          "en": "Speaking: Do you believe in fate, and what are the pros and cons of fortune-telling? Make sentences with chôok, mɛ̂ɛn, duu-duang, rái-sǎa-rá, and dtâng.",
+          "ja": "会話：運命を信じるか、占いの長所・短所は何か。作文：chôok、mɛ̂ɛn、duu-duang、rái-sǎa-rá、dtâng を使います。",
+          "ko": "말하기: 운명을 믿는지, 점의 장단점은 무엇인지 말합니다. 문장 만들기: chôok, mɛ̂ɛn, duu-duang, rái-sǎa-rá, dtâng을 사용합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt gaan pûut lɛ́ dtɛ̀ng bprà-yòok",
+          "romanizationBody": "gaan pûut: tân chʉ̂ʉa rʉ̂ʉang duuang rʉ̌ʉ-mâi lɛ́ tân kít wâa-gaan duu-duuang mii kɔ̂ɔ-dii lɛ́ kɔ̂ɔ-sǐia yàang-rai-bâang\ndtɛ̀ng bprà-yòok\n1. chôok\n2. mɛ̂n\n3. duu-duuang\n4. rái-sǎa-rá\n5. dtâng"
+        }
+      ]
+    },
+    {
+      "lesson": 6,
+      "layout": [
+        [
+          "main",
+          1,
+          12
+        ],
+        [
+          "vocabulary",
+          1,
+          48
+        ],
+        [
+          "exercise",
+          1,
+          1
+        ],
+        [
+          "grammar",
+          1,
+          6
+        ],
+        [
+          "exercise",
+          2,
+          3
+        ]
+      ],
+      "exercises": [
+        {
+          "page": "78",
+          "thai": "แบบฝึกหัดถูก-ผิดและตอบคำถาม",
+          "thaiBody": "ข้อความต่อไปนี้ถูกหรือผิด\n1. คนราศีเมถุนเป็นคนที่มีความขัดแย้งในตัวเอง\n2. คนราศีกุมภ์มีเพื่อนสนิทที่ไว้วางใจได้เยอะมาก\n3. คนราศีกันย์เป็นคนขี้นินทา\n4. คนราศีมีนชอบเผชิญหน้ากับความจริงทุกอย่าง\n5. คนราศีเมษไม่ค่อยฟังความเห็นของคนอื่น\nตอบคำถาม\n1. ข้อดีของคนเกิดราศีมังกรคืออะไร\n2. ข้อเสียของคนเกิดราศีมีนคืออะไร\n3. คนเกิดราศีใดเป็นคนสบาย ๆ\n4. ราศีอะไรมีเสน่ห์มากที่สุด เพราะอะไร\n5. คนเกิดราศีใดเป็นคนอ่อนไหวมากที่สุด",
+          "zh-Hant": "先判斷五個星座性格敘述正誤，再回答摩羯座優點、雙魚座缺點、隨和、有魅力與最敏感的星座。",
+          "en": "Judge five zodiac-personality statements, then answer about Capricorn's strength, Pisces' weakness, the easygoing, most charming, and most sensitive signs.",
+          "ja": "星座の性格について五文の正誤を判断し、山羊座の長所、魚座の短所、気楽・魅力的・最も敏感な星座を答えます。",
+          "ko": "별자리 성격 다섯 문장의 참·거짓을 판단한 뒤 염소자리 장점, 물고기자리 단점, 느긋하고 가장 매력적이며 가장 예민한 별자리를 답합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt tùuk-pìt lɛ́ dtɔ̀ɔp-kam-tǎam",
+          "romanizationBody": "kɔ̂ɔ-kwaam dtɔ̀ɔ-bpai-níi tùuk rʉ̌ʉ pìt\n1. kon raa-sǐi mee-tǔn bpen kon tîi mii kwaam-kàt-yɛ́ɛng nai dtuua-eeng\n2. kon raa-sǐi-gum mii pʉ̂ʉan-sà-nìt tîi wái-waang-jai dâai yə́ mâak\n3. kon raa-sǐi-gan bpen kon kîi nin-taa\n4. kon raa-sǐi-miin chɔ̂ɔp pà-chəən-nâa gàp kwaam-jing túk-yàang\n5. kon raa-sǐi-mêet mâi-kɔ̂ɔi fang kwaam-hěn kɔ̌ɔng kon-ʉ̀ʉn\ndtɔ̀ɔp-kam-tǎam\n1. kɔ̂ɔ-dii kɔ̌ɔng kon gə̀ət raa-sǐi-mang-gɔɔn kʉʉ à-rai\n2. kɔ̂ɔ-sǐia kɔ̌ɔng kon gə̀ət raa-sǐi-miin kʉʉ à-rai\n3. kon gə̀ət raa-sǐi dai bpen kon sà-baai sà-baai\n4. raa-sǐi à-rai mii-sà-nèe mâak tîi-sùt prɔ́ɔ-à-rai\n5. kon gə̀ət raa-sǐi dai bpen kon ɔ̀ɔn-wǎi mâak tîi-sùt"
+        },
+        {
+          "page": "82",
+          "thai": "แบบฝึกหัด: คำเชื่อม และแบบฝึกหัดการพูด",
+          "thaiBody": "คำสั่ง: จงเชื่อมประโยคต่อไปนี้ให้ถูกต้อง โดยใช้คำว่า “ส่วน” “อย่างไรก็ตาม” “จน” หรือ “เนื่องจาก”\n1. แฟนของเขาชอบดื่มเหล้า ___________เขาไม่ชอบดื่มเลย\n2. ฝนทำงานหามรุ่งหามค่ำ __________________ ไม่มีเวลาพักผ่อน\n3. นักเรียนทำข้อสอบไม่ได้ _________________ ไม่เข้าใจคำถาม\n4. กรุงเทพมหานครมีทั้งรถไฟฟ้าและรถไฟใต้ดิน ________ คนกรุงเทพฯ ยังคงเจอกับปัญหารถติดแทบทุกวัน\n5. นักเรียนมีการบ้านเยอะมาก บางวันต้องทำการบ้าน ___________ ไม่ได้นอน\nถ้าคุณต้องตั้งทีมทำงานในบริษัท คุณอยากได้คนนิสัยแบบไหนและไม่อยากได้คนนิสัยแบบไหนมาทำงานในทีม ยกตัวอย่างและเหตุผลอย่างละ 3 ข้อ",
+          "zh-Hant": "用 sùuan、yàang-rai-gɔ̂ɔ-dtaam、jon 或 nʉ̂ang-jàak 連接五句；口說則說明組建公司團隊時想要與不想要的性格，各舉三例及理由。",
+          "en": "Link five sentences with sùuan, yàang-rai-gɔ̂ɔ-dtaam, jon, or nʉ̂ang-jàak. Then give three desired and three undesired personality types for a work team, with reasons.",
+          "ja": "五文を sùuan、yàang-rai-gɔ̂ɔ-dtaam、jon、nʉ̂ang-jàak でつなぎ、仕事チームに欲しい／欲しくない性格を理由付きで三つずつ話します。",
+          "ko": "다섯 문장을 sùuan, yàang-rai-gɔ̂ɔ-dtaam, jon, nʉ̂ang-jàak으로 연결하고, 업무 팀에 원하는 성격과 원하지 않는 성격을 이유와 함께 세 가지씩 말합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt: kam-chʉ̂ʉam lɛ́ bɛ̀ɛp-fʉ̀k-hàt gaan pûut",
+          "romanizationBody": "kam-sàng: jong chʉ̂ʉam bprà-yòok dtɔ̀ɔ-bpai-níi hâi tùuk-dtɔ̂ɔng dooi cháai kam wâa “sùuan” “yàang-rai-gɔ̂ɔ-dtaam” “jon” rʉ̌ʉ “mʉ̂ʉang-jàak”\n1. fɛɛn kɔ̌ɔng kǎo chɔ̂ɔp dʉ̀ʉm-lâo ___________kǎo mâi chɔ̂ɔp dʉ̀ʉm ləəi\n2. fǒn tam-ngaan hǎam-rûng-hǎam-kâm __________________ mâi mii wee-laa-pák-pɔ̀ɔn\n3. nák-riian tam kɔ̂ɔ-sɔ̀ɔp mâi dâai _________________ mâi kâo-jai kam-tǎam\n4. grung-têep-má-hǎan-kɔɔn mii táng rót-fai-fáa lɛ́ rót-fai-dtâai-din ________ kon grung-têep yang-kong jəə gàp bpan-hǎa rót-dtìt tɛ̂ɛp túk-wan\n5. nák-riian mii gaan-bâan yə́ mâak baang wan dtɔ̂ɔng tam-gaan-bâan ___________ mâi dâai nɔɔn\ntâa kun dtɔ̂ɔng dtâng tiim tam-ngaan nai bɔɔ-rí-sàt kun yàak-dâai kon ní-sǎi bɛ̀ɛp nǎi lɛ́ mâi yàak-dâai kon ní-sǎi bɛ̀ɛp nǎi maa tam-ngaan nai tiim yók-dtuua-yàang lɛ́ hèet-pǒn yàang lá 3 kɔ̂ɔ"
+        },
+        {
+          "page": "83",
+          "thai": "แบบฝึกหัดแต่งประโยค",
+          "thaiBody": "1. ข้อเสีย\n2. มองโลกในแง่ดี\n3. เพื่อนสนิท\n4. อารมณ์\n5. สุภาพ",
+          "zh-Hant": "使用「缺點、樂觀、摯友、情緒、有禮貌」各自造句。",
+          "en": "Make sentences with “weakness,” “optimistic,” “close friend,” “emotion,” and “polite.”",
+          "ja": "「短所・楽観的・親友・感情・礼儀正しい」を使って文を作ります。",
+          "ko": "단점, 낙관적이다, 친한 친구, 감정, 예의 바르다를 사용해 문장을 만듭니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt dtɛ̀ng bprà-yòok",
+          "romanizationBody": "1. kɔ̂ɔ-sǐia\n2. mɔɔng-lôok-nai-ngɛ̂ɛ-dii\n3. pʉ̂ʉan-sà-nìt\n4. aa-rom\n5. sù-pâap"
+        }
+      ]
+    },
+    {
+      "lesson": 7,
+      "layout": [
+        [
+          "main",
+          1,
+          11
+        ],
+        [
+          "vocabulary",
+          1,
+          25
+        ],
+        [
+          "notes",
+          1,
+          6
+        ],
+        [
+          "exercise",
+          1,
+          1
+        ],
+        [
+          "grammar",
+          1,
+          5
+        ],
+        [
+          "exercise",
+          2,
+          3
+        ]
+      ],
+      "exercises": [
+        {
+          "page": "93",
+          "thai": "แบบฝึกหัดถูก-ผิดและตอบคำถาม",
+          "thaiBody": "ข้อความต่อไปนี้ถูกหรือผิด\n1. พลอยกำลังจะไปงานแต่งงานของฝน\n2. อ้อยเพิ่งเลิกกับสามี\n3. สามีของอ้อยนิสัยดีแต่แม่สามีมีปัญหากับอ้อยบ่อย\n4. พลอยคิดว่าควรเก็บเงินไว้ดูแลตัวเองตอนแก่\n5. ฝนคิดว่าจริง ๆ แล้วพลอยน่าจะอยากแต่งงาน\nตอบคำถาม\n1. ทำไมฝนจะไปหาอ้อย\n2. ทำไมอ้อยหย่ากับสามี\n3. นักเรียนคิดว่า ทำไมพลอยถึงไม่อยากแต่งงาน\n4. ฝนเห็นด้วยกับพลอยหรือไม่ จงอธิบาย",
+          "zh-Hant": "判斷五個婚姻情節敘述正誤，再回答芬為何找奧伊、奧伊離婚原因、普洛伊不想結婚的原因，以及芬是否同意。",
+          "en": "Judge five marriage-story statements, then answer why Fon visits Oi, why Oi divorced, why Ploy may not want marriage, and whether Fon agrees.",
+          "ja": "結婚に関する五文の正誤を判断し、フォンがオーイを訪ねる理由、離婚理由、プロイが結婚したくない理由、フォンの賛否に答えます。",
+          "ko": "결혼 이야기 다섯 문장의 참·거짓을 판단한 뒤 폰이 어이를 찾아가는 이유, 이혼 이유, 플로이가 결혼을 원치 않는 이유, 폰의 동의 여부를 답합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt tùuk-pìt lɛ́ dtɔ̀ɔp-kam-tǎam",
+          "romanizationBody": "kɔ̂ɔ-kwaam dtɔ̀ɔ-bpai-níi tùuk rʉ̌ʉ pìt\n1. plɔɔi gam-lang-jà bpai ngaan-dtɛ̀ng-ngaan kɔ̌ɔng fǒn\n2. ɔ̂ɔi pə̂ng lə̂ək gàp sǎa-mii\n3. sǎa-mii kɔ̌ɔng ɔ̂ɔi ní-sǎi dii-dtɛ̀ɛ mɛ̂ɛ sǎa-mii mii-bpan-hǎa gàp ɔ̂ɔi bɔ̀ɔi\n4. plɔɔi kít wâa kuuan gèp ngən wái duu-lɛɛ-dtuua-eeng dtɔɔn gɛ̀ɛ\n5. fǒn kít wâa jing-jing lɛ́ɛo plɔɔi nâa-jà yàak dtɛ̀ng-ngaan\ndtɔ̀ɔp-kam-tǎam\n1. tam-mai fǒn jà bpai-hǎa ɔ̂ɔi\n2. tam-mai ɔ̂ɔi yàa gàp sǎa-mii\n3. nák-riian kít wâa tam-mai plɔɔi tʉ̌ng mâi yàak dtɛ̀ng-ngaan\n4. fǒn hěn-dûuai gàp plɔɔi rʉ̌ʉ-mâi jong à-tí-baai"
+        },
+        {
+          "page": "97",
+          "thai": "แบบฝึกหัด: เมื่อ เวลา ตอน พอ กว่า และแบบฝึกหัดการพูด",
+          "thaiBody": "คำสั่ง: จงเติมคำในช่องว่างด้วย เมื่อ เวลา ตอน พอ กว่า\n1. _________แต่งหน้า เขาชอบฟังเพลงสนุก ๆ\n2. _________ปีที่แล้ว ฉันยังเรียนอยู่ที่อินเท็นซีฟไทย\n3. _________ถึงออฟฟิศ ทุกคนก็เริ่มงานกันทันที\n4. _________เป็นเด็ก เขามักจะขี้แง\n5. _________เขาจะมา หนังก็ฉายไปกว่า 20 นาทีแล้ว\n6. _________ก่อน คนไทยใช้คลองในการคมนาคมขนส่ง\n7. _________จะได้กินข้าว โรงอาหารก็ปิดแล้ว\n8. _________หิวข้าวปุ๊บ เขาก็ไปซื้ออาหารปั๊บ\n9. _________นอน เขามักจะกรนเสียงดัง\n10. _________แปดโมงเช้า ฉันต้องไปทำงาน\nถ้านักเรียนต้องให้กำลังใจเพื่อนในสถานการณ์ต่อไปนี้ นักเรียนจะพูดอย่างไร\n1. เพื่อนทำของที่รักมากหาย\n2. เพื่อนสอบสัมภาษณ์งานไม่ผ่าน\n3. แมวที่เพื่อนรักมากเพิ่งตาย",
+          "zh-Hant": "在十句填入 mʉ̂a、wee-laa、dtɔɔn、phɔɔ 或 gwàa；再練習如何安慰遺失珍愛物、面試失敗或寵物離世的朋友。",
+          "en": "Fill ten sentences with mʉ̂a, wee-laa, dtɔɔn, phɔɔ, or gwàa; then practice comforting a friend who lost something precious, failed an interview, or lost a cat.",
+          "ja": "十文に mʉ̂a、wee-laa、dtɔɔn、phɔɔ、gwàa を入れ、大切な物をなくした、面接に落ちた、猫を亡くした友人を励ます言葉を練習します。",
+          "ko": "열 문장에 mʉ̂a, wee-laa, dtɔɔn, phɔɔ, gwàa를 넣고 소중한 물건을 잃거나 면접에 떨어지거나 고양이를 잃은 친구를 위로하는 말을 연습합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt: mʉ̂ʉa wee-laa dtɔɔn pɔɔ gwàa lɛ́ bɛ̀ɛp-fʉ̀k-hàt gaan pûut",
+          "romanizationBody": "kam-sàng: jong dtəəm kam nai chɔ̂ɔng-wâang dûuai mʉ̂ʉa wee-laa dtɔɔn pɔɔ gwàa\n1. _________dtɛ̀ng-nâa kǎo chɔ̂ɔp fang-pleeng sà-nùk sà-nùk\n2. _________bpii tîi-lɛ́ɛo chǎn yang riian yùu tîi in ten sii fá tai\n3. _________tʉ̌ng ɔ̀ɔf-fít túk-kon gɔ̂ɔ rə̂əm ngaan gan tan-tii\n4. _________bpen dèk kǎo mák-jà kîi-ngɛɛ\n5. _________kǎo jà maa nǎng gɔ̂ɔ chǎai bpai gwàa 20 naa-tii lɛ́ɛo\n6. _________gɔ̀ɔn kon-tai cháai klɔɔng nai gaan-ká-má-naa-kom kǒn-sòng\n7. _________jà dâai gin-kâao roong-aa-hǎan gɔ̂ɔ bpìt lɛ́ɛo\n8. _________hǐu-kâao bpúp kǎo gɔ̂ɔ bpai sʉ́ʉ aa-hǎan bpáp\n9. _________nɔɔn kǎo mák-jà gron sǐiang-dang\n10. _________bpɛ̀ɛt moong cháao chǎn dtɔ̂ɔng bpai tam-ngaan\ntâa nák-riian dtɔ̂ɔng hâi-gam-lang-jai pʉ̂ʉan nai sà-tǎa-ná-gaan dtɔ̀ɔ-bpai-níi nák-riian jà pûut yàang-rai\n1. pʉ̂ʉan tam kɔ̌ɔng tîi-rák mâak hǎai\n2. pʉ̂ʉan sɔ̀ɔp-sǎm-pâat ngaan mâi pàan\n3. mɛɛo tîi pʉ̂ʉan-rák mâak pə̂ng dtaai"
+        },
+        {
+          "page": "98",
+          "thai": "แบบฝึกหัดแต่งประโยค",
+          "thaiBody": "1. แต่งงาน\n2. ปลอบใจ\n3. ทะเลาะ\n4. โสด\n5. พอ.....ก็......\n6. กว่า.....ก็......",
+          "zh-Hant": "使用「結婚、安慰、爭吵、單身、phɔɔ…gɔ̂ɔ…、gwàa…gɔ̂ɔ…」各自造句。",
+          "en": "Make sentences with “marry,” “comfort,” “quarrel,” “single,” phɔɔ…gɔ̂ɔ…, and gwàa…gɔ̂ɔ….",
+          "ja": "「結婚する・慰める・けんかする・独身・phɔɔ…gɔ̂ɔ…・gwàa…gɔ̂ɔ…」を使って文を作ります。",
+          "ko": "결혼하다, 위로하다, 다투다, 미혼, phɔɔ…gɔ̂ɔ…, gwàa…gɔ̂ɔ…를 사용해 문장을 만듭니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt dtɛ̀ng bprà-yòok",
+          "romanizationBody": "1. dtɛ̀ng-ngaan\n2. bplɔ̀ɔp-jai\n3. tá-lɔ́ɔ\n4. sòot\n5. pɔɔ.....gɔ̂ɔ......\n6. gwàa.....gɔ̂ɔ......"
+        }
+      ]
+    },
+    {
+      "lesson": 8,
+      "layout": [
+        [
+          "main",
+          1,
+          5
+        ],
+        [
+          "vocabulary",
+          1,
+          36
+        ],
+        [
+          "exercise",
+          1,
+          2
+        ],
+        [
+          "grammar",
+          1,
+          1
+        ],
+        [
+          "exercise",
+          3,
+          3
+        ],
+        [
+          "grammar",
+          2,
+          2
+        ],
+        [
+          "exercise",
+          4,
+          4
+        ],
+        [
+          "grammar",
+          3,
+          3
+        ],
+        [
+          "exercise",
+          5,
+          5
+        ],
+        [
+          "grammar",
+          4,
+          4
+        ],
+        [
+          "exercise",
+          6,
+          6
+        ],
+        [
+          "grammar",
+          5,
+          5
+        ],
+        [
+          "exercise",
+          7,
+          8
+        ]
+      ],
+      "exercises": [
+        {
+          "page": "101",
+          "thai": "แบบฝึกหัดถูก-ผิด: ข้อความต่อไปนี้ถูกหรือผิด",
+          "thaiBody": "1. ____________ วัยเด็กเป็นวัยที่ต้องการความรักจากพ่อแม่\n2. ____________ วัยรุ่นเป็นวัยที่ร่างกายเจริญเติบโตอย่างเต็มที่\n3. ____________ เด็กจะนิสัยดีขึ้นอยู่กับสิ่งแวดล้อมและการเลี้ยงดู\n4. ____________ โดยทั่วไป ผู้ใหญ่จะมีความรับผิดชอบสูง\n5. ____________ คนชรามักจะรู้สึกหงุดหงิดและซึมเศร้าเพราะผมหงอกและผิวเหี่ยว",
+          "zh-Hant": "判斷五個人生階段敘述正誤，涵蓋兒童對愛的需求、青少年發育、教養環境、成人責任，以及老年情緒。",
+          "en": "Mark five life-stage statements true or false about children's need for love, adolescent growth, upbringing, adult responsibility, and emotions in old age.",
+          "ja": "子どもの愛情欲求、思春期の成長、養育環境、成人の責任、高齢期の感情について五文の正誤を判断します。",
+          "ko": "아동의 사랑 욕구, 청소년 성장, 양육 환경, 성인 책임, 노년의 감정에 관한 다섯 문장의 참·거짓을 판단합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt tùuk-pìt: kɔ̂ɔ-kwaam dtɔ̀ɔ-bpai-níi tùuk rʉ̌ʉ pìt",
+          "romanizationBody": "1. ____________ wai-dèk bpen wai tîi dtɔ̂ɔng-gaan kwaam-rák jàak pɔ̂ɔ-mɛ̂ɛ\n2. ____________ wai-rûn bpen wai tîi râang-gaai jà-rəən-dtə̀əp-dtoo yàang dtem-tîi\n3. ____________ dèk jà ní-sǎi dii kʉ̂n-yùu-gàp sìng-wɛ̂ɛt-lɔ́ɔm lɛ́ gaan líiang-duu\n4. ____________ dooi-tûua-bpai pûu-yài jà mii kwaam-ráp-phìt-chɔ̂ɔp sǔung\n5. ____________ kon-chá-raa mák-jà rúu-sʉ̀k ngùt-ngìt lɛ́ sʉm-sâo prɔ́ɔ pǒm-ngɔ̀ɔk lɛ́ phǐw hìiao"
+        },
+        {
+          "page": "102",
+          "thai": "แบบฝึกหัดตอบคำถาม",
+          "thaiBody": "1. ถ้าเด็กได้รับการเลี้ยงดูด้วยวิธีที่ถูกต้อง เด็กจะเป็นอย่างไร\n2. จากบทอ่าน เพราะเหตุใดพ่อแม่จึงควรดูแลลูกวัยรุ่นอย่างใกล้ชิด\n3. วัยที่ร่างกายเจริญเติบโตอย่างเต็มที่คือวัยใด\n4. วัยชราเป็นวัยที่ต้องพบกับความเปลี่ยนแปลงหลายอย่าง เช่นอะไรบ้าง\n5. เพราะเหตุใด ลูกหลานจึงควรให้ความรักและความเอาใจใส่แก่คนชรา",
+          "zh-Hant": "回答正確教養的結果、為何要密切照顧青少年、身體完全成長的階段、老年變化，以及晚輩為何應關愛長者。",
+          "en": "Answer about the result of proper upbringing, close care for adolescents, the fully grown stage, changes in old age, and why younger family members should care for elders.",
+          "ja": "適切な養育の結果、思春期の見守り、身体が完成する時期、高齢期の変化、若い家族が高齢者を気遣う理由に答えます。",
+          "ko": "올바른 양육의 결과, 청소년 밀착 돌봄, 신체가 완전히 성장하는 시기, 노년의 변화, 자손이 노인을 보살펴야 하는 이유에 답합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt dtɔ̀ɔp-kam-tǎam",
+          "romanizationBody": "1. tâa dèk dâai-ráp gaan líiang-duu dûuai wí-tii tîi tùuk-dtɔ̂ɔng dèk jà bpen yàang-rai\n2. jàak bòt àan prɔ́ɔ-hèet-dai pɔ̂ɔ-mɛ̂ɛ jʉng kuuan duu-lɛɛ lûuk wai-rûn yàang glâi-chít\n3. wai tîi râang-gaai jà-rəən-dtə̀əp-dtoo yàang dtem-tîi kʉʉ wai dai\n4. wai-chá-raa bpen wai tîi dtɔ̂ɔng póp gàp kwaam-bplìian-bplɛɛng lǎai-yàang chên à-rai bâang\n5. prɔ́ɔ-hèet-dai lûuk-lǎan jʉng kuuan hâi kwaam-rák lɛ́ kwaam-ao-jai-sai gɛ̀ɛ kon-chá-raa"
+        },
+        {
+          "page": "103",
+          "thai": "แบบฝึกหัด: โดยเฉพาะ",
+          "thaiBody": "คำสั่ง: จงเรียงคำในประโยคให้ถูกต้อง\nตัวอย่าง: (น้ำผลไม้/อาจารย์/โดยเฉพาะ/ดื่ม/ชอบ/ทุกวัน/น้ำส้ม)\nตอบ อาจารย์ชอบดื่มน้ำผลไม้ทุกวัน โดยเฉพาะน้ำส้ม\n1) (ประเภท/กีฬา/ชอบ/พี่ชาย/เทนนิส/ทุก/เล่น/โดยเฉพาะ)\n2) (หลาย/โรคมะเร็ง/อันตราย/ที่/มี/ปัจจุบันนี้/โรค/โดยเฉพาะ)\n3) (ทุก/นิยม/โดยเฉพาะ/วัย/คนไทย/โทรศัพท์ไอโฟน (iPhone)/ใช้/วัยรุ่น)",
+          "zh-Hant": "重排三組詞，使用 dooi-chà-phɔ́「尤其」造句；例題是老師每天喜歡喝果汁，尤其是柳橙汁。",
+          "en": "Reorder three word sets using dooi-chà-phɔ́ “especially”; the example says the teacher likes fruit juice every day, especially orange juice.",
+          "ja": "三組の語を並べ替え、dooi-chà-phɔ́「特に」を使います。例は先生が毎日果汁、特にオレンジジュースを好む文です。",
+          "ko": "세 단어 묶음을 재배열해 dooi-chà-phɔ́ ‘특히’를 사용합니다. 예문은 선생님이 매일 과일주스, 특히 오렌지주스를 좋아한다는 문장입니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt: dooi-chà-pɔ́ɔ",
+          "romanizationBody": "kam-sàng: jong riiang kam nai bprà-yòok hâi tùuk-dtɔ̂ɔng\ndtuua-yàang: (náam-pǒn-lá-máai/aa-jaan/dooi-chà-pɔ́ɔ/dʉ̀ʉm/chɔ̂ɔp/túk-wan/náam-sôm)\ndtɔ̀ɔp aa-jaan chɔ̂ɔp dʉ̀ʉm náam-pǒn-lá-máai túk-wan dooi-chà-pɔ́ɔ náam-sôm\n1) (bprà-pêet/gii-laa/chɔ̂ɔp/pîi-chaai/teen-nít/túk/lên/dooi-chà-pɔ́ɔ)\n2) (lǎai/rôok-má-reng/an-dtà-raai/tîi/mii/bpàt-jù-ban-níi/rôok/dooi-chà-pɔ́ɔ)\n3) (túk/ní-yom/dooi-chà-pɔ́ɔ/wai/kon-tai/too-rá-sàp ai-foon (iPhone)/cháai/wai-rûn)"
+        },
+        {
+          "page": "104",
+          "thai": "แบบฝึกหัด: แต่ละ",
+          "thaiBody": "คำสั่ง: ใช้ข้อมูลต่อไปนี้แต่งประโยคโดยให้มีคำว่า “แต่ละ”\nตัวอย่าง ข้อมูล: ผลไม้บนโต๊ะรสชาติไม่เหมือนกัน\nตอบ: ผลไม้แต่ละชนิดบนโต๊ะรสชาติไม่เหมือนกัน\n1) ข้อมูล: แมวในร้าน Cat Cafe กำลังเล่นกับลูกค้า\n2) ข้อมูล: ร้านอาหารมีเมนู (menu) พิเศษ\n3) ข้อมูล: ตำรวจพยายามจับขโมย\n4) ข้อมูล: นักฟุตบอลทีมชาติไทยสูงไม่เท่ากัน",
+          "zh-Hant": "依四組資料用 dtɛ̀ɛ-lá「每一個」造句，練習搭配合適的量詞。",
+          "en": "Use four information sets to make sentences with dtɛ̀ɛ-lá “each,” choosing an appropriate classifier.",
+          "ja": "四組の情報から、適切な類別詞と dtɛ̀ɛ-lá「それぞれ」を使って文を作ります。",
+          "ko": "네 정보 묶음으로 알맞은 분류사와 dtɛ̀ɛ-lá ‘각각’을 사용해 문장을 만듭니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt: dtɛ̀ɛ-lá",
+          "romanizationBody": "kam-sàng: cháai kɔ̂ɔ-muun dtɔ̀ɔ-bpai-níi dtɛ̀ng bprà-yòok dooi hâi mii kam wâa “dtɛ̀ɛ-lá”\ndtuua-yàang kɔ̂ɔ-muun: pǒn-lá-máai bon dtó rót-châat mâi mʉ̌ʉan-gan\ndtɔ̀ɔp: pǒn-lá-máai dtɛ̀ɛ-lá chá-nít bon dtó rót-châat mâi mʉ̌ʉan-gan\n1) kɔ̂ɔ-muun: mɛɛo nai ráan Cat Cafe gam-lang lên gàp lûuk-káa\n2) kɔ̂ɔ-muun: ráan-aa-hǎan mii mee-nuu (menu) pí-sèet\n3) kɔ̂ɔ-muun: dtam-rùuat pá-yaa-yaam jàp kà-mooi\n4) kɔ̂ɔ-muun: nák-fút-bɔɔn tiim châat tai sǔung mâi tâo-gan"
+        },
+        {
+          "page": "105",
+          "thai": "แบบฝึกหัด: ต่าง",
+          "thaiBody": "คำสั่ง: จงแปลประโยคเหล่านี้ให้เป็นภาษาไทย\n1) Students read books at home (not together.)\n2) Children play sport (not together.)\n3) Children eat fruits (not together.)\n4) Housekeepers do housework (not together.)\n5) Teachers watch television (not together.)",
+          "zh-Hant": "把五句英文翻成泰文，使用 dtàang 表示學生、兒童、管家或老師各自做同一件事，而不是一起做。",
+          "en": "Translate five sentences into Thai using dtàang to show students, children, housekeepers, or teachers doing the same action separately, not together.",
+          "ja": "五つの英文を、学生・子ども・家政婦・教師が同じ行為を別々にすることを示す dtàang を使ってタイ語に訳します。",
+          "ko": "학생, 아이, 가사도우미, 교사가 같은 행동을 함께가 아니라 각자 한다는 뜻의 dtàang을 사용해 다섯 영어 문장을 태국어로 번역합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt: dtàang",
+          "romanizationBody": "kam-sàng: jong bplɛɛ bprà-yòok lào-níi hâi bpen paa-sǎa-tai\n1) Students read books at home (not together.)\n2) Children play sport (not together.)\n3) Children eat fruits (not together.)\n4) Housekeepers do housework (not together.)\n5) Teachers watch television (not together.)"
+        },
+        {
+          "page": "106",
+          "thai": "แบบฝึกหัด: ต่าง ๆ",
+          "thaiBody": "คำสั่ง: จงนำข้อมูลที่กำหนดและคำว่า “ต่าง ๆ” มาแต่งประโยคให้สมบูรณ์\nตัวอย่าง ข้อมูล: แม่ค้า/ทอด/แมลง (ตั๊กแตนและหนอน)/ซื้อ/ไป\nตอบ แม่ค้าซื้อแมลงต่าง ๆ ไปทอด\n1) ลูกค้า/เครื่องใช้ไฟฟ้า (โทรทัศน์ วิทยุ และตู้เย็น)/ซื้อ\n2) ชาวต่างชาติ/ในประเทศไทย/จังหวัด (ภูเก็ต เชียงใหม่ และอยุธยา)/ไปเที่ยว\n3) วัยรุ่น/เวลาว่าง/กีฬา (ฟุตบอล เทนนิส ปิงปอง)/เล่น",
+          "zh-Hant": "依三組資料用 dtàang-dtàang「各式各樣」完成句子，內容是電器、泰國府份與運動。",
+          "en": "Use three information sets with dtàang-dtàang “various” to form sentences about electrical appliances, Thai provinces, and sports.",
+          "ja": "三組の情報と dtàang-dtàang「さまざまな」を使い、電化製品、タイの県、スポーツについて文を作ります。",
+          "ko": "세 정보 묶음과 dtàang-dtàang ‘여러 가지’를 사용해 가전제품, 태국 지방, 스포츠에 관한 문장을 만듭니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt: dtàang-dtàang",
+          "romanizationBody": "kam-sàng: jong nam kɔ̂ɔ-muun tîi gam-nòt lɛ́ kam wâa “dtàang-dtàang” maa dtɛ̀ng bprà-yòok hâi sǒm-buun\ndtuua-yàang kɔ̂ɔ-muun: mɛ̂ɛ-káa/tɔ̂ɔt/má-lɛɛng (dták-gà-dtɛɛn lɛ́ nɔ̌ɔn)/sʉ́ʉ/bpai\ndtɔ̀ɔp mɛ̂ɛ-káa sʉ́ʉ má-lɛɛng dtàang-dtàang bpai tɔ̂ɔt\n1) lûuk-káa/krʉ̂ʉang-chái-fai-fáa (too-rá-tát wít-tá-yú lɛ́ dtûu-yen)/sʉ́ʉ\n2) chaao-dtàang-châat/nai-bprà-têet tai/jang-wàt (puu-gèt chiiang-mài lɛ́ à-yút-tá-yaa)/bpai-tîiao\n3) wai-rûn/wee-laa-wâang/gii-laa (fút-bɔɔn teen-nít bping-bpɔɔng)/lên"
+        },
+        {
+          "page": "108–109",
+          "thai": "แบบฝึกหัด: ประโยคกรรมวาจก และคำทบทวน",
+          "thaiBody": "จงทำประโยคต่อไปนี้ให้เป็นประโยคกรรมวาจกที่ถูกต้อง\nตัวอย่าง พี่สาวตบ (to slap) เพื่อน\nคำตอบ เพื่อนถูกพี่สาวตบ\n1) พ่อค้าโกงนักท่องเที่ยว\n2) ลุงหลอกป้า\n3) นักมวยเตะคนขับรถ\n4) อาจารย์ถูกเชิญไปบรรยายที่มหาวิทยาลัยในต่างจังหวัด\n5) เขาถูกเลือกให้เป็นนางสาวไทย\nจงใช้คำในวงเล็บเติมลงในประโยค (แต่ละ/ต่าง/ต่าง ๆ/ถูก/โดน/ได้รับ)\n1) นักเรียน_________อ่านหนังสือที่บ้านของตนเอง เพราะห้องสมุดปิด\n2) น้องสาว__________________งูกัดหลังบ้าน\n3) ร้าน Kinokuniya มีหนังสือ__________ที่น่าสนใจ เราควรซื้อมาอ่าน\n4) ในวันพ่อแห่งชาติ บ้าน_____________หลังจะติดธงชาติไว้หน้าบ้าน\n5) ลูกค้าที่ไปซื้อเสื้อที่ตลาดนัด_______________________คนขายโกง\n6) กระเป๋า_________________ใบของฉันราคาไม่ต่ำกว่า 10,000 บาท\n7) คุณหมอคนนั้น________________เชิญไปพูดในงานแต่งงาน",
+          "zh-Hant": "先把五句改成正確的被動句，再用 dtɛ̀ɛ-lá、dtàang、dtàang-dtàang、thùuk、doon 或 dâi-ráp 完成七句複習題。",
+          "en": "First turn five sentences into correct passives; then complete seven review sentences with dtɛ̀ɛ-lá, dtàang, dtàang-dtàang, thùuk, doon, or dâi-ráp.",
+          "ja": "まず五文を正しい受動文にし、dtɛ̀ɛ-lá、dtàang、dtàang-dtàang、thùuk、doon、dâi-ráp で七つの復習文を完成します。",
+          "ko": "먼저 다섯 문장을 올바른 피동문으로 바꾸고 dtɛ̀ɛ-lá, dtàang, dtàang-dtàang, thùuk, doon, dâi-ráp으로 일곱 복습 문장을 완성합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt: bprà-yòok gam-má-waa-jòk lɛ́ kam tóp-tuuan",
+          "romanizationBody": "jong tam bprà-yòok dtɔ̀ɔ-bpai-níi hâi bpen bprà-yòok gam-má-waa-jòk tîi tùuk-dtɔ̂ɔng\ndtuua-yàang pîi-sǎao dtòp (to slap) pʉ̂ʉan\nkam-dtɔ̀ɔp pʉ̂ʉan tùuk pîi-sǎao dtòp\n1) pɔ̂ɔ-káa goong nák-tɔ̂ɔng-tîiao\n2) lung lɔ̀ɔk bpâa\n3) nák-muuai dtè kon-kàp-rót\n4) aa-jaan tùuk chəən bpai ban-yaai tîi má-hǎa-wít-tá-yaa-lai nai dtàang-jang-wàt\n5) kǎo tùuk lʉ̂ʉak hâi bpen naang-sǎao-tai\njong cháai kam nai wong-lép dtəəm long nai bprà-yòok (dtɛ̀ɛ-lá/dtàang/dtàang-dtàang/tùuk/doon/dâai-ráp)\n1) nák-riian_________àan-náng-sʉ̌ʉ tîi bâan kɔ̌ɔng dton-eeng prɔ́ɔ hɔ̂ɔng-sà-mùt bpìt\n2) nɔ́ɔng-sǎao__________________nguu gàt lǎng-bâan\n3) ráan Kinokuniya mii nǎng-sʉ̌ʉ__________tîi nâa-sǒn-jai rao kuuan sʉ́ʉ maa àan\n4) nai wan pɔ̂ɔ hɛ̀ng-châat bâan_____________lǎng jà dtìt tong-châat wái nâa-bâan\n5) lûuk-káa tîi bpai sʉ́ʉ sʉ̂ʉa tîi dtà-làat-nát_______________________kon kǎai goong\n6) grà-bpǎo_________________bai kɔ̌ɔng chǎn raa-kaa mâi dtàm-gwàa 10,000 bàat\n7) kun-mɔ̌ɔ kon nán________________chəən bpai pûut nai ngaan-dtɛ̀ng-ngaan"
+        },
+        {
+          "page": "109–110",
+          "thai": "แบบฝึกหัดการพูดและแต่งประโยค",
+          "thaiBody": "นักเรียนคิดว่า ความรักมีสีอะไร เพราะอะไร (เช่น สีแดง เพราะสีแดงเป็นสีของเลือดในร่างกายของเรา เลือดส่งมาจากหัวใจและทำให้เรามีชีวิต ความรักก็ทำให้เรามีชีวิตอยู่)\nแต่งประโยค\n1. โดยเฉพาะ\n2. แต่ละ\n3. ต่าง ๆ\n4. โดยทั่วไป\n5. ถูก\n6. เอาใจใส่",
+          "zh-Hant": "口說：愛情是什麼顏色，為什麼？造句：使用「尤其、每一、各式各樣、一般而言、被、關心」。",
+          "en": "Speaking: What color is love, and why? Make sentences with dooi-chà-phɔ́, dtɛ̀ɛ-lá, dtàang-dtàang, dooi-tûua-bpai, thùuk, and ao-jai-sài.",
+          "ja": "会話：愛は何色で、なぜか。作文：dooi-chà-phɔ́、dtɛ̀ɛ-lá、dtàang-dtàang、dooi-tûua-bpai、thùuk、ao-jai-sài を使います。",
+          "ko": "말하기: 사랑은 무슨 색이며 그 이유는 무엇인지 말합니다. 문장 만들기: dooi-chà-phɔ́, dtɛ̀ɛ-lá, dtàang-dtàang, dooi-tûua-bpai, thùuk, ao-jai-sài를 사용합니다.",
+          "romanization": "bɛ̀ɛp-fʉ̀k-hàt gaan pûut lɛ́ dtɛ̀ng bprà-yòok",
+          "romanizationBody": "nák-riian kít wâa kwaam-rák mii sǐi à-rai prɔ́ɔ-à-rai (chên sǐi-dɛɛng prɔ́ɔ sǐi-dɛɛng bpen sǐi kɔ̌ɔng lʉ̂ʉat nai râang-gaai kɔ̌ɔng rao lʉ̂ʉat sòng maa-jàak hǔua-jai lɛ́ tam-hâi rao mii-chii-wít kwaam-rák gɔ̂ɔ tam-hâi rao mii-chii-wít yùu)\ndtɛ̀ng bprà-yòok\n1. dooi-chà-pɔ́ɔ\n2. dtɛ̀ɛ-lá\n3. dtàang-dtàang\n4. dooi-tûua-bpai\n5. tùuk\n6. ao-jai-sai"
+        }
+      ]
+    }
+  ]
+}

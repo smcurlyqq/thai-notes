@@ -1,55 +1,215 @@
 {
-  "schemaVersion": 1,
-  "scope": "level-4-lessons-1-8",
-  "totalUnitCount": 100,
+  "schemaVersion": 2,
+  "scope": "level-4-lessons-1-8-complete-textbook-order",
+  "totalUnitCount": 443,
   "lessons": [
     {
       "lesson": 1,
       "kind": "dialogue",
-      "unitCount": 13,
-      "orderedThaiSha256": "87ec06d2ccc6e2c451320d8704ba7b59a83909878a8990f6bfe71a72626573cd"
+      "categories": {
+        "main": {
+          "unitCount": 13,
+          "orderedPageAndThaiSha256": "dff14f2eeaf7e540da7e6e5ad93bda58930094465bbd6c54a309fb5da8996d7c"
+        },
+        "vocabulary": {
+          "unitCount": 19,
+          "orderedPageAndThaiSha256": "b757dc443c3074ccd0bf5ef0d7b1ac9226926cb4c61245a65d8579a294f3f9f7"
+        },
+        "notes": {
+          "unitCount": 6,
+          "orderedPageAndThaiSha256": "28d52889fac3ddacd406887ae8cf6d6efa9dfd127498903ad67768a359f32943"
+        },
+        "grammar": {
+          "unitCount": 7,
+          "orderedPageAndThaiSha256": "d1f996b7b4182a68b3481f47176d25cf6c8b914b2bfae2a79fc968e1a0316422"
+        },
+        "exercise": {
+          "unitCount": 6,
+          "orderedPageAndThaiSha256": "120538933069970c869b8ff4ad741c1fcda450cb5b4a1397c73e794a43c35511"
+        }
+      }
     },
     {
       "lesson": 2,
       "kind": "reading",
-      "unitCount": 20,
-      "orderedThaiSha256": "572745f45996c5cfa73c69902658a5936e1d8366792ce6c103e3882210b539f3"
+      "categories": {
+        "main": {
+          "unitCount": 20,
+          "orderedPageAndThaiSha256": "38e71a65c3595f7a6ae2fc7deed7b2c6b3dd026ef26f5cbb389f0a6a0782204e"
+        },
+        "vocabulary": {
+          "unitCount": 37,
+          "orderedPageAndThaiSha256": "611e3798f64bf17c31690b3c92d4fe5f683ae313b28bbef65e1b7d8ef2cbd6ce"
+        },
+        "notes": {
+          "unitCount": 0,
+          "orderedPageAndThaiSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "grammar": {
+          "unitCount": 9,
+          "orderedPageAndThaiSha256": "b7de3dccef0f371c406239bccf1a77c94f2aab1a7eb0a52b7684a732cee7a3e7"
+        },
+        "exercise": {
+          "unitCount": 4,
+          "orderedPageAndThaiSha256": "2dc829b0287107093967031ddeda6f57d51fffcb20da7e22c850aee00f8598f8"
+        }
+      }
     },
     {
       "lesson": 3,
       "kind": "dialogue",
-      "unitCount": 16,
-      "orderedThaiSha256": "d6f9978daa7e0962904877dadcb92676a96ff0921d828a6a81c675f9c4a6193c"
+      "categories": {
+        "main": {
+          "unitCount": 16,
+          "orderedPageAndThaiSha256": "18064bb79282e414f10452c35f5acc90bce28b947e3670f19f8c282c374ee260"
+        },
+        "vocabulary": {
+          "unitCount": 17,
+          "orderedPageAndThaiSha256": "820e250206beb6e9f474c5569bd852307d8772d3ffc74aa04248af1ad26f0e5e"
+        },
+        "notes": {
+          "unitCount": 5,
+          "orderedPageAndThaiSha256": "bd7ab1addc36c678af2c4fbd96ff121ab18051b597bc622d6e5c6fc970c066d3"
+        },
+        "grammar": {
+          "unitCount": 15,
+          "orderedPageAndThaiSha256": "380664f1024a1a8e5839049e13adca381ee7228b964d65e63b1011d1eee83c2f"
+        },
+        "exercise": {
+          "unitCount": 4,
+          "orderedPageAndThaiSha256": "39a83e28ef0a23f3a8f6c36993884dc178be258f781b4a0b7c205761cc94561b"
+        }
+      }
     },
     {
       "lesson": 4,
       "kind": "reading",
-      "unitCount": 8,
-      "orderedThaiSha256": "e809d404d965a09bf97bcecb6e0fc5353d784072013bd13f75d552054d19196c"
+      "categories": {
+        "main": {
+          "unitCount": 8,
+          "orderedPageAndThaiSha256": "3f0f6aa37600c307708554a26b62383de1f7c6d7673767c3a2c5f54a1048188d"
+        },
+        "vocabulary": {
+          "unitCount": 27,
+          "orderedPageAndThaiSha256": "32c1f1026332432520cde6d9b307cbdcacc457f4c6a2d9d020d9e742ae1fa687"
+        },
+        "notes": {
+          "unitCount": 0,
+          "orderedPageAndThaiSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "grammar": {
+          "unitCount": 7,
+          "orderedPageAndThaiSha256": "b320f845d64516e7bc41e97c3d48f8441ff8cbbb37198d989da7bb5ca70b2b32"
+        },
+        "exercise": {
+          "unitCount": 4,
+          "orderedPageAndThaiSha256": "754bb9466219fb657f8160670a7360f7c947c2d92cc63c9aa73bd1de328583ec"
+        }
+      }
     },
     {
       "lesson": 5,
       "kind": "dialogue",
-      "unitCount": 15,
-      "orderedThaiSha256": "e37e1eeb998c6296011443af9df53f038a56d1aadde8b0f4625b95e42ce61f62"
+      "categories": {
+        "main": {
+          "unitCount": 15,
+          "orderedPageAndThaiSha256": "f7c6f35e980ab2d7e9a38266a6c0dbf194e2768d427278cb2678768cd0e30b97"
+        },
+        "vocabulary": {
+          "unitCount": 12,
+          "orderedPageAndThaiSha256": "f9a353a72cc0b5da4d882b5d09fd34ae716449e221b7a347752c42a94d421dc5"
+        },
+        "notes": {
+          "unitCount": 9,
+          "orderedPageAndThaiSha256": "04b6cf675cf3f2739662cf4d53acf5b49b04308faf2c147da88c40471012b3b1"
+        },
+        "grammar": {
+          "unitCount": 6,
+          "orderedPageAndThaiSha256": "4755410c1929b056712aa29866338c133262b1bc496d2782f33fd03d17ebe3f2"
+        },
+        "exercise": {
+          "unitCount": 4,
+          "orderedPageAndThaiSha256": "bca364d686ef86474db6782accbabb936b7fa3c571785e370b9397c581409bd2"
+        }
+      }
     },
     {
       "lesson": 6,
       "kind": "reading",
-      "unitCount": 12,
-      "orderedThaiSha256": "4a25c3ecadd584db79fcdc7c16980bbffd1d89757b74ecd769f49d2ab494eb2b"
+      "categories": {
+        "main": {
+          "unitCount": 12,
+          "orderedPageAndThaiSha256": "6c0ff6c50fddca0fa56b5e7f275352d21325b5a1fc1e9f60b0953029938678a0"
+        },
+        "vocabulary": {
+          "unitCount": 48,
+          "orderedPageAndThaiSha256": "7d6cc8a3bc9c14813b3775631cf87791bc7ba6ce7560c5c65a6692625f18317b"
+        },
+        "notes": {
+          "unitCount": 0,
+          "orderedPageAndThaiSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "grammar": {
+          "unitCount": 6,
+          "orderedPageAndThaiSha256": "0c4ad3d5d68dd8123b6f95f9dc2761f069e0a5df35170a15dc8889d812a9d970"
+        },
+        "exercise": {
+          "unitCount": 3,
+          "orderedPageAndThaiSha256": "ff2ae8979a0d952fdf6e980598a7901e01f342e2d0abe1b6d9ba517d625169db"
+        }
+      }
     },
     {
       "lesson": 7,
       "kind": "dialogue",
-      "unitCount": 11,
-      "orderedThaiSha256": "ecd0dd6c5e6f4d5f3751621e6ae8048d9c206cd30bdff34e74b8575c2f4c4571"
+      "categories": {
+        "main": {
+          "unitCount": 11,
+          "orderedPageAndThaiSha256": "7fc3cbb99c2be36b95be440245c37e620ebc9ad688d25cf0792d97825a78ddcc"
+        },
+        "vocabulary": {
+          "unitCount": 25,
+          "orderedPageAndThaiSha256": "a3b2d530918a44bef1e615071cb1cf1fff7ec0c07a9c6463b06c043c5ed6ebc0"
+        },
+        "notes": {
+          "unitCount": 6,
+          "orderedPageAndThaiSha256": "51816f0943bcb343e7276cd7f5965f60947ac5cce333e15d3fe7aab82976cfd7"
+        },
+        "grammar": {
+          "unitCount": 5,
+          "orderedPageAndThaiSha256": "521fa9497e765eb8a092f09990d719a3aa478e5370cc034f416ff491b9a079d1"
+        },
+        "exercise": {
+          "unitCount": 3,
+          "orderedPageAndThaiSha256": "879ee8043748c1c49bdd58b90d6676b0666672314c5403d4ce07bd17dbeac44f"
+        }
+      }
     },
     {
       "lesson": 8,
       "kind": "reading",
-      "unitCount": 5,
-      "orderedThaiSha256": "4d6e94203a7f0cec15bd3430e80895de5fed9c05c826e9f0ee83902a48998f7f"
+      "categories": {
+        "main": {
+          "unitCount": 5,
+          "orderedPageAndThaiSha256": "4ce5be40daa232df40454e43fa96be4f0a1f82a95359bc4424708ff81df887c2"
+        },
+        "vocabulary": {
+          "unitCount": 36,
+          "orderedPageAndThaiSha256": "1bc776f620202e5ade8259483e65c9d8d04fb072271ac927f64b36cfef826acb"
+        },
+        "notes": {
+          "unitCount": 0,
+          "orderedPageAndThaiSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        "grammar": {
+          "unitCount": 5,
+          "orderedPageAndThaiSha256": "32b23ad427108a165d30ef0d2f4e947e52661ed97bb3c8ecf08e91fdeae6dfd7"
+        },
+        "exercise": {
+          "unitCount": 8,
+          "orderedPageAndThaiSha256": "c8116842cbc1b5fe7b7e7ab208b46dbe7d7916783f229824407790d60ee87768"
+        }
+      }
     }
   ]
 }

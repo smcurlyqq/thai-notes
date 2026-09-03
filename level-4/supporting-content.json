@@ -1,0 +1,3009 @@
+{
+  "schemaVersion": 2,
+  "scope": "level-4-lessons-1-8-complete-non-exercise-content",
+  "lessons": [
+    {
+      "lesson": 1,
+      "vocabulary": [
+        {
+          "page": "8",
+          "thai": "ช่วงนี้",
+          "romanization": "chûuang-níi",
+          "zh-Hant": "最近、這陣子",
+          "en": "these days",
+          "ja": "最近、この頃",
+          "ko": "요즘, 최근"
+        },
+        {
+          "page": "8",
+          "thai": "เมื่อก่อน",
+          "romanization": "mʉ̂a-gɔ̀ɔn",
+          "zh-Hant": "以前、從前",
+          "en": "in the past",
+          "ja": "以前、昔",
+          "ko": "예전에"
+        },
+        {
+          "page": "8",
+          "thai": "หมอน",
+          "romanization": "mɔ̌ɔn",
+          "zh-Hant": "枕頭",
+          "en": "pillow",
+          "ja": "枕",
+          "ko": "베개"
+        },
+        {
+          "page": "8",
+          "thai": "หลับ",
+          "romanization": "làp",
+          "zh-Hant": "睡著",
+          "en": "to be asleep",
+          "ja": "眠る",
+          "ko": "잠들다"
+        },
+        {
+          "page": "8",
+          "thai": "แทบ",
+          "romanization": "tɛ̂ɛp",
+          "zh-Hant": "幾乎",
+          "en": "almost",
+          "ja": "ほとんど",
+          "ko": "거의"
+        },
+        {
+          "page": "8",
+          "thai": "กรน",
+          "romanization": "gron",
+          "zh-Hant": "打呼",
+          "en": "to snore",
+          "ja": "いびきをかく",
+          "ko": "코를 골다"
+        },
+        {
+          "page": "8",
+          "thai": "มึน",
+          "romanization": "mʉn",
+          "zh-Hant": "頭暈、昏沉",
+          "en": "dizzy",
+          "ja": "めまいがする",
+          "ko": "어지럽다"
+        },
+        {
+          "page": "8",
+          "thai": "สงสัย",
+          "romanization": "sǒng-sǎi",
+          "zh-Hant": "懷疑；想知道",
+          "en": "to wonder; to doubt",
+          "ja": "疑う；不思議に思う",
+          "ko": "의심하다; 궁금해하다"
+        },
+        {
+          "page": "8",
+          "thai": "เผื่อ",
+          "romanization": "pʉ̀ʉa",
+          "zh-Hant": "以防、萬一",
+          "en": "in case",
+          "ja": "念のため、万一に備えて",
+          "ko": "혹시 몰라, 만일에 대비해"
+        },
+        {
+          "page": "8",
+          "thai": "โรค",
+          "romanization": "rôok",
+          "zh-Hant": "疾病",
+          "en": "disease",
+          "ja": "病気",
+          "ko": "질병"
+        },
+        {
+          "page": "8",
+          "thai": "ร้ายแรง",
+          "romanization": "ráai-rɛɛng",
+          "zh-Hant": "嚴重的",
+          "en": "severe",
+          "ja": "深刻な",
+          "ko": "심각한"
+        },
+        {
+          "page": "8",
+          "thai": "รักษา",
+          "romanization": "rák-sǎa",
+          "zh-Hant": "治療",
+          "en": "to cure; to treat",
+          "ja": "治療する",
+          "ko": "치료하다"
+        },
+        {
+          "page": "8",
+          "thai": "ทัน",
+          "romanization": "tan",
+          "zh-Hant": "及時、來得及",
+          "en": "in time",
+          "ja": "間に合って",
+          "ko": "제때, 늦지 않게"
+        },
+        {
+          "page": "8",
+          "thai": "เครียด",
+          "romanization": "krîiat",
+          "zh-Hant": "有壓力、緊張",
+          "en": "stressed",
+          "ja": "ストレスがたまった",
+          "ko": "스트레스를 받는"
+        },
+        {
+          "page": "9",
+          "thai": "มื้อ",
+          "romanization": "mʉ́ʉ",
+          "zh-Hant": "一餐",
+          "en": "meal",
+          "ja": "食事",
+          "ko": "끼니"
+        },
+        {
+          "page": "9",
+          "thai": "ดึก",
+          "romanization": "dʉ̀k",
+          "zh-Hant": "深夜、很晚",
+          "en": "late at night",
+          "ja": "夜遅く",
+          "ko": "밤늦게"
+        },
+        {
+          "page": "9",
+          "thai": "เดี๋ยว",
+          "romanization": "dǐiao",
+          "zh-Hant": "等一下；不然",
+          "en": "in a moment; otherwise",
+          "ja": "すぐに；さもないと",
+          "ko": "잠시 후; 그러지 않으면"
+        },
+        {
+          "page": "9",
+          "thai": "หาย",
+          "romanization": "hǎai",
+          "zh-Hant": "痊癒、消失",
+          "en": "to recover",
+          "ja": "治る、なくなる",
+          "ko": "낫다, 사라지다"
+        },
+        {
+          "page": "9",
+          "thai": "กรดไหลย้อน",
+          "romanization": "gròt-lǎi-yɔ́ɔn",
+          "zh-Hant": "胃食道逆流",
+          "en": "GERD; acid reflux",
+          "ja": "胃食道逆流症",
+          "ko": "위식도 역류 질환"
+        }
+      ],
+      "notes": [
+        {
+          "page": "9",
+          "thai": "(พอ)…ปุ๊บ (ก็)…ปั๊บ",
+          "thaiBody": "หมายถึง ทันทีที่เกิดเหตุการณ์ที่หนึ่ง ก็จะเกิดเหตุการณ์ที่สองตามมาทันที\n1) พอหัวถึงหมอนปุ๊บ ก็หลับปั๊บ\n2) มาถึงปุ๊บ ก็เริ่มงานปั๊บ",
+          "zh-Hant": "表示第一件事一發生，第二件事就立刻接著發生。\n1）頭一碰到枕頭，就馬上睡著。\n2）一到就立刻開始工作。",
+          "en": "As soon as the first event happens, the second follows immediately.\n1) As soon as my head hit the pillow, I fell asleep.\n2) As soon as I arrived, I started work.",
+          "ja": "最初の出来事が起きると、二つ目の出来事がすぐ続くことを表します。\n1）頭が枕についた途端、眠りました。\n2）到着するとすぐ仕事を始めました。",
+          "ko": "첫 번째 일이 일어나자마자 두 번째 일이 바로 이어짐을 나타냅니다.\n1) 머리가 베개에 닿자마자 잠들었습니다.\n2) 도착하자마자 일을 시작했습니다.",
+          "romanization": "(pɔɔ)…bpúp (gɔ̂ɔ)…bpáp",
+          "romanizationBody": "mǎai-tʉ̌ng tan-tii tîi-gə̀ət hèet-gaan tîi-nʉ̀ng gɔ̂ɔ jà gə̀ət hèet-gaan tîi-sɔ̌ɔng dtaam-maa tan-tii\n1) pɔɔ hǔua tʉ̌ng mɔ̌ɔn bpúp gɔ̂ɔ làp bpáp\n2) maa-tʉ̌ng bpúp gɔ̂ɔ rə̂əm ngaan bpáp"
+        },
+        {
+          "page": "9",
+          "thai": "หามรุ่งหามค่ำ",
+          "thaiBody": "หมายถึงการทำงานหนักจนดึก\n1) พักนี้เขาต้องอ่านหนังสือหามรุ่งหามค่ำ เพราะเป็นช่วงใกล้สอบ\n2) หมู่นี้งานหนัก ทำงานหามรุ่งหามค่ำแทบทุกวัน",
+          "zh-Hant": "指辛苦工作到深夜，類似「焚膏繼晷」。\n1）最近接近考試，他必須日夜苦讀。\n2）最近工作繁重，幾乎每天都沒日沒夜地工作。",
+          "en": "To work hard until late at night; similar to “burn the midnight oil.”\n1) He has to study day and night because exams are near.\n2) Work is heavy lately, so I work day and night almost every day.",
+          "ja": "夜遅くまで懸命に働くことです。\n1）試験が近いので、最近は昼夜を問わず勉強しなければなりません。\n2）最近仕事が忙しく、ほぼ毎日夜遅くまで働いています。",
+          "ko": "밤늦게까지 열심히 일하거나 공부한다는 뜻입니다.\n1) 시험이 가까워서 요즘 밤낮으로 공부해야 합니다.\n2) 요즘 일이 많아 거의 매일 밤낮으로 일합니다.",
+          "romanization": "hǎam-rûng-hǎam-kâm",
+          "romanizationBody": "mǎai-tʉ̌ng gaan tam-ngaan-nàk jon dʉ̀k\n1) pák níi kǎo dtɔ̂ɔng àan-náng-sʉ̌ʉ hǎam-rûng-hǎam-kâm prɔ́ɔ bpen-chûuang glâi sɔ̀ɔp\n2) níi ngaan-nàk tam-ngaan hǎam-rûng-hǎam-kâm tɛ̂ɛp túk-wan"
+        },
+        {
+          "page": "10",
+          "thai": "บ้างหรือเปล่า (ภาษาพูด: มั่งเปล่า)",
+          "thaiBody": "ใช้ถามว่าช่วงที่ผ่านมา เช่น สองสามสัปดาห์ ได้ทำอะไรหรือไม่\n1) ก: หมู่นี้ผอมจัง กินข้าวบ้างหรือเปล่า\n   ข: กิน แต่ไม่อ้วน\n2) ก: วันหยุด ได้ไปเที่ยวไหนบ้างหรือเปล่า\n   ข: ไม่ได้ไปเลย งานยุ่งมาก",
+          "zh-Hant": "用來詢問對方在最近一段時間是否有做過某事；口語可說 mâng-bplào。\n1）最近好瘦，有沒有好好吃飯？——有吃，只是沒胖。\n2）放假有去哪裡玩嗎？——完全沒去，工作很忙。",
+          "en": "Asks whether someone has done something during a recent period; mâng-bplào is the colloquial form.\n1) You look thin lately. Have you been eating? — Yes, but I don't gain weight.\n2) Did you go anywhere on the holiday? — No, work was very busy.",
+          "ja": "最近のある期間に何かをしたか尋ねます。口語では mâng-bplào と言います。\n1）最近とても痩せたね。ご飯は食べている？——食べているけど太らない。\n2）休みにどこかへ行った？——全然。仕事がとても忙しかった。",
+          "ko": "최근 일정 기간에 어떤 일을 했는지 묻습니다. 구어체로는 mâng-bplào라고 합니다.\n1) 요즘 많이 말랐네. 밥은 먹고 있어? — 먹지만 살이 안 쪄.\n2) 휴일에 어디 다녀왔어? — 못 갔어. 일이 아주 바빴어.",
+          "romanization": "bâang rʉ̌ʉ-bplàao (paa-sǎa-pûut: mâng bplàao)",
+          "romanizationBody": "cháai tǎam wâa chûuang tîi-pàan-maa chên sɔ̌ɔng sǎam sàp-daa dâai tam à-rai rʉ̌ʉ-mâi\n1) gà: níi pɔ̌ɔm jang gin-kâao bâang rʉ̌ʉ-bplàao\nkà: gin dtɛ̀ɛ mâi ûuan\n2) gà: wan-yùt dâai bpai-tîiao nǎi bâang rʉ̌ʉ-bplàao\nkà: mâi dâai bpai ləəi ngaan yûng mâak"
+        },
+        {
+          "page": "10",
+          "thai": "นั่นแหละ",
+          "thaiBody": "ใช้เน้นว่าเป็นสิ่งนั้น อยู่ตรงนั้น หรือเป็นแบบนั้น\n1) ก: เธอเป็นอะไร\n   ข: เป็นโรคเดิมนั่นแหละ\n2) ก: ปากกาอยู่ไหน หาไม่เจอ\n   ข: อยู่บนโต๊ะนั่นแหละ\n3) ก: คำนี้เขียนแบบนี้ถูกไหม\n   ข: เขียนแบบนั้น (นั่น) แหละ ถูกแล้ว",
+          "zh-Hant": "用來強調「就是那個、就在那裡、就是那樣」。\n1）你怎麼了？——就是老毛病。\n2）筆在哪裡？找不到。——就在桌上。\n3）這個字這樣寫對嗎？——就是那樣寫，對了。",
+          "en": "Emphasizes that it is that thing, right there, or exactly that way.\n1) What's wrong? — It's the same old illness.\n2) Where is the pen? — It's right there on the table.\n3) Is this word written like this? — Yes, exactly like that.",
+          "ja": "「まさにそれ・そこ・そのとおり」と強調します。\n1）どうしたの？——いつもの病気だよ。\n2）ペンはどこ？——ほら、机の上。\n3）この単語はこう書く？——そう、その書き方で正しい。",
+          "ko": "‘바로 그것, 바로 거기, 바로 그런 식’이라고 강조합니다.\n1) 어디가 아파? — 늘 앓던 그 병이야.\n2) 펜 어디 있어? — 바로 책상 위에 있잖아.\n3) 이 단어 이렇게 쓰는 게 맞아? — 그래, 바로 그렇게 쓰면 돼.",
+          "romanization": "nân-lɛ̀",
+          "romanizationBody": "cháai néen wâa bpen sìng nán yùu dtrong-nán rʉ̌ʉ bpen bɛ̀ɛp nán\n1) gà: təə bpen à-rai\nkà: bpen-rôok dəəm nân-lɛ̀\n2) gà: bpàak-gaa yùu nǎi hǎa-mâi jəə\nkà: yùu bon dtó nân-lɛ̀\n3) gà: kam níi kǐian bɛ̀ɛp-níi tùuk mǎi\nkà: kǐian-bɛ̀ɛp nán (nân) lɛ̀ tùuk lɛ́ɛo"
+        },
+        {
+          "page": "10–11",
+          "thai": "…จะแย่ / …จะตาย",
+          "thaiBody": "เป็นภาษาพูด มีความหมายว่า “มาก” และมีความหมายใกล้เคียงกับ …จะตาย\n1) ก: ไปเที่ยวทะเลกันไหม\n   ข: ไม่ไปหรอก แดดร้อนจะแย่\n2) ก: ไปออกกำลังกายด้วยกันไหม\n   ข: ไม่เอาหรอก เหนื่อยจะแย่แล้ว\nเปรียบเทียบ: แดดร้อนจะตาย / เหนื่อยจะตายแล้ว",
+          "zh-Hant": "口語表示程度「非常……、……得要命」，意思接近 …jà-dtaai。\n1）去海邊玩嗎？——不去，太陽熱得要命。\n2）一起去運動嗎？——不要，我已經累死了。",
+          "en": "A colloquial intensifier meaning “very”; it is close to …jà-dtaai (“to death”).\n1) Shall we go to the beach? — No, the sun is unbearably hot.\n2) Shall we exercise together? — No, I'm exhausted.",
+          "ja": "口語で「とても／〜でたまらない」を表し、…jà-dtaai に近い表現です。\n1）海へ行く？——行かない。日差しが暑くてたまらない。\n2）一緒に運動する？——やめる。もう疲れて死にそう。",
+          "ko": "구어체로 ‘매우, ~해 죽겠다’를 뜻하며 …jà-dtaai와 비슷합니다.\n1) 바다에 놀러 갈까? — 안 가. 햇볕이 너무 뜨거워.\n2) 같이 운동할까? — 싫어. 너무 피곤해 죽겠어.",
+          "romanization": "…jà yɛ̂ɛ / …jà dtaai",
+          "romanizationBody": "bpen paa-sǎa-pûut mii-kwaam-mǎai wâa “mâak” lɛ́ mii-kwaam-mǎai glâi-kiiang gàp …jà dtaai\n1) gà: bpai-tîiao tá-lee gan mǎi\nkà: mâi bpai rɔ̀ɔk dɛ̀ɛt rɔ́ɔn jà yɛ̂ɛ\n2) gà: bpai ɔ̀ɔk-gam-lang-gaai dûuai-gan mǎi\nkà: mâi ao rɔ̀ɔk nʉ̀ʉai jà yɛ̂ɛ lɛ́ɛo\nbprìiap-tîiap: dɛ̀ɛt rɔ́ɔn jà dtaai / nʉ̀ʉai jà dtaai lɛ́ɛo"
+        },
+        {
+          "page": "11",
+          "thai": "งั้น (ถ้าอย่างนั้น)",
+          "thaiBody": "เป็นภาษาพูดมาจากคำว่า “ถ้าอย่างนั้น” ใช้แสดงทางเลือกเวลาเสนอความคิดเห็น\nก: ไปกินอะไรกันดี กินอาหารไทยดีไหม\nข: ฉันไม่กินเผ็ดนะ\nก: งั้น ไปกินอาหารญี่ปุ่นดีไหม\nข: โอเค",
+          "zh-Hant": "口語形式來自 tâa-yàang-nân，提出另一個選擇時表示「那麼／既然如此」。\n——吃什麼好？泰國菜如何？\n——我不吃辣。\n——那麼，日本料理呢？\n——好。",
+          "en": "A spoken form of tâa-yàang-nân (“in that case”), used to offer an alternative.\n— What shall we eat? Thai food?\n— I don't eat spicy food.\n— Then how about Japanese food?\n— Okay.",
+          "ja": "tâa-yàang-nân（それなら）の口語形で、別の案を出すときに使います。\n——何を食べる？タイ料理は？\n——辛い物は食べないよ。\n——じゃあ、日本料理は？\n——いいよ。",
+          "ko": "tâa-yàang-nân(그렇다면)의 구어체로, 다른 선택지를 제안할 때 씁니다.\n— 뭐 먹을까? 태국 음식 어때?\n— 나는 매운 걸 안 먹어.\n— 그럼 일본 음식은 어때?\n— 좋아.",
+          "romanization": "ngán (tâa-yàang-nân)",
+          "romanizationBody": "bpen paa-sǎa-pûut maa-jàak kam wâa “tâa-yàang-nân” cháai sà-dɛɛng taang-lʉ̂ʉak wee-laa sà-nə̌ə kwaam-kít-hěn\ngà: bpai gin à-rai gan dii gin aa-hǎan tai dii mǎi\nkà: chǎn mâi gin pèt ná\ngà: ngán bpai gin aa-hǎan yîi-bpùn dii mǎi\nkà: oo-kee"
+        }
+      ],
+      "grammar": [
+        {
+          "page": "13–14",
+          "thai": "1. ส่วนเติมเต็มบอกผล (resultant complement)",
+          "thaiBody": "คำกริยาตัวที่สองในหน่วยสร้างกริยาเรียง แสดงผลหรือสภาพที่เกิดจากการกระทำของกริยาก่อนหน้า\n1) น้องทำแก้วตกแตก\n2) ทุกคนกินข้าวอิ่ม\n3) เขาทำการบ้านเสร็จแล้ว\n4) นักเรียนฟังอาจารย์พูดทัน\nกริยาบางคำใช้ “ออก” เป็นส่วนเติมเต็มบอกผล\n5) เขาคิดออกแล้วว่าจะไปเที่ยวไหน\n6) แม่เดาออกว่าพ่อชอบอะไร\n7) เธอฟังข่าวในทีวีออกไหม\n8) เขามองออกว่าเธอนิสัยไม่ดี\n9) นักเรียนอินเท็นซีฟไทยอ่านภาษาไทยออกทุกคำ\nการปฏิเสธเติม “ไม่” หน้ากริยาที่แสดงผล\n10) ทุกคนกินข้าวไม่อิ่ม\n11) เขาทำการบ้านไม่เสร็จ\n12) เขาคิดไม่ออกว่าจะไปเที่ยวไหน\n13) เขามองไม่ออกว่าเธอนิสัยไม่ดี\n14) เธอฟังข่าวในทีวีไม่ออก",
+          "zh-Hant": "連動結構中的第二個動詞表示前一動作造成的結果或狀態，如：把杯子弄掉而破裂、吃飽、做完、聽得及。部分動詞以 ɔ̀ɔk 表示成功想出、猜出、聽懂、看出或讀得出。否定時把 mâi 放在結果動詞前：吃不飽、做不完、想不出、看不出、聽不懂。",
+          "en": "The second verb in a serial-verb construction shows the result or state caused by the previous action: drop-and-break a glass, eat until full, finish homework, or keep up with speech. Some verbs use ɔ̀ɔk as the result: figure out, guess, understand what is heard, discern, or read. Negate the result by putting mâi before the result verb: not full, not finished, unable to figure out, discern, or understand.",
+          "ja": "連続動詞構文の二つ目の動詞が、前の動作によって生じた結果・状態を表します。例：コップを落として割る、満腹になる、宿題を終える、話についていく。一部の動詞は ɔ̀ɔk を結果として使い、「思いつく・見抜く・聞き取る・読める」を表します。否定は結果動詞の前に mâi を置き、「満腹にならない・終わらない・思いつかない・見抜けない・聞き取れない」とします。",
+          "ko": "연속 동사 구조의 두 번째 동사가 앞선 행동으로 생긴 결과나 상태를 나타냅니다. 예: 컵을 떨어뜨려 깨뜨리다, 배불리 먹다, 숙제를 끝내다, 말을 따라 듣다. 일부 동사는 ɔ̀ɔk을 결과 보어로 써서 생각해 내다, 알아맞히다, 알아듣다, 간파하다, 읽을 수 있음을 나타냅니다. 부정은 결과 동사 앞에 mâi를 놓아 배부르지 않다, 끝내지 못하다, 생각해 내지 못하다, 간파하지 못하다, 알아듣지 못하다로 만듭니다.",
+          "romanization": "1. sùuan dtəəm-dtem bɔ̀ɔk pǒn (resultant complement)",
+          "romanizationBody": "kam-grì-yaa dtuua tîi-sɔ̌ɔng nai nùuai sâang grì-yaa riiang pǒn rʉ̌ʉ sà-pâap tîi-gə̀ət jàak gaan-grà-tam kɔ̌ɔng grì-yaa gɔ̀ɔn-nâa\n1) nɔ́ɔng tam gɛ̂ɛo dtòk dtɛ̀ɛk\n2) túk-kon gin-kâao ìm\n3) kǎo tam-gaan-bâan sèt lɛ́ɛo\n4) nák-riian fang aa-jaan pûut tan\ngrì-yaa baang kam cháai “ɔ̀ɔk” bpen sùuan dtəəm-dtem bɔ̀ɔk pǒn\n5) kǎo kít-ɔ̀ɔk lɛ́ɛo wâa jà bpai-tîiao nǎi\n6) mɛ̂ɛ dao ɔɔ gwàa pɔ̂ɔ chɔ̂ɔp à-rai\n7) təə fang kàao nai tii-wii ɔ̀ɔk mǎi\n8) kǎo mɔɔng-ɔ̀ɔk wâa təə ní-sǎi mâi dii\n9) nák-riian in ten sii fá tai àan paa-sǎa-tai ɔ̀ɔk túk kam\ngaan bpà-dtì-sèet dtəəm “mâi” nâa grì-yaa tîi pǒn\n10) túk-kon gin-kâao mâi ìm\n11) kǎo tam-gaan-bâan mâi sèt\n12) kǎo kít-mâi-ɔ̀ɔk wâa jà bpai-tîiao nǎi\n13) kǎo mɔɔng mâi ɔɔ gwàa təə ní-sǎi mâi dii\n14) təə fang kàao nai tii-wii mâi ɔ̀ɔk"
+        },
+        {
+          "page": "16",
+          "thai": "2. เผื่อ",
+          "thaiBody": "1) สื่อความว่า เพราะบางอย่างอาจเกิดขึ้น\n- เอาเงินไปเยอะ ๆ เผื่อไม่พอใช้\n- ออกเร็ว ๆ เผื่อรถติด\n- เธอควรเอาร่มไปเผื่อฝนตก\n2) หมายถึงเตรียมหรือให้อะไรแก่ใครเมื่อมีเกินพอ\n- อาจารย์ซื้อขนมมาเผื่อนักเรียน\n- เขาทำเค้กมาเผื่อทุกคน\n- แม่ทำกับข้าวเผื่อเพื่อนบ้าน",
+          "zh-Hant": "兩種用法：①某事可能發生，所以事先防備「以防、萬一」：多帶錢以防不夠、提早出門以防塞車、帶傘以防下雨。②有餘裕時替別人多準備一份：老師替學生買點心、他替大家做蛋糕、媽媽也替鄰居做飯。",
+          "en": "Two uses: (1) “in case” something may happen—take extra money, leave early in case of traffic, or bring an umbrella in case it rains; (2) prepare or provide extra for someone—the teacher bought snacks for students, he made cake for everyone, and mother cooked extra for the neighbors.",
+          "ja": "二つの用法があります。①何かが起こる可能性に備える「念のため」：お金を多めに持つ、渋滞に備えて早く出る、雨に備えて傘を持つ。②余分があるとき誰かの分も用意する：先生が学生の分のお菓子を買う、皆の分のケーキを作る、母が隣人の分も料理する。",
+          "ko": "두 가지 용법입니다. ①어떤 일이 생길 가능성에 대비하는 ‘혹시 몰라’: 돈을 넉넉히 가져가다, 교통 체증에 대비해 일찍 출발하다, 비에 대비해 우산을 가져가다. ②여유분을 다른 사람 몫으로 준비하다: 선생님이 학생들 간식을 사다, 모두를 위해 케이크를 만들다, 어머니가 이웃 몫의 음식도 만들다.",
+          "romanization": "2. pʉ̀ʉa",
+          "romanizationBody": "1) sʉ̀ʉ kwaam wâa prɔ́ɔ baang-yàang àat gə̀ət-kʉ̂n\n- ao ngən bpai yə́ yə́ pʉ̀ʉa mâi pɔɔ-chái\n- ɔ̀ɔk reo-reo pʉ̀ʉa rót-dtìt\n- təə kuuan ao rôm bpai pʉ̀ʉa fǒn-dtòk\n2) mǎai-tʉ̌ng dtriiam rʉ̌ʉ hâi à-rai gɛ̀ɛ krai mʉ̂ʉa mii gəən pɔɔ\n- aa-jaan sʉ́ʉ kà-nǒm maa pʉ̀ʉa nák-riian\n- kǎo tam kéek maa pʉ̀ʉa túk-kon\n- mɛ̂ɛ tam-gàp-kâao pʉ̀ʉa pʉ̂ʉan-bâan"
+        },
+        {
+          "page": "16–17",
+          "thai": "3. คำซ้ำ (duplicated word)",
+          "thaiBody": "นำคำเดียวกันมาซ้ำ มักเขียนด้วยไม้ยมก (ๆ) เพื่อสื่อความหมายต่างกัน",
+          "zh-Hant": "重複同一個詞，書寫時常用 mai-ya-mók，依語境可表示複數、程度加強、不確定／不特定，或分成一份份。",
+          "en": "A word is duplicated, usually written with mai-ya-mók, to convey plurality, intensification, uncertainty/indefiniteness, or separation into parts.",
+          "ja": "同じ語を反復し、通常は mai-ya-mók で書きます。複数、程度の強調、不確定・不特定、部分ごとの分離を表します。",
+          "ko": "같은 단어를 반복하며 보통 mai-ya-mók로 씁니다. 복수, 정도 강조, 불확실·불특정, 부분별 분리를 나타냅니다.",
+          "romanization": "3. kam sám (duplicated word)",
+          "romanizationBody": "nam kam diiao-gan maa sám mák kǐian dûuai mái-mók (mái-mók) pʉ̂ʉa sʉ̀ʉ kwaam-mǎai dtàang-gan"
+        },
+        {
+          "page": "17",
+          "thai": "3.1 คำซ้ำบอกพหูพจน์",
+          "thaiBody": "ส่วนใหญ่มักซ้ำคำนาม\n1) ป้า ๆ กำลังดูการ์ตูนอยู่กับเด็ก ๆ ในห้อง\n2) อาทิตย์หน้าฉันจะไปเที่ยวกับเพื่อน ๆ",
+          "zh-Hant": "多半重疊名詞表示複數。\n1）阿姨們正和孩子們在房間看卡通。\n2）下週我會和朋友們去旅行。",
+          "en": "Usually repeats a noun to mark plurality.\n1) The aunts are watching cartoons with the children in the room.\n2) Next week I will travel with my friends.",
+          "ja": "主に名詞を反復して複数を表します。\n1）おばさんたちは部屋で子どもたちとアニメを見ています。\n2）来週、友達と旅行します。",
+          "ko": "주로 명사를 반복해 복수를 나타냅니다.\n1) 아주머니들이 방에서 아이들과 만화를 보고 있습니다.\n2) 다음 주에 친구들과 여행할 겁니다.",
+          "romanization": "3.1 kam sám bɔ̀ɔk pá-hù-pót",
+          "romanizationBody": "sùuan-hǎi-yâ mák sám kam-naam\n1) bpâa bpâa gam-lang duu gaa-dtuun yùu gàp dèk dèk nai hɔ̂ɔng\n2) aa-tít nâa chǎn jà bpai-tîiao gàp pʉ̂ʉan-pʉ̂ʉan"
+        },
+        {
+          "page": "17",
+          "thai": "3.2 คำซ้ำเน้นน้ำหนัก",
+          "thaiBody": "ส่วนใหญ่ซ้ำคำคุณศัพท์ และมักเปลี่ยนเสียงวรรณยุกต์ของคำแรกเป็นเสียงตรี\n1) แฟนเธอนิสัยดี๊ ดี\n2) ผู้หญิงคนนั้นผิวค๊าว ขาว\n3) *อาหารจานนี้อร่อยมาก ๆ (บางคำก็ไม่มีการเปลี่ยนเสียง)",
+          "zh-Hant": "多半重疊形容詞以加強程度，第一個詞常改讀高調；有些詞不變調。\n1）你的伴侶人真的非常好。\n2）那位女性的皮膚非常白。\n3）這道菜非常好吃。",
+          "en": "Usually repeats an adjective to intensify it; the first copy often changes to a high tone, though some words do not.\n1) Your partner is really very nice.\n2) That woman's skin is very fair.\n3) This dish is very delicious.",
+          "ja": "主に形容詞を反復して程度を強め、最初の語を高声調に変えることが多いですが、変わらない語もあります。\n1）あなたの恋人は本当に性格がいい。\n2）あの女性は肌がとても白い。\n3）この料理はとてもおいしい。",
+          "ko": "주로 형용사를 반복해 정도를 강조하며 첫 단어를 고성으로 바꾸는 경우가 많지만 변하지 않는 단어도 있습니다.\n1) 네 연인은 성격이 정말 좋아.\n2) 저 여자는 피부가 아주 하얘.\n3) 이 음식은 정말 맛있어.",
+          "romanization": "3.2 kam sám néen náam-nàk",
+          "romanizationBody": "sùuan-hǎi-yâ sám kam-kun-na-sàp lɛ́ mák bplìian-sǐiang wan-ná-yúk kɔ̌ɔng kam rɛ̂ɛk bpen sǐiang dtrii\n1) fɛɛn təə ní-sǎi díi dii\n2) pûu-yǐng kon nán phǐw káao kǎao\n3) *aa-hǎan jaan níi a-rɔ̀ɔi mâak mâak (baang kam gɔ̂ɔ mâi mii gaan bplìian-sǐiang)"
+        },
+        {
+          "page": "17",
+          "thai": "3.3 คำซ้ำบอกความไม่แน่ใจหรือไม่เจาะจง",
+          "thaiBody": "1) เขานั่งอยู่ท้าย ๆ แถว\n2) เขาใส่เสื้อสีแดง ๆ\n3) วันนี้อาจารย์จะพาไปกินอาหารอร่อย ๆ",
+          "zh-Hant": "表示不確定或不特定。\n1）他坐在隊伍後面某處。\n2）他穿著偏紅色的衣服。\n3）今天老師會帶我們去吃些好吃的。",
+          "en": "Marks uncertainty or indefiniteness.\n1) He is sitting somewhere near the back of the row.\n2) He is wearing a reddish shirt.\n3) Today the teacher will take us to eat some delicious food.",
+          "ja": "不確定・不特定を表します。\n1）彼は列の後ろの方に座っている。\n2）彼は赤っぽい服を着ている。\n3）今日は先生がおいしい物を食べに連れて行ってくれる。",
+          "ko": "불확실하거나 특정하지 않음을 나타냅니다.\n1) 그는 줄 뒤쪽 어딘가에 앉아 있다.\n2) 그는 붉은빛 옷을 입고 있다.\n3) 오늘 선생님이 맛있는 음식을 먹으러 데려갈 것이다.",
+          "romanization": "3.3 kam sám bɔ̀ɔk kwaam mâi nɛ̂ɛ-jai rʉ̌ʉ-mâi jɔ̀ɔ-jong",
+          "romanizationBody": "1) kǎo nâng yùu táai táai tɛ̌ɛo\n2) kǎo sài sʉ̂ʉa sǐi-dɛɛng sǐi-dɛɛng\n3) wan-níi aa-jaan jà paa bpai gin aa-hǎan a-rɔ̀ɔi a-rɔ̀ɔi"
+        },
+        {
+          "page": "17",
+          "thai": "3.4 คำซ้ำแยกออกเป็นส่วน ๆ",
+          "thaiBody": "1) แม่บอกให้หั่นหมูเป็นชิ้น ๆ\n2) เขาแบ่งเงินออกเป็นส่วน ๆ",
+          "zh-Hant": "表示分成一個個或一份份。\n1）媽媽叫人把豬肉切成一塊塊。\n2）他把錢分成一份份。",
+          "en": "Shows separation into individual parts.\n1) Mother said to cut the pork into pieces.\n2) He divided the money into portions.",
+          "ja": "個々の部分に分けることを表します。\n1）母は豚肉を一切れずつ切るよう言いました。\n2）彼はお金をいくつかの部分に分けました。",
+          "ko": "여러 개별 부분으로 나눔을 나타냅니다.\n1) 어머니가 돼지고기를 조각조각 자르라고 했습니다.\n2) 그는 돈을 여러 몫으로 나눴습니다.",
+          "romanization": "3.4 kam sám yɛ̂ɛk ɔ̀ɔk bpen sùuan sùuan",
+          "romanizationBody": "1) mɛ̂ɛ bɔ̀ɔk hâi hàn mǔu bpen chín chín\n2) kǎo bɛ̀ng ngən ɔ̀ɔk bpen sùuan sùuan"
+        }
+      ]
+    },
+    {
+      "lesson": 2,
+      "vocabulary": [
+        {
+          "page": "22",
+          "thai": "โรงพยาบาล",
+          "romanization": "roong-pá-yaa-baan",
+          "zh-Hant": "醫院",
+          "en": "hospital",
+          "ja": "病院",
+          "ko": "병원"
+        },
+        {
+          "page": "22",
+          "thai": "รัฐ",
+          "romanization": "rát",
+          "zh-Hant": "國家；公立",
+          "en": "government; state",
+          "ja": "国；公立",
+          "ko": "국가; 국립"
+        },
+        {
+          "page": "22",
+          "thai": "เอกชน",
+          "romanization": "èek-gà-chon",
+          "zh-Hant": "私營、民營",
+          "en": "private sector",
+          "ja": "民間、私立",
+          "ko": "민간, 사립"
+        },
+        {
+          "page": "22",
+          "thai": "คอย",
+          "romanization": "kɔɔi",
+          "zh-Hant": "等待；隨時準備",
+          "en": "to wait; to stand by",
+          "ja": "待つ；待機する",
+          "ko": "기다리다; 대기하다"
+        },
+        {
+          "page": "22",
+          "thai": "อาการ",
+          "romanization": "aa-gaan",
+          "zh-Hant": "症狀",
+          "en": "symptom",
+          "ja": "症状",
+          "ko": "증상"
+        },
+        {
+          "page": "22",
+          "thai": "ดูแล",
+          "romanization": "duu-lɛɛ",
+          "zh-Hant": "照顧",
+          "en": "to take care of",
+          "ja": "世話をする",
+          "ko": "돌보다"
+        },
+        {
+          "page": "22",
+          "thai": "ผู้ป่วย",
+          "romanization": "pûu-bpùuai",
+          "zh-Hant": "患者",
+          "en": "patient",
+          "ja": "患者",
+          "ko": "환자"
+        },
+        {
+          "page": "22",
+          "thai": "รักษา",
+          "romanization": "rák-sǎa",
+          "zh-Hant": "治療",
+          "en": "to cure; to treat",
+          "ja": "治療する",
+          "ko": "치료하다"
+        },
+        {
+          "page": "22",
+          "thai": "ตรวจ",
+          "romanization": "dtrùuat",
+          "zh-Hant": "檢查",
+          "en": "to check; to examine",
+          "ja": "検査する",
+          "ko": "검사하다"
+        },
+        {
+          "page": "22",
+          "thai": "สุขภาพ",
+          "romanization": "sùk-kà-pâap",
+          "zh-Hant": "健康",
+          "en": "health",
+          "ja": "健康",
+          "ko": "건강"
+        },
+        {
+          "page": "22",
+          "thai": "ประชาชน",
+          "romanization": "bprà-chaa-chon",
+          "zh-Hant": "民眾、人民",
+          "en": "the public; people",
+          "ja": "国民、一般の人々",
+          "ko": "국민, 대중"
+        },
+        {
+          "page": "22",
+          "thai": "คนไข้",
+          "romanization": "kon-kâi",
+          "zh-Hant": "病人",
+          "en": "patient",
+          "ja": "患者",
+          "ko": "환자"
+        },
+        {
+          "page": "22",
+          "thai": "จำนวนมาก",
+          "romanization": "jam-nuuan-mâak",
+          "zh-Hant": "大量、許多",
+          "en": "a large number of",
+          "ja": "多数の",
+          "ko": "많은 수의"
+        },
+        {
+          "page": "22",
+          "thai": "ส่วน",
+          "romanization": "sùuan",
+          "zh-Hant": "至於；而",
+          "en": "as for; while",
+          "ja": "一方；〜については",
+          "ko": "한편; ~의 경우"
+        },
+        {
+          "page": "22",
+          "thai": "คนชรา",
+          "romanization": "kon-chá-raa",
+          "zh-Hant": "老人、年長者",
+          "en": "elderly person",
+          "ja": "高齢者",
+          "ko": "노인"
+        },
+        {
+          "page": "22",
+          "thai": "วัยรุ่น",
+          "romanization": "wai-rûn",
+          "zh-Hant": "青少年",
+          "en": "teenager",
+          "ja": "10代、若者",
+          "ko": "청소년"
+        },
+        {
+          "page": "22",
+          "thai": "ท้องเสีย",
+          "romanization": "tɔ́ɔng-sǐia",
+          "zh-Hant": "腹瀉",
+          "en": "to have diarrhea",
+          "ja": "下痢をする",
+          "ko": "설사하다"
+        },
+        {
+          "page": "22",
+          "thai": "สุนัข",
+          "romanization": "sù-nák",
+          "zh-Hant": "狗（較正式）",
+          "en": "dog (polite)",
+          "ja": "犬（丁寧）",
+          "ko": "개(격식어)"
+        },
+        {
+          "page": "22",
+          "thai": "เป็นแผล",
+          "romanization": "bpen-plɛ̌ɛ",
+          "zh-Hant": "受傷、有傷口",
+          "en": "to be wounded",
+          "ja": "傷ができる",
+          "ko": "상처가 나다"
+        },
+        {
+          "page": "22",
+          "thai": "เลือดออก",
+          "romanization": "lʉ̂ʉat ɔ̀ɔk",
+          "zh-Hant": "流血",
+          "en": "to bleed",
+          "ja": "出血する",
+          "ko": "피가 나다"
+        },
+        {
+          "page": "22",
+          "thai": "ฉีดยา",
+          "romanization": "chìit-yaa",
+          "zh-Hant": "打針、注射",
+          "en": "to inject; to give an injection",
+          "ja": "注射する",
+          "ko": "주사하다"
+        },
+        {
+          "page": "22",
+          "thai": "เชื้อโรค",
+          "romanization": "chʉ́ʉa-rôok",
+          "zh-Hant": "病菌、病原體",
+          "en": "germ; pathogen",
+          "ja": "病原菌",
+          "ko": "병원균"
+        },
+        {
+          "page": "22",
+          "thai": "พิษสุนัขบ้า",
+          "romanization": "phít-sù-nák-bâa",
+          "zh-Hant": "狂犬病",
+          "en": "rabies",
+          "ja": "狂犬病",
+          "ko": "광견병"
+        },
+        {
+          "page": "23",
+          "thai": "ชั่งน้ำหนัก",
+          "romanization": "châng-náam-nák",
+          "zh-Hant": "量體重",
+          "en": "to weigh",
+          "ja": "体重を量る",
+          "ko": "체중을 재다"
+        },
+        {
+          "page": "23",
+          "thai": "วัดไข้",
+          "romanization": "wát kâi",
+          "zh-Hant": "量體溫",
+          "en": "to take a temperature",
+          "ja": "体温を測る",
+          "ko": "체온을 재다"
+        },
+        {
+          "page": "23",
+          "thai": "วัดความดันเลือด",
+          "romanization": "wát-kwaam-dan-lʉ̂at",
+          "zh-Hant": "量血壓",
+          "en": "to measure blood pressure",
+          "ja": "血圧を測る",
+          "ko": "혈압을 재다"
+        },
+        {
+          "page": "23",
+          "thai": "ไอ",
+          "romanization": "ai",
+          "zh-Hant": "咳嗽",
+          "en": "to cough",
+          "ja": "咳をする",
+          "ko": "기침하다"
+        },
+        {
+          "page": "23",
+          "thai": "เสมหะ",
+          "romanization": "sěem-hà",
+          "zh-Hant": "痰",
+          "en": "phlegm",
+          "ja": "痰",
+          "ko": "가래"
+        },
+        {
+          "page": "23",
+          "thai": "กลืน",
+          "romanization": "glʉʉn",
+          "zh-Hant": "吞嚥",
+          "en": "to swallow",
+          "ja": "飲み込む",
+          "ko": "삼키다"
+        },
+        {
+          "page": "23",
+          "thai": "น้ำลาย",
+          "romanization": "náam-laai",
+          "zh-Hant": "口水、唾液",
+          "en": "saliva",
+          "ja": "唾液",
+          "ko": "침"
+        },
+        {
+          "page": "23",
+          "thai": "อุณหภูมิ",
+          "romanization": "un-hà-puum",
+          "zh-Hant": "溫度",
+          "en": "temperature",
+          "ja": "温度",
+          "ko": "온도"
+        },
+        {
+          "page": "23",
+          "thai": "เจาะเลือด",
+          "romanization": "jɔ̀ɔ lʉ̂ʉat",
+          "zh-Hant": "抽血",
+          "en": "to draw blood",
+          "ja": "採血する",
+          "ko": "채혈하다"
+        },
+        {
+          "page": "23",
+          "thai": "ไข้หวัดใหญ่",
+          "romanization": "kâi-wàt-yài",
+          "zh-Hant": "流感",
+          "en": "influenza",
+          "ja": "インフルエンザ",
+          "ko": "독감"
+        },
+        {
+          "page": "23",
+          "thai": "ปัสสาวะ",
+          "romanization": "bpàt-sǎa-wá",
+          "zh-Hant": "尿液",
+          "en": "urine",
+          "ja": "尿",
+          "ko": "소변"
+        },
+        {
+          "page": "23",
+          "thai": "อุจจาระ",
+          "romanization": "ùt-jaa-rá",
+          "zh-Hant": "糞便",
+          "en": "stool; feces",
+          "ja": "便",
+          "ko": "대변"
+        },
+        {
+          "page": "23",
+          "thai": "ผลตรวจ",
+          "romanization": "pǒn dtrùuat",
+          "zh-Hant": "檢查結果",
+          "en": "test result",
+          "ja": "検査結果",
+          "ko": "검사 결과"
+        },
+        {
+          "page": "23",
+          "thai": "งด",
+          "romanization": "ngót",
+          "zh-Hant": "停止、避免",
+          "en": "to refrain from",
+          "ja": "控える",
+          "ko": "삼가다"
+        }
+      ],
+      "notes": [],
+      "grammar": [
+        {
+          "page": "24–25",
+          "thai": "1.1 เป็น + disease",
+          "thaiBody": "ใช้กริยา “เป็น” บรรยายปัญหาสุขภาพ\nคนไข้: ผมเป็นอะไรครับคุณหมอ\nหมอ: คุณเป็นไข้หวัดใหญ่ค่ะ\nตัวอย่างโรค: โรคหัวใจ / โรคมะเร็ง / โรคเบาหวาน / โรคกระเพาะ / ไข้หวัดใหญ่ / โรคภูมิแพ้ / แผลพุพอง",
+          "zh-Hant": "用 bpen 加疾病名稱說明罹患某種病。\n病人：醫生，我得了什麼病？\n醫生：你得了流感。\n疾病例：心臟病、癌症、糖尿病、胃炎、流感、過敏、起水泡。",
+          "en": "Use bpen plus a disease to describe a health problem.\nPatient: What do I have, doctor?\nDoctor: You have influenza.\nExamples: heart disease, cancer, diabetes, gastritis, influenza, allergy, and blisters.",
+          "ja": "bpen＋病名で健康上の問題を説明します。\n患者：先生、私は何の病気ですか。\n医師：インフルエンザです。\n例：心臓病、がん、糖尿病、胃炎、インフルエンザ、アレルギー、水ぶくれ。",
+          "ko": "bpen+질병명으로 건강 문제를 설명합니다.\n환자: 선생님, 제가 무슨 병인가요?\n의사: 독감입니다.\n예: 심장병, 암, 당뇨병, 위염, 독감, 알레르기, 물집.",
+          "romanization": "1.1 bpen + disease",
+          "romanizationBody": "cháai grì-yaa “bpen” ban-yaai bpan-hǎa sùk-kà-pâap\nkon-kâi: pǒm bpen à-rai kráp kun-mɔ̌ɔ\nmɔ̌ɔ: kun bpen kâi-wàt-yài kâ\ndtuua-yàang rôok: rôok-hǔua-jai / rôok-má-reng / rôok-bao-wǎan / rôok-gra-pɔ́ɔ / kâi-wàt-yài / rôok-puum-pɛ́ɛ / plɛ̌ɛ pú-pɔɔng"
+        },
+        {
+          "page": "25",
+          "thai": "1.2 เป็น + symptom",
+          "thaiBody": "อาการเจ็บป่วยบางอย่างสามารถใช้เป็นกริยาได้เลย\nหมอ: คนไข้มีอาการอย่างไรบ้างคะ\nคนไข้: ดิฉันคลื่นไส้ แล้วก็หน้ามืดนิดหน่อยค่ะ\nตัวอย่างอาการ: ท้องเสีย / อาหารเป็นพิษ / ตัวร้อน / คลื่นไส้ / เวียนหัว / หน้ามืด / น้ำมูกไหล / สะอึก",
+          "zh-Hant": "有些症狀詞可直接當動詞使用。\n醫生：有什麼症狀？\n病人：我噁心，也有點頭昏。\n症狀例：腹瀉、食物中毒、身體發熱、噁心、頭暈、眼前發黑、流鼻水、打嗝。",
+          "en": "Some symptoms can be used directly as verbs.\nDoctor: What symptoms do you have?\nPatient: I feel nauseous and a little faint.\nExamples: diarrhea, food poisoning, feverishness, nausea, dizziness, faintness, runny nose, and hiccups.",
+          "ja": "症状を表す語の中には、そのまま動詞として使えるものがあります。\n医師：どんな症状がありますか。\n患者：吐き気と少し立ちくらみがあります。\n例：下痢、食中毒、発熱、吐き気、めまい、立ちくらみ、鼻水、しゃっくり。",
+          "ko": "일부 증상은 바로 동사처럼 쓸 수 있습니다.\n의사: 어떤 증상이 있나요?\n환자: 메스껍고 조금 어지러워요.\n예: 설사, 식중독, 열감, 메스꺼움, 현기증, 눈앞이 캄캄함, 콧물, 딸꾹질.",
+          "romanization": "1.2 bpen + symptom",
+          "romanizationBody": "aa-gaan jèp-bpùuai baang-yàang sǎa-mâat cháai bpen grì-yaa dâai ləəi\nmɔ̌ɔ: kon-kâi mii aa-gaan yàang-rai-bâang ká\nkon-kâi: dì-chǎn klʉ̂ʉn-sâi lɛ́ɛo-gɔ̂ɔ nâa-mʉ̂ʉt nít-nɔ̀ɔi kâ\ndtuua-yàang aa-gaan: tɔ́ɔng-sǐia / aa-hǎan bpen-pít / dtuua-rɔ́ɔn / klʉ̂ʉn-sâi / wiian-hǔua / nâa-mʉ̂ʉt / náam-mûuk lǎi / sà-ʉ̀k"
+        },
+        {
+          "page": "26",
+          "thai": "1.3 body part + หัก / บวม / ช้ำ",
+          "thaiBody": "ถ้ามีอวัยวะส่วนใดหัก บวม หรือช้ำ ใช้โครงสร้าง อวัยวะ + หัก/บวม/ช้ำ\nหมอ: เป็นอะไรมาครับวันนี้\nคนไข้: ขาบวมค่ะ",
+          "zh-Hant": "身體部位骨折、腫脹或瘀青時，用「部位＋hàk／buuam／chám」。\n醫生：今天怎麼了？\n病人：我的腿腫了。",
+          "en": "For a broken, swollen, or bruised body part, use body part + hàk/buuam/chám.\nDoctor: What happened today?\nPatient: My leg is swollen.",
+          "ja": "体の部位が骨折・腫れ・打撲した場合、「部位＋hàk／buuam／chám」を使います。\n医師：今日はどうしましたか。\n患者：脚が腫れています。",
+          "ko": "신체 부위가 부러지거나 붓거나 멍들었을 때 ‘부위+hàk/buuam/chám’를 씁니다.\n의사: 오늘 어디가 불편하세요?\n환자: 다리가 부었어요.",
+          "romanization": "1.3 body part + hàk / buuam / chám",
+          "romanizationBody": "tâa mii à-wai-yá-wá sùuan dai hàk buuam rʉ̌ʉ chám cháai kroong-sâang à-wai-yá-wá + hàk/buuam/chám\nmɔ̌ɔ: bpen à-rai maa kráp wan-níi\nkon-kâi: kǎa buuam kâ"
+        },
+        {
+          "page": "26",
+          "thai": "1.4 เจ็บ / ปวด + body part",
+          "thaiBody": "ใช้ เจ็บ หรือ ปวด นำหน้าอวัยวะ เจ็บ มักบรรยายอาการฉับพลัน ส่วน ปวด มักเป็นอาการที่นานกว่า\nหมอ: เป็นอย่างไรบ้างคะ\nคนไข้: เจ็บขาข้างซ้ายค่ะ\n1) ฉันเจ็บหัว\n2) ฉันปวดหัว",
+          "zh-Hant": "jèp／bpùuat 放在身體部位前。jèp 多指突然或外力造成的痛；bpùuat 多指持續較久的內部疼痛。\n醫生：怎麼樣？——病人：左腿痛。\n1）我的頭撞到東西，所以受傷痛。\n2）工作太久，我頭痛。",
+          "en": "Put jèp or bpùuat before a body part. jèp often describes sudden/external pain, while bpùuat often describes a longer internal ache.\nDoctor: How are you? — Patient: My left leg hurts.\n1) My head hurts from hitting something.\n2) I have a headache from working hard.",
+          "ja": "jèp／bpùuat を体の部位の前に置きます。jèp は突然・外的な痛み、bpùuat はより長く続く内的な痛みによく使います。\n患者：左脚が痛いです。\n1）頭をぶつけて痛い。\n2）長時間働いて頭痛がする。",
+          "ko": "jèp/bpùuat를 신체 부위 앞에 둡니다. jèp은 갑작스럽거나 외부 충격의 통증, bpùuat는 더 오래 지속되는 내부 통증에 자주 씁니다.\n환자: 왼쪽 다리가 아파요.\n1) 머리를 부딪쳐 아파요.\n2) 오래 일해서 두통이 있어요.",
+          "romanization": "1.4 jèp / bpùuat + body part",
+          "romanizationBody": "cháai jèp rʉ̌ʉ bpùuat nam-nâa à-wai-yá-wá jèp mák ban-yaai aa-gaan chàp-plan sùuan bpùuat mák bpen aa-gaan tîi naan gwàa\nmɔ̌ɔ: bpen yàang-rai-bâang ká\nkon-kâi: jèp kǎa kâang sáai kâ\n1) chǎn jèp hǔua\n2) chǎn bpùuat-hǔua"
+        },
+        {
+          "page": "27",
+          "thai": "2.1 ให้ = give",
+          "thaiBody": "Someone + ให้ + something + someone\n1) แม่ให้เงินฉัน 200 บาทต่อสัปดาห์\n2) ทุกคนให้ของขวัญกันในวันปีใหม่",
+          "zh-Hant": "hâi 作動詞「給」：某人＋給＋東西＋接受者。\n1）媽媽每週給我兩百泰銖。\n2）大家在新年互送禮物。",
+          "en": "hâi means “give”: someone + hâi + something + recipient.\n1) Mother gives me 200 baht per week.\n2) Everyone gives one another gifts at New Year.",
+          "ja": "hâi は「与える」：人＋hâi＋物＋受け手。\n1）母は毎週私に200バーツくれます。\n2）皆は新年に贈り物を交換します。",
+          "ko": "hâi는 ‘주다’입니다: 사람+hâi+물건+받는 사람.\n1) 어머니는 매주 나에게 200바트를 줍니다.\n2) 모두 새해에 서로 선물을 줍니다.",
+          "romanization": "2.1 hâi = give",
+          "romanizationBody": "Someone + hâi + something + someone\n1) mɛ̂ɛ hâi-ngən chǎn 200 bàat dtɔ̀ɔ sàp-daa\n2) túk-kon hâi kɔ̌ɔng-kwǎn gan nai wan bpii-mài"
+        },
+        {
+          "page": "27–28",
+          "thai": "2.2 ให้ แสดงผู้รับและเป้าหมายของการกระทำ",
+          "thaiBody": "1) แสดงผู้รับ: Someone + do something + ให้ + someone\n- พ่อซื้อของขวัญให้แม่ในวันครบรอบแต่งงาน\n- เขาส่งอีเมลไปให้เพื่อน\n2) แสดงเป้าหมายของกริยาตัวแรก: Someone + V1 + ให้ + someone + V2\n- อาจารย์อ่านคำศัพท์ให้นักเรียนฟัง\n- แม่ทำกับข้าวให้ลูก ๆ กิน",
+          "zh-Hant": "兩種相關用法：①標示動作的接受者：爸爸在結婚紀念日買禮物給媽媽；他寄電子郵件給朋友。②標示第一個動作的目的：老師讀單字給學生聽；媽媽做飯給孩子吃。",
+          "en": "Two related uses: (1) marks the recipient—Father buys Mother an anniversary gift; he sends an email to a friend. (2) marks the purpose/beneficiary of the first verb—the teacher reads vocabulary for students to hear; Mother cooks for the children to eat.",
+          "ja": "二つの用法です。①動作の受け手：父が結婚記念日に母へ贈り物を買う／友達にメールを送る。②最初の動作の目的：先生が学生に聞かせるため単語を読む／母が子どもに食べさせるため料理する。",
+          "ko": "두 가지 관련 용법입니다. ①행동의 수혜자: 아버지가 결혼기념일에 어머니에게 선물을 사다 / 친구에게 이메일을 보내다. ②첫 동작의 목적: 선생님이 학생에게 들려주려고 단어를 읽다 / 어머니가 아이들이 먹도록 요리하다.",
+          "romanization": "2.2 hâi sà-dɛɛng pûu-ráp lɛ́ bpâo-mǎai kɔ̌ɔng gaan-grà-tam",
+          "romanizationBody": "1) sà-dɛɛng pûu-ráp: Someone + do something + hâi + someone\n- pɔ̂ɔ sʉ́ʉ kɔ̌ɔng-kwǎn hâi mɛ̂ɛ nai wan króp-rɔ̂ɔp dtɛ̀ng-ngaan\n- kǎo sòng ii-meel bpai hâi pʉ̂ʉan\n2) sà-dɛɛng bpâo-mǎai kɔ̌ɔng grì-yaa dtuua rɛ̂ɛk: Someone + V1 + hâi + someone + V2\n- aa-jaan àan kam-sàp hâi nák-riian fang\n- mɛ̂ɛ tam-gàp-kâao hâi lûuk lûuk gin"
+        },
+        {
+          "page": "28",
+          "thai": "2.3 ให้ + adjective/state verb",
+          "thaiBody": "ให้ ที่ตามด้วยคำคุณศัพท์หรือกริยาบอกสภาพ แสดงเป้าหมายหรือความคาดหวัง\n1) ทำการบ้านให้เสร็จ\n2) กินข้าวให้อร่อย\n3) เขียนให้สวย",
+          "zh-Hant": "hâi 後接形容詞或狀態動詞，表示應達成的目標或期望。\n1）把作業做完。\n2）好好享用飯菜。\n3）寫漂亮一點。",
+          "en": "hâi followed by an adjective or state verb marks an objective or expectation.\n1) Finish the homework.\n2) Enjoy the meal.\n3) Write neatly.",
+          "ja": "hâi＋形容詞／状態動詞は、達成すべき目標・期待を示します。\n1）宿題を終わらせる。\n2）おいしく食べる。\n3）きれいに書く。",
+          "ko": "hâi+형용사/상태 동사는 목표나 기대를 나타냅니다.\n1) 숙제를 끝내라.\n2) 맛있게 먹어라.\n3) 예쁘게 써라.",
+          "romanization": "2.3 hâi + adjective/state verb",
+          "romanizationBody": "hâi tîi dtaam dûuai kam-kun-na-sàp rʉ̌ʉ grì-yaa bɔ̀ɔk sà-pâap sà-dɛɛng bpâo-mǎai rʉ̌ʉ kwaam-kâat-wǎng\n1) tam-gaan-bâan hâi sèt\n2) gin-kâao hâi a-rɔ̀ɔi\n3) kǐian hâi sǔuai"
+        },
+        {
+          "page": "28",
+          "thai": "2.4 ขอให้ + someone + verb/adjective",
+          "thaiBody": "ให้ เมื่อปรากฏกับ ขอ ใช้แสดงความปรารถนา\n1) ขอให้คุณโชคดีนะ\n2) ขอให้คุณประสบความสำเร็จนะ",
+          "zh-Hant": "kɔ̌ɔ-hâi 用來表達祝願。\n1）祝你好運。\n2）祝你成功。",
+          "en": "kɔ̌ɔ-hâi expresses a wish.\n1) I wish you good luck.\n2) I wish you success.",
+          "ja": "kɔ̌ɔ-hâi は願い・祝福を表します。\n1）幸運を祈ります。\n2）成功を祈ります。",
+          "ko": "kɔ̌ɔ-hâi는 바람이나 축원을 나타냅니다.\n1) 행운을 빕니다.\n2) 성공을 빕니다.",
+          "romanization": "2.4 kɔ̌ɔ-hâi + someone + verb/adjective",
+          "romanizationBody": "hâi mʉ̂ʉa bpraa-gòt gàp kɔ̌ɔ cháai sà-dɛɛng kwaam-bpràat-tà-nǎa\n1) kɔ̌ɔ-hâi kun chôok-dii ná\n2) kɔ̌ɔ-hâi kun bprà-sòp-kwaam-sǎm-rèt ná"
+        },
+        {
+          "page": "28–29",
+          "thai": "2.5 ให้ แสดงการสั่ง หรือการอนุญาต",
+          "thaiBody": "Someone + ให้ + somebody + do something\n1) อาจารย์ให้นักเรียนเขียนเกี่ยวกับวัฒนธรรม\n2) เขาให้ฉันไปซื้อยาให้เขา\n3) ให้ฉันช่วยนะ",
+          "zh-Hant": "hâi 可作使役動詞，表示命令、讓某人做事或允許。\n1）老師叫學生寫關於文化的文章。\n2）他叫我去替他買藥。\n3）讓我幫忙吧。",
+          "en": "hâi can be causative, expressing an order, having/letting someone do something, or asking permission.\n1) The teacher has students write about culture.\n2) He has me buy medicine for him.\n3) Let me help.",
+          "ja": "hâi は使役として、命令・人に何かをさせること・許可を表します。\n1）先生は学生に文化について書かせます。\n2）彼は私に薬を買いに行かせます。\n3）手伝わせてください。",
+          "ko": "hâi는 사역 동사로 명령, 누군가에게 일을 시키거나 허락함을 나타냅니다.\n1) 선생님이 학생들에게 문화에 관해 쓰게 합니다.\n2) 그는 나에게 자기 약을 사 오게 합니다.\n3) 제가 돕게 해 주세요.",
+          "romanization": "2.5 hâi sà-dɛɛng gaan sàng rʉ̌ʉ gaan-à-nú-yâat",
+          "romanizationBody": "Someone + hâi + somebody + do something\n1) aa-jaan hâi nák-riian kǐian gìiao-gàp wát-tá-ná-tam\n2) kǎo hâi chǎn bpai sʉ́ʉ yaa hâi kǎo\n3) hâi chǎn chûuai ná"
+        }
+      ]
+    },
+    {
+      "lesson": 3,
+      "vocabulary": [
+        {
+          "page": "38",
+          "thai": "เพลง",
+          "romanization": "pleeng",
+          "zh-Hant": "歌曲",
+          "en": "song",
+          "ja": "歌",
+          "ko": "노래"
+        },
+        {
+          "page": "38",
+          "thai": "ชาติ",
+          "romanization": "châat",
+          "zh-Hant": "國家、民族",
+          "en": "nation",
+          "ja": "国、国家",
+          "ko": "국가, 민족"
+        },
+        {
+          "page": "38",
+          "thai": "เมื่อย",
+          "romanization": "mʉ̂ʉai",
+          "zh-Hant": "痠、僵硬",
+          "en": "tired; stiff",
+          "ja": "だるい、こる",
+          "ko": "쑤시다, 뻐근하다"
+        },
+        {
+          "page": "38",
+          "thai": "ลุก",
+          "romanization": "lúk",
+          "zh-Hant": "起身",
+          "en": "to get up",
+          "ja": "立ち上がる",
+          "ko": "일어나다"
+        },
+        {
+          "page": "38",
+          "thai": "หุ่นยนต์",
+          "romanization": "hùn-yon",
+          "zh-Hant": "機器人",
+          "en": "robot",
+          "ja": "ロボット",
+          "ko": "로봇"
+        },
+        {
+          "page": "38",
+          "thai": "ใคร ๆ",
+          "romanization": "krai-krai",
+          "zh-Hant": "每個人、大家",
+          "en": "everybody",
+          "ja": "誰もが、みんな",
+          "ko": "누구나, 모두"
+        },
+        {
+          "page": "38",
+          "thai": "เคารพ",
+          "romanization": "kao-róp",
+          "zh-Hant": "尊敬、致敬",
+          "en": "to respect",
+          "ja": "敬う",
+          "ko": "존경하다"
+        },
+        {
+          "page": "38",
+          "thai": "ธง",
+          "romanization": "tong",
+          "zh-Hant": "旗幟",
+          "en": "flag",
+          "ja": "旗",
+          "ko": "깃발"
+        },
+        {
+          "page": "38",
+          "thai": "ทั้งนั้น",
+          "romanization": "táng-nán",
+          "zh-Hant": "全都是、無一例外",
+          "en": "all; without exception",
+          "ja": "すべて、例外なく",
+          "ko": "모두, 하나같이"
+        },
+        {
+          "page": "39",
+          "thai": "ธรรมเนียม",
+          "romanization": "tam-niiam",
+          "zh-Hant": "習俗、慣例",
+          "en": "custom; tradition",
+          "ja": "慣習、しきたり",
+          "ko": "관습, 전통"
+        },
+        {
+          "page": "39",
+          "thai": "เพลงสรรเสริญพระบารมี",
+          "romanization": "phleeng-sǎn-sə̌ən-phrá-baa-rá-mii",
+          "zh-Hant": "泰國王室頌歌",
+          "en": "Thai royal anthem",
+          "ja": "タイ王室賛歌",
+          "ko": "태국 왕실 찬가"
+        },
+        {
+          "page": "39",
+          "thai": "พระมหากษัตริย์",
+          "romanization": "phrá-má-hǎa-gà-sàt",
+          "zh-Hant": "國王、君主",
+          "en": "king; monarch",
+          "ja": "国王、君主",
+          "ko": "국왕, 군주"
+        },
+        {
+          "page": "39",
+          "thai": "มารยาท",
+          "romanization": "maa-rá-yâat",
+          "zh-Hant": "禮儀",
+          "en": "manners",
+          "ja": "マナー、礼儀",
+          "ko": "예절"
+        },
+        {
+          "page": "39",
+          "thai": "สังเกต",
+          "romanization": "sǎng-gèet",
+          "zh-Hant": "觀察、注意",
+          "en": "to notice; to observe",
+          "ja": "観察する、気づく",
+          "ko": "관찰하다, 알아차리다"
+        },
+        {
+          "page": "39",
+          "thai": "รอบข้าง",
+          "romanization": "rɔ̂ɔp-kâang",
+          "zh-Hant": "周遭、四周",
+          "en": "surroundings; around",
+          "ja": "周囲",
+          "ko": "주변"
+        },
+        {
+          "page": "39",
+          "thai": "ชิน",
+          "romanization": "chin",
+          "zh-Hant": "習慣、適應",
+          "en": "to be used to",
+          "ja": "慣れる",
+          "ko": "익숙해지다"
+        },
+        {
+          "page": "39",
+          "thai": "เรียนรู้",
+          "romanization": "riian-rúu",
+          "zh-Hant": "學習、了解",
+          "en": "to learn",
+          "ja": "学ぶ",
+          "ko": "배우다"
+        }
+      ],
+      "notes": [
+        {
+          "page": "39",
+          "thai": "อย่างกับ (ยังกะ)",
+          "thaiBody": "ใช้พูดเปรียบเทียบการกระทำหรือสิ่งหนึ่งว่าเหมือนกับอะไร\n1) หน้าหนาว คนไทยใส่เสื้อกันหนาวหนา ๆ ยังกะมีหิมะ\n2) พวกคนรวย ๆ ใช้เงินยังกะกระดาษ",
+          "zh-Hant": "用來比喻某個動作或事物「就像……一樣」。\n1）冬天時，泰國人穿很厚的外套，好像會下雪一樣。\n2）那些有錢人花錢如紙。",
+          "en": "Compares an action or thing with something similar: “as if / like.”\n1) In winter, Thai people wear thick coats as if it snowed.\n2) Rich people spend money as if it were paper.",
+          "ja": "ある行動や物事を「まるで〜のようだ」とたとえます。\n1）冬、タイ人は雪が降るかのように厚い上着を着ます。\n2）金持ちは紙のようにお金を使います。",
+          "ko": "행동이나 사물을 ‘마치 ~처럼’ 비교합니다.\n1) 겨울에 태국 사람들은 눈이 오는 것처럼 두꺼운 외투를 입습니다.\n2) 부자들은 돈을 종이처럼 씁니다.",
+          "romanization": "yàang gàp (yang)",
+          "romanizationBody": "cháai pûut bprìiap-tîiap gaan-grà-tam rʉ̌ʉ sìng nʉ̀ng wâa mʉ̌ʉan-gàp à-rai\n1) nâa-nǎao kon-tai sài sʉ̂ʉa-gan-nǎao nǎa nǎa yang mii hì-má\n2) pûuak kon ruuai-ruuai cháai ngən yang grà-dàat"
+        },
+        {
+          "page": "39–40",
+          "thai": "แหม",
+          "thaiBody": "แสดงความไม่เห็นด้วยหรือการไม่ยอมรับ\n1) ก: อาหารร้านนี้แพ้งแพง\n   ข: แหม นี่ร้านอาหารระดับมิชลินสตาร์นะ จะถูกกว่านี้ได้ยังไง\n2) ก: แต่งตัวแบบนี้ดูตลกจังเลย\n   ข: แหม ดูพูดเข้า ตลกอะไร สวยจะตาย\n3) ก: วันนี้ดูสวยจังเลยนะ\n   ข: แหม ไม่หรอก",
+          "zh-Hant": "感嘆詞，可表示不贊同、不認同，也可在被稱讚時謙虛回應。\n1）這家餐廳好貴。——哎呀，這可是米其林餐廳，怎麼可能更便宜？\n2）穿這樣看起來好好笑。——哎呀，怎麼這樣說，哪裡好笑，明明漂亮得很。\n3）今天看起來真漂亮。——哎呀，沒有啦。",
+          "en": "An interjection showing disagreement or disapproval; it can also soften a modest response to praise.\n1) This restaurant is so expensive. — Come on, it's Michelin-starred; how could it be cheaper?\n2) That outfit looks funny. — Oh, listen to you. It's beautiful.\n3) You look beautiful today. — Oh, not really.",
+          "ja": "反対・不承認を示す感嘆詞で、褒められたときの謙遜にも使います。\n1）この店はすごく高い。——もう、ミシュランの店だよ。安いわけがないでしょう。\n2）その服装はおかしい。——もう、何を言うの。とてもきれいよ。\n3）今日はきれいだね。——まあ、そんなことないよ。",
+          "ko": "동의하지 않거나 못마땅함을 나타내는 감탄사이며, 칭찬에 겸손하게 답할 때도 씁니다.\n1) 이 식당 너무 비싸. — 아이, 미슐랭 식당인데 어떻게 더 싸겠어?\n2) 그렇게 입으니 우스워 보여. — 아이, 무슨 말이야. 아주 예쁜데.\n3) 오늘 정말 예쁘다. — 아이, 아니야.",
+          "romanization": "mɛ̌ɛ",
+          "romanizationBody": "sà-dɛɛng kwaam mâi hěn-dûuai rʉ̌ʉ gaan mâi yɔɔm-ráp\n1) gà: aa-hǎan ráan níi pɛ́ɛ ngá pɛɛng\nkà: mɛ̌ɛ nîi ráan-aa-hǎan rá-dàp mít-lin sà-dtaa ná jà tùuk gwàa níi dâai yang-ngai\n2) gà: dtɛ̀ng-dtuua bɛ̀ɛp-níi duu dtà-lòk jang ləəi\nkà: mɛ̌ɛ duu pûut kâo dtà-lòk à-rai sǔuai jà dtaai\n3) gà: wan-níi duu sǔuai jang ləəi ná\nkà: mɛ̌ɛ mâi rɔ̀ɔk"
+        },
+        {
+          "page": "40",
+          "thai": "อ๋อ",
+          "thaiBody": "เป็นคำอุทานแสดงความเข้าใจ\n1) ก: นี่แอน เพื่อนของเรา เคยเจอกันแล้ว จำได้หรือเปล่า\n   ข: อ๋อ จำได้แล้ว เคยเจอกันที่พารากอน\n2) ก: หนังที่ดูเมื่อวานเรื่องอะไรนะ\n   ข: Titanic\n   ก: อ๋อ เรื่องเกี่ยวกับเรือล่มใช่ไหม",
+          "zh-Hant": "表示理解、想起來或恍然大悟的感嘆詞「喔／原來如此」。\n1）這是安，我們的朋友，以前見過，記得嗎？——喔，想起來了，在 Paragon 見過。\n2）昨天看的電影是什麼？——《鐵達尼號》。——喔，是關於沉船的那部，對嗎？",
+          "en": "An interjection showing understanding or recognition: “Oh, I see.”\n1) This is Ann; you've met her. — Oh, I remember. We met at Paragon.\n2) What movie did we watch yesterday? — Titanic. — Oh, the one about a sinking ship, right?",
+          "ja": "理解したり思い出したりしたときの「なるほど／ああ」です。\n1）こちらは友達のアン。前に会ったよ。——ああ、思い出した。パラゴンで会ったね。\n2）昨日の映画は何だっけ？——『タイタニック』。——ああ、船が沈む話だよね。",
+          "ko": "이해하거나 기억이 났을 때 쓰는 ‘아, 그렇구나’라는 감탄사입니다.\n1) 우리 친구 앤이야. 전에 만났는데 기억나? — 아, 기억났어. 파라곤에서 만났지.\n2) 어제 본 영화가 뭐였지? — 타이타닉. — 아, 배가 침몰하는 이야기 맞지?",
+          "romanization": "ɔ̌ɔ",
+          "romanizationBody": "bpen kam-ù-taan sà-dɛɛng kwaam-kâo-jai\n1) gà: nîi ɛɛn pʉ̂ʉan kɔ̌ɔng rao kəəi jəə-gan lɛ́ɛo jam-dâai rʉ̌ʉ-bplàao\nkà: ɔ̌ɔ jam-dâai lɛ́ɛo kəəi jəə gan-tîi paa-raa-gɔɔn\n2) gà: nǎng tîi duu mʉ̂ʉa-waan rʉ̂ʉang à-rai ná\nkà: Titanic\ngà: ɔ̌ɔ rʉ̂ʉang gìiao-gàp rʉʉa lôm châi-mǎi"
+        },
+        {
+          "page": "40",
+          "thai": "เข้าเมืองตาหลิ่ว ต้องหลิ่วตาตาม",
+          "thaiBody": "หมายความว่าให้ทำตัวให้เหมาะสมกับสถานที่ ที่ไหนทำอย่างไร ให้ทำตาม",
+          "zh-Hant": "意為到了某個地方，就應依照當地習俗行事；相當於「入境隨俗」。",
+          "en": "Act appropriately for the place and follow local customs: “When in Rome, do as the Romans do.”",
+          "ja": "その場所に合った振る舞いをし、現地の習慣に従うという意味です。「郷に入っては郷に従え」。",
+          "ko": "그 장소에 맞게 행동하고 현지 관습을 따르라는 뜻입니다. ‘로마에 가면 로마법을 따르라.’",
+          "romanization": "kâo-mʉang-dtaa-lìw dtɔ̂ng-lìw-dtaa-dtaam",
+          "romanizationBody": "mǎai-kwaam-wâa hâi tam-dtuua hâi mɔ̀ɔ-sǒm gàp sà-tǎan-tîi tîi-nǎi tam yàang-rai hâi tam-dtaam"
+        },
+        {
+          "page": "40",
+          "thai": "ไหนว่าจะ…",
+          "thaiBody": "เป็นคำถามเชิงตัดพ้อ ทวงถาม หรือสงสัย เพื่อทวงสัญญาที่ยังไม่ได้ทำ\n1) ไหนว่าจะพาไปเที่ยวเชียงใหม่ จนถึงตอนนี้ยังไม่พาไปเลยนะ\n2) ไหนว่าจะซื้อขนมให้กิน ไม่เห็นซื้อเลย",
+          "zh-Hant": "帶抱怨、追問或質疑的語氣，用來提醒對方尚未履行承諾：「不是說要……嗎？」\n1）不是說要帶我去清邁嗎？到現在都還沒去。\n2）不是說要買點心給我嗎？根本沒買。",
+          "en": "A complaining or rhetorical question used to demand an unfulfilled promise: “Didn't you say you would…?”\n1) Didn't you say you'd take me to Chiang Mai? You still haven't.\n2) Didn't you say you'd buy me snacks? You didn't buy any.",
+          "ja": "まだ果たされていない約束を責めたり問いただしたりする「〜するって言ったじゃない？」です。\n1）チェンマイに連れて行くって言ったのに、まだ行っていないよ。\n2）お菓子を買ってくれるって言ったのに、全然買っていない。",
+          "ko": "아직 지키지 않은 약속을 서운하거나 따지는 말투로 묻는 ‘~한다고 하지 않았어?’입니다.\n1) 치앙마이에 데려간다고 했잖아. 아직도 안 갔어.\n2) 과자를 사 준다고 했잖아. 하나도 안 샀네.",
+          "romanization": "nǎi-wâa-jà…",
+          "romanizationBody": "bpen kam-tǎam chəəng dtàt-pɔ́ɔ tuuang-tǎam rʉ̌ʉ sǒng-sǎi pʉ̂ʉa tuuang-sǎn-yaa tîi yang mâi dâai tam\n1) nǎi-wâa-jà paa bpai-tîiao chiiang-mài jon-tʉ̌ng dtɔɔn-níi yang mâi paa bpai ləəi ná\n2) nǎi-wâa-jà sʉ́ʉ kà-nǒm hâi gin mâi hěn sʉ́ʉ ləəi"
+        }
+      ],
+      "grammar": [
+        {
+          "page": "42",
+          "thai": "1.1 ไป = keep on doing (imperative)",
+          "thaiBody": "ไป บอกการกระทำต่อไป ใช้เป็นคำสั่ง\n1) ทำไปเถอะ เดี๋ยวก็เสร็จ\n2) อ่านหนังสือไปนะ",
+          "zh-Hant": "放在動詞後，於命令句表示繼續做。\n1）做下去吧，很快就完成了。\n2）繼續看書喔。",
+          "en": "After a verb in an imperative, bpai means “keep on doing.”\n1) Keep doing it; it will soon be finished.\n2) Keep reading.",
+          "ja": "命令文で動詞の後に置き、「そのまま続ける」を表します。\n1）続けて。もうすぐ終わるよ。\n2）そのまま本を読んでいてね。",
+          "ko": "명령문에서 동사 뒤에 놓여 ‘계속 ~하다’를 뜻합니다.\n1) 계속 해. 곧 끝날 거야.\n2) 계속 책을 읽어.",
+          "romanization": "1.1 bpai = keep on doing (imperative)",
+          "romanizationBody": "bpai bɔ̀ɔk gaan-grà-tam dtɔ̀ɔ-bpai cháai bpen kam-sàng\n1) tam bpai tə̀ dǐiao gɔ̂ɔ sèt\n2) àan-náng-sʉ̌ʉ bpai ná"
+        },
+        {
+          "page": "42",
+          "thai": "1.2 …ไป (ด้วย) …ไป (ด้วย)",
+          "thaiBody": "แสดงว่าการกระทำสองอย่างดำเนินต่อไปพร้อมกัน\n1) เขาชอบดูหนังไปด้วย กินขนมไปด้วย\n2) ฉันชอบทำงานไป ฟังเพลงไป",
+          "zh-Hant": "表示兩個動作同時持續進行。\n1）他喜歡一邊看電影一邊吃點心。\n2）我喜歡一邊工作一邊聽音樂。",
+          "en": "Shows two actions continuing at the same time.\n1) He likes watching movies while eating snacks.\n2) I like working while listening to music.",
+          "ja": "二つの動作が同時に続くことを表します。\n1）彼は映画を見ながらお菓子を食べるのが好きです。\n2）私は仕事をしながら音楽を聞くのが好きです。",
+          "ko": "두 행동이 동시에 계속됨을 나타냅니다.\n1) 그는 영화를 보면서 간식을 먹는 것을 좋아합니다.\n2) 나는 일하면서 음악 듣는 것을 좋아합니다.",
+          "romanization": "1.2 …bpai (dûuai) …bpai (dûuai)",
+          "romanizationBody": "sà-dɛɛng-wâa gaan-grà-tam sɔ̌ɔng yàang dam-nəən-dtɔ̀ɔ-bpai prɔ́ɔm-gan\n1) kǎo chɔ̂ɔp duu nǎng bpai dûuai gin kà-nǒm bpai dûuai\n2) chǎn chɔ̂ɔp tam-ngaan bpai fang-pleeng bpai"
+        },
+        {
+          "page": "42",
+          "thai": "1.3 ไป เน้นการเปลี่ยนแปลง",
+          "thaiBody": "1) เดี๋ยวนี้สังคมเปลี่ยนไปแล้ว\n2) เธอไปทำอะไรมา หน้าตาดูแปลกไป",
+          "zh-Hant": "bpai 可強調狀態發生變化。\n1）現在社會已經改變了。\n2）你做了什麼？看起來變得怪怪的。",
+          "en": "bpai can emphasize a change of state.\n1) Society has changed now.\n2) What did you do? You look different.",
+          "ja": "bpai は状態の変化を強調できます。\n1）今では社会が変わりました。\n2）何をしてきたの？顔つきが変わったね。",
+          "ko": "bpai는 상태 변화를 강조할 수 있습니다.\n1) 이제 사회가 변했습니다.\n2) 뭘 하고 왔어? 얼굴이 달라 보여.",
+          "romanization": "1.3 bpai néen gaan-bplìian-bplɛɛng",
+          "romanizationBody": "1) dǐiao-níi sǎng-kom bplìian-bpai lɛ́ɛo\n2) təə bpai tam à-rai maa nâa-dtaa duu bplɛ̀ɛk bpai"
+        },
+        {
+          "page": "43",
+          "thai": "1.4 ไป = too much",
+          "thaiBody": "1) อากาศเมืองไทยร้อนไปสำหรับชาวต่างชาติ\n2) แอร์ในห้องหนาวเกินไป",
+          "zh-Hant": "放在形容詞後表示「太過……」。\n1）對外國人來說，泰國天氣太熱。\n2）房間冷氣太冷。",
+          "en": "After an adjective, bpai means “too much.”\n1) Thailand's weather is too hot for foreigners.\n2) The air conditioning is too cold.",
+          "ja": "形容詞の後で「〜すぎる」を表します。\n1）タイの天気は外国人には暑すぎます。\n2）部屋のエアコンは寒すぎます。",
+          "ko": "형용사 뒤에서 ‘너무 ~하다’를 뜻합니다.\n1) 태국 날씨는 외국인에게 너무 덥습니다.\n2) 방 에어컨이 너무 춥습니다.",
+          "romanization": "1.4 bpai = too much",
+          "romanizationBody": "1) aa-gàat mʉʉang tai rɔ́ɔn bpai sǎm-ràp chaao-dtàang-châat\n2) ɛɛ nai hɔ̂ɔng nǎao gəən-bpai"
+        },
+        {
+          "page": "43",
+          "thai": "1.5 ไป = action already completed",
+          "thaiBody": "แสดงว่ากริยานั้นเสร็จเรียบร้อยแล้ว\n1) ฉันบอกเธอไปแล้วนะว่าแฟนฉันแพ้กุ้ง อย่าซื้อมาทำอาหาร ทำไมจำไม่ได้ล่ะ\n2) เพื่อนอ่านหนังสือจบไป 3 เล่มแล้ว แต่ฉันยังไม่ได้เริ่มอ่านเลย",
+          "zh-Hant": "表示該動作已經完成。\n1）我已經告訴你我伴侶對蝦過敏，不要買來煮，怎麼不記得？\n2）朋友已經看完三本書，我卻還沒開始。",
+          "en": "Shows that an action has already been completed.\n1) I already told you my partner is allergic to shrimp; why don't you remember?\n2) My friend has already finished three books, but I have not started.",
+          "ja": "その動作がすでに完了したことを表します。\n1）恋人はエビアレルギーだから料理に買わないでともう言ったでしょう。なぜ覚えていないの？\n2）友達はもう3冊読み終えたのに、私はまだ始めていません。",
+          "ko": "동작이 이미 완료되었음을 나타냅니다.\n1) 내 연인이 새우 알레르기라 요리용으로 사지 말라고 이미 말했잖아. 왜 기억 못 해?\n2) 친구는 벌써 책 세 권을 다 읽었지만 나는 아직 시작도 못 했습니다.",
+          "romanization": "1.5 bpai = action already completed",
+          "romanizationBody": "sà-dɛɛng-wâa grì-yaa nán sèt rîiap-rɔ́ɔi lɛ́ɛo\n1) chǎn bɔ̀ɔk təə bpai lɛ́ɛo ná wâa fɛɛn chǎn pɛ́ɛ gûng yàa sʉ́ʉ maa tam-aa-hǎan tam-mai jam mâi dâai lâ\n2) pʉ̂ʉan àan-náng-sʉ̌ʉ jòp bpai 3 lêm lɛ́ɛo dtɛ̀ɛ chǎn yang mâi dâai rə̂əm àan ləəi"
+        },
+        {
+          "page": "43",
+          "thai": "2.1 มา = past action with a visible result",
+          "thaiBody": "บ่งชี้เหตุการณ์ที่เกิดขึ้น และผลของการกระทำนั้นยังคงอยู่\n1) เขาไปเล่นฟุตบอลมา เสื้อก็เลยสกปรก\n2) เขาไปเล่นน้ำมา ตัวก็เลยเปียก",
+          "zh-Hant": "表示先前發生的事，其結果現在仍看得出來。\n1）他去踢足球回來，所以衣服髒了。\n2）他去玩水回來，所以身體濕了。",
+          "en": "Indicates a past event whose result is still visible now.\n1) He went to play football, so his shirt is dirty.\n2) He went swimming, so he is wet.",
+          "ja": "過去の出来事の結果が今も見えることを示します。\n1）サッカーをしてきたので服が汚れています。\n2）水遊びをしてきたので体が濡れています。",
+          "ko": "과거 행동의 결과가 지금도 보임을 나타냅니다.\n1) 축구를 하고 와서 옷이 더럽습니다.\n2) 물놀이를 하고 와서 몸이 젖었습니다.",
+          "romanization": "2.1 maa = past action with a visible result",
+          "romanizationBody": "bòng-chíi hèet-gaan tîi gə̀ət-kʉ̂n lɛ́ pǒn kɔ̌ɔng gaan-grà-tam nán yang kong-yùu\n1) kǎo bpai lên fút-bɔɔn maa sʉ̂ʉa gɔ̂ɔ ləəi sòk-gà-bpròk\n2) kǎo bpai lên náam maa dtuua gɔ̂ɔ ləəi bpìiak"
+        },
+        {
+          "page": "43",
+          "thai": "2.2 มา = something just happened",
+          "thaiBody": "1) ก: ไปไหนมา\n   ข: ไปกินข้าวมา\n2) ฉันเพิ่งไปหาหมอมา",
+          "zh-Hant": "表示剛剛發生、做完回來的事。\n1）你去哪裡了？——去吃飯回來。\n2）我剛去看醫生回來。",
+          "en": "Indicates something that has just happened.\n1) Where have you been? — I went to eat.\n2) I have just been to the doctor.",
+          "ja": "たった今起きた／してきたことを表します。\n1）どこへ行ってきた？——食事に行ってきた。\n2）今、医者に行ってきたところです。",
+          "ko": "방금 일어났거나 하고 온 일을 나타냅니다.\n1) 어디 갔다 왔어? — 밥 먹고 왔어.\n2) 방금 병원에 다녀왔습니다.",
+          "romanization": "2.2 maa = something just happened",
+          "romanizationBody": "1) gà: bpai nǎi maa\nkà: bpai gin-kâao maa\n2) chǎn pə̂ng bpai-hǎa mɔ̌ɔ maa"
+        },
+        {
+          "page": "44",
+          "thai": "2.3 มา = from the past until now",
+          "thaiBody": "1) เขาทำงานที่นี่มา 5 ปีแล้ว\n2) เขาเรียนที่จุฬาฯ มา 1 อาทิตย์แล้ว",
+          "zh-Hant": "表示從過去開始並持續到現在。\n1）他在這裡工作五年了。\n2）他在朱拉隆功大學學習一週了。",
+          "en": "Shows an event continuing from the past until now.\n1) He has worked here for five years.\n2) He has studied at Chula for one week.",
+          "ja": "過去から現在まで続いていることを表します。\n1）彼はここで5年間働いています。\n2）彼はチュラ大で1週間学んでいます。",
+          "ko": "과거부터 지금까지 계속됨을 나타냅니다.\n1) 그는 여기서 5년째 일하고 있습니다.\n2) 그는 쭐랄롱꼰대에서 일주일째 공부하고 있습니다.",
+          "romanization": "2.3 maa = from the past until now",
+          "romanizationBody": "1) kǎo tam-ngaan tîi-nîi maa 5 bpii lɛ́ɛo\n2) kǎo riian tîi jù-laa maa 1 aa-tít lɛ́ɛo"
+        },
+        {
+          "page": "44",
+          "thai": "3.1 ขึ้น = upward movement",
+          "thaiBody": "เป็นคำกริยาแสดงทิศทางจากล่างขึ้นบน\n1) ทุกคนยืนขึ้น!\n2) เขาตื่นขึ้นมาตอนตีห้า",
+          "zh-Hant": "表示由下往上的物理移動。\n1）大家站起來！\n2）他清晨五點醒來起身。",
+          "en": "A directional verb for physical upward movement.\n1) Everyone, stand up!\n2) He woke up at 5 a.m.",
+          "ja": "下から上への物理的な移動を表す方向動詞です。\n1）皆さん、立って！\n2）彼は午前5時に目を覚ましました。",
+          "ko": "아래에서 위로의 물리적 움직임을 나타내는 방향 동사입니다.\n1) 모두 일어나세요!\n2) 그는 새벽 5시에 일어났습니다.",
+          "romanization": "3.1 kʉ̂n = upward movement",
+          "romanizationBody": "bpen kam-grì-yaa sà-dɛɛng tít-taang jàak lâang kʉ̂n bon\n1) túk-kon yʉʉn kʉ̂n!\n2) kǎo dtʉ̀ʉn-kʉ̂n maa dtɔɔn dtii-hâa"
+        },
+        {
+          "page": "44",
+          "thai": "3.2 ขึ้น เน้นความหมายของกริยาอื่น",
+          "thaiBody": "1) แม่พูดขึ้นมาว่า “อยากกินอาหารจีน”\n2) เกิดอะไรขึ้น",
+          "zh-Hant": "與其他動詞結合以加強或完整其意義。\n1）媽媽忽然開口說：「想吃中國菜。」\n2）發生什麼事了？",
+          "en": "Combines with other verbs to emphasize or complete their meaning.\n1) Mother spoke up: “I want Chinese food.”\n2) What happened?",
+          "ja": "他の動詞と組み合わせて意味を強調・完成させます。\n1）母が「中華料理が食べたい」と言い出しました。\n2）何が起きましたか。",
+          "ko": "다른 동사와 결합해 의미를 강조하거나 완성합니다.\n1) 어머니가 ‘중국 음식이 먹고 싶다’고 말했습니다.\n2) 무슨 일이 일어났어요?",
+          "romanization": "3.2 kʉ̂n néen kwaam-mǎai kɔ̌ɔng grì-yaa ʉ̀ʉn",
+          "romanizationBody": "1) mɛ̂ɛ pûut kʉ̂n maa wâa “yàak gin aa-hǎan-jiin”\n2) gə̀ət à-rai kʉ̂n"
+        },
+        {
+          "page": "45",
+          "thai": "3.3 ขึ้น แสดงความหมายว่ามีมากขึ้น",
+          "thaiBody": "1) เธออ้วนขึ้นหรือเปล่า\n2) นักเรียนพูดภาษาไทยเก่งขึ้น",
+          "zh-Hant": "表示數量或程度增加。1）你是不是變胖了？2）學生的泰語說得更好了。",
+          "en": "Indicates an increase in amount or degree. (1) Have you gained weight? (2) The student speaks Thai better.",
+          "ja": "量や程度の増加を表します。1）太りましたか。2）学生はタイ語が上手になりました。",
+          "ko": "양이나 정도가 증가함을 나타냅니다. 1) 살이 쪘어요? 2) 학생의 태국어 실력이 늘었습니다.",
+          "romanization": "3.3 kʉ̂n sà-dɛɛng kwaam-mǎai wâa mii mâak-kʉ̂n",
+          "romanizationBody": "1) təə ûuan kʉ̂n rʉ̌ʉ-bplàao\n2) nák-riian pûut paa-sǎa-tai gèng kʉ̂n"
+        },
+        {
+          "page": "45",
+          "thai": "4.1 ลง = downward movement",
+          "thaiBody": "เป็นคำกริยาแสดงทิศทางการเคลื่อนที่ทั้งทางกายภาพและทางความคิดจากบนลงล่าง\n1) นั่งลง!\n2) วางหนังสือลงบนโต๊ะ",
+          "zh-Hant": "表示實際或概念上由上往下的移動。1）坐下！2）把書放到桌上。",
+          "en": "Marks physical or conceptual downward movement. (1) Sit down! (2) Put the book down on the table.",
+          "ja": "物理的・概念的な下向きの移動を表します。1）座って！2）本を机の上に置いて。",
+          "ko": "물리적·개념적으로 아래 방향의 움직임을 나타냅니다. 1) 앉으세요! 2) 책을 탁자 위에 놓으세요.",
+          "romanization": "4.1 long = downward movement",
+          "romanizationBody": "bpen kam-grì-yaa sà-dɛɛng tít taang-gaan klʉ̂ʉan-tîi táng taang-gaai-yá-pâap lɛ́ taang kwaam-kít jàak bon long lâang\n1) nâng-long!\n2) waang nǎng-sʉ̌ʉ long bon dtó"
+        },
+        {
+          "page": "45",
+          "thai": "4.2 ลง แสดงว่าทำอะไรได้สำเร็จ",
+          "thaiBody": "ใช้โดยเฉพาะกับคำกริยาที่มีทิศทางการเคลื่อนที่ลง\n1) เสื้อตัวนี้คับแล้ว ใส่ไม่ลงแล้ว\n2) กินข้าวมาสามจานแล้ว กินขนมไม่ลงแล้ว",
+          "zh-Hant": "表示某個帶向下動作的行為能否成功完成。1）這件衣服太緊，已經穿不下。2）吃了三盤飯，已經吃不下點心。",
+          "en": "Shows whether an action, especially one with a downward direction, can be completed. The examples mean the shirt cannot be put on and dessert cannot be eaten after three plates of rice.",
+          "ja": "特に下向きの動作が完了できるかを表します。例は「服がきつくて着られない」「三皿食べて菓子が入らない」です。",
+          "ko": "특히 아래 방향의 동작을 성공적으로 할 수 있는지를 나타냅니다. 예문은 옷이 꽉 끼어 못 입고, 밥 세 접시 뒤 간식을 못 먹는다는 뜻입니다.",
+          "romanization": "4.2 long sà-dɛɛng-wâa tam à-rai dâai sǎm-rèt",
+          "romanizationBody": "cháai dooi-chà-pɔ́ɔ gàp kam-grì-yaa tîi mii tít taang-gaan klʉ̂ʉan-tîi long\n1) sʉ̂ʉa dtuua níi káp lɛ́ɛo sài mâi long lɛ́ɛo\n2) gin-kâao maa sǎam jaan lɛ́ɛo gin kà-nǒm mâi long lɛ́ɛo"
+        },
+        {
+          "page": "45",
+          "thai": "4.3 ลง แสดงความหมายว่ามีน้อยลง",
+          "thaiBody": "1) ฝนตกทำให้อากาศเย็นลง 2–3 องศา\n2) เขาป่วยมาสามวัน ตอนนี้เขาผอมลงมาก\n3) สินค้าในตลาดราคาถูกลงมาก",
+          "zh-Hant": "表示數量或程度降低：下雨後降溫二至三度；他病了三天後瘦很多；市場商品便宜很多。",
+          "en": "Indicates a decrease: rain lowers the temperature by 2–3 degrees; he has become much thinner after three days of illness; market goods have become much cheaper.",
+          "ja": "減少を表します。雨で2〜3度涼しくなる、病気でかなり痩せる、市場の商品が安くなる、という例です。",
+          "ko": "감소를 나타냅니다. 비로 기온이 2~3도 내려가고, 병으로 많이 마르고, 시장 물건값이 크게 내려가는 예입니다.",
+          "romanization": "4.3 long sà-dɛɛng kwaam-mǎai wâa mii nɔ́ɔi-long",
+          "romanizationBody": "1) fǒn-dtòk tam-hâi aa-gàat yen long 2–3 ong-sǎa\n2) kǎo bpùuai maa sǎam wan dtɔɔn-níi kǎo pɔ̌ɔm long mâak\n3) sǐn-káa nai dtà-làat raa-kaa tùuk long mâak"
+        },
+        {
+          "page": "46",
+          "thai": "ข้อสังเกต: ขึ้น และ ลง แสดงการเปลี่ยนแปลง",
+          "thaiBody": "คำกริยาบางตัวใช้ได้กับทั้ง ขึ้น และ ลง เพื่อแสดงการเปลี่ยนแปลงสภาพ ขึ้นอยู่กับมุมมองของผู้พูด\n1) เธอผอมขึ้นนะ (in terms of appearance)\n2) เธอผอมลงนะ (in terms of the kilo-scale)",
+          "zh-Hant": "有些動詞可同時搭配 kʉ̂n 或 long 表示狀態改變，選擇取決於說話者的觀點；「變瘦」可從外形改善或體重下降來看。",
+          "en": "Some verbs can take either kʉ̂n or long to show a change of state; the choice depends on the speaker's viewpoint. Becoming thinner may be viewed through appearance or a lower weight.",
+          "ja": "状態変化を表す際、話者の見方によって kʉ̂n と long のどちらも使える動詞があります。「痩せた」を見た目または体重の低下として捉えます。",
+          "ko": "상태 변화를 나타낼 때 화자의 관점에 따라 kʉ̂n과 long을 모두 쓸 수 있는 동사가 있습니다. ‘마르다’를 외모 또는 체중 감소로 바라보는 차이입니다.",
+          "romanization": "kɔ̂ɔ-sǎng-gèet: kʉ̂n lɛ́ long sà-dɛɛng gaan-bplìian-bplɛɛng",
+          "romanizationBody": "kam-grì-yaa baang dtuua chái-dâai gàp táng kʉ̂n lɛ́ long pʉ̂ʉa sà-dɛɛng gaan-bplìian-bplɛɛng sà-pâap kʉ̂n-yùu-gàp mum-mɔɔng kɔ̌ɔng pûu-pûut\n1) təə pɔ̌ɔm kʉ̂n ná (in terms of appearance)\n2) təə pɔ̌ɔm long ná (in terms of the kilo-scale)"
+        }
+      ]
+    },
+    {
+      "lesson": 4,
+      "vocabulary": [
+        {
+          "page": "49",
+          "thai": "วัฒนธรรม",
+          "romanization": "wát-tá-ná-tam",
+          "zh-Hant": "文化",
+          "en": "culture",
+          "ja": "文化",
+          "ko": "문화"
+        },
+        {
+          "page": "49",
+          "thai": "ประเพณี",
+          "romanization": "bprà-pee-nii",
+          "zh-Hant": "傳統、節慶習俗",
+          "en": "tradition",
+          "ja": "伝統、行事",
+          "ko": "전통, 풍습"
+        },
+        {
+          "page": "49",
+          "thai": "เกี่ยวข้องกับ",
+          "romanization": "kìiao-kɔ̂ɔng gàp",
+          "zh-Hant": "與……有關",
+          "en": "to be related to",
+          "ja": "〜に関係する",
+          "ko": "~와 관련되다"
+        },
+        {
+          "page": "50",
+          "thai": "บูชา",
+          "romanization": "buu-chaa",
+          "zh-Hant": "祭拜、崇拜",
+          "en": "to worship",
+          "ja": "礼拝する、祀る",
+          "ko": "숭배하다, 제사 지내다"
+        },
+        {
+          "page": "50",
+          "thai": "เทพเจ้า",
+          "romanization": "têep-jâo",
+          "zh-Hant": "神祇",
+          "en": "god; deity",
+          "ja": "神、神様",
+          "ko": "신, 신령"
+        },
+        {
+          "page": "50",
+          "thai": "ศาสนา",
+          "romanization": "sàat-sà-nǎa",
+          "zh-Hant": "宗教",
+          "en": "religion",
+          "ja": "宗教",
+          "ko": "종교"
+        },
+        {
+          "page": "50",
+          "thai": "ภาชนะ",
+          "romanization": "pâa-chá-ná",
+          "zh-Hant": "容器",
+          "en": "container",
+          "ja": "容器",
+          "ko": "용기"
+        },
+        {
+          "page": "50",
+          "thai": "ธูปเทียน",
+          "romanization": "tûup tiian",
+          "zh-Hant": "香與蠟燭",
+          "en": "incense and candles",
+          "ja": "線香とろうそく",
+          "ko": "향과 초"
+        },
+        {
+          "page": "50",
+          "thai": "วัสดุ",
+          "romanization": "wát-sà-dù",
+          "zh-Hant": "材料、材質",
+          "en": "material",
+          "ja": "材料、素材",
+          "ko": "재료, 소재"
+        },
+        {
+          "page": "50",
+          "thai": "ขี้ผึ้ง",
+          "romanization": "kîi-pʉ̂ng",
+          "zh-Hant": "蠟",
+          "en": "wax",
+          "ja": "ろう",
+          "ko": "밀랍"
+        },
+        {
+          "page": "50",
+          "thai": "ละลาย",
+          "romanization": "lá-laai",
+          "zh-Hant": "融化",
+          "en": "to melt",
+          "ja": "溶ける",
+          "ko": "녹다"
+        },
+        {
+          "page": "50",
+          "thai": "ขยะ",
+          "romanization": "kà-yà",
+          "zh-Hant": "垃圾",
+          "en": "trash",
+          "ja": "ごみ",
+          "ko": "쓰레기"
+        },
+        {
+          "page": "50",
+          "thai": "ความเชื่อ",
+          "romanization": "kwaam-chʉ̂ʉa",
+          "zh-Hant": "信仰、觀念",
+          "en": "belief",
+          "ja": "信仰、考え",
+          "ko": "믿음, 신념"
+        },
+        {
+          "page": "50",
+          "thai": "โสด",
+          "romanization": "sòot",
+          "zh-Hant": "單身",
+          "en": "single; unmarried",
+          "ja": "独身",
+          "ko": "미혼, 싱글"
+        },
+        {
+          "page": "50",
+          "thai": "เนื้อคู่",
+          "romanization": "nʉ́ʉa-kûu",
+          "zh-Hant": "靈魂伴侶、命中注定的對象",
+          "en": "soulmate",
+          "ja": "運命の相手",
+          "ko": "천생연분, 소울메이트"
+        },
+        {
+          "page": "50",
+          "thai": "เลิกกัน",
+          "romanization": "lə̂ək-gan",
+          "zh-Hant": "分手",
+          "en": "to break up",
+          "ja": "別れる",
+          "ko": "헤어지다"
+        },
+        {
+          "page": "50",
+          "thai": "โชคดี",
+          "romanization": "chôok-dii",
+          "zh-Hant": "好運；幸運",
+          "en": "good luck; lucky",
+          "ja": "幸運；運がよい",
+          "ko": "행운; 운이 좋다"
+        },
+        {
+          "page": "50",
+          "thai": "โชคร้าย",
+          "romanization": "chôok-ráai",
+          "zh-Hant": "厄運；不幸",
+          "en": "bad luck; unlucky",
+          "ja": "不運；運が悪い",
+          "ko": "불운; 운이 나쁘다"
+        },
+        {
+          "page": "50",
+          "thai": "ภูมิภาค",
+          "romanization": "puu-mí-pâak",
+          "zh-Hant": "地區、區域",
+          "en": "region",
+          "ja": "地域",
+          "ko": "지역"
+        },
+        {
+          "page": "50",
+          "thai": "ทะเลสาบ",
+          "romanization": "tá-lee-sàap",
+          "zh-Hant": "湖泊",
+          "en": "lake",
+          "ja": "湖",
+          "ko": "호수"
+        },
+        {
+          "page": "50",
+          "thai": "สระน้ำ",
+          "romanization": "sà-náam",
+          "zh-Hant": "池塘、水池",
+          "en": "pond",
+          "ja": "池",
+          "ko": "연못"
+        },
+        {
+          "page": "50",
+          "thai": "โคม",
+          "romanization": "koom",
+          "zh-Hant": "燈籠",
+          "en": "lantern",
+          "ja": "ランタン、灯籠",
+          "ko": "등불, 연등"
+        },
+        {
+          "page": "50",
+          "thai": "แหล่งน้ำ",
+          "romanization": "lɛ̀ng-náam",
+          "zh-Hant": "水源、水域",
+          "en": "water source",
+          "ja": "水源、水域",
+          "ko": "수원, 수역"
+        },
+        {
+          "page": "50",
+          "thai": "น่าสนใจ",
+          "romanization": "nâa-sǒn-jai",
+          "zh-Hant": "有趣、值得關注",
+          "en": "interesting",
+          "ja": "興味深い",
+          "ko": "흥미롭다"
+        },
+        {
+          "page": "50",
+          "thai": "ดึงดูด",
+          "romanization": "dʉng-dùut",
+          "zh-Hant": "吸引",
+          "en": "to attract",
+          "ja": "引きつける",
+          "ko": "끌어들이다"
+        },
+        {
+          "page": "50",
+          "thai": "แทน",
+          "romanization": "tɛɛn",
+          "zh-Hant": "代替、取代",
+          "en": "instead of; in place of",
+          "ja": "代わりに",
+          "ko": "대신"
+        },
+        {
+          "page": "50",
+          "thai": "เห็นด้วย",
+          "romanization": "hěn-dûuai",
+          "zh-Hant": "同意、贊同",
+          "en": "to agree",
+          "ja": "賛成する",
+          "ko": "동의하다"
+        }
+      ],
+      "notes": [],
+      "grammar": [
+        {
+          "page": "52",
+          "thai": "1.1 การ + action verb",
+          "thaiBody": "การ เป็นหน่วยคำเติมหน้าที่แปลงคำกริยาแสดงอาการให้เป็นคำนาม หมายถึงกระบวนการหรือการกระทำ\n1) การวิ่งทำให้หัวใจแข็งแรงขึ้น\n2) การกินอาหารมีประโยชน์ทำให้ร่างกายแข็งแรง\n3) การเรียนภาษาจะช่วยให้คุณเข้าใจวัฒนธรรมของคนใช้ภาษานั้น",
+          "zh-Hant": "gaan 放在動作動詞前，把動詞名詞化，表示某個過程或行為。\n1）跑步使心臟更強健。\n2）吃有益健康的食物使身體強壯。\n3）學習語言能幫助你了解該語言使用者的文化。",
+          "en": "gaan nominalizes action verbs, referring to a process or action.\n1) Running makes the heart stronger.\n2) Eating nutritious food makes the body strong.\n3) Language learning helps you understand its speakers' culture.",
+          "ja": "gaan は動作動詞を名詞化し、過程・行為を表します。\n1）走ることは心臓を強くします。\n2）有益な食べ物を食べることは体を強くします。\n3）言語を学ぶことは、その話者の文化を理解する助けになります。",
+          "ko": "gaan은 동작 동사를 명사화해 과정이나 행위를 나타냅니다.\n1) 달리기는 심장을 튼튼하게 합니다.\n2) 유익한 음식을 먹으면 몸이 건강해집니다.\n3) 언어 학습은 그 언어 사용자들의 문화를 이해하는 데 도움이 됩니다.",
+          "romanization": "1.1 gaan + action verb",
+          "romanizationBody": "gaan bpen nùuai kam-dtəm nâa-tîi bplɛɛng kam-grì-yaa sà-dɛɛng-aa-gaan hâi bpen kam-naam mǎai-tʉ̌ng grà-buuan-gaan rʉ̌ʉ gaan-grà-tam\n1) gaan wîng tam-hâi hǔua-jai kɛ̌ng-rɛɛng kʉ̂n\n2) gaan gin aa-hǎan mii-bprà-yòot tam-hâi râang-gaai kɛ̌ng-rɛɛng\n3) gaan-riian paa-sǎa jà chûuai hâi kun kâo-jai wát-tá-ná-tam kɔ̌ɔng kon-chái paa-sǎa nán"
+        },
+        {
+          "page": "52",
+          "thai": "1.2 ความ + emotion/perception verb or adjective",
+          "thaiBody": "ความ แปลงคำกริยาแสดงอารมณ์ การรับรู้ หรือคำคุณศัพท์ให้เป็นคำนาม หมายถึงสภาพหรือสภาวะ\n1) ทุกคนต้องการความรักจากคนรอบข้าง\n2) อย่าทิ้งความฝันและความหวัง\n3) คุณใช้ความเร็วบนถนนเส้นนี้ได้ไม่เกิน 90 กิโลเมตร",
+          "zh-Hant": "kwaam 放在情緒、感知動詞或形容詞前，名詞化為狀態或性質。\n1）每個人都需要周遭人的愛。\n2）不要放棄夢想與希望。\n3）這條路的速度不得超過每小時九十公里。",
+          "en": "kwaam nominalizes emotion/perception verbs or adjectives, referring to a condition or state.\n1) Everyone needs love from people around them.\n2) Do not abandon dreams and hope.\n3) The speed on this road may not exceed 90 km/h.",
+          "ja": "kwaam は感情・知覚動詞や形容詞を名詞化し、状態・性質を表します。\n1）誰もが周囲の人からの愛を必要とします。\n2）夢と希望を捨てないで。\n3）この道路では時速90キロを超えてはいけません。",
+          "ko": "kwaam은 감정·지각 동사나 형용사를 명사화해 상태나 성질을 나타냅니다.\n1) 누구나 주변 사람들의 사랑을 필요로 합니다.\n2) 꿈과 희망을 버리지 마세요.\n3) 이 도로에서는 시속 90킬로미터를 넘으면 안 됩니다.",
+          "romanization": "1.2 kwaam + emotion/perception verb or adjective",
+          "romanizationBody": "kwaam bplɛɛng kam-grì-yaa sà-dɛɛng aa-rom gaan-ráp-rúu rʉ̌ʉ kam-kun-na-sàp hâi bpen kam-naam mǎai-tʉ̌ng sà-pâap rʉ̌ʉ sà-paa-wá\n1) túk-kon dtɔ̂ɔng-gaan kwaam-rák jàak kon rɔ̂ɔp-kâang\n2) yàa tíng kwaam-fǎn lɛ́ kwaam-wǎng\n3) kun cháai kwaam-reo bon tà-nǒn sêen níi dâai mâi gəən 90 gì-loo-méet"
+        },
+        {
+          "page": "54",
+          "thai": "2.1 เข้า = hurry and do something",
+          "thaiBody": "ใช้เร่งให้ทำกริยา\n1) ลุกขึ้นเร็วเข้า\n2) ไปเร็วเข้า\n3) กินเข้า จะได้ไป\n4) ทำเข้า จะได้เสร็จ",
+          "zh-Hant": "接在動詞後催促對方趕快做。\n1）快站起來。\n2）快走。\n3）快吃，才可以走。\n4）快做，才會完成。",
+          "en": "After a verb, kâo urges someone to hurry and do it.\n1) Get up quickly.\n2) Go quickly.\n3) Eat up so we can leave.\n4) Get on with it so it will be finished.",
+          "ja": "動詞の後で、早く行動するよう促します。\n1）早く立って。\n2）早く行って。\n3）早く食べて、出かけよう。\n4）早くやって、終わらせよう。",
+          "ko": "동사 뒤에서 빨리 행동하라고 재촉합니다.\n1) 빨리 일어나.\n2) 빨리 가.\n3) 빨리 먹어야 갈 수 있어.\n4) 빨리 해야 끝나지.",
+          "romanization": "2.1 kâo = hurry and do something",
+          "romanizationBody": "cháai rêng hâi tam grì-yaa\n1) lúk-kʉ̂n reo kâo\n2) bpai reo kâo\n3) gin kâo jà dâai bpai\n4) tam kâo jà dâai sèt"
+        },
+        {
+          "page": "54",
+          "thai": "2.2 เข้า แสดงความไม่ยินดีหรือไม่เห็นด้วย",
+          "thaiBody": "แสดงความไม่ยินดีหรือไม่เห็นด้วยกับสิ่งที่พูดหรือทำก่อนหน้า\n1) ก: คนไทยนี่ขี้เกียจมาก ๆ\n   ข: ดูพูดเข้า ไม่สุภาพเลยนะ\n2) (เด็กกินขนมเลอะเทอะ) แม่: ดูทำเข้า สกปรกหมดแล้ว กินดี ๆ สิ",
+          "zh-Hant": "搭配 duu-pûut／duu-tam，對先前的話或行為表示不滿、不贊同。\n1）「泰國人很懶。」——看看你說的，多沒禮貌。\n2）孩子吃得到處都是，媽媽說：「看看你做的，全弄髒了，好好吃。」",
+          "en": "With duu-pûut/duu-tam, kâo expresses disapproval of what was just said or done.\n1) “Thai people are lazy.” — Listen to what you're saying; that's impolite.\n2) A child makes a mess eating; Mother says, “Look what you've done. Eat properly.”",
+          "ja": "duu-pûut／duu-tam とともに、直前の発言・行為への不満や反対を表します。\n1）「タイ人はとても怠け者だ。」——なんて言い方。失礼だよ。\n2）子どもが食べ散らかし、母が「何をしているの。全部汚れた。きちんと食べなさい」と言います。",
+          "ko": "duu-pûut/duu-tam와 함께 방금 한 말이나 행동에 대한 불만·반대를 나타냅니다.\n1) ‘태국 사람은 아주 게을러.’ — 말하는 것 좀 봐. 무례하잖아.\n2) 아이가 지저분하게 먹자 어머니가 ‘한 것 좀 봐. 다 더러워졌잖아. 제대로 먹어’라고 합니다.",
+          "romanization": "2.2 kâo sà-dɛɛng kwaam mâi yin-dii rʉ̌ʉ-mâi hěn-dûuai",
+          "romanizationBody": "sà-dɛɛng kwaam mâi yin-dii rʉ̌ʉ-mâi hěn-dûuai gàp sìng tîi pûut rʉ̌ʉ tam gɔ̀ɔn-nâa\n1) gà: kon-tai nîi kîi-gìiat mâak mâak\nkà: duu pûut kâo mâi sù-pâap ləəi ná\n2) (dèk gin kà-nǒm lə́-tə́) mɛ̂ɛ: duu tam kâo sòk-gà-bpròk mòt lɛ́ɛo gin dii-dii sì"
+        },
+        {
+          "page": "54",
+          "thai": "2.3 ออก = succeed in doing/understanding",
+          "thaiBody": "แสดงว่าทำอะไรได้สำเร็จ มักเกี่ยวกับการรับรู้หรือความคิด\n1) เธอฟังข่าวในทีวีออกไหม\n2) นักเรียนอินเท็นซีฟไทยอ่านภาษาไทยออกทุกคำ",
+          "zh-Hant": "表示成功做到或理解，常與心智、感知活動連用。\n1）你聽得懂電視新聞嗎？\n2）泰文密集班的學生每個泰文字都讀得出來。",
+          "en": "Shows successful performance or understanding, often with mental/perception verbs.\n1) Can you understand the news on TV?\n2) Intensive Thai students can read every Thai word.",
+          "ja": "成功してできる・理解できることを表し、思考・知覚動詞によく付きます。\n1）テレビのニュースが聞き取れますか。\n2）集中タイ語の学生はタイ語を全語読めます。",
+          "ko": "성공적으로 하거나 이해할 수 있음을 나타내며 사고·지각 동사와 자주 씁니다.\n1) TV 뉴스를 알아들을 수 있어요?\n2) 태국어 집중 과정 학생들은 모든 태국어 단어를 읽을 수 있습니다.",
+          "romanization": "2.3 ɔ̀ɔk = succeed in doing/understanding",
+          "romanizationBody": "sà-dɛɛng-wâa tam à-rai dâai sǎm-rèt mák gìiao-gàp gaan-ráp-rúu rʉ̌ʉ kwaam-kít\n1) təə fang kàao nai tii-wii ɔ̀ɔk mǎi\n2) nák-riian in ten sii fá tai àan paa-sǎa-tai ɔ̀ɔk túk kam"
+        },
+        {
+          "page": "54–55",
+          "thai": "2.4 ออก แสดงความเห็นต่าง",
+          "thaiBody": "ใช้แสดงมุมมองที่ต่างจากความเห็นก่อนหน้า\n1) ก: วันนี้อากาศหนาว ๆ\n   ข: ไม่นะ ร้อนออก\n2) ก: หนังเรื่องนี้น่าเบื่อจะตาย\n   ข: เหรอ ฉันว่าสนุกออก",
+          "zh-Hant": "放在形容詞後，提出與前一句相反的看法。\n1）今天有點冷。——不啊，明明很熱。\n2）這部電影無聊死了。——是嗎？我覺得明明很好看。",
+          "en": "After an adjective, ɔ̀ɔk presents a view contrasting with what was just said.\n1) It's cold today. — No, it's actually hot.\n2) This movie is terribly boring. — Really? I think it's actually fun.",
+          "ja": "形容詞の後で、直前の意見と反対の見方を示します。\n1）今日は寒いね。——いや、むしろ暑いよ。\n2）この映画は退屈でたまらない。——そう？私はむしろ面白いと思う。",
+          "ko": "형용사 뒤에서 앞선 의견과 반대되는 관점을 제시합니다.\n1) 오늘 날씨가 춥네. — 아니, 오히려 더운데.\n2) 이 영화 정말 지루해. — 그래? 나는 오히려 재미있어.",
+          "romanization": "2.4 ɔ̀ɔk sà-dɛɛng kwaam-hěn dtàang",
+          "romanizationBody": "cháai sà-dɛɛng mum-mɔɔng tîi dtàang jàak kwaam-hěn gɔ̀ɔn-nâa\n1) gà: wan-níi aa-gàat nǎao nǎao\nkà: mâi ná rɔ́ɔn ɔ̀ɔk\n2) gà: nǎng rʉ̂ʉang níi nâa-bʉ̀ʉa jà dtaai\nkà: rə̌ə chǎn wâa sà-nùk ɔ̀ɔk"
+        },
+        {
+          "page": "55",
+          "thai": "2.5 ออกจะ = quite / rather",
+          "thaiBody": "แปลว่า “ค่อนข้างจะ” ส่วนใหญ่ใช้แสดงความไม่เห็นด้วย\n1) ก: ขนมไทยรสชาติเป็นยังไง\n   ข: รสชาติออกจะหวาน ๆ ไปนิด\n2) ก: เสื้อตัวนี้เป็นยังไงคะ พอดีไหมคะ\n   ข: ผมว่ามันออกจะหลวมไปหน่อยครับ",
+          "zh-Hant": "表示「頗為、有點」，多用來提出不同看法。\n1）泰國甜點味道如何？——味道有點太甜。\n2）這件衣服合身嗎？——我覺得有點太鬆。",
+          "en": "Means “quite / rather,” often to express disagreement.\n1) How do Thai desserts taste? — They are rather too sweet.\n2) Does this shirt fit? — I think it is a little too loose.",
+          "ja": "「かなり／やや」を表し、反対意見によく使います。\n1）タイ菓子はどんな味？——やや甘すぎます。\n2）この服はちょうどいい？——少しゆるすぎると思います。",
+          "ko": "‘꽤, 다소’라는 뜻이며 다른 의견을 나타낼 때 자주 씁니다.\n1) 태국 디저트 맛이 어때요? — 조금 너무 달아요.\n2) 이 옷 잘 맞아요? — 조금 헐렁한 것 같아요.",
+          "romanization": "2.5 ɔ̀ɔk-jà = quite / rather",
+          "romanizationBody": "bplɛɛ wâa “kɔ̂ɔn-kâang-jà” sùuan-hǎi-yâ cháai sà-dɛɛng kwaam mâi hěn-dûuai\n1) gà: kà-nǒm-tai rót-châat bpen yang-ngai\nkà: rót-châat ɔ̀ɔk-jà wǎan wǎan bpai nít\n2) gà: sʉ̂ʉa dtuua níi bpen yang-ngai ká pɔɔ-dii mǎi ká\nkà: pǒm wâa man ɔ̀ɔk-jà lǔuam bpai nɔ̀ɔi kráp"
+        }
+      ]
+    },
+    {
+      "lesson": 5,
+      "vocabulary": [
+        {
+          "page": "64",
+          "thai": "ดูดวง",
+          "romanization": "duu-duuang",
+          "zh-Hant": "算命、看運勢",
+          "en": "to tell or have one's fortune told",
+          "ja": "占う、占ってもらう",
+          "ko": "점을 보다"
+        },
+        {
+          "page": "64",
+          "thai": "ดวง",
+          "romanization": "duuang",
+          "zh-Hant": "運勢、命運",
+          "en": "fortune; fate",
+          "ja": "運勢、運",
+          "ko": "운세, 운명"
+        },
+        {
+          "page": "64",
+          "thai": "โชค",
+          "romanization": "chôok",
+          "zh-Hant": "運氣",
+          "en": "luck",
+          "ja": "運",
+          "ko": "운"
+        },
+        {
+          "page": "64",
+          "thai": "หมอดู",
+          "romanization": "mɔ̌ɔ-duu",
+          "zh-Hant": "算命師",
+          "en": "fortune teller",
+          "ja": "占い師",
+          "ko": "점쟁이"
+        },
+        {
+          "page": "64",
+          "thai": "ทำนาย",
+          "romanization": "tam-naai",
+          "zh-Hant": "預言、預測",
+          "en": "to predict",
+          "ja": "予言する、予測する",
+          "ko": "예언하다, 예측하다"
+        },
+        {
+          "page": "64",
+          "thai": "โหราศาสตร์",
+          "romanization": "hǒo-raa-sàat",
+          "zh-Hant": "占星術",
+          "en": "astrology",
+          "ja": "占星術",
+          "ko": "점성술"
+        },
+        {
+          "page": "64",
+          "thai": "ดาราศาสตร์",
+          "romanization": "daa-raa-sàat",
+          "zh-Hant": "天文學",
+          "en": "astronomy",
+          "ja": "天文学",
+          "ko": "천문학"
+        },
+        {
+          "page": "64",
+          "thai": "ศาสตร์",
+          "romanization": "sàat",
+          "zh-Hant": "學問、學科",
+          "en": "field of knowledge; science",
+          "ja": "学問、〜学",
+          "ko": "학문, 학"
+        },
+        {
+          "page": "64",
+          "thai": "งมงาย",
+          "romanization": "ngom-ngaai",
+          "zh-Hant": "迷信、盲信",
+          "en": "credulous; superstitious",
+          "ja": "迷信深い",
+          "ko": "미신을 맹신하는"
+        },
+        {
+          "page": "64",
+          "thai": "แม่น",
+          "romanization": "mɛ̂n",
+          "zh-Hant": "準確",
+          "en": "accurate",
+          "ja": "正確な、よく当たる",
+          "ko": "정확하다, 잘 맞다"
+        },
+        {
+          "page": "64",
+          "thai": "ไร้สาระ",
+          "romanization": "rái-sǎa-rá",
+          "zh-Hant": "無聊、荒謬、沒意義",
+          "en": "nonsense; pointless",
+          "ja": "くだらない、無意味な",
+          "ko": "말도 안 되는, 무의미한"
+        },
+        {
+          "page": "64",
+          "thai": "ช่วยเหลือ",
+          "romanization": "chûuai-lʉ̌ʉa",
+          "zh-Hant": "幫助",
+          "en": "to help",
+          "ja": "助ける",
+          "ko": "돕다"
+        }
+      ],
+      "notes": [
+        {
+          "page": "65",
+          "thai": "คำถาม + กัน",
+          "thaiBody": "เป็นคำถามที่ใช้แสดงการตำหนิ ไม่เห็นด้วย หรือประหลาดใจ\n1) อะไรกัน ทำการบ้านตั้งนานแล้ว ทำไมยังไม่เสร็จ\n2) นี่เธอเป็นใครกัน เข้ามาในบ้านฉันได้ยังไง",
+          "zh-Hant": "疑問詞加 gan，可表達責備、不贊同或驚訝。\n1）怎麼搞的？作業做那麼久了，為什麼還沒完成？\n2）你到底是誰？怎麼進我家的？",
+          "en": "A question word plus gan can express complaint, disapproval, or surprise.\n1) What's going on? You've worked so long; why isn't it finished?\n2) Who on earth are you? How did you get into my house?",
+          "ja": "疑問詞＋gan は、非難・反対・驚きを表します。\n1）何なの？ずっと宿題をしているのに、なぜまだ終わらないの？\n2）いったい誰？どうやって私の家に入ったの？",
+          "ko": "의문사+gan은 비난, 반대 또는 놀라움을 나타냅니다.\n1) 뭐야? 숙제를 그렇게 오래 했는데 왜 아직 안 끝났어?\n2) 너 도대체 누구야? 어떻게 우리 집에 들어왔어?",
+          "romanization": "kam-tǎam + gan",
+          "romanizationBody": "bpen kam-tǎam tîi cháai sà-dɛɛng gaan dtam-nì mâi hěn-dûuai rʉ̌ʉ bprà-làat-jai\n1) à-rai gan tam-gaan-bâan dtâng naan lɛ́ɛo tam-mai yang mâi sèt\n2) nîi təə bpen krai gan kâo-maa nai bâan chǎn dâai yang-ngai"
+        },
+        {
+          "page": "65",
+          "thai": "ไม่เข้าท่า",
+          "thaiBody": "แปลว่า ไม่ดี ไม่เหมาะสม\n1) ใส่กางเกงขาสั้นเข้าวัดได้ยังไง ไม่เข้าท่า\n2) ก: เรียนจบไทย 4 แล้วเราเผาหนังสือทิ้งกันเถอะ\n   ข: คิดอะไร ไม่เข้าท่า",
+          "zh-Hant": "表示不好、不恰當、不像樣。\n1）怎麼能穿短褲進寺廟？太不恰當了。\n2）泰文四級結束後把書燒掉吧。——什麼怪主意，太不像樣了。",
+          "en": "Means “not good” or “inappropriate.”\n1) How can you wear shorts into a temple? That's inappropriate.\n2) Let's burn our books after Thai 4. — What a bad idea.",
+          "ja": "「よくない・不適切だ」という意味です。\n1）短パンで寺に入るなんて、不適切だ。\n2）タイ語4が終わったら本を燃やそう。——何を考えているの。よくないよ。",
+          "ko": "‘좋지 않다, 부적절하다’라는 뜻입니다.\n1) 어떻게 반바지를 입고 절에 들어가? 부적절해.\n2) 태국어 4가 끝나면 책을 태우자. — 무슨 생각이야? 말도 안 돼.",
+          "romanization": "mâi kâo-tâa",
+          "romanizationBody": "bplɛɛ wâa mâi dii mâi mɔ̀ɔ-sǒm\n1) sài gaang-geeng-kǎa-sân kâo wát dâai yang-ngai mâi kâo-tâa\n2) gà: riian-jòp tai 4 lɛ́ɛo rao pǎo nǎng-sʉ̌ʉ tíng gan tə̀\nkà: kít à-rai mâi kâo-tâa"
+        },
+        {
+          "page": "65",
+          "thai": "ไม่เห็น(จะ)…",
+          "thaiBody": "ใช้แสดงความไม่เห็นด้วย มีความหมายว่า “ฉันไม่คิดว่า”\n1) หนังเรื่องนี้น่าเบื่อมาก ไม่เห็น(จะ)สนุกเลย\n2) อาหารไทยเผ็ดจะตาย ไม่เห็น(จะ)อร่อยตรงไหน",
+          "zh-Hant": "用來強烈表示不同意，意思接近「我不覺得……」。\n1）這部電影很無聊，一點也不好看。\n2）泰國菜辣得要命，哪裡好吃了？",
+          "en": "Shows strong disagreement, like “I don't think…”\n1) This movie is boring; it isn't fun at all.\n2) Thai food is unbearably spicy; I don't see how it's delicious.",
+          "ja": "強い反対を表し、「〜だとは思わない」に近い表現です。\n1）この映画は退屈で、全然面白くない。\n2）タイ料理は辛すぎる。どこがおいしいの？",
+          "ko": "강한 반대를 나타내며 ‘~라고 생각하지 않는다’와 비슷합니다.\n1) 이 영화는 너무 지루하고 하나도 재미없어.\n2) 태국 음식은 너무 매워. 어디가 맛있다는 거야?",
+          "romanization": "mâi hěn(jà)…",
+          "romanizationBody": "cháai sà-dɛɛng kwaam mâi hěn-dûuai mii-kwaam-mǎai wâa “chǎn mâi kít wâa”\n1) nǎng rʉ̂ʉang níi nâa-bʉ̀ʉa mâak mâi hěn(jà)sà-nùk ləəi\n2) aa-hǎan tai pèt jà dtaai mâi hěn(jà)a-rɔ̀ɔi dtrong-nǎi"
+        },
+        {
+          "page": "65–66",
+          "thai": "ตั้ง + จำนวน",
+          "thaiBody": "มีความหมายว่า จำนวนมากในความคิดของผู้พูด\n1) บ้านหลังนี้ราคาตั้ง 10 ล้านบาท\n2) เธอเคยหนักตั้ง 90 กิโลกรัมเหรอ\n3) เขากินตั้งเยอะ ทำไมน้ำหนักไม่ขึ้นเลยล่ะ",
+          "zh-Hant": "放在數量前，表示說話者覺得數量很多。\n1）這棟房子居然要一千萬泰銖。\n2）你以前竟然重達九十公斤嗎？\n3）他吃了那麼多，怎麼完全沒變胖？",
+          "en": "Before a quantity, dtâng shows that the speaker considers it a large amount.\n1) This house costs as much as ten million baht.\n2) You once weighed as much as 90 kilograms?\n3) He eats so much; why doesn't he gain weight?",
+          "ja": "数量の前に置き、話し手が「多い」と感じていることを表します。\n1）この家はなんと一千万バーツもする。\n2）以前は90キロもあったの？\n3）あんなに食べるのに、なぜ全然太らないの？",
+          "ko": "수량 앞에서 화자가 그 양이 많다고 느낌을 나타냅니다.\n1) 이 집은 무려 천만 바트나 해.\n2) 전에 몸무게가 무려 90킬로그램이었어?\n3) 그렇게 많이 먹는데 왜 살이 전혀 안 찌지?",
+          "romanization": "dtâng + jam-nuuan",
+          "romanizationBody": "mii-kwaam-mǎai wâa jam-nuuan-mâak nai kwaam-kít kɔ̌ɔng pûu-pûut\n1) bâan lǎng níi raa-kaa dtâng 10 láan bàat\n2) təə kəəi nàk dtâng 90 gì-loo-gram rə̌ə\n3) kǎo gin dtâng yə́ tam-mai náam-nàk mâi kʉ̂n ləəi lâ"
+        },
+        {
+          "page": "66",
+          "thai": "…อยู่",
+          "thaiBody": "หมายถึง ค่อนข้างจะ… บอกระดับมากหรือน้อยแต่ไม่ที่สุด\n1) ก: อาหารที่นี่อร่อยไหม\n   ข: อร่อยอยู่ แต่ร้านนั้นอร่อยกว่า\n2) ก: ไทย 4 ยากไหม\n   ข: ก็ยากอยู่ แต่ไม่ได้ยากที่สุด",
+          "zh-Hant": "表示「還算、頗為」，程度可高可低，但不到極致。\n1）這裡的食物好吃嗎？——還算好吃，但那家更好吃。\n2）泰文四級難嗎？——是有點難，但不是最難。",
+          "en": "Means “quite / fairly,” indicating a degree that is not the maximum.\n1) Is the food here good? — It is quite good, but that restaurant is better.\n2) Is Thai 4 hard? — It is fairly hard, but not the hardest.",
+          "ja": "「かなり／まあまあ」を表し、最高ではない程度を示します。\n1）ここの料理はおいしい？——まあおいしいけど、あの店の方がおいしい。\n2）タイ語4は難しい？——まあ難しいけど、最難関ではない。",
+          "ko": "‘꽤, 어느 정도’라는 뜻으로 최고 수준까지는 아닌 정도를 나타냅니다.\n1) 여기 음식 맛있어? — 꽤 맛있지만 저 식당이 더 맛있어.\n2) 태국어 4는 어려워? — 좀 어렵지만 제일 어렵지는 않아.",
+          "romanization": "…yùu",
+          "romanizationBody": "mǎai-tʉ̌ng kɔ̂ɔn-kâang-jà… bɔ̀ɔk rá-dàp mâak rʉ̌ʉ nɔ́ɔi dtɛ̀ɛ mâi tîi-sùt\n1) gà: aa-hǎan tîi-nîi a-rɔ̀ɔi mǎi\nkà: a-rɔ̀ɔi yùu dtɛ̀ɛ ráan nán a-rɔ̀ɔi gwàa\n2) gà: tai 4 yâak mǎi\nkà: gɔ̂ɔ yâak yùu dtɛ̀ɛ mâi dâai yâak tîi-sùt"
+        },
+        {
+          "page": "66–67",
+          "thai": "คำถาม + ก็ได้",
+          "thaiBody": "ใช้แสดงว่าสามารถเลือกทำอย่างใดก็ได้ มักใช้ตอบเวลาที่ใครถามความเห็น เช่น อะไร / ที่ไหน / เมื่อไร / อย่างไร / เท่าไร / ใคร + ก็ได้\n1) ก: วันนี้ไปกินอะไรกันดี คุณอยากกินอะไรคะ\n   ข: ผมกินอะไรก็ได้ครับ\n2) ก: สิ้นเดือนนี้ไปเที่ยวไหนกันดี\n   ข: ที่ไหนก็ได้ แล้วแต่เธอเลย",
+          "zh-Hant": "疑問詞加 gɔ̂ɔ-dâai 表示任何選項都可以，常用來回答意見詢問。\n1）今天吃什麼？你想吃什麼？——我什麼都可以。\n2）月底去哪裡玩？——哪裡都行，隨你。",
+          "en": "A question word plus gɔ̂ɔ-dâai means that any choice is acceptable, often as an answer to a request for an opinion.\n1) What do you want to eat? — Anything is fine.\n2) Where shall we travel at month-end? — Anywhere; it's up to you.",
+          "ja": "疑問詞＋gɔ̂ɔ-dâai は「どれでもよい」を表し、意見を聞かれた返答によく使います。\n1）今日は何を食べたい？——何でもいいです。\n2）月末はどこへ旅行する？——どこでもいい。任せるよ。",
+          "ko": "의문사+gɔ̂ɔ-dâai는 어떤 선택이든 괜찮다는 뜻이며 의견을 물을 때 자주 답합니다.\n1) 오늘 뭐 먹고 싶어요? — 아무거나 괜찮아요.\n2) 월말에 어디로 여행 갈까? — 어디든 좋아. 네가 정해.",
+          "romanization": "kam-tǎam + gɔ̂ɔ-dâai",
+          "romanizationBody": "cháai sà-dɛɛng-wâa sǎa-mâat lʉ̂ʉak tam yàang-dai gɔ̂ɔ-dâai mák cháai dtɔ̀ɔp wee-laa tîi krai tǎam kwaam-hěn chên à-rai / tîi-nǎi / mʉ̂ʉa-rai / yàang-rai / tâo-rai / krai + gɔ̂ɔ-dâai\n1) gà: wan-níi bpai gin à-rai gan dii kun yàak gin à-rai ká\nkà: pǒm gin à-rai gɔ̂ɔ-dâai kráp\n2) gà: sîn-dʉʉan níi bpai-tîiao nǎi gan dii\nkà: tîi-nǎi gɔ̂ɔ-dâai lɛ́ɛo-dtɛ̀ɛ təə ləəi"
+        },
+        {
+          "page": "67",
+          "thai": "ขนาดนี้",
+          "thaiBody": "มีความหมายว่า มาก ใช้บรรยายสิ่งที่อยู่เฉพาะหน้า\n1) ฉันไม่เคยเห็นผู้หญิงตัวสูงขนาดนี้มาก่อนเลย\n2) เธออ่านหนังสือเยอะขนาดนี้ ต้องสอบผ่านแน่นอน",
+          "zh-Hant": "表示「到這種程度、這麼……」，描述眼前具體情況。\n1）我從沒見過這麼高的女生。\n2）你看了這麼多書，一定會考過。",
+          "en": "Means “this much / to this degree,” describing something present before the speaker.\n1) I have never seen a woman this tall.\n2) You have studied this much; you will certainly pass.",
+          "ja": "目の前のものについて「これほど／こんなに」を表します。\n1）こんなに背の高い女性を見たことがない。\n2）これほど勉強したなら、きっと合格する。",
+          "ko": "눈앞의 상황을 ‘이 정도로, 이렇게’라고 나타냅니다.\n1) 이렇게 키 큰 여자는 처음 봤어.\n2) 책을 이렇게 많이 읽었으니 반드시 합격할 거야.",
+          "romanization": "kà-nàat níi",
+          "romanizationBody": "mii-kwaam-mǎai wâa mâak cháai ban-yaai sìng tîi-yùu chà-pɔ́ɔ-nâa\n1) chǎn mâi kəəi hěn pûu-yǐng dtuua sǔung kà-nàat níi maa gɔ̀ɔn ləəi\n2) təə àan-náng-sʉ̌ʉ yə́ kà-nàat níi dtɔ̂ɔng sɔ̀ɔp-pàan nɛ̂ɛ-nɔɔn"
+        },
+        {
+          "page": "67–68",
+          "thai": "เลย",
+          "thaiBody": "1) ใช้กับคำบอกระดับ มาก จัง ที่สุด แย่ เพื่อเน้นว่า จริง ๆ โดยสิ้นเชิง หรือทั้งหมด\n2) ใช้ประกอบกับคำอื่นเพื่อเน้นว่า ทันที เดี๋ยวนี้\n3) ใช้ตอบรับอย่างสุภาพและกระตือรือร้น หมายถึง เชิญเลย\n4) ในโครงสร้างปฏิเสธ ไม่…เลย หมายถึง ไม่…โดยสิ้นเชิง\nตัวอย่าง: กระเป๋าแอร์เมสแพงแต่สวยมากเลย / ทำแบบนี้แย่มากเลย / นักเรียนทำการบ้านเลยนะคะ / ถ้าไม่มีอะไรแล้ว กลับเลยนะคะ / ก: ขอกินเค้กชิ้นหนึ่งนะ ข: กินเลย / ก: ขออนุญาตไปห้องน้ำ ข: เชิญเลยค่ะ / ฉันไม่เคยได้ยินคำนี้มาก่อนเลย / ที่ประเทศไทย เขาไม่ต้องทำงานเลย",
+          "zh-Hant": "四種主要用法：①搭配程度詞加強「真的、完全」；②表示立刻、現在就；③熱情且禮貌地允許「請吧」；④不……ləəi 表示「完全不」。\n例：愛馬仕包很貴但真的很漂亮／這樣做真的很糟／現在就做作業／沒事的話就回去吧／可以吃蛋糕嗎？——吃吧／可以去廁所嗎？——請便／我完全沒聽過這個詞／在泰國他完全不用工作。",
+          "en": "Four main uses: (1) intensifies degree words (“really/completely”); (2) means “immediately/now”; (3) gives enthusiastic polite permission (“go ahead”); (4) mâi…ləəi means “not at all.”\nExamples: The Hermès bag is expensive but very beautiful; do the homework now; go ahead and eat; please go ahead; I have never heard this word at all; he does not have to work at all.",
+          "ja": "主な用法は四つです。①程度を強める「本当に／完全に」②「すぐ、今」③丁寧で積極的な許可「どうぞ」④mâi…ləəi で「全く〜ない」。\n例：エルメスのバッグは高いが本当にきれい／今すぐ宿題をしなさい／食べていい？——どうぞ／トイレへ行っていい？——どうぞ／この言葉は全く聞いたことがない／タイでは彼は全く働かなくてよい。",
+          "ko": "주요 용법은 네 가지입니다. ①정도 표현을 강조하는 ‘정말, 완전히’ ②‘즉시, 지금’ ③적극적이고 공손한 허락 ‘하세요’ ④mâi…ləəi는 ‘전혀 ~않다’.\n예: 에르메스 가방은 비싸지만 정말 예쁘다 / 지금 바로 숙제해라 / 케이크 먹어도 돼? — 먹어 / 화장실 가도 돼요? — 다녀오세요 / 이 말을 전혀 들어 본 적 없다 / 태국에서는 그가 전혀 일할 필요가 없다.",
+          "romanization": "ləəi",
+          "romanizationBody": "1) chái-gàp kam bɔ̀ɔk rá-dàp mâak jang tîi-sùt yɛ̂ɛ pʉ̂ʉa néen wâa jing-jing dooi-sîn-chəəng rʉ̌ʉ táng-mòt\n2) cháai bprà-gɔ̀ɔp gàp kam ʉ̀ʉn pʉ̂ʉa néen wâa tan-tii dǐiao-níi\n3) cháai dtɔ̀ɔp-ráp yàang sù-pâap lɛ́ grà-dtʉʉ-rʉʉ-rón mǎai-tʉ̌ng chəən ləəi\n4) nai kroong-sâang bpà-dtì-sèet mâi…ləəi mǎai-tʉ̌ng mâi…dooi-sîn-chəəng\ndtuua-yàang: grà-bpǎo ɛɛ mee sà pɛɛng dtɛ̀ɛ sǔuai mâak ləəi / tam bɛ̀ɛp-níi yɛ̂ɛ-mâak ləəi / nák-riian tam-gaan-bâan ləəi ná-ká / tâa mâi mii à-rai lɛ́ɛo glàp ləəi ná-ká / gà: kɔ̌ɔ gin kéek chín nʉ̀ng ná kà: gin ləəi / gà: kɔ̌ɔ-à-nú-yâat bpai hɔ̂ɔng-náam kà: chəən ləəi kâ / chǎn mâi kəəi dâai-yin kam níi maa gɔ̀ɔn ləəi / tîi bprà-têet tai kǎo mâi-dtɔ̂ɔng tam-ngaan ləəi"
+        },
+        {
+          "page": "68",
+          "thai": "…ไปหมด",
+          "thaiBody": "แสดงความหมายว่า มีอยู่ทั่วไปทุกที่\n1) บางคืนไม่มีดาว แต่บางคืนก็มีดาวเต็มไปหมด\n2) แถวอโศก มีชาวต่างชาติอยู่เต็มไปหมด",
+          "zh-Hant": "表示到處都有、遍布各處。\n1）有些夜晚沒有星星，但有些夜晚滿天都是星星。\n2）Asok 一帶到處都是外國人。",
+          "en": "Means “all over / everywhere.”\n1) Some nights have no stars, but on other nights stars are everywhere.\n2) The Asok area is full of foreigners.",
+          "ja": "「至る所にある／一面にある」を表します。\n1）星がない夜もあるが、満天の星の日もある。\n2）アソーク周辺は外国人だらけです。",
+          "ko": "‘곳곳에 있다, 온통 가득하다’를 뜻합니다.\n1) 별이 없는 밤도 있지만 별이 온 하늘에 가득한 밤도 있다.\n2) 아속 일대에는 외국인이 아주 많다.",
+          "romanization": "…bpai mòt",
+          "romanizationBody": "sà-dɛɛng kwaam-mǎai wâa mii yùu tûua-bpai túk-tîi\n1) baang kʉʉn mâi mii daao dtɛ̀ɛ baang kʉʉn gɔ̂ɔ mii daao dtem-bpai-mòt\n2) tɛ̌ɛo à-sòok mii chaao-dtàang-châat yùu dtem-bpai-mòt"
+        }
+      ],
+      "grammar": [
+        {
+          "page": "69",
+          "thai": "1.1 ตัวเอง = reflexive -self",
+          "thaiBody": "ตัวเอง ใช้เมื่อใครทำอะไรกับตัวเอง\n1) เขาชอบถ่ายรูปตัวเอง\n2) เธอชอบดูตัวเองในกระจก\n3) ฉันทำมีดบาดตัวเองขณะกำลังทำกับข้าวเมื่อวาน",
+          "zh-Hant": "dtuua-eeng 是各人稱代詞共用的反身形式，表示動作回到自己身上。\n1）他喜歡自拍。\n2）她喜歡看鏡中的自己。\n3）昨天做飯時，我用刀割傷了自己。",
+          "en": "dtuua-eeng is the reflexive form used when someone does something to themself.\n1) He likes taking pictures of himself.\n2) She likes looking at herself in the mirror.\n3) I cut myself with a knife while cooking yesterday.",
+          "ja": "dtuua-eeng は、動作が自分自身に及ぶときに使う再帰形です。\n1）彼は自撮りが好きです。\n2）彼女は鏡で自分を見るのが好きです。\n3）昨日料理中に包丁で自分を切りました。",
+          "ko": "dtuua-eeng은 행동이 자기 자신에게 향할 때 쓰는 재귀 표현입니다.\n1) 그는 자기 사진 찍기를 좋아합니다.\n2) 그녀는 거울 속 자신을 보기를 좋아합니다.\n3) 어제 요리하다 칼로 자신을 베었습니다.",
+          "romanization": "1.1 dtuua-eeng = reflexive -self",
+          "romanizationBody": "dtuua-eeng cháai mʉ̂ʉa krai tam à-rai gàp dtuua-eeng\n1) kǎo chɔ̂ɔp tàai-rûup dtuua-eeng\n2) təə chɔ̂ɔp duu dtuua-eeng nai grà-jòk\n3) chǎn tam mîit bàat dtuua-eeng kà-nà gam-lang tam-gàp-kâao mʉ̂ʉa-waan"
+        },
+        {
+          "page": "70",
+          "thai": "1.2 เอง / ด้วยตัว(ของ…)เอง",
+          "thaiBody": "เอง เน้นว่าใครทำอะไรเองโดยไม่อาศัยความช่วยเหลือจากผู้อื่น; เพื่อเน้นย้ำมากขึ้น ใช้ ด้วยตัว(ของ…)เอง\n1) เขาถ่ายรูปนี้เอง\n2) ฉันทำกับข้าวเองเป็นประจำ\n3) นักเรียนทำการบ้านเองทุกวัน\n4) เขาถ่ายรูปนี้ด้วยตัวของเขาเอง\n5) ฉันทำกับข้าวด้วยตัวของฉันเอง",
+          "zh-Hant": "eeng 強調某人親自、獨力完成，不依靠他人；更強調時可用 dûuai-dtuua(kɔ̌ɔng…)eeng。\n1）這張照片是他自己拍的。\n2）我平常自己做飯。\n3）學生每天自己做作業。\n4）這張照片確實是他親自拍的。\n5）飯是我親自做的。",
+          "en": "eeng emphasizes doing something oneself without help; dûuai-dtuua(kɔ̌ɔng…)eeng is more emphatic.\n1) He took this picture himself.\n2) I regularly cook for myself.\n3) Students do homework themselves every day.\n4) He personally took this picture.\n5) I cooked it myself.",
+          "ja": "eeng は助けを借りず自分で行うことを強調し、dûuai-dtuua(kɔ̌ɔng…)eeng はさらに強い形です。\n1）この写真は彼自身が撮りました。\n2）私は普段自分で料理します。\n3）学生は毎日自分で宿題をします。\n4）彼が自らこの写真を撮りました。\n5）私が自分で料理しました。",
+          "ko": "eeng은 도움 없이 직접 했음을 강조하며 dûuai-dtuua(kɔ̌ɔng…)eeng은 더 강한 표현입니다.\n1) 이 사진은 그가 직접 찍었습니다.\n2) 나는 보통 직접 요리합니다.\n3) 학생들은 매일 스스로 숙제합니다.\n4) 그가 몸소 이 사진을 찍었습니다.\n5) 내가 직접 요리했습니다.",
+          "romanization": "1.2 eeng / dûuai dtuua(kɔ̌ɔng…)eeng",
+          "romanizationBody": "eeng néen wâa krai tam à-rai eeng dooi mâi aa-sǎi kwaam-chûuai-lʉ̌ʉa jàak pûu-ʉ̀ʉn; pʉ̂ʉa néen-yám mâak-kʉ̂n cháai dûuai dtuua(kɔ̌ɔng…)eeng\n1) kǎo tàai-rûup níi eeng\n2) chǎn tam-gàp-kâao eeng bpen-bprà-jam\n3) nák-riian tam-gaan-bâan eeng túk-wan\n4) kǎo tàai-rûup níi dûuai dtuua kɔ̌ɔng kǎo eeng\n5) chǎn tam-gàp-kâao dûuai dtuua kɔ̌ɔng chǎn eeng"
+        },
+        {
+          "page": "70",
+          "thai": "1.3 คนเดียว = alone",
+          "thaiBody": "ใช้เมื่อใครทำอะไรโดยลำพัง ไม่มีคนอื่นทำด้วย กรณีนี้ไม่ใช้ เอง หรือ ตัวเอง\n1) ฉันไปดูหนังคนเดียว\n2) เขาอยู่คนเดียว",
+          "zh-Hant": "表示獨自一人、沒有別人陪同；此義不用 eeng 或 dtuua-eeng。\n1）我一個人去看電影。\n2）他獨自居住。",
+          "en": "Means doing something alone, with nobody else; do not use eeng or dtuua-eeng for this meaning.\n1) I went to see a movie alone.\n2) He lives alone.",
+          "ja": "他の人なしで一人ですることを表します。この意味では eeng／dtuua-eeng を使いません。\n1）私は一人で映画を見に行きました。\n2）彼は一人暮らしです。",
+          "ko": "다른 사람 없이 혼자 함을 뜻하며 이 의미로는 eeng이나 dtuua-eeng을 쓰지 않습니다.\n1) 나는 혼자 영화를 보러 갔습니다.\n2) 그는 혼자 삽니다.",
+          "romanization": "1.3 kon-diiao = alone",
+          "romanizationBody": "cháai mʉ̂ʉa krai tam à-rai dooi-lam-pang mâi mii kon-ʉ̀ʉn tam dûuai gɔɔn-nii níi mâi cháai eeng rʉ̌ʉ dtuua-eeng\n1) chǎn bpai-duu nǎng kon-diiao\n2) kǎo yùu kon-diiao"
+        },
+        {
+          "page": "71–72",
+          "thai": "2.1 กัน = each other / one another",
+          "thaiBody": "กัน เป็นสรรพนามแสดงการกระทำต่อกันของคนตั้งแต่สองคนขึ้นไป\n1) คุณจอห์นกับคุณแมรี่รักกัน\n2) เขาจะแต่งงานกันปีหน้า\n3) คนไทยเวลาเจอกัน จะทักทายกันด้วยการไหว้",
+          "zh-Hant": "gan 是相互代名詞，表示兩人以上互相做某事：John 和 Mary 相愛；他們明年結婚；泰國人見面時彼此合十問候。",
+          "en": "gan is a reciprocal pronoun for two or more people doing something to each other: John and Mary love each other; they will marry next year; Thai people greet one another with a wai.",
+          "ja": "gan は二人以上が互いに行為をすることを表す相互代名詞です。ジョンとメアリーは愛し合い、来年結婚し、タイ人は会うと互いにワイで挨拶します。",
+          "ko": "gan은 둘 이상이 서로에게 행동함을 나타내는 상호 대명사입니다. 존과 메리는 서로 사랑하고 내년에 결혼하며, 태국인은 만나면 서로 와이로 인사합니다.",
+          "romanization": "2.1 gan = each other / one another",
+          "romanizationBody": "gan bpen sàp-pá-naam sà-dɛɛng gaan-grà-tam dtɔ̀ɔ-gan kɔ̌ɔng kon dtâng-dtɛ̀ɛ sɔ̌ɔng kon kʉ̂n-bpai\n1) kun jɔɔn gàp kun mɛɛ-rîi rák gan\n2) kǎo jà dtɛ̀ng-ngaan gan bpii-nâa\n3) kon-tai wee-laa jəə-gan jà ták-taai gan dûuai gaan wâai"
+        },
+        {
+          "page": "72",
+          "thai": "2.2 กัน แสดงว่ากิจกรรมมีผู้ร่วมมากกว่าหนึ่งคน",
+          "thaiBody": "ผู้ร่วมกิจกรรมอาจร่วมกันทำ หรือต่างคนต่างทำก็ได้\n1) ไปกินข้าวกันไหม เราจะไปพารากอนกัน (as a group)\n2) ไปทำการบ้านกันเถอะ (as a group)\n3) พอออกกำลังกายเสร็จทุกคนก็แยกกันไปอาบน้ำ (individually)\n4) เขานอนกรนเสียงดังมาก เราแทบไม่ได้นอนกันเลยเมื่อคืน (individually)",
+          "zh-Hant": "gan 也表示同一活動有多位參與者；可以一起完成，也可以各自完成。例子包括一起吃飯、一起做作業、各自洗澡，以及大家昨晚都幾乎沒睡。",
+          "en": "gan can mark multiple participants in one activity, either acting as a group or individually: eating or doing homework together, separating to shower, or all getting almost no sleep.",
+          "ja": "gan は一つの活動に複数の参加者がいることも示し、共同でも各自でも構いません。一緒に食事・宿題、別々にシャワー、皆ほとんど眠れない例です。",
+          "ko": "gan은 한 활동에 여러 사람이 참여함도 나타내며, 함께 또는 각자 행동할 수 있습니다. 함께 식사·숙제하기, 각자 샤워하기, 모두 거의 못 자기의 예입니다.",
+          "romanization": "2.2 gan sà-dɛɛng-wâa gìt-jà-gam mii pûu rûuam mâak-gwàa nʉ̀ng kon",
+          "romanizationBody": "pûu rûuam gìt-jà-gam àat rûuam-gan tam rʉ̌ʉ dtàang kon dtàang tam gɔ̂ɔ-dâai\n1) bpai gin-kâao gan mǎi rao jà bpai paa-raa-gɔɔn gan (as a group)\n2) bpai tam-gaan-bâan gan tə̀ (as a group)\n3) pɔɔ ɔ̀ɔk-gam-lang-gaai sèt túk-kon gɔ̂ɔ yɛ̂ɛk-gan bpai àap-náam (individually)\n4) kǎo nɔɔn gron sǐiang-dang mâak rao tɛ̂ɛp mâi dâai nɔɔn gan ləəi mʉ̂ʉa-kʉʉn (individually)"
+        },
+        {
+          "page": "72–73",
+          "thai": "3. ด้วยกัน = together",
+          "thaiBody": "ใช้บอกว่าคนตั้งแต่สองคนทำอะไรร่วมกัน\n1) เมื่อวานเราไปช้อปปิ้งด้วยกัน\n2) เขาอยู่ด้วยกันกับพ่อแม่\nใช้บอกว่าของสองสิ่งผสมเข้าด้วยกันหรืออยู่ร่วมกัน\n3) ก: ให้ผมวางโต๊ะกับเก้าอี้ไว้ที่ไหนดีครับ ข: วางไว้ด้วยกันตรงนั้นก็ได้ค่ะ\n4) เวลาทำไข่เจียว ต้องตีไข่ขาวกับไข่แดงเข้าด้วยกัน",
+          "zh-Hant": "dûuai-gan 表示兩人以上一起做事，也可表示兩樣東西放在一起或混合：一起購物、與父母同住、桌椅放一起、蛋白與蛋黃打在一起。",
+          "en": "dûuai-gan means people doing something together, or two things being placed or mixed together: shopping together, living with parents, putting a table and chairs together, and beating egg white with yolk.",
+          "ja": "dûuai-gan は複数人が一緒に行うこと、または二つの物を一緒に置く・混ぜることを表します。一緒に買い物、両親と同居、机と椅子を並べる、卵白と卵黄を混ぜる例です。",
+          "ko": "dûuai-gan은 둘 이상이 함께 행동하거나 두 물건을 함께 두고 섞는 것을 뜻합니다. 함께 쇼핑하기, 부모와 살기, 탁자와 의자를 같이 놓기, 흰자와 노른자를 섞기의 예입니다.",
+          "romanization": "3. dûuai-gan = together",
+          "romanizationBody": "cháai bɔɔ gwàa kon dtâng-dtɛ̀ɛ sɔ̌ɔng kon tam à-rai rûuam-gan\n1) mʉ̂ʉa-waan rao bpai chɔ́ɔp-bpîng dûuai-gan\n2) kǎo yùu dûuai-gan gàp pɔ̂ɔ-mɛ̂ɛ\ncháai bɔɔ gwàa kɔ̌ɔng sɔ̌ɔng sìng pà-sǒm kâo-dûuai-gan rʉ̌ʉ yùu rûuam-gan\n3) gà: hâi pǒm waang dtó gàp gâo-îi wái tîi-nǎi dii kráp kà: waang wái dûuai-gan dtrong-nán gɔ̂ɔ-dâai kâ\n4) wee-laa tam kài-jiiao dtɔ̂ɔng dtii kài-kǎao gàp kài-dɛɛng kâo-dûuai-gan"
+        }
+      ]
+    },
+    {
+      "lesson": 6,
+      "vocabulary": [
+        {
+          "page": "75",
+          "thai": "ทะเยอทะยาน",
+          "romanization": "thá-yəə-thá-yaan",
+          "zh-Hant": "有企圖心、有野心",
+          "en": "ambitious",
+          "ja": "野心的な",
+          "ko": "야심 찬"
+        },
+        {
+          "page": "75",
+          "thai": "มุ่งมั่น",
+          "romanization": "mûng-mân",
+          "zh-Hant": "堅定、專注",
+          "en": "determined",
+          "ja": "意志が強い",
+          "ko": "굳세다, 전념하다"
+        },
+        {
+          "page": "75",
+          "thai": "เอาจริงเอาจัง",
+          "romanization": "ao-jing-ao-jang",
+          "zh-Hant": "認真、當真",
+          "en": "serious; earnest",
+          "ja": "真剣な",
+          "ko": "진지하다"
+        },
+        {
+          "page": "76",
+          "thai": "วิตกกังวล",
+          "romanization": "wí-dtòk-gang-won",
+          "zh-Hant": "憂慮、焦慮",
+          "en": "worried; anxious",
+          "ja": "心配する、不安な",
+          "ko": "걱정하다, 불안하다"
+        },
+        {
+          "page": "76",
+          "thai": "สุภาพ",
+          "romanization": "sù-pâap",
+          "zh-Hant": "有禮貌",
+          "en": "polite",
+          "ja": "礼儀正しい",
+          "ko": "예의 바르다"
+        },
+        {
+          "page": "76",
+          "thai": "มีเมตตา",
+          "romanization": "mii mêet-dtaa",
+          "zh-Hant": "慈悲、善良",
+          "en": "kind; compassionate",
+          "ja": "慈悲深い、親切な",
+          "ko": "자비롭다, 친절하다"
+        },
+        {
+          "page": "76",
+          "thai": "ภายนอก",
+          "romanization": "paai-nɔ̂ɔk",
+          "zh-Hant": "外表、外部",
+          "en": "outwardly; exterior",
+          "ja": "外見、外側",
+          "ko": "겉, 외부"
+        },
+        {
+          "page": "76",
+          "thai": "เพื่อนสนิท",
+          "romanization": "pʉ̂ʉan-sà-nìt",
+          "zh-Hant": "好友、摯友",
+          "en": "close friend",
+          "ja": "親友",
+          "ko": "친한 친구"
+        },
+        {
+          "page": "76",
+          "thai": "ไว้ใจ",
+          "romanization": "wái-jai",
+          "zh-Hant": "信任",
+          "en": "to trust",
+          "ja": "信頼する",
+          "ko": "믿다, 신뢰하다"
+        },
+        {
+          "page": "76",
+          "thai": "อารมณ์",
+          "romanization": "aa-rom",
+          "zh-Hant": "情緒、心情",
+          "en": "emotion; mood",
+          "ja": "感情、気分",
+          "ko": "감정, 기분"
+        },
+        {
+          "page": "76",
+          "thai": "อ่อนไหว",
+          "romanization": "ɔ̀ɔn-wǎi",
+          "zh-Hant": "敏感、感性",
+          "en": "sensitive",
+          "ja": "繊細な、敏感な",
+          "ko": "예민하다, 감수성이 풍부하다"
+        },
+        {
+          "page": "76",
+          "thai": "(ช่าง)เห็นอกเห็นใจ",
+          "romanization": "(châang) hěn-òk-hěn-jai",
+          "zh-Hant": "善於體諒、有同理心",
+          "en": "sympathetic",
+          "ja": "思いやりがある",
+          "ko": "동정심이 많다, 공감하다"
+        },
+        {
+          "page": "76",
+          "thai": "ข้อเสีย",
+          "romanization": "kɔ̂ɔ-sǐia",
+          "zh-Hant": "缺點、劣勢",
+          "en": "disadvantage; weakness",
+          "ja": "欠点、短所",
+          "ko": "단점"
+        },
+        {
+          "page": "76",
+          "thai": "ข้อดี",
+          "romanization": "kɔ̂ɔ-dii",
+          "zh-Hant": "優點、優勢",
+          "en": "advantage; strength",
+          "ja": "長所、利点",
+          "ko": "장점"
+        },
+        {
+          "page": "76",
+          "thai": "เผชิญหน้า",
+          "romanization": "pà-chəən-nâa",
+          "zh-Hant": "面對、正視",
+          "en": "to face; confront",
+          "ja": "向き合う",
+          "ko": "직면하다"
+        },
+        {
+          "page": "76",
+          "thai": "ความจริง",
+          "romanization": "kwaam-jing",
+          "zh-Hant": "真相、現實",
+          "en": "truth; reality",
+          "ja": "真実、現実",
+          "ko": "진실, 현실"
+        },
+        {
+          "page": "76",
+          "thai": "กระตือรือร้น",
+          "romanization": "grà-dtʉʉ-rʉʉ-rón",
+          "zh-Hant": "積極、熱衷",
+          "en": "enthusiastic",
+          "ja": "意欲的な",
+          "ko": "열정적이다"
+        },
+        {
+          "page": "76",
+          "thai": "คล่องแคล่ว",
+          "romanization": "klɔ̂ɔng-klɛ̂ɛo",
+          "zh-Hant": "靈活、流利",
+          "en": "agile; fluent",
+          "ja": "機敏な、流暢な",
+          "ko": "민첩하다, 유창하다"
+        },
+        {
+          "page": "76",
+          "thai": "กระฉับกระเฉง",
+          "romanization": "grà-chàp-grà-chěeng",
+          "zh-Hant": "精力充沛、活躍",
+          "en": "active; energetic",
+          "ja": "活動的な、きびきびした",
+          "ko": "활기차다"
+        },
+        {
+          "page": "76",
+          "thai": "อวดดี",
+          "romanization": "ùuat-dii",
+          "zh-Hant": "自大、狂妄",
+          "en": "cocky; overconfident",
+          "ja": "うぬぼれた",
+          "ko": "건방지다, 자만하다"
+        },
+        {
+          "page": "76",
+          "thai": "หยิ่ง",
+          "romanization": "yìng",
+          "zh-Hant": "傲慢、高傲",
+          "en": "arrogant; proud",
+          "ja": "傲慢な、気位が高い",
+          "ko": "거만하다"
+        },
+        {
+          "page": "76",
+          "thai": "เงียบขรึม",
+          "romanization": "ngîiap-krʉ̌m",
+          "zh-Hant": "沉默寡言、穩重",
+          "en": "quiet; reserved",
+          "ja": "無口で落ち着いた",
+          "ko": "과묵하다"
+        },
+        {
+          "page": "76",
+          "thai": "อดทน",
+          "romanization": "òt-ton",
+          "zh-Hant": "有耐心、忍耐",
+          "en": "patient; to endure",
+          "ja": "我慢強い、耐える",
+          "ko": "인내하다"
+        },
+        {
+          "page": "76",
+          "thai": "แข็งแกร่ง",
+          "romanization": "kɛ̌ng-grɛ̀ng",
+          "zh-Hant": "堅強、強韌",
+          "en": "strong",
+          "ja": "強い、たくましい",
+          "ko": "강인하다"
+        },
+        {
+          "page": "76",
+          "thai": "ตรงไปตรงมา",
+          "romanization": "dtrong-bpai-dtrong-maa",
+          "zh-Hant": "直率、坦白",
+          "en": "straightforward",
+          "ja": "率直な",
+          "ko": "솔직하다, 직선적이다"
+        },
+        {
+          "page": "76",
+          "thai": "เสแสร้ง",
+          "romanization": "sěe-sɛ̂ɛng",
+          "zh-Hant": "虛偽、做作",
+          "en": "to pretend; be insincere",
+          "ja": "偽る、気取る",
+          "ko": "가식적이다"
+        },
+        {
+          "page": "76",
+          "thai": "ความขัดแย้ง",
+          "romanization": "kwaam-kàt-yɛ́ɛng",
+          "zh-Hant": "衝突、矛盾",
+          "en": "conflict; contradiction",
+          "ja": "対立、矛盾",
+          "ko": "갈등, 모순"
+        },
+        {
+          "page": "77",
+          "thai": "ความตลกขบขัน",
+          "romanization": "kwaam-dtà-lòk-kòp-kǎn",
+          "zh-Hant": "幽默",
+          "en": "humor",
+          "ja": "ユーモア",
+          "ko": "유머"
+        },
+        {
+          "page": "77",
+          "thai": "ขี้เหงา",
+          "romanization": "kîi-ngǎo",
+          "zh-Hant": "怕寂寞、容易孤單",
+          "en": "prone to loneliness",
+          "ja": "寂しがり屋",
+          "ko": "외로움을 잘 타다"
+        },
+        {
+          "page": "77",
+          "thai": "อ่อนแอ",
+          "romanization": "ɔ̀ɔn-ɛɛ",
+          "zh-Hant": "軟弱、脆弱",
+          "en": "weak",
+          "ja": "弱い",
+          "ko": "약하다"
+        },
+        {
+          "page": "77",
+          "thai": "บุคลิก",
+          "romanization": "bùk-ká-lík",
+          "zh-Hant": "個性、人格特質",
+          "en": "personality; character",
+          "ja": "性格、人格",
+          "ko": "성격, 인격"
+        },
+        {
+          "page": "77",
+          "thai": "ก้าวร้าว",
+          "romanization": "gâao-ráao",
+          "zh-Hant": "具攻擊性、粗暴",
+          "en": "aggressive",
+          "ja": "攻撃的な",
+          "ko": "공격적이다"
+        },
+        {
+          "page": "77",
+          "thai": "ปกป้อง",
+          "romanization": "bpòk-bpɔ̂ɔng",
+          "zh-Hant": "保護、捍衛",
+          "en": "to protect",
+          "ja": "守る",
+          "ko": "보호하다"
+        },
+        {
+          "page": "77",
+          "thai": "ใจกว้าง",
+          "romanization": "jai-gwâang",
+          "zh-Hant": "心胸寬廣、大方",
+          "en": "big-hearted; generous",
+          "ja": "寛大な",
+          "ko": "마음이 넓다"
+        },
+        {
+          "page": "77",
+          "thai": "เอื้อเฟื้อเผื่อแผ่",
+          "romanization": "ʉ̂a-fʉ́a-phʉ̀a-phɛ̀ɛ",
+          "zh-Hant": "慷慨、樂於分享",
+          "en": "generous",
+          "ja": "気前がよい",
+          "ko": "너그럽다, 베풀다"
+        },
+        {
+          "page": "77",
+          "thai": "ดื้อรั้น",
+          "romanization": "dʉ̂ʉ-rán",
+          "zh-Hant": "固執、頑固",
+          "en": "stubborn",
+          "ja": "頑固な",
+          "ko": "고집이 세다"
+        },
+        {
+          "page": "77",
+          "thai": "เจ้ากี้เจ้าการ",
+          "romanization": "jâo-gîi-jâo-gaan",
+          "zh-Hant": "愛指揮人、好管閒事",
+          "en": "bossy",
+          "ja": "仕切りたがる",
+          "ko": "지시하기 좋아하다"
+        },
+        {
+          "page": "77",
+          "thai": "นินทาว่าร้าย",
+          "romanization": "nin-taa wâa-ráai",
+          "zh-Hant": "說壞話、惡意八卦",
+          "en": "to gossip maliciously",
+          "ja": "悪口を言う",
+          "ko": "험담하다"
+        },
+        {
+          "page": "77",
+          "thai": "ความจำ",
+          "romanization": "kwaam-jam",
+          "zh-Hant": "記憶力",
+          "en": "memory",
+          "ja": "記憶",
+          "ko": "기억력"
+        },
+        {
+          "page": "77",
+          "thai": "เป็นเลิศ",
+          "romanization": "bpen-lə̂ət",
+          "zh-Hant": "卓越、優秀",
+          "en": "excellent",
+          "ja": "優れている",
+          "ko": "탁월하다"
+        },
+        {
+          "page": "77",
+          "thai": "มีเสน่ห์",
+          "romanization": "mii-sà-nèe",
+          "zh-Hant": "有魅力",
+          "en": "charming",
+          "ja": "魅力がある",
+          "ko": "매력 있다"
+        },
+        {
+          "page": "77",
+          "thai": "อัธยาศัยดี",
+          "romanization": "àt-thá-yaa-sǎi-dii",
+          "zh-Hant": "親切隨和、好相處",
+          "en": "friendly; sociable",
+          "ja": "人当たりがよい",
+          "ko": "붙임성이 좋다"
+        },
+        {
+          "page": "77",
+          "thai": "พรสวรรค์",
+          "romanization": "pɔɔn-sà-wǎn",
+          "zh-Hant": "天賦、才能",
+          "en": "gift; talent",
+          "ja": "才能、天分",
+          "ko": "재능"
+        },
+        {
+          "page": "77",
+          "thai": "เข้ากับคนอื่น",
+          "romanization": "kâo-gàp kon-ʉ̀ʉn",
+          "zh-Hant": "與他人相處融洽",
+          "en": "to get along with others",
+          "ja": "他人とうまく付き合う",
+          "ko": "다른 사람과 잘 지내다"
+        },
+        {
+          "page": "77",
+          "thai": "ทุ่มเท",
+          "romanization": "tûm-tee",
+          "zh-Hant": "投入、奉獻",
+          "en": "dedicated; to devote oneself",
+          "ja": "打ち込む、献身的な",
+          "ko": "헌신하다, 몰두하다"
+        },
+        {
+          "page": "77",
+          "thai": "เอาแต่ใจตัวเอง",
+          "romanization": "ao-dtɛ̀ɛ-jai-dtuua-eeng",
+          "zh-Hant": "任性、自我中心",
+          "en": "self-centered; selfish",
+          "ja": "自分勝手な",
+          "ko": "제멋대로다, 이기적이다"
+        },
+        {
+          "page": "77",
+          "thai": "มองโลกในแง่ดี",
+          "romanization": "mɔɔng-lôok-nai-ngɛ̂ɛ-dii",
+          "zh-Hant": "樂觀",
+          "en": "optimistic",
+          "ja": "楽観的な",
+          "ko": "낙관적이다"
+        },
+        {
+          "page": "77",
+          "thai": "มองโลกในแง่ร้าย",
+          "romanization": "mɔɔng-lôok-nai-ngɛ̂ɛ-ráai",
+          "zh-Hant": "悲觀",
+          "en": "pessimistic",
+          "ja": "悲観的な",
+          "ko": "비관적이다"
+        }
+      ],
+      "notes": [],
+      "grammar": [
+        {
+          "page": "79",
+          "thai": "1. ขี้ vs ช่าง",
+          "thaiBody": "ขี้ และ ช่าง + คำกริยา/คำคุณศัพท์ หมายถึงนิสัยหรือสิ่งที่ทำเป็นประจำ คำขึ้นต้นด้วย ขี้ มักเป็นเชิงลบ ส่วน ช่าง ค่อนข้างเป็นเชิงบวก\nขี้ร้อน / ขี้หนาว / ขี้ลืม / ขี้อาย\nช่างคิด / ช่างเขียน / ช่างถาม / ช่างพูด",
+          "zh-Hant": "kîi／châang 加動詞或形容詞，表示慣常的性格或行為。kîi 多帶負面語氣；châang 通常較正面。例：怕熱、怕冷、健忘、害羞；愛思考、善寫、愛問、健談。",
+          "en": "kîi and châang plus a verb/adjective describe a habitual trait. kîi is usually negative; châang is relatively positive. Examples: sensitive to heat/cold, forgetful, shy; thoughtful, fond of writing, inquisitive, talkative.",
+          "ja": "kîi／châang＋動詞・形容詞は習慣的な性格を表します。kîi は通常否定的、châang は比較的肯定的です。例：暑がり、寒がり、忘れっぽい、恥ずかしがり；考え好き、書き好き、質問好き、話好き。",
+          "ko": "kîi/châang+동사·형용사는 습관적 성향을 나타냅니다. kîi는 대개 부정적, châang은 비교적 긍정적입니다. 예: 더위를 타다, 추위를 타다, 잘 잊다, 부끄럼을 타다; 생각이 많다, 글쓰기를 좋아하다, 질문이 많다, 말이 많다.",
+          "romanization": "1. kîi vs châang",
+          "romanizationBody": "kîi lɛ́ châang + kam-grì-yaa/kam-kun-na-sàp mǎai-tʉ̌ng ní-sǎi rʉ̌ʉ sìng tîi tam bpen-bprà-jam kam-kʉ̂n-dtôn dûuai kîi mák bpen chəng-lóp sùuan châang kɔ̂ɔn-kâang bpen chəəng bùuak\nkîi rɔ́ɔn / kîi nǎao / kîi-lʉʉm / kîi-aai\nchâng-kít / châng-kǐian / châang tǎam / châng-pûut"
+        },
+        {
+          "page": "79–80",
+          "thai": "2. คำเชื่อมแสดงความขัดแย้ง: แต่ / อย่างไรก็ตาม",
+          "thaiBody": "แต่ หมายถึง but ใช้ได้ทั้งภาษาพูดและภาษาเขียน\n1) อาหารไทยอร่อยแต่เผ็ด\n2) น้องชายชอบกินทุเรียนแต่พี่สาวไม่ชอบ\nอย่างไรก็ตาม หมายถึง however ใช้ในภาษาเขียน\n3) คนราศีสิงห์เป็นคนใจกว้าง มีนิสัยเอื้อเฟื้อเผื่อแผ่ อย่างไรก็ตาม ชาวราศีสิงห์เป็นคนดื้อรั้น\n4) ภาคใต้ของประเทศไทยมีสถานที่ท่องเที่ยวจำนวนมาก อย่างไรก็ตาม หากจัดการไม่ดี นักท่องเที่ยวก็อาจไม่อยากมาเที่ยว\nเปรียบเทียบ: การท่องเที่ยวไทยดีขึ้นมาก แต่รายได้ของประชาชนไม่ได้เพิ่มขึ้น / แม้ว่าการท่องเที่ยวจะดีขึ้นมาก อย่างไรก็ตาม รายได้ของประชาชนก็ไม่ได้เพิ่มขึ้น",
+          "zh-Hant": "dtɛ̀ɛ 相當於 but，可用於口語與書面語；yàang-rai-gɔ̂ɔ-dtaam 相當於 however，通常用於書面語。例：泰國菜好吃但辣；弟弟喜歡榴槤但姊姊不喜歡；獅子座慷慨，然而也很固執；南部景點多，然而管理不好時遊客可能不想來。",
+          "en": "dtɛ̀ɛ means “but” and works in speech and writing. yàang-rai-gɔ̂ɔ-dtaam means “however” and is normally written. Examples contrast tasty-but-spicy Thai food, siblings' preferences, generous-yet-stubborn Leos, and plentiful southern attractions that may still deter tourists if poorly managed.",
+          "ja": "dtɛ̀ɛ は but に相当し会話・文章の両方で使えます。yàang-rai-gɔ̂ɔ-dtaam は however に相当し通常は文章語です。例：タイ料理はおいしいが辛い／弟はドリアンが好きだが姉は嫌い／しし座は寛大だが頑固／南部には観光地が多いが、管理が悪ければ観光客は来たがらない。",
+          "ko": "dtɛ̀ɛ는 ‘하지만’으로 말과 글 모두에 쓰고, yàang-rai-gɔ̂ɔ-dtaam은 ‘그러나’로 주로 문어체입니다. 예: 태국 음식은 맛있지만 맵다 / 남동생은 두리안을 좋아하지만 누나는 싫어한다 / 사자자리는 너그럽지만 고집이 세다 / 남부에 관광지가 많아도 관리가 나쁘면 관광객이 오지 않을 수 있다.",
+          "romanization": "2. kam-chʉ̂ʉam sà-dɛɛng kwaam-kàt-yɛ́ɛng: dtɛ̀ɛ / yàang-rai-gɔ̂ɔ-dtaam",
+          "romanizationBody": "dtɛ̀ɛ mǎai-tʉ̌ng but chái-dâai táng paa-sǎa-pûut lɛ́ paa-sǎa-kǐian\n1) aa-hǎan tai a-rɔ̀ɔi dtɛ̀ɛ pèt\n2) nɔ́ɔng-chaai chɔ̂ɔp gin tú-riian dtɛ̀ɛ pîi-sǎao mâi chɔ̂ɔp\nyàang-rai-gɔ̂ɔ-dtaam mǎai-tʉ̌ng however cháai nai paa-sǎa-kǐian\n3) kon raa-sǐi-sǐng bpen kon jai-gwâang mii ní-sǎi ʉ̂a-fʉ́a-phʉ̀a-phɛ̀ɛ yàang-rai-gɔ̂ɔ-dtaam chaao raa-sǐi-sǐng bpen kon dʉ̂ʉ-rán\n4) pâak-dtâai kɔ̌ɔng bprà-têet tai mii sà-tǎan-tîi-tɔ̂ɔng-tîiao jam-nuuan-mâak yàang-rai-gɔ̂ɔ-dtaam hàak jàt-gaan mâi dii nák-tɔ̂ɔng-tîiao gɔ̂ɔ àat mâi yàak maa tîiao\nbprìiap-tîiap: gaan-tɔ̂ɔng-tîiao tai dii-kʉ̂n mâak dtɛ̀ɛ raai-dâai kɔ̌ɔng bprà-chaa-chon mâi dâai pə̂əm-kʉ̂n / mɛ́ɛ-wâa gaan-tɔ̂ɔng-tîiao jà dii-kʉ̂n mâak yàang-rai-gɔ̂ɔ-dtaam raai-dâai kɔ̌ɔng bprà-chaa-chon gɔ̂ɔ mâi dâai pə̂əm-kʉ̂n"
+        },
+        {
+          "page": "80",
+          "thai": "3. ส่วน แสดงความเป็นคนละส่วนกัน",
+          "thaiBody": "ใช้แนะนำอีกส่วนหนึ่งเมื่อพูดถึงคนหรือสิ่งของสองฝ่าย โดยไม่ได้แสดงความขัดแย้ง\n1) ในฤดูร้อน ภาคเหนือร้อนและไม่ค่อยชื้น ส่วนภาคใต้ร้อนและชื้น\n2) พ่อของเขาเป็นคนอเมริกัน ส่วนแม่เป็นคนญี่ปุ่น",
+          "zh-Hant": "談兩個不同的人或事物時，引出另一方，不一定表示衝突。\n1）夏季北部炎熱且不太潮濕；南部則炎熱潮濕。\n2）他父親是美國人，母親則是日本人。",
+          "en": "Introduces the other part when comparing two different people or things, without necessarily showing contrast.\n1) In summer the north is hot and less humid, while the south is hot and humid.\n2) His father is American, while his mother is Japanese.",
+          "ja": "二つの異なる人・物を述べるとき、必ずしも対立させずもう一方を示します。\n1）夏、北部は暑くあまり湿らない。一方、南部は暑く湿っています。\n2）父はアメリカ人で、母は日本人です。",
+          "ko": "두 사람이나 사물을 말할 때 꼭 대조하지 않고 다른 한쪽을 소개합니다.\n1) 여름에 북부는 덥고 덜 습한 반면 남부는 덥고 습합니다.\n2) 그의 아버지는 미국인이고 어머니는 일본인입니다.",
+          "romanization": "3. sùuan sà-dɛɛng kwaam bpen kon-lá sùuan gan",
+          "romanizationBody": "cháai nɛ́-nam ìik sùuan-hà-nʉ̀ng mʉ̂ʉa pûut-tʉ̌ng kon rʉ̌ʉ sìng-kɔ̌ɔng sɔ̌ɔng fàai dooi mâi dâai sà-dɛɛng kwaam-kàt-yɛ́ɛng\n1) nai rʉ́-duu-rɔ́ɔn pâak-nʉ̌ʉa rɔ́ɔn lɛ́ mâi-kɔ̂ɔi chʉ́ʉn sùuan pâak-dtâai rɔ́ɔn lɛ́ chʉ́ʉn\n2) pɔ̂ɔ kɔ̌ɔng kǎo bpen kon à-mee-ri-gan sùuan mɛ̂ɛ bpen kon-yîi-bpùn"
+        },
+        {
+          "page": "81",
+          "thai": "4. จน = until / so…that",
+          "thaiBody": "หน้าคำบอกเวลา หมายถึงต่อเนื่องถึงเวลานั้น\n1) เรานั่งทำงานอยู่ที่ออฟฟิศจนดึกเพราะงานไม่เสร็จ\n2) เขาติดซีรีส์เกาหลี จึงนั่งดูตั้งแต่ห้าทุ่มจนเช้า ไม่ได้นอนเลย\nหน้าคำกริยา หมายถึง มากจนกระทั่ง…\n3) เขาตากฝนทุกวันจน (เขา) ไม่สบาย\n4) เราตะโกนเสียงดังจนเจ็บคอ แต่เพื่อนที่ยืนอยู่ไกล ๆ ก็ไม่ได้ยิน",
+          "zh-Hant": "jon 在時間前表示持續「直到」；在動詞前表示程度「到……的地步」。\n1）因工作沒做完，我們在辦公室工作到深夜。\n2）他迷韓劇，從晚上十一點看到早上，完全沒睡。\n3）他天天淋雨，以致生病。\n4）我們喊到喉嚨痛，遠處的朋友仍沒聽見。",
+          "en": "Before a time, jon means “until”; before a verb, it means “so much that.”\n1) We worked at the office until late because the work was unfinished.\n2) He watched Korean series from 11 p.m. until morning without sleeping.\n3) He got rained on every day until he became ill.\n4) We shouted until our throats hurt, but the distant friend still did not hear.",
+          "ja": "時間の前では「〜まで」、動詞の前では「〜するほど」を表します。\n1）仕事が終わらず夜遅くまで働いた。\n2）韓国ドラマにはまり、23時から朝まで見て寝なかった。\n3）毎日雨にぬれて病気になった。\n4）喉が痛くなるまで叫んだが、遠くの友達には聞こえなかった。",
+          "ko": "시간 앞에서는 ‘~까지’, 동사 앞에서는 ‘~할 정도로’를 뜻합니다.\n1) 일이 안 끝나 사무실에서 밤늦게까지 일했습니다.\n2) 한국 드라마에 빠져 밤 11시부터 아침까지 보고 전혀 자지 않았습니다.\n3) 매일 비를 맞아 병이 났습니다.\n4) 목이 아플 정도로 소리쳤지만 멀리 있던 친구는 듣지 못했습니다.",
+          "romanization": "4. jon = until / so…that",
+          "romanizationBody": "nâa kam bɔ̀ɔk wee-laa mǎai-tʉ̌ng dtɔ̀ɔ-nʉ̂ʉang tʉ̌ng wee-laa nán\n1) rao nâng tam-ngaan yùu tîi ɔ̀ɔf-fít jon dʉ̀k prɔ́ɔ ngaan mâi sèt\n2) kǎo dtìt sii-rii gao-lǐi jʉng nâng duu dtâng-dtɛ̀ɛ hâa tûm jon cháao mâi dâai nɔɔn ləəi\nnâa kam-grì-yaa mǎai-tʉ̌ng mâak jon-grà-tâng…\n3) kǎo dtàak-fǒn túk-wan jon (kǎo) mâi sà-baai\n4) rao dtà-goon sǐiang-dang jon jèp kɔɔ dtɛ̀ɛ pʉ̂ʉan tîi yʉʉn yùu glai glai gɔ̂ɔ mâi dâai-yin"
+        },
+        {
+          "page": "81",
+          "thai": "5. เพราะ / เพราะว่า = because",
+          "thaiBody": "เพราะ หมายถึง because ตามด้วยประโยคหรือคำได้\n1) ฝนตัดสินใจไม่มางานวันนี้เพราะเอกบอกว่าเขาจะมา\n2) ฝนตัดสินใจไม่มางานวันนี้เพราะเอก\nภาษาพูดใช้ เพราะว่า ได้เมื่อมีประโยคตามหลัง แต่ตามด้วยคำเดี่ยวไม่ได้\n3) ฝนตัดสินใจไม่มางานวันนี้เพราะว่าเอกบอกว่าเขาจะมา\n4) *ฝนตัดสินใจไม่มางานวันนี้เพราะว่าเอก",
+          "zh-Hant": "prɔ́ɔ 表示「因為」，後面可接完整子句或單一名詞。口語的 prɔ́ɔ-wâa 也表示因為，但必須接子句，不能只接一個詞。例：Fon 今天決定不來，因為 Ek 說他會來／因為 Ek。",
+          "en": "prɔ́ɔ means “because” and may be followed by a clause or a single word/noun. Spoken prɔ́ɔ-wâa also gives a reason but must be followed by a clause, not a lone word. Example: Fon decided not to come because Ek said he would come / because of Ek.",
+          "ja": "prɔ́ɔ は「なぜなら」で、節または単独の名詞を後に置けます。口語の prɔ́ɔ-wâa も理由を表しますが、後には節が必要で、一語だけは置けません。例：エークが来ると言ったので／エークのため、フォンは今日来ないと決めました。",
+          "ko": "prɔ́ɔ는 ‘왜냐하면’으로 절이나 단일 명사를 뒤에 둘 수 있습니다. 구어체 prɔ́ɔ-wâa도 이유를 나타내지만 뒤에 절이 와야 하며 단어 하나만 올 수 없습니다. 예: 엑이 온다고 해서 / 엑 때문에 폰은 오늘 오지 않기로 했습니다.",
+          "romanization": "5. prɔ́ɔ / prɔ́ɔ-wâa = because",
+          "romanizationBody": "prɔ́ɔ mǎai-tʉ̌ng because dtaam dûuai bprà-yòok rʉ̌ʉ kam dâai\n1) fǒn dtàt-sǐn-jai mâi maa ngaan wan-níi prɔ́ɔ èek bɔɔ gwàa kǎo jà maa\n2) fǒn dtàt-sǐn-jai mâi maa ngaan wan-níi prɔ́ɔ èek\npaa-sǎa-pûut cháai prɔ́ɔ-wâa dâai mʉ̂ʉa mii bprà-yòok dtaam-lǎng dtɛ̀ɛ dtaam dûuai kam-dìiao mâi dâai\n3) fǒn dtàt-sǐn-jai mâi maa ngaan wan-níi prɔ́ɔ-wâa èek bɔɔ gwàa kǎo jà maa\n4) *fǒn dtàt-sǐn-jai mâi maa ngaan wan-níi prɔ́ɔ-wâa èek"
+        },
+        {
+          "page": "82",
+          "thai": "6. เนื่องจาก = because (written)",
+          "thaiBody": "ใช้เหมือนคำว่า เพราะ แต่นิยมใช้ในภาษาเขียน\n1) คนราศีตุลย์เป็นคนมีเสน่ห์เพราะ/เนื่องจากคนราศีตุลย์เป็นคนสุภาพมาก\n2) เราไม่สามารถเข้าไปในอาคารได้ เพราะ/เนื่องจากเราไม่ได้ทำงานที่นี่",
+          "zh-Hant": "nʉ̂ang-jàak 和 prɔ́ɔ 一樣表示「因為」，但較常用於書面語。例句說明天秤座有魅力是因為很有禮貌，以及因為不在此工作而不能進入大樓。",
+          "en": "nʉ̂ang-jàak is used like prɔ́ɔ “because,” but is more common in writing. The examples explain Libra's charm through politeness and inability to enter a building because one does not work there.",
+          "ja": "nʉ̂ang-jàak は prɔ́ɔ と同じく「〜なので」ですが、主に書き言葉で使います。天秤座の礼儀正しさと、そこで働いていないため建物に入れない例です。",
+          "ko": "nʉ̂ang-jàak은 prɔ́ɔ처럼 ‘~때문에’를 뜻하지만 주로 문어체에 씁니다. 천칭자리의 예의 바름과 그곳에서 일하지 않아 건물에 못 들어가는 예입니다.",
+          "romanization": "6. mʉ̂ʉang-jàak = because (written)",
+          "romanizationBody": "cháai mʉ̌ʉan kam wâa prɔ́ɔ dtɛ̀ɛ ní-yom cháai nai paa-sǎa-kǐian\n1) kon raa-sǐi dtun bpen kon mii-sà-nèe prɔ́ɔ/mʉ̂ʉang-jàak kon raa-sǐi dtun bpen kon sù-pâap mâak\n2) rao mâi sǎa-mâat kâo-bpai nai aa-kaan dâai prɔ́ɔ/mʉ̂ʉang-jàak rao mâi dâai tam-ngaan tîi-nîi"
+        }
+      ]
+    },
+    {
+      "lesson": 7,
+      "vocabulary": [
+        {
+          "page": "90",
+          "thai": "งานแต่งงาน",
+          "romanization": "ngaan-dtɛ̀ng-ngaan",
+          "zh-Hant": "婚禮",
+          "en": "wedding ceremony",
+          "ja": "結婚式",
+          "ko": "결혼식"
+        },
+        {
+          "page": "90",
+          "thai": "เชียว",
+          "romanization": "chiiao",
+          "zh-Hant": "非常、真是",
+          "en": "very; quite",
+          "ja": "とても、本当に",
+          "ko": "아주, 정말"
+        },
+        {
+          "page": "90",
+          "thai": "หย่า",
+          "romanization": "yàa",
+          "zh-Hant": "離婚",
+          "en": "to divorce",
+          "ja": "離婚する",
+          "ko": "이혼하다"
+        },
+        {
+          "page": "90",
+          "thai": "ปลอบใจ",
+          "romanization": "bplɔ̀ɔp-jai",
+          "zh-Hant": "安慰",
+          "en": "to comfort",
+          "ja": "慰める",
+          "ko": "위로하다"
+        },
+        {
+          "page": "90",
+          "thai": "ปัญหา",
+          "romanization": "bpan-hǎa",
+          "zh-Hant": "問題、麻煩",
+          "en": "problem; trouble",
+          "ja": "問題、困り事",
+          "ko": "문제, 곤란"
+        },
+        {
+          "page": "90",
+          "thai": "เจ้าชู้",
+          "romanization": "jâo-chúu",
+          "zh-Hant": "花心、風流",
+          "en": "unfaithful; flirtatious",
+          "ja": "浮気性の",
+          "ko": "바람둥이다"
+        },
+        {
+          "page": "90",
+          "thai": "แม่สามี",
+          "romanization": "mɛ̂ɛ sǎa-mii",
+          "zh-Hant": "婆婆、丈夫的母親",
+          "en": "husband's mother",
+          "ja": "夫の母、姑",
+          "ko": "남편의 어머니, 시어머니"
+        },
+        {
+          "page": "90",
+          "thai": "ทะเลาะ",
+          "romanization": "tá-lɔ́ɔ",
+          "zh-Hant": "爭吵",
+          "en": "to quarrel",
+          "ja": "けんかする",
+          "ko": "다투다"
+        },
+        {
+          "page": "90",
+          "thai": "ว่าแล้ว",
+          "romanization": "wâa-lɛ́ɛo",
+          "zh-Hant": "我就知道",
+          "en": "I knew it",
+          "ja": "やっぱり、そうだと思った",
+          "ko": "그럴 줄 알았어"
+        },
+        {
+          "page": "90",
+          "thai": "โสด",
+          "romanization": "sòot",
+          "zh-Hant": "單身",
+          "en": "single; unmarried",
+          "ja": "独身",
+          "ko": "미혼, 싱글"
+        },
+        {
+          "page": "90",
+          "thai": "ถึง",
+          "romanization": "tʉ̌ng",
+          "zh-Hant": "所以才；即使",
+          "en": "that's why; although",
+          "ja": "だから；〜でも",
+          "ko": "그래서; 비록"
+        },
+        {
+          "page": "90",
+          "thai": "บ้านพักคนชรา",
+          "romanization": "bâan-phák-khon-chá-raa",
+          "zh-Hant": "養老院",
+          "en": "elderly care home",
+          "ja": "老人ホーム",
+          "ko": "양로원"
+        },
+        {
+          "page": "90",
+          "thai": "ตามใจ",
+          "romanization": "dtaam-jai",
+          "zh-Hant": "隨你、隨意",
+          "en": "up to you; as you wish",
+          "ja": "好きにして、思いどおりに",
+          "ko": "마음대로 해"
+        },
+        {
+          "page": "90",
+          "thai": "ใคร ๆ",
+          "romanization": "krai-krai",
+          "zh-Hant": "每個人、大家",
+          "en": "everybody",
+          "ja": "誰もが、みんな",
+          "ko": "누구나, 모두"
+        },
+        {
+          "page": "91",
+          "thai": "พ่อตา",
+          "romanization": "pɔ̂ɔ-dtaa",
+          "zh-Hant": "岳父、妻子的父親",
+          "en": "wife's father",
+          "ja": "妻の父、しゅうと",
+          "ko": "아내의 아버지, 장인"
+        },
+        {
+          "page": "91",
+          "thai": "แม่ยาย",
+          "romanization": "mɛ̂ɛ-yaai",
+          "zh-Hant": "岳母、妻子的母親",
+          "en": "wife's mother",
+          "ja": "妻の母、しゅうとめ",
+          "ko": "아내의 어머니, 장모"
+        },
+        {
+          "page": "91",
+          "thai": "พ่อสามี",
+          "romanization": "pɔ̂ɔ sǎa-mii",
+          "zh-Hant": "公公、丈夫的父親",
+          "en": "husband's father",
+          "ja": "夫の父、しゅうと",
+          "ko": "남편의 아버지, 시아버지"
+        },
+        {
+          "page": "91",
+          "thai": "ลูกเขย",
+          "romanization": "lûuk-kə̌əi",
+          "zh-Hant": "女婿",
+          "en": "son-in-law",
+          "ja": "婿",
+          "ko": "사위"
+        },
+        {
+          "page": "91",
+          "thai": "ลูกสะใภ้",
+          "romanization": "lûuk-sà-pái",
+          "zh-Hant": "媳婦",
+          "en": "daughter-in-law",
+          "ja": "嫁、息子の妻",
+          "ko": "며느리"
+        },
+        {
+          "page": "91",
+          "thai": "พี่เขย",
+          "romanization": "pîi-kə̌əi",
+          "zh-Hant": "姊夫；年長的姻親兄弟",
+          "en": "elder brother-in-law",
+          "ja": "年上の義兄",
+          "ko": "형부, 매형, 손위 처남"
+        },
+        {
+          "page": "91",
+          "thai": "พี่สะใภ้",
+          "romanization": "pîi-sà-pái",
+          "zh-Hant": "嫂嫂；年長的姻親姊妹",
+          "en": "elder sister-in-law",
+          "ja": "年上の義姉",
+          "ko": "형수, 올케, 손위 시누이"
+        },
+        {
+          "page": "91",
+          "thai": "น้องเขย",
+          "romanization": "nɔ́ɔng-kə̌əi",
+          "zh-Hant": "妹夫；年幼的姻親兄弟",
+          "en": "younger brother-in-law",
+          "ja": "年下の義弟",
+          "ko": "제부, 매제, 손아래 처남"
+        },
+        {
+          "page": "91",
+          "thai": "น้องสะใภ้",
+          "romanization": "nɔ́ɔng sà-pái",
+          "zh-Hant": "弟媳；年幼的姻親姊妹",
+          "en": "younger sister-in-law",
+          "ja": "年下の義妹",
+          "ko": "제수, 올케, 손아래 시누이"
+        },
+        {
+          "page": "91",
+          "thai": "หลานเขย",
+          "romanization": "lǎan kə̌əi",
+          "zh-Hant": "孫女婿",
+          "en": "grandson-in-law",
+          "ja": "孫娘の夫",
+          "ko": "손녀사위"
+        },
+        {
+          "page": "91",
+          "thai": "หลานสะใภ้",
+          "romanization": "lǎan sà-pái",
+          "zh-Hant": "孫媳婦",
+          "en": "granddaughter-in-law",
+          "ja": "孫の妻",
+          "ko": "손자며느리"
+        }
+      ],
+      "notes": [
+        {
+          "page": "91",
+          "thai": "Adjective + เชียว",
+          "thaiBody": "แปลว่า “มาก”\n1) วันนี้แต่งตัวสวยเชียว\n2) นี่ลูกใครคะ หน้าตาน่ารักเชียว",
+          "zh-Hant": "形容詞加 chiiao 表示「非常、真是……」。\n1）今天穿得真漂亮。\n2）這是誰家的孩子？長得真可愛。",
+          "en": "An adjective plus chiiao means “very / really.”\n1) You are dressed beautifully today.\n2) Whose child is this? So cute.",
+          "ja": "形容詞＋chiiao は「とても／本当に」を表します。\n1）今日はとてもきれいな服装ですね。\n2）どこのお子さん？とてもかわいい。",
+          "ko": "형용사+chiiao는 ‘매우, 정말’을 뜻합니다.\n1) 오늘 정말 예쁘게 입었네.\n2) 누구 아이예요? 정말 귀엽네요.",
+          "romanization": "Adjective + chiiao",
+          "romanizationBody": "bplɛɛ wâa “mâak”\n1) wan-níi dtɛ̀ng-dtuua sǔuai chiiao\n2) nîi lûuk krai ká nâa-dtaa nâa-rák chiiao"
+        },
+        {
+          "page": "91",
+          "thai": "ไม่ลงรอยกัน",
+          "thaiBody": "หมายถึง เข้ากันไม่ได้\n1) เขากับเธอมีความเห็นไม่ลงรอยกัน\n2) เขากับเธอไม่เคยลงรอยกันในเรื่องการทำงานเลย",
+          "zh-Hant": "表示彼此合不來、意見不一致。\n1）他和她的意見不合。\n2）他和她在工作方面從未合得來。",
+          "en": "Means “not to get along / not to agree.”\n1) He and she disagree.\n2) They have never got along over work.",
+          "ja": "「気が合わない／意見が一致しない」という意味です。\n1）彼と彼女の意見は一致しない。\n2）二人は仕事のことで一度も折り合ったことがない。",
+          "ko": "‘서로 잘 맞지 않다, 의견이 일치하지 않다’라는 뜻입니다.\n1) 그와 그녀는 의견이 맞지 않는다.\n2) 두 사람은 업무 문제로 한 번도 잘 맞은 적이 없다.",
+          "romanization": "mâi long-rɔɔi-gan",
+          "romanizationBody": "mǎai-tʉ̌ng kâo-gan mâi dâai\n1) kǎo gàp təə mii kwaam-hěn mâi long-rɔɔi-gan\n2) kǎo gàp təə mâi kəəi long-rɔɔi-gan nai rʉ̂ʉang gaan-tam-ngaan ləəi"
+        },
+        {
+          "page": "92",
+          "thai": "Somebody + ถึง + do something",
+          "thaiBody": "แสดงเหตุผลว่าทำไม หรือมีความหมายว่า “นั่นเป็นเหตุให้…”\n1) ตอนบ่ายแดดร้อนมาก ฉันถึงไม่อยากออกไปไหน\n2) พารากอนมีแต่ของแพง ๆ ฉันถึงไม่อยากไป",
+          "zh-Hant": "說明原因與結果，表示「所以才……」。\n1）下午太陽很熱，所以我才不想出門。\n2）Paragon 都是昂貴的東西，所以我才不想去。",
+          "en": "Explains a reason: “that's why…”\n1) The afternoon sun is very hot; that's why I don't want to go out.\n2) Paragon only has expensive things; that's why I don't want to go.",
+          "ja": "理由を示し、「だから〜する／しない」を表します。\n1）午後は日差しがとても暑い。だから外出したくない。\n2）パラゴンは高い物ばかり。だから行きたくない。",
+          "ko": "이유를 설명하며 ‘그래서 ~하는 것이다’를 뜻합니다.\n1) 오후 햇볕이 너무 뜨거워서 나가고 싶지 않아.\n2) 파라곤에는 비싼 것만 있어서 가고 싶지 않아.",
+          "romanization": "Somebody + tʉ̌ng + do something",
+          "romanizationBody": "sà-dɛɛng hèet-pǒn wâa tam-mai rʉ̌ʉ mii-kwaam-mǎai wâa “nân bpen-hěe-dtù-hâi…”\n1) dtɔɔn-bàai dɛ̀ɛt rɔ́ɔn mâak chǎn tʉ̌ng mâi yàak ɔ̀ɔk bpai nǎi\n2) paa-raa-gɔɔn mii dtɛ̀ɛ kɔ̌ɔng pɛɛng pɛɛng chǎn tʉ̌ng mâi yàak bpai"
+        },
+        {
+          "page": "92",
+          "thai": "ขึ้นคาน",
+          "thaiBody": "หมายถึงเป็นโสด ไม่มีท่าทีว่าจะแต่งงาน ใช้กับผู้หญิง",
+          "zh-Hant": "指女性一直單身、看來沒有結婚的打算；是帶有年代與性別色彩的口語。",
+          "en": "An idiom for a woman remaining unmarried with no apparent prospect of marriage; it is colloquial and gendered.",
+          "ja": "女性が結婚の見込みなく独身のままでいることを指す、やや古く性別に偏った口語表現です。",
+          "ko": "여성이 결혼할 기미 없이 미혼으로 남는다는 뜻의 구어적이고 성별 편향적인 표현입니다.",
+          "romanization": "kʉ̂n-kaan",
+          "romanizationBody": "mǎai-tʉ̌ng bpen-sòot mâi mii tâa-tii wâa jà dtɛ̀ng-ngaan chái-gàp pûu-yǐng"
+        },
+        {
+          "page": "92",
+          "thai": "คำถาม + ๆ",
+          "thaiBody": "มีความหมายว่าโดยทั่วไป หรือทุก…\n1) ใคร ๆ ก็อยากมีแฟน (ทุกคนอยากมีแฟน)\n2) อะไร ๆ ก็แพงเดี๋ยวนี้ (ทุกอย่างแพง)\n3) ที่ไหน ๆ ก็รถติด (ทุกที่รถติด)\n4) มีเงินเท่าไร ๆ ก็ไม่พอ (เงินกี่บาทก็ไม่พอ)\n5) มีแฟนกี่คน ๆ ก็เลิก (เลิกทุกคน)",
+          "zh-Hant": "疑問詞重疊表示一般性或「每一／任何」。\n1）人人都想有伴侶。\n2）現在什麼都貴。\n3）到處都塞車。\n4）有多少錢都不夠。\n5）交幾個對象都會分手。",
+          "en": "A repeated question word means “in general / every / any.”\n1) Everyone wants a partner.\n2) Everything is expensive now.\n3) There is traffic everywhere.\n4) No amount of money is enough.\n5) Every relationship ends in a breakup.",
+          "ja": "疑問詞の反復で「一般に／どの〜も」を表します。\n1）誰でも恋人がほしい。\n2）今は何でも高い。\n3）どこでも渋滞している。\n4）いくらあっても足りない。\n5）何人と付き合っても別れる。",
+          "ko": "의문사를 반복해 ‘일반적으로, 모든, 어느 ~든’을 뜻합니다.\n1) 누구나 연인을 원한다.\n2) 요즘은 무엇이든 비싸다.\n3) 어디든 길이 막힌다.\n4) 돈이 얼마 있어도 부족하다.\n5) 누구와 사귀든 헤어진다.",
+          "romanization": "kam-tǎam + kam-tǎam",
+          "romanizationBody": "mii-kwaam-mǎai wâa dooi-tûua-bpai rʉ̌ʉ túk…\n1) krai-krai gɔ̂ɔ yàak mii fɛɛn (túk-kon yàak mii fɛɛn)\n2) à rai-rai gɔ̂ɔ pɛɛng dǐiao-níi (túk-yàang pɛɛng)\n3) tîi nǎi-nǎi gɔ̂ɔ rót-dtìt (túk-tîi rót-dtìt)\n4) mii-ngən tâo rai-rai gɔ̂ɔ mâi pɔɔ (ngən gìi bàat gɔ̂ɔ mâi pɔɔ)\n5) mii fɛɛn gìi kon kon gɔ̂ɔ lə̂ək (lə̂ək túk-kon)"
+        },
+        {
+          "page": "92–93",
+          "thai": "เอาเถอะ",
+          "thaiBody": "ใช้พูดเมื่อต้องการตัดจบบทสนทนา เพราะไม่ว่าจะพูดอะไรก็ไม่สามารถเปลี่ยนสถานการณ์ได้\nก: เรียนภาษาไทยที่ไหนดี\nข: ที่จุฬาฯ สิ มีชื่อเสียงมากนะ\nก: แต่เห็นบอกว่าค่าเรียนแพงมากนะ\nข: แพงแต่ดีนะ\nก: ก็ใช่ แต่เราอยากได้ถูก ๆ มากกว่า\nข: เอาเถอะ งั้นก็ไปเรียนที่อื่น",
+          "zh-Hant": "當繼續說也無法改變情況時，用來結束話題，相當於「算了／好吧」。\n——去哪裡學泰文好？——朱拉隆功大學，很有名。——但聽說學費很貴。——貴但很好。——是沒錯，但我想要便宜一點。——算了，那就去別處學吧。",
+          "en": "Used to end a conversation when further discussion will not change the situation: “Fine / never mind.”\n— Where should I study Thai? — Chula; it's famous. — But it's expensive. — Expensive but good. — I want somewhere cheaper. — Fine, then study elsewhere.",
+          "ja": "何を言っても状況が変わらないとき、話を切り上げる「まあいい／もういい」です。\n——どこでタイ語を学ぶ？——チュラ大。有名だよ。——でも授業料が高いって。——高いけどいいよ。——もっと安い方がいい。——もういい。じゃあ別の所で学んで。",
+          "ko": "더 말해도 상황이 달라지지 않을 때 대화를 끝내는 ‘됐어, 그만하자’입니다.\n— 어디서 태국어를 배울까? — 쭐랄롱꼰대. 유명해. — 그런데 수업료가 비싸대. — 비싸지만 좋아. — 더 싼 곳이 좋아. — 됐어. 그럼 다른 데서 배워.",
+          "romanization": "ao-tə̀",
+          "romanizationBody": "cháai pûut mʉ̂ʉa dtɔ̂ɔng-gaan dtàt jòp bòt-sǒn-tá-naa prɔ́ɔ mâi wâa jà pûut à-rai gɔ̂ɔ mâi sǎa-mâat bplìian sà-tǎa-ná-gaan dâai\ngà: riian paa-sǎa-tai tîi-nǎi dii\nkà: tîi jù-laa sì mii-chʉ̂ʉ-sǐiang mâak ná\ngà: dtɛ̀ɛ hěn bɔɔ gwàa kâa-riian pɛɛng mâak ná\nkà: pɛɛng dtɛ̀ɛ dii ná\ngà: gɔ̂ɔ châi dtɛ̀ɛ rao yàak-dâai tùuk tùuk mâak-gwàa\nkà: ao-tə̀ ngán gɔ̂ɔ bpai riian tîi-ʉ̀ʉn"
+        }
+      ],
+      "grammar": [
+        {
+          "page": "94",
+          "thai": "1. เวลา = when (routine)",
+          "thaiBody": "ใช้บรรยายเหตุการณ์ที่มักเกิดขึ้นบ่อย ๆ เป็นกิจวัตร\n1) ฉันชอบฟังเพลง เวลาอาบน้ำ\n2) เวลากินข้าว คนไทยชอบคุยกัน\n3) เรามักจะง่วง เวลาเรียนภาษาไทย",
+          "zh-Hant": "描述經常或例行發生的情況「每當……時」。\n1）洗澡時我喜歡聽音樂。\n2）泰國人吃飯時喜歡聊天。\n3）學泰文時我們常常想睡。",
+          "en": "Describes an event that normally happens as a routine: “when/whenever.”\n1) I like listening to music when I shower.\n2) Thai people like talking while eating.\n3) We are often sleepy when studying Thai.",
+          "ja": "習慣的・頻繁に起こる「〜するとき」を表します。\n1）シャワーを浴びるとき音楽を聞くのが好きです。\n2）タイ人は食事中によく話します。\n3）タイ語を勉強するとき、よく眠くなります。",
+          "ko": "습관적이거나 자주 일어나는 ‘~할 때’를 나타냅니다.\n1) 샤워할 때 음악 듣기를 좋아합니다.\n2) 태국 사람들은 밥 먹을 때 이야기하기를 좋아합니다.\n3) 태국어를 공부할 때 자주 졸립니다.",
+          "romanization": "1. wee-laa = when (routine)",
+          "romanizationBody": "cháai ban-yaai hèet-gaan tîi mák gə̀ət-kʉ̂n bɔ̀ɔi-bɔ̀ɔi bpen-gìt-jà-wát\n1) chǎn chɔ̂ɔp fang-pleeng wee-laa àap-náam\n2) wee-laa gin-kâao kon-tai chɔ̂ɔp kui gan\n3) rao mák-jà ngûuang wee-laa-riian paa-sǎa-tai"
+        },
+        {
+          "page": "94–95",
+          "thai": "2. เมื่อ = when (condition / past time)",
+          "thaiBody": "ใช้บรรยายเงื่อนไขที่สิ่งหนึ่งเกิดหลังอีกสิ่งหนึ่ง\n1) เมื่อต้มน้ำจนอุณหภูมิถึง 100 องศา น้ำจะเดือด\n2) เมื่ออุณหภูมิต่ำลงจนถึง 0 องศา น้ำจะกลายเป็นน้ำแข็ง\n3) เขาจะเดินทางกลับประเทศ เมื่อเรียนจบ Thai 6\n4) เมื่อนักเรียนทำข้อสอบเสร็จแล้ว ให้นักเรียนออกจากห้องสอบทันที\nเมื่อ + นามวลีเวลา อ้างถึงอดีต: เมื่อวานนี้ / เมื่อคืน / เมื่อเช้า / เมื่อก่อน / เมื่อปีที่แล้ว / เมื่อเดือนก่อน / เมื่อสัปดาห์ก่อน / เมื่อต้นปี\n5) เขาไม่สบายตั้งแต่เมื่อวาน\n6) พวกเขามาถึงเมื่อคืน",
+          "zh-Hant": "mʉ̂ʉa 可表示條件：一件事發生後，另一件事便發生；後接時間名詞時則指過去時間。\n1）水加熱到一百度就沸騰。2）降到零度就結冰。3）Thai 6 結業後他會回國。4）考完立刻離開考場。\n過去時間：昨天、昨晚、今早、以前、去年、上個月、上週、年初。5）他從昨天起就不舒服。6）他們昨晚抵達。",
+          "en": "mʉ̂ʉa can mark a condition: one thing happens after another. With a time noun phrase, it refers to the past.\n1) Water boils at 100°C. 2) Water freezes at 0°C. 3) He will return home after Thai 6. 4) Leave immediately after finishing the exam.\nPast-time forms: yesterday, last night, this morning, before, last year/month/week, and the beginning of the year. 5) He has been ill since yesterday. 6) They arrived last night.",
+          "ja": "mʉ̂ʉa は、一つのことの後に別のことが起きる条件を表します。時間名詞句が続くと過去の時点を表します。\n1）水は100度で沸騰する。2）0度で凍る。3）Thai 6修了後に帰国する。4）試験終了後すぐ退出する。\n過去：昨日、昨夜、今朝、以前、昨年、先月、先週、年初。5）昨日から具合が悪い。6）昨夜到着した。",
+          "ko": "mʉ̂ʉa는 한 일이 일어난 뒤 다른 일이 생기는 조건을 나타냅니다. 시간 명사구와 쓰면 과거 시점을 뜻합니다.\n1) 물은 100도에서 끓는다. 2) 0도에서 언다. 3) 태국어 6을 마치면 귀국한다. 4) 시험을 끝내면 즉시 나간다.\n과거 시점: 어제, 어젯밤, 오늘 아침, 예전, 작년, 지난달, 지난주, 연초. 5) 그는 어제부터 아프다. 6) 그들은 어젯밤 도착했다.",
+          "romanization": "2. mʉ̂ʉa = when (condition / past time)",
+          "romanizationBody": "cháai ban-yaai ngʉ̂ʉan-kǎi tîi sìng nʉ̀ng gə̀ət lǎng ìik sìng nʉ̀ng\n1) mʉ̂ʉa dtôm náam jon un-hà-puum tʉ̌ng 100 ong-sǎa náam jà dʉ̀ʉat\n2) mʉ̂ʉa un-hà-puum dtàm long jon-tʉ̌ng 0 ong-sǎa náam jà glaai-bpen náam-kɛ̌ng\n3) kǎo jà dəən-taang glàp bprà-têet mʉ̂ʉa riian-jòp Thai 6\n4) mʉ̂ʉa nák-riian tam kɔ̂ɔ-sɔ̀ɔp sèt lɛ́ɛo hâi nák-riian ɔ̀ɔk-jàak hɔ̂ɔng sɔ̀ɔp tan-tii\nmʉ̂ʉa + naam-wá-lii wee-laa âang tʉ̌ng à-dìit: mʉ̂ʉa-waan níi / mʉ̂ʉa-kʉʉn / mʉ̂ʉa-cháao / mʉ̂a-gɔ̀ɔn / mʉ̂ʉa bpii tîi-lɛ́ɛo / mʉ̂ʉa dʉʉan-gɔ̀ɔn / mʉ̂ʉa sàp-daa gɔ̀ɔn / mʉ̂ʉa dtôn-bpii\n5) kǎo mâi sà-baai dtâng-dtɛ̀ɛ mʉ̂ʉa-waan\n6) pûuak-kǎo maa-tʉ̌ng mʉ̂ʉa-kʉʉn"
+        },
+        {
+          "page": "95–96",
+          "thai": "3. ตอน = a past or particular time",
+          "thaiBody": "ใช้บรรยายเหตุการณ์ที่ผ่านมา หรือเมื่อรวมกับนามวลี ใช้บอกเวลาเฉพาะ\n1) ตอนเป็นเด็ก ฉันชอบกินไอศกรีม แต่ตอนนี้ไม่ชอบแล้ว\n2) ตอนเรียนที่จุฬา เขาขยันมาก\nตอนเช้า / ตอนเย็น / ตอนบ่าย / ตอนเที่ยง / ตอนตีหนึ่ง / ตอนแปดโมง / ตอนปีใหม่\n3) ก: เธอตื่นนอนตอนกี่โมง ข: ฉันตื่นตอนตีห้า\n4) ก: ตอนบ่าย เธอทำอะไร ข: ตอนบ่าย ฉันมีเรียน",
+          "zh-Hant": "dtɔɔn 描述過去的某個時期；後接時間名詞時表示特定時段。\n1）小時候我愛吃冰淇淋，現在不愛了。2）在朱拉隆功大學讀書時他很用功。\n早上、晚上、下午、中午、凌晨一點、早上八點、新年時。3）你幾點起床？——凌晨五點。4）下午做什麼？——下午有課。",
+          "en": "dtɔɔn describes a past period; with a time noun it marks a particular time.\n1) As a child I liked ice cream, but not now. 2) He worked hard when studying at Chula.\nMorning, evening, afternoon, noon, 1 a.m., 8 a.m., New Year. 3) When do you wake? — 5 a.m. 4) What do you do in the afternoon? — I have class.",
+          "ja": "dtɔɔn は過去の時期を表し、時間名詞とともに特定の時刻・期間を示します。\n1）子どもの頃はアイスが好きだったが今は違う。2）チュラ大在学中は勤勉だった。\n朝、夕方、午後、正午、午前1時、午前8時、正月。3）何時に起きる？——午前5時。4）午後は何をする？——授業がある。",
+          "ko": "dtɔɔn은 과거 시기를 설명하며 시간 명사와 함께 특정 시간을 나타냅니다.\n1) 어릴 때는 아이스크림을 좋아했지만 지금은 아니다. 2) 쭐랄롱꼰대에서 공부할 때 그는 부지런했다.\n아침, 저녁, 오후, 정오, 새벽 1시, 오전 8시, 새해. 3) 몇 시에 일어나? — 새벽 5시. 4) 오후에 뭐 해? — 수업이 있어.",
+          "romanization": "3. dtɔɔn = a past or particular time",
+          "romanizationBody": "cháai ban-yaai hèet-gaan tîi-pàan-maa rʉ̌ʉ mʉ̂ʉa ruuam gàp naam-wá-lii cháai bɔ̀ɔk wee-laa chà-pɔ́ɔ\n1) dtɔɔn bpen dèk chǎn chɔ̂ɔp gin ai-sà-griim dtɛ̀ɛ dtɔɔn-níi mâi chɔ̂ɔp-lɛ́ɛo\n2) dtɔɔn riian tîi jù-laa kǎo kà-yǎn mâak\ndtɔɔn-cháao / dtɔɔn-yen / dtɔɔn-bàai / dtɔɔn-tîiang / dtɔɔn dtii-nʉ̀ng / dtɔɔn bpɛ̀ɛt moong / dtɔɔn bpii-mài\n3) gà: təə dtʉ̀ʉn-nɔɔn dtɔɔn gìi moong kà: chǎn dtʉ̀ʉn dtɔɔn dtii-hâa\n4) gà: dtɔɔn-bàai təə tam à-rai kà: dtɔɔn-bàai chǎn mii riian"
+        },
+        {
+          "page": "96",
+          "thai": "4. พอ… ก็…",
+          "thaiBody": "ทันทีที่เหตุการณ์หนึ่งเกิดขึ้น เหตุการณ์ที่สองตามมา\n1) พอเขามาถึงบ้าน เขาก็อาบน้ำทันที\n2) พอเรียนจบ เขาก็ได้งานเลย",
+          "zh-Hant": "表示第一件事一發生，第二件事就立即接著發生。\n1）他一到家就立刻洗澡。\n2）他一畢業就找到工作。",
+          "en": "As soon as one event happens, the second follows.\n1) As soon as he got home, he showered.\n2) As soon as he graduated, he got a job.",
+          "ja": "一つ目の出来事が起こると、すぐ二つ目が続きます。\n1）帰宅するとすぐシャワーを浴びました。\n2）卒業するとすぐ就職しました。",
+          "ko": "첫 번째 일이 일어나자마자 두 번째 일이 이어집니다.\n1) 집에 도착하자마자 샤워했습니다.\n2) 졸업하자마자 취직했습니다.",
+          "romanization": "4. pɔɔ… gɔ̂ɔ…",
+          "romanizationBody": "tan-tii-tîi hèet-gaan nʉ̀ng gə̀ət-kʉ̂n hèet-gaan tîi-sɔ̌ɔng dtaam-maa\n1) pɔɔ kǎo maa-tʉ̌ng bâan kǎo gɔ̂ɔ àap-náam tan-tii\n2) pɔɔ riian-jòp kǎo gɔ̂ɔ-dâai ngaan ləəi"
+        },
+        {
+          "page": "96",
+          "thai": "5. กว่า…จะ… ก็…แล้ว",
+          "thaiBody": "บรรยายว่าเหตุการณ์หนึ่งเกิดช้ากว่าอีกเหตุการณ์ มักมีความหมายเชิงลบ\n1) กว่าเขาจะมา อาจารย์ก็สอนจบแล้ว\n2) กว่าข้าวจะสุก อาหารก็เย็นหมดแล้ว\n3) กว่าพ่อจะกลับถึงบ้าน ลูกก็นอนหลับแล้ว",
+          "zh-Hant": "表示等一件事終於發生時，另一件事早已完成，常帶負面或不滿語氣。\n1）等他來時，老師早已教完了。\n2）等飯煮熟時，菜全涼了。\n3）等爸爸到家時，孩子已睡著。",
+          "en": "By the time one event finally happens, another has already occurred; it often sounds negative or disapproving.\n1) By the time he came, the teacher had finished.\n2) By the time the rice cooked, all the food was cold.\n3) By the time Father got home, the child was asleep.",
+          "ja": "一つの出来事がようやく起きるころには、別の出来事がすでに終わっていることを表し、否定的な含みがよくあります。\n1）彼が来るころには授業は終わっていた。\n2）ご飯が炊けるころには料理が全部冷めていた。\n3）父が帰るころには子どもは寝ていた。",
+          "ko": "한 일이 겨우 일어날 때쯤 다른 일은 이미 끝났음을 나타내며 부정적 뉘앙스가 자주 있습니다.\n1) 그가 왔을 때는 선생님이 이미 수업을 끝냈다.\n2) 밥이 다 되었을 때는 음식이 전부 식었다.\n3) 아버지가 집에 왔을 때는 아이가 이미 잠들었다.",
+          "romanization": "5. gwàa…jà… gɔ̂ɔ…lɛ́ɛo",
+          "romanizationBody": "ban-yaai wâa hèet-gaan nʉ̀ng gə̀ət cháa gwàa ìik hèet-gaan mák mii-kwaam-mǎai chəng-lóp\n1) gwàa kǎo jà maa aa-jaan gɔ̂ɔ sɔ̌ɔn jòp lɛ́ɛo\n2) gwàa kâa wá-jà sùk aa-hǎan gɔ̂ɔ yen mòt lɛ́ɛo\n3) gwàa pɔ̂ɔ jà glàp tʉ̌ng bâan lûuk gɔ̂ɔ nɔɔn-làp lɛ́ɛo"
+        }
+      ]
+    },
+    {
+      "lesson": 8,
+      "vocabulary": [
+        {
+          "page": "100",
+          "thai": "มนุษย์",
+          "romanization": "má-nút",
+          "zh-Hant": "人類、人",
+          "en": "human",
+          "ja": "人間",
+          "ko": "인간"
+        },
+        {
+          "page": "100",
+          "thai": "โดยเฉพาะ",
+          "romanization": "dooi-chà-pɔ́ɔ",
+          "zh-Hant": "尤其、特別是",
+          "en": "especially",
+          "ja": "特に",
+          "ko": "특히"
+        },
+        {
+          "page": "100",
+          "thai": "แต่ละ",
+          "romanization": "dtɛ̀ɛ-lá",
+          "zh-Hant": "每一個、各個",
+          "en": "each",
+          "ja": "それぞれの",
+          "ko": "각각의"
+        },
+        {
+          "page": "100",
+          "thai": "ช่วงวัย",
+          "romanization": "chûang-wai",
+          "zh-Hant": "年齡階段、人生階段",
+          "en": "age range; life stage",
+          "ja": "年齢層、人生の段階",
+          "ko": "연령대, 생애 단계"
+        },
+        {
+          "page": "100",
+          "thai": "ต่าง",
+          "romanization": "dtàang",
+          "zh-Hant": "各自、分別",
+          "en": "each; separately",
+          "ja": "それぞれ、別々に",
+          "ko": "각자, 따로"
+        },
+        {
+          "page": "100",
+          "thai": "ต้องการ",
+          "romanization": "dtɔ̂ɔng-gaan",
+          "zh-Hant": "想要、需要",
+          "en": "to want; to need",
+          "ja": "望む、必要とする",
+          "ko": "원하다, 필요로 하다"
+        },
+        {
+          "page": "100",
+          "thai": "บุคคล",
+          "romanization": "bùk-kon",
+          "zh-Hant": "人物、個人",
+          "en": "person; individual",
+          "ja": "人物、個人",
+          "ko": "사람, 개인"
+        },
+        {
+          "page": "100",
+          "thai": "วัย",
+          "romanization": "wai",
+          "zh-Hant": "年齡、人生階段",
+          "en": "age; stage of life",
+          "ja": "年齢、時期",
+          "ko": "나이, 시기"
+        },
+        {
+          "page": "100",
+          "thai": "เลี้ยงดู",
+          "romanization": "líiang-duu",
+          "zh-Hant": "養育、照顧",
+          "en": "to raise; to care for",
+          "ja": "育てる、世話をする",
+          "ko": "양육하다, 돌보다"
+        },
+        {
+          "page": "100",
+          "thai": "วิธี",
+          "romanization": "wí-tii",
+          "zh-Hant": "方法、方式",
+          "en": "method; way",
+          "ja": "方法、やり方",
+          "ko": "방법"
+        },
+        {
+          "page": "100",
+          "thai": "บุคลิกภาพ",
+          "romanization": "bùk-khá-lík-gà-phâap",
+          "zh-Hant": "人格、個性",
+          "en": "personality; individuality",
+          "ja": "人格、個性",
+          "ko": "인격, 개성"
+        },
+        {
+          "page": "100",
+          "thai": "ต่าง ๆ",
+          "romanization": "dtàang-dtàang",
+          "zh-Hant": "各種、不同的",
+          "en": "various; many different",
+          "ja": "さまざまな",
+          "ko": "여러 가지"
+        },
+        {
+          "page": "100",
+          "thai": "สิ่งแวดล้อม",
+          "romanization": "sìng-wɛ̂ɛt-lɔ́ɔm",
+          "zh-Hant": "環境",
+          "en": "environment",
+          "ja": "環境",
+          "ko": "환경"
+        },
+        {
+          "page": "100",
+          "thai": "วัยรุ่น",
+          "romanization": "wai-rûn",
+          "zh-Hant": "青少年；青春期",
+          "en": "teenager; adolescence",
+          "ja": "若者；思春期",
+          "ko": "청소년; 사춘기"
+        },
+        {
+          "page": "100",
+          "thai": "เปลี่ยนแปลง",
+          "romanization": "bplìian-bplɛɛng",
+          "zh-Hant": "改變、變化",
+          "en": "to change",
+          "ja": "変化する",
+          "ko": "변하다"
+        },
+        {
+          "page": "100",
+          "thai": "พัฒนา",
+          "romanization": "pát-tá-naa",
+          "zh-Hant": "發展、成長",
+          "en": "to develop",
+          "ja": "発達する、発展する",
+          "ko": "발달하다, 발전하다"
+        },
+        {
+          "page": "100",
+          "thai": "สู่",
+          "romanization": "sùu",
+          "zh-Hant": "朝向、邁向",
+          "en": "to; toward",
+          "ja": "〜へ、〜に向かって",
+          "ko": "~로, ~을 향해"
+        },
+        {
+          "page": "100",
+          "thai": "เพศตรงข้าม",
+          "romanization": "pêet-dtrong-kâam",
+          "zh-Hant": "異性",
+          "en": "opposite gender",
+          "ja": "異性",
+          "ko": "이성"
+        },
+        {
+          "page": "100",
+          "thai": "ได้รับ",
+          "romanization": "dâai-ráp",
+          "zh-Hant": "獲得、受到；被動標記",
+          "en": "to receive; passive marker",
+          "ja": "受ける；受身標識",
+          "ko": "받다; 피동 표지"
+        },
+        {
+          "page": "100",
+          "thai": "อย่างใกล้ชิด",
+          "romanization": "yàang glâi-chít",
+          "zh-Hant": "密切地",
+          "en": "closely",
+          "ja": "綿密に、身近で",
+          "ko": "가까이에서, 세심하게"
+        },
+        {
+          "page": "100",
+          "thai": "เติบโต",
+          "romanization": "dtə̀əp-dtoo",
+          "zh-Hant": "成長",
+          "en": "to grow",
+          "ja": "成長する",
+          "ko": "성장하다"
+        },
+        {
+          "page": "100",
+          "thai": "เต็มที่",
+          "romanization": "dtem-tîi",
+          "zh-Hant": "完全地、充分地",
+          "en": "fully; to the utmost",
+          "ja": "十分に、最大限に",
+          "ko": "충분히, 최대한"
+        },
+        {
+          "page": "100",
+          "thai": "โดยทั่วไป",
+          "romanization": "dooi-tûua-bpai",
+          "zh-Hant": "一般而言",
+          "en": "generally",
+          "ja": "一般に",
+          "ko": "일반적으로"
+        },
+        {
+          "page": "101",
+          "thai": "ความรับผิดชอบ",
+          "romanization": "kwaam-ráp-phìt-chɔ̂ɔp",
+          "zh-Hant": "責任",
+          "en": "responsibility",
+          "ja": "責任",
+          "ko": "책임"
+        },
+        {
+          "page": "101",
+          "thai": "ใครสักคน",
+          "romanization": "krai sàk kon",
+          "zh-Hant": "某個人、某人",
+          "en": "someone",
+          "ja": "誰か",
+          "ko": "누군가"
+        },
+        {
+          "page": "101",
+          "thai": "เพื่อ",
+          "romanization": "pʉ̂ʉa",
+          "zh-Hant": "為了、以便",
+          "en": "for; in order to",
+          "ja": "〜のために",
+          "ko": "~을 위해"
+        },
+        {
+          "page": "101",
+          "thai": "ชรา",
+          "romanization": "chá-raa",
+          "zh-Hant": "年老、老年",
+          "en": "old; aged",
+          "ja": "老いた、高齢の",
+          "ko": "늙다, 노년의"
+        },
+        {
+          "page": "101",
+          "thai": "เสื่อม",
+          "romanization": "sʉ̀ʉam",
+          "zh-Hant": "退化、衰退",
+          "en": "to deteriorate",
+          "ja": "衰える、劣化する",
+          "ko": "쇠퇴하다, 기능이 떨어지다"
+        },
+        {
+          "page": "101",
+          "thai": "ผมหงอก",
+          "romanization": "pǒm-ngɔ̀ɔk",
+          "zh-Hant": "白髮",
+          "en": "gray hair",
+          "ja": "白髪",
+          "ko": "흰머리"
+        },
+        {
+          "page": "101",
+          "thai": "ผิวเหี่ยว",
+          "romanization": "phǐw hìiao",
+          "zh-Hant": "皮膚皺縮",
+          "en": "wrinkled skin",
+          "ja": "しわのある肌",
+          "ko": "주름진 피부"
+        },
+        {
+          "page": "101",
+          "thai": "งานประจำ",
+          "romanization": "ngaan-bprà-jam",
+          "zh-Hant": "固定工作、正職",
+          "en": "full-time job; regular work",
+          "ja": "定職、日常業務",
+          "ko": "정규직, 일상 업무"
+        },
+        {
+          "page": "101",
+          "thai": "จากไป",
+          "romanization": "jàak-bpai",
+          "zh-Hant": "離去；過世",
+          "en": "to leave; to pass away",
+          "ja": "去る；亡くなる",
+          "ko": "떠나다; 세상을 떠나다"
+        },
+        {
+          "page": "101",
+          "thai": "หงุดหงิด",
+          "romanization": "ngùt-ngìt",
+          "zh-Hant": "煩躁、易怒",
+          "en": "irritable; frustrated",
+          "ja": "いらいらする",
+          "ko": "짜증나다"
+        },
+        {
+          "page": "101",
+          "thai": "ซึมเศร้า",
+          "romanization": "sʉm-sâo",
+          "zh-Hant": "憂鬱、抑鬱",
+          "en": "depressed",
+          "ja": "憂うつな、うつ状態の",
+          "ko": "우울하다"
+        },
+        {
+          "page": "101",
+          "thai": "น้อยใจ",
+          "romanization": "nɔ́ɔi-jai",
+          "zh-Hant": "因不受重視而難過、委屈",
+          "en": "to feel hurt from lack of attention",
+          "ja": "構ってもらえず寂しく思う",
+          "ko": "관심을 못 받아 서운하다"
+        },
+        {
+          "page": "101",
+          "thai": "เอาใจใส่",
+          "romanization": "ao-jai-sai",
+          "zh-Hant": "關心、用心照顧",
+          "en": "to pay attention; to care",
+          "ja": "気を配る、心を配る",
+          "ko": "관심을 기울이다, 돌보다"
+        }
+      ],
+      "notes": [],
+      "grammar": [
+        {
+          "page": "102",
+          "thai": "1. โดยเฉพาะ",
+          "thaiBody": "ใช้เน้นคำนามที่ตามหลัง หมายถึง มากเป็นพิเศษ\n1) เขาชอบอาหารไทยทุกอย่าง โดยเฉพาะต้มยำกุ้ง\n2) เมืองไทยอากาศร้อน โดยเฉพาะเดือนเมษายน",
+          "zh-Hant": "用來特別強調後面的名詞，意思是「尤其、特別是」。\n1）他喜歡所有泰國菜，尤其冬蔭功。\n2）泰國天氣炎熱，尤其四月。",
+          "en": "Emphasizes the following noun: “especially / particularly.”\n1) He likes all Thai food, especially tom yum kung.\n2) Thailand is hot, especially in April.",
+          "ja": "後ろの名詞を特に強調する「特に」です。\n1）彼はタイ料理が全部好きで、特にトムヤムクンが好きです。\n2）タイは暑く、特に4月が暑いです。",
+          "ko": "뒤의 명사를 특별히 강조하는 ‘특히’입니다.\n1) 그는 모든 태국 음식을 좋아하며 특히 똠얌꿍을 좋아합니다.\n2) 태국은 덥고 특히 4월이 덥습니다.",
+          "romanization": "1. dooi-chà-pɔ́ɔ",
+          "romanizationBody": "cháai néen kam-naam tîi dtaam-lǎng mǎai-tʉ̌ng mâak bpen-pí-sèet\n1) kǎo chɔ̂ɔp aa-hǎan tai túk-yàang dooi-chà-pɔ́ɔ dtôm-yam-gûng\n2) mʉʉang tai aa-gàat rɔ́ɔn dooi-chà-pɔ́ɔ dʉʉan mee-sǎa-yon"
+        },
+        {
+          "page": "103",
+          "thai": "2. แต่ละ + classifier",
+          "thaiBody": "ใช้พูดถึงคนหรือสิ่งของแยกกันทีละคนหรือทีละอย่าง มักใช้กับลักษณนาม\n1) ที่ร้านนี้ กระเป๋าแต่ละใบราคาไม่เท่ากัน\n2) เด็กแต่ละคนมีบุคลิกแตกต่างกัน",
+          "zh-Hant": "配合量詞，把人或物逐一分開來說「每一……」。\n1）這家店每個包的價格都不同。\n2）每個孩子的個性都不同。",
+          "en": "Used with a classifier to discuss people or things individually: “each.”\n1) Each bag in this shop has a different price.\n2) Each child has a different personality.",
+          "ja": "類別詞とともに、人・物を一つずつ分けて述べる「それぞれの」です。\n1）この店ではバッグごとに値段が違います。\n2）子どもは一人一人性格が違います。",
+          "ko": "분류사와 함께 사람이나 사물을 하나씩 나누어 말하는 ‘각각의’입니다.\n1) 이 가게의 가방은 각각 가격이 다릅니다.\n2) 아이마다 성격이 다릅니다.",
+          "romanization": "2. dtɛ̀ɛ-lá + classifier",
+          "romanizationBody": "cháai pûut-tʉ̌ng kon rʉ̌ʉ sìng-kɔ̌ɔng yɛ̂ɛk-gan tii-lá kon rʉ̌ʉ tii-lá yàang mák chái-gàp lák-sà-nà-naam\n1) tîi ráan níi grà-bpǎo dtɛ̀ɛ-lá bai raa-kaa mâi tâo-gan\n2) dèk dtɛ̀ɛ-lá-kon mii bùk-ká-lík dtɛ̀ɛk dtàang-gan"
+        },
+        {
+          "page": "104",
+          "thai": "3. ต่าง + verb",
+          "thaiBody": "แยกบุคคลเป็นคน ๆ หมายถึงทุกคนทำกริยาเดียวกัน แต่ไม่ได้ทำด้วยกัน\n1) นักมวยแต่ละคนต่างทำร้ายคู่ต่อสู้ด้วยการชกและเตะ\n2) นักเรียนทุกคนต่างทำการบ้านของตนเอง",
+          "zh-Hant": "把人分開，表示各人做相同類型的動作，但不是一起做。\n1）每位拳擊手各自用拳打腳踢攻擊對手。\n2）所有學生各自做自己的作業。",
+          "en": "Separates people: they perform the same kind of action, but not together.\n1) Each boxer attacks an opponent by punching and kicking.\n2) All students do their own homework separately.",
+          "ja": "人を個別に分け、同じ種類の動作をするが一緒にはしないことを表します。\n1）各ボクサーは殴る・蹴ることで相手を攻撃します。\n2）学生は皆、それぞれ自分の宿題をします。",
+          "ko": "사람들을 개별로 나누어 같은 종류의 행동을 하지만 함께 하지는 않음을 나타냅니다.\n1) 각 권투 선수는 주먹과 발로 상대를 공격합니다.\n2) 모든 학생이 각자 자기 숙제를 합니다.",
+          "romanization": "3. dtàang + verb",
+          "romanizationBody": "yɛ̂ɛk bùk-kon bpen kon kon mǎai-tʉ̌ng túk-kon tam grì-yaa diiao-gan dtɛ̀ɛ mâi dâai tam dûuai-gan\n1) nák-muuai dtɛ̀ɛ-lá-kon dtàang tam-ráai kûu-dtɔ̀ɔ-sûu dûuai gaan chók lɛ́ dtè\n2) nák-riian túk-kon dtàang tam-gaan-bâan kɔ̌ɔng dton-eeng"
+        },
+        {
+          "page": "106",
+          "thai": "4. noun + ต่าง ๆ",
+          "thaiBody": "ต่าง ๆ หมายถึงหลายอย่างที่ไม่เหมือนกัน และอยู่หลังคำนาม\n1) เราควรรับประทานผักและผลไม้ต่าง ๆ ที่มีประโยชน์ต่อร่างกาย\n2) ป่านี้มีสัตว์ต่าง ๆ อาศัยอยู่",
+          "zh-Hant": "dtàang mai-ya-mók 放在名詞後，表示各種不同的。\n1）我們應吃各種對身體有益的蔬果。\n2）這座森林裡棲息著各種動物。",
+          "en": "dtàang mai-ya-mók follows a noun and means “various / many different.”\n1) We should eat various beneficial vegetables and fruits.\n2) Various animals live in this forest.",
+          "ja": "dtàang mai-ya-mók は名詞の後に置き、「さまざまな」を表します。\n1）体によいさまざまな野菜と果物を食べるべきです。\n2）この森にはさまざまな動物が生息しています。",
+          "ko": "dtàang mai-ya-mók는 명사 뒤에서 ‘여러 가지 다양한’을 뜻합니다.\n1) 몸에 좋은 여러 채소와 과일을 먹어야 합니다.\n2) 이 숲에는 다양한 동물이 삽니다.",
+          "romanization": "4. noun + dtàang-dtàang",
+          "romanizationBody": "dtàang-dtàang mǎai-tʉ̌ng lǎai-yàang tîi mâi mʉ̌ʉan-gan lɛ́ yùu lǎng kam-naam\n1) rao kuuan ráp-bprà-taan pàk lɛ́ pǒn-lá-máai dtàang-dtàang tîi mii-bprà-yòot dtɔ̀ɔ râang-gaai\n2) bpàa níi mii sàt dtàang-dtàang aa-sǎi yùu"
+        },
+        {
+          "page": "107",
+          "thai": "5. ประโยคกรรมวาจก (passive construction)",
+          "thaiBody": "ถูก หรือ โดน ตามหลังประธานที่ถูกกระทำ มักสื่อความหมายเชิงลบ\n1) ลูกถูกแม่ตี / แม่ตีลูก\n2) ขโมยถูกตำรวจจับ / ตำรวจจับขโมย\n3) เพื่อนของเขาโดนรถชน / รถชนเพื่อนของเขา\n4) วัยรุ่นถูกหมากัด / หมากัดวัยรุ่น\nได้รับ เป็นตัวบ่งชี้กรรมวาจกเชิงบวก\n5) เขาได้รับเชิญไปงานเลี้ยง\n6) คุณสมชายได้รับเลือกให้เป็นหัวหน้า",
+          "zh-Hant": "被動句凸顯承受動作的主語。tùuk／doon 放在主語後，通常帶負面語意：孩子被媽媽打、小偷被警察逮捕、朋友被車撞、青少年被狗咬。dâai-ráp 常用於正面被動：他受邀參加宴會；頌猜先生獲選為主管。",
+          "en": "A passive construction emphasizes the affected subject. tùuk/doon follows it and usually has negative meaning: a child is hit, a thief arrested, a friend hit by a car, a teenager bitten by a dog. dâai-ráp marks positive passive events: he was invited to a party; Mr. Somchai was selected as leader.",
+          "ja": "受身文は動作を受ける主語を強調します。tùuk／doon は主語の後に置き、通常否定的です：子どもが母に叩かれる、泥棒が逮捕される、友人が車にはねられる、若者が犬にかまれる。dâai-ráp は肯定的な受身：宴会に招待される、ソムチャイ氏が責任者に選ばれる。",
+          "ko": "피동문은 행동을 받는 주어를 강조합니다. tùuk/doon은 주어 뒤에 오며 대개 부정적입니다: 아이가 어머니에게 맞다, 도둑이 경찰에게 잡히다, 친구가 차에 치이다, 청소년이 개에게 물리다. dâai-ráp은 긍정적 피동입니다: 파티에 초대받다, 솜차이 씨가 책임자로 선출되다.",
+          "romanization": "5. bprà-yòok gam-má-waa-jòk (passive construction)",
+          "romanizationBody": "tùuk rʉ̌ʉ doon dtaam-lǎng bprà-taan tîi tùuk-grà-tam mák sʉ̀ʉ kwaam-mǎai chəng-lóp\n1) lûuk tùuk mɛ̂ɛ dtii / mɛ̂ɛ dtii lûuk\n2) kà-mooi tùuk dtam-rùuat jàp / dtam-rùuat jàp kà-mooi\n3) pʉ̂ʉan kɔ̌ɔng kǎo doon rót-chon / rót-chon pʉ̂ʉan kɔ̌ɔng kǎo\n4) wai-rûn tùuk mǎa gàt / mǎa gàt wai-rûn\ndâai-ráp bpen dtuua-bòng-chíi gam-má-waa-jòk chəəng bùuak\n5) kǎo dâai ráp-chəən bpai ngaan-líiang\n6) kun sǒm chaai dâai-ráp lʉ̂ʉak hâi bpen hǔua-nâa"
+        }
+      ]
+    }
+  ]
+}

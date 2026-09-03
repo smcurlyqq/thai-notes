@@ -254,6 +254,21 @@ html.js:not(.languages-expanded) [data-extra-language] {
   padding-top: 18px;
   border-top: 1px solid var(--line);
 }
+[data-content-unit] {
+  position: relative;
+}
+.source-page {
+  float: right;
+  margin: 1px 0 8px 12px;
+  padding: 3px 9px;
+  border: 1px solid #d8c4c6;
+  border-radius: 999px;
+  background: var(--red-soft);
+  color: var(--red-dark);
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+}
 [data-thai] {
   color: var(--ink);
   font-family: "Noto Sans Thai", "Leelawadee UI", Tahoma, sans-serif;
@@ -266,7 +281,38 @@ html.js:not(.languages-expanded) [data-extra-language] {
   font-size: 0.93rem;
   font-style: italic;
 }
-[data-translation] { margin-top: 8px; }
+.thai-source-body,
+.romanization-source-body,
+.translation-body {
+  white-space: pre-line;
+}
+.thai-source-heading,
+.thai-source-body,
+.romanization-source-heading,
+.romanization-source-body {
+  display: block;
+}
+.thai-source-heading { font-weight: 750; }
+.thai-source-body {
+  clear: both;
+  margin-top: 13px;
+  color: var(--ink);
+  font-family: "Noto Sans Thai", "Leelawadee UI", Tahoma, sans-serif;
+  font-size: 1.05rem;
+  font-weight: 500;
+  line-height: 1.75;
+}
+.romanization-source-body {
+  margin-top: 7px;
+  color: var(--blue);
+  font-size: 0.84rem;
+  font-style: italic;
+  line-height: 1.65;
+}
+[data-translation] {
+  clear: both;
+  margin-top: 8px;
+}
 [data-translation="zh-Hant"] { font-weight: 600; }
 [data-extra-language] {
   color: var(--muted);

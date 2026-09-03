@@ -1,0 +1,5 @@
+beautifulsoup4
+pypdf
+pythainlp==5.3.7
+thaiphon
+thaiphon-data-volubilis

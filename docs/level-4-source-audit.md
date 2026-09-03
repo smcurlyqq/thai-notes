@@ -1,31 +1,39 @@
-# Level 4 source audit
+# Level 4 complete source audit
 
-Audit date: 2026-09-02
+Audit date: 2026-09-03
 
-This report covers the complete Thai `บทสนทนา` / `บทอ่าน` for Lessons 1–8. The local source document itself is not stored in this public repository.
+Source: `TH4_Textbook_On-site_Sep-Oct_2026.pdf` (local only; the PDF is not stored in this public repository).
 
-## Inventory
+Scope: Lessons 1–8, every in-lesson item in textbook order. This includes the complete dialogue/reading, complete vocabulary list, every numbered textbook note, every grammar explanation/example, and every comprehension, grammar, speaking, and sentence-writing exercise. Pair-review and final-exam sections have their own separate site scope. Each included item carries the printed textbook page number.
 
-| Lesson | Type | Source units | Source section coverage |
-| --- | --- | ---: | --- |
-| 1 | Dialogue | 13 | Exact |
-| 2 | Reading | 20 | Exact |
-| 3 | Dialogue | 16 | Exact |
-| 4 | Reading | 8 | Exact |
-| 5 | Dialogue | 15 | Exact |
-| 6 | Reading | 12 | Exact |
-| 7 | Dialogue | 11 | Exact |
-| 8 | Reading | 5 | Exact |
-| **Total** |  | **100** | **Exact** |
+## Frozen inventory
 
-Dialogue units use one speaker turn per unit. Reading units use one source paragraph per unit. The Lesson 1 time transition and Lesson 3 location line are preserved as their own units.
+| Lesson | Dialogue / reading | Vocabulary | Notes | Grammar | Exercise blocks | Total | Lesson pages |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
+| 1 | 13 | 19 | 6 | 7 | 6 | 51 | 7–19 |
+| 2 | 20 | 37 | 0 | 9 | 4 | 70 | 20–30 |
+| 3 | 16 | 17 | 5 | 15 | 4 | 57 | 37–47 |
+| 4 | 8 | 27 | 0 | 7 | 4 | 46 | 48–56 |
+| 5 | 15 | 12 | 9 | 6 | 4 | 46 | 63–73 |
+| 6 | 12 | 48 | 0 | 6 | 3 | 69 | 74–83 |
+| 7 | 11 | 25 | 6 | 5 | 3 | 50 | 89–98 |
+| 8 | 5 | 36 | 0 | 5 | 8 | 54 | 99–110 |
+| **Total** | **100** | **221** | **26** | **60** | **36** | **443** |  |
 
-## Verification performed
+## Textbook order
 
-1. Extracted the complete source section from `บทสนทนา` / `บทอ่าน` through the start of `คำศัพท์` for every lesson.
-2. Removed extraction-only page headers, footnote numbers, whitespace, and the source font's alternate encoding of `ำ` for comparison only.
-3. Compared the entire remaining Thai character stream with all inventory units joined in order. All eight lessons matched exactly, including total character counts.
-4. Frozen each lesson's unit count and order-sensitive Thai SHA-256 in `level-4/source-manifest.json`.
-5. Compared `lesson-content.json`, the frozen manifest, and rendered HTML. Missing, extra, modified, duplicated, or reordered source units cause the audit to fail.
+Each lesson has an explicit layout inventory made of category slices. The renderer follows that inventory verbatim, including repeated category blocks. When an exercise interrupts a grammar chapter, the exercise remains at that point and the next grammar subsection follows it, exactly as in the textbook.
 
-The human-readable translations and romanization remain separate review dimensions; structural or source-fidelity success does not by itself certify translation quality.
+## Verification contract
+
+- The auditor has hard-coded per-lesson counts for all five categories; re-freezing a reduced file cannot make the audit pass.
+- Every unit must have a valid page or page range inside its lesson's source bounds.
+- The frozen manifest hashes page + Thai heading + Thai source body in order for every category.
+- The rendered HTML must match the source data by lesson, category, sequence, page, Thai text, romanization, and all four translations.
+- Section order must match each lesson's frozen page-layout inventory, including grammar/exercise interleaving.
+- Every Thai source body must have a non-empty romanization body.
+- Chinese fields fail if they contain Japanese kana or Hangul; Korean fields fail if they lack Hangul or contain Japanese kana; English fields fail if they contain CJK/Hangul text.
+- Included data and rendered pages fail if PDF extraction artifacts appear.
+- The independent PDF verifier checks every exercise source line plus every main, vocabulary, note, and grammar source anchor/example on the declared page.
+
+Passing this audit proves structural coverage, order, pages, and field wiring. Translation and pronunciation still require human/visual review in the actual site path before publication.

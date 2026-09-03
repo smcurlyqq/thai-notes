@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "scope": "level-4-lessons-1-8",
   "lessons": [
     {
@@ -19,7 +19,8 @@
           "en": "Ek: I haven't been sleeping well lately. I don't know what's wrong.",
           "ja": "エーク：最近よく眠れないんだ。どうしたのか自分でも分からない。",
           "ko": "엑: 요즘 잠을 잘 못 자. 왜 그런지 모르겠어.",
-          "romanization": "èk : chuâng-ní nɔn mâj-khɔ̂j làp pen à-raj kɔ̂ mâj rú"
+          "romanization": "èk : chuâng-ní nɔn mâj-khɔ̂j làp pen à-raj kɔ̂ mâj rú",
+          "page": "7"
         },
         {
           "thai": "พลอย: จริงเหรอ เมื่อก่อนเธอเป็นคนหลับง่ายไม่ใช่เหรอ พอหัวถึงหมอนปุ๊บ ก็หลับปั๊บ",
@@ -27,7 +28,8 @@
           "en": "Ploy: Really? Didn't you use to fall asleep easily? The moment your head hit the pillow, you were out.",
           "ja": "プローイ：本当？前は寝つきがいい人だったでしょう。頭が枕についた途端、すぐ眠っていたよね。",
           "ko": "플로이: 정말? 전에는 잠이 잘 드는 사람이었잖아. 머리가 베개에 닿자마자 바로 잠들었고.",
-          "romanization": "phlɔj : jing rə̌ mʉâ-kɔ̀n thə pen khon làp ngâj mâj châj rə̌ phɔ huǎ thʉ̌ng mɔ̌n púp kɔ̂ làp páp"
+          "romanization": "phlɔj : jing rə̌ mʉâ-kɔ̀n thə pen khon làp ngâj mâj châj rə̌ phɔ huǎ thʉ̌ng mɔ̌n púp kɔ̂ làp páp",
+          "page": "7"
         },
         {
           "thai": "เอก: ช่วงนี้งานหนัก ทำงานหามรุ่งหามค่ำแทบทุกวัน เวลานอนไม่ค่อยจะมี นอนก็นอนไม่ค่อยหลับ เวลานอนก็กรน ตื่นมาทีไร ปวดหัวทุกที ตอนนี้ก็ยังมึน ๆ อยู่",
@@ -35,7 +37,8 @@
           "en": "Ek: Work has been heavy lately. I work day and night almost every day and hardly have time to sleep. Even when I do sleep, I don't sleep well and I snore. Every time I wake up, I have a headache. I'm still dizzy now.",
           "ja": "エーク：最近仕事が大変で、ほぼ毎日朝から晩まで働いていて、寝る時間がほとんどないんだ。寝てもよく眠れないし、いびきもかく。起きるたびに頭が痛くて、今もまだぼんやりしている。",
           "ko": "엑: 요즘 일이 너무 많아서 거의 매일 밤낮으로 일해. 잘 시간도 거의 없고, 누워도 잘 못 자고 코도 골아. 일어날 때마다 머리가 아프고 지금도 아직 어지러워.",
-          "romanization": "èk : chuâng-ní ngan-nàk tham-ngan hǎm-rûng-hǎm-khâm thɛ̂p thúk-wan we-la-nɔn mâj-khɔ̂j jà mi nɔn kɔ̂ nɔn mâj-khɔ̂j làp we-la-nɔn kɔ̂ kron tʉ̀n ma thi-raj puàt-huǎ thúk-thi tɔn-ní kɔ̂ jang mʉn mʉn jù"
+          "romanization": "èk : chuâng-ní ngan-nàk tham-ngan hǎm-rûng-hǎm-khâm thɛ̂p thúk-wan we-la-nɔn mâj-khɔ̂j jà mi nɔn kɔ̂ nɔn mâj-khɔ̂j làp we-la-nɔn kɔ̂ kron tʉ̀n ma thi-raj puàt-huǎ thúk-thi tɔn-ní kɔ̂ jang mʉn mʉn jù",
+          "page": "7"
         },
         {
           "thai": "พลอย: สงสัยจะเป็นหนักนะนี่ ไปหาหมอบ้างหรือเปล่า ไปลองตรวจดูบ้าง เผื่อเป็นโรคอะไรร้ายแรง จะได้รักษาทัน",
@@ -43,7 +46,8 @@
           "en": "Ploy: That sounds serious. Have you seen a doctor? Get it checked in case it's a serious illness, so it can be treated in time.",
           "ja": "プローイ：かなり重そうだね。病院には行った？念のため検査してもらいなよ。重い病気でも早く治療できるから。",
           "ko": "플로이: 꽤 심한 것 같은데. 병원에는 가 봤어? 혹시 큰 병일 수도 있으니 검사해 봐. 그래야 제때 치료할 수 있지.",
-          "romanization": "phlɔj : sǒng-sǎj jà pen nàk ná nî paj-hǎ mɔ̌ bâng rʉ̌-plàw paj lɔng truàt-du bâng phʉà pen-rók à-raj ráj-rɛng jà dâj rák-sǎ than"
+          "romanization": "phlɔj : sǒng-sǎj jà pen nàk ná nî paj-hǎ mɔ̌ bâng rʉ̌-plàw paj lɔng truàt-du bâng phʉà pen-rók à-raj ráj-rɛng jà dâj rák-sǎ than",
+          "page": "7"
         },
         {
           "thai": "เอก: ไปมาแล้ว ก็โรคเดิม ๆ นั่นแหละ โรคเครียด ไม่มีอะไรมากหรอก",
@@ -51,7 +55,8 @@
           "en": "Ek: I already went. It's the same old problem—stress. It's nothing serious.",
           "ja": "エーク：もう行ってきたよ。いつものやつ、ストレスだって。大したことはないよ。",
           "ko": "엑: 다녀왔어. 늘 그랬던 스트레스래. 별일 아니야.",
-          "romanization": "èk : paj-ma lɛ́w kɔ̂ rôk dəm dəm nân-lɛ̀ rôk khriât mâj mi à-raj mâk rɔ̀k"
+          "romanization": "èk : paj-ma lɛ́w kɔ̂ rôk dəm dəm nân-lɛ̀ rôk khriât mâj mi à-raj mâk rɔ̀k",
+          "page": "7"
         },
         {
           "thai": "พลอย: เธอกินมื้อดึกด้วยหรือเปล่า อย่ากินดึกมากนะ เดี๋ยวจะเป็นกรดไหลย้อน",
@@ -59,7 +64,8 @@
           "en": "Ploy: Do you eat late-night meals too? Don't eat too late, or you might get acid reflux.",
           "ja": "プローイ：夜食も食べているの？あまり遅く食べないでね。胃酸が逆流するよ。",
           "ko": "플로이: 야식도 먹는 거야? 너무 늦게 먹지 마. 위산 역류가 생길 수 있어.",
-          "romanization": "phlɔj : thə kin mʉ́ dʉ̀k duâj rʉ̌-plàw jà kin dʉ̀k mâk ná diǎw jà pen-kròt lǎj jɔ́n"
+          "romanization": "phlɔj : thə kin mʉ́ dʉ̀k duâj rʉ̌-plàw jà kin dʉ̀k mâk ná diǎw jà pen-kròt lǎj jɔ́n",
+          "page": "7"
         },
         {
           "thai": "เอก: รู้แล้วจ้ะ ขอบใจนะ",
@@ -67,15 +73,17 @@
           "en": "Ek: Got it. Thanks.",
           "ja": "エーク：分かったよ。ありがとう。",
           "ko": "엑: 알았어. 고마워.",
-          "romanization": "èk : rú lɛ́w jâ khɔ̀p-jaj ná"
+          "romanization": "èk : rú lɛ́w jâ khɔ̀p-jaj ná",
+          "page": "7"
         },
         {
-        "thai": "--- หลายวันต่อมา ---",
+          "thai": "--- หลายวันต่อมา ---",
           "zh-Hant": "——幾天後——",
           "en": "— Several days later —",
           "ja": "——数日後——",
           "ko": "— 며칠 후 —",
-          "romanization": "— lǎj wan tɔ̀-ma —"
+          "romanization": "— lǎj wan tɔ̀-ma —",
+          "page": "8"
         },
         {
           "thai": "พลอย: เป็นไงบ้าง หายปวดหัวยัง",
@@ -83,7 +91,8 @@
           "en": "Ploy: How are you? Is your headache gone?",
           "ja": "プローイ：どう？頭痛は治った？",
           "ko": "플로이: 어때? 두통은 나았어?",
-          "romanization": "phlɔj : pen-ngaj bâng hǎj puàt-huǎ jang"
+          "romanization": "phlɔj : pen-ngaj bâng hǎj puàt-huǎ jang",
+          "page": "8"
         },
         {
           "thai": "เอก: ค่อยยังชั่วแล้ว เดี๋ยวว่าจะไปออกกำลังกายหน่อย ไปด้วยกันไหม",
@@ -91,7 +100,8 @@
           "en": "Ek: I'm feeling better. I'm going to exercise in a bit. Want to come?",
           "ja": "エーク：だいぶ良くなったよ。これから少し運動しようと思うんだけど、一緒に行く？",
           "ko": "엑: 좀 나아졌어. 이따 운동하러 가려고 하는데 같이 갈래?",
-          "romanization": "èk : khɔ̂j-jang-chuâ lɛ́w diǎw wâ jà paj ɔ̀k-kam-lang-kaj nɔ̀j paj duâj-kan mǎj"
+          "romanization": "èk : khɔ̂j-jang-chuâ lɛ́w diǎw wâ jà paj ɔ̀k-kam-lang-kaj nɔ̀j paj duâj-kan mǎj",
+          "page": "8"
         },
         {
           "thai": "พลอย: ไม่ดีกว่า ขอบใจ วันนี้เหนื่อยจะแย่แล้ว ขอพักผ่อนดีกว่า",
@@ -99,7 +109,8 @@
           "en": "Ploy: Better not, thanks. I'm exhausted today. I'd rather rest.",
           "ja": "プローイ：やめておく、ありがとう。今日はもうへとへとだから、休むことにする。",
           "ko": "플로이: 됐어, 고마워. 오늘 너무 피곤해서 쉬는 게 낫겠어.",
-          "romanization": "phlɔj : mâj di-kwà khɔ̀p-jaj wan-ní nʉàj jà jɛ̂ lɛ́w khɔ̌ phák-phɔ̀n di-kwà"
+          "romanization": "phlɔj : mâj di-kwà khɔ̀p-jaj wan-ní nʉàj jà jɛ̂ lɛ́w khɔ̌ phák-phɔ̀n di-kwà",
+          "page": "8"
         },
         {
           "thai": "เอก: ตามใจ งั้นฉันไปก่อนนะ",
@@ -107,7 +118,8 @@
           "en": "Ek: Up to you. Then I'll get going.",
           "ja": "エーク：好きにして。じゃあ先に行くね。",
           "ko": "엑: 네 마음대로 해. 그럼 난 먼저 갈게.",
-          "romanization": "èk : tam-jaj ngán chǎn paj kɔ̀n ná"
+          "romanization": "èk : tam-jaj ngán chǎn paj kɔ̀n ná",
+          "page": "8"
         },
         {
           "thai": "พลอย: จ้ะ แล้วเจอกัน",
@@ -115,7 +127,8 @@
           "en": "Ploy: Okay, see you.",
           "ja": "プローイ：うん、またね。",
           "ko": "플로이: 응, 또 봐.",
-          "romanization": "phlɔj : jâ lɛ́w jə-kan"
+          "romanization": "phlɔj : jâ lɛ́w jə-kan",
+          "page": "8"
         }
       ]
     },
@@ -136,7 +149,8 @@
           "en": "On Monday morning, Ek went to see a doctor at a public hospital, and Ploy went with him. Nurses asked about symptoms and cared for patients, while doctors treated people and gave health examinations. Many patients had come for treatment. Ek went into the examination room, while Ploy waited outside.",
           "ja": "月曜の朝、エークは公立病院へ診察を受けに行き、プローイも付き添った。病院では看護師が症状を聞いて患者を世話し、医師が人々の治療や健康診断をしていた。多くの患者が診察に来ていた。エークは診察室に入り、プローイは外で待った。",
           "ko": "월요일 아침, 엑은 국립병원에 진료를 받으러 갔고 플로이도 함께 갔다. 병원에서는 간호사들이 증상을 묻고 환자를 돌봤으며, 의사들은 사람들을 치료하고 건강검진을 했다. 많은 환자가 진료를 받으러 왔다. 엑은 진료실로 들어갔고 플로이는 밖에서 기다렸다.",
-          "romanization": "cháw wan jan èk paj-hǎ mɔ̌ thî rong-phá-ja-ban rát hɛ̀ng nʉ̀ng phlɔj paj kàp èk duâj thî rong-phá-ja-ban mi nang-phá-ja-ban khɔj thǎm a-kan lɛ́ khɔj du-lɛ phû-puàj mi mɔ̌ khɔj rák-sǎ lɛ́ truàt sùk-khà-phâp hâj prà-cha-chon mi khon-khâj jam-nuan-mâk ma hâj mɔ̌ truàt rák-sǎ èk khâw-paj phóp mɔ̌ naj hɔ̂ng truàt suàn phlɔj nâng rɔ jù khâng-nɔ̂k"
+          "romanization": "cháw wan jan èk paj-hǎ mɔ̌ thî rong-phá-ja-ban rát hɛ̀ng nʉ̀ng phlɔj paj kàp èk duâj thî rong-phá-ja-ban mi nang-phá-ja-ban khɔj thǎm a-kan lɛ́ khɔj du-lɛ phû-puàj mi mɔ̌ khɔj rák-sǎ lɛ́ truàt sùk-khà-phâp hâj prà-cha-chon mi khon-khâj jam-nuan-mâk ma hâj mɔ̌ truàt rák-sǎ èk khâw-paj phóp mɔ̌ naj hɔ̂ng truàt suàn phlɔj nâng rɔ jù khâng-nɔ̂k",
+          "page": "20"
         },
         {
           "thai": "ขณะที่นั่งรออยู่นั้น พลอยมองดูคนไข้เดินไปมา คนชราก็มี ผู้ใหญ่ก็มี วัยรุ่นก็มี เด็กก็มี บางคนท้องเสีย บางคนปวดท้อง",
@@ -144,7 +158,8 @@
           "en": "While waiting, Ploy watched patients walking back and forth: elderly people, adults, teenagers, and children. Some had diarrhea and some had stomachaches.",
           "ja": "待っている間、プローイは行き交う患者を眺めていた。老人も大人も若者も子どももいて、下痢の人も腹痛の人もいた。",
           "ko": "기다리는 동안 플로이는 오가는 환자들을 바라봤다. 노인도, 어른도, 청소년도, 아이도 있었고, 설사를 하는 사람도 배가 아픈 사람도 있었다.",
-          "romanization": "khà-nà thî-nâng rɔ jù nán phlɔj mɔng-du khon-khâj dən paj-ma khon-chá-ra kɔ̂ mi phû-jàj kɔ̂ mi waj-rûn kɔ̂ mi dèk kɔ̂ mi bang-khon thɔ́ng-siǎ bang-khon puàt-thɔ́ng"
+          "romanization": "khà-nà thî-nâng rɔ jù nán phlɔj mɔng-du khon-khâj dən paj-ma khon-chá-ra kɔ̂ mi phû-jàj kɔ̂ mi waj-rûn kɔ̂ mi dèk kɔ̂ mi bang-khon thɔ́ng-siǎ bang-khon puàt-thɔ́ng",
+          "page": "20"
         },
         {
           "thai": "นักท่องเที่ยวคนหนึ่งถูกสุนัขกัด เป็นแผล เลือดออกเยอะ หมอต้องฉีดยาให้ เพราะสุนัขอาจมีเชื้อโรคพิษสุนัขบ้า",
@@ -152,7 +167,8 @@
           "en": "A tourist had been bitten by a dog and was bleeding heavily from the wound. The doctor had to give an injection because the dog might carry rabies.",
           "ja": "ある観光客は犬にかまれて傷ができ、大量に出血していた。犬が狂犬病の病原体を持っている可能性があるため、医師は注射をしなければならなかった。",
           "ko": "한 관광객은 개에게 물려 상처가 나고 피를 많이 흘렸다. 개가 광견병균을 지녔을 수 있어 의사가 주사를 놓아야 했다.",
-          "romanization": "nák-thɔ̂ng-thiâw khon nʉ̀ng thùk sù-nák kàt pen-phlɛ̌ lʉât ɔ̀k jə́ mɔ̌ tɔ̂ng chìt-ja hâj phrɔ́ sù-nák àt mi chʉá-rôk phít-sù-nák-bâ"
+          "romanization": "nák-thɔ̂ng-thiâw khon nʉ̀ng thùk sù-nák kàt pen-phlɛ̌ lʉât ɔ̀k jə́ mɔ̌ tɔ̂ng chìt-ja hâj phrɔ́ sù-nák àt mi chʉá-rôk phít-sù-nák-bâ",
+          "page": "20"
         },
         {
           "thai": "ขณะที่พลอยกำลังรออยู่ข้างนอก เอกก็ไปชั่งน้ำหนัก วัดไข้และวัดความดันเลือด จากนั้นพยาบาลก็เชิญเอกเข้าไปพบหมอในห้องตรวจ",
@@ -160,7 +176,8 @@
           "en": "While Ploy waited outside, Ek was weighed and had his temperature and blood pressure taken. Then a nurse invited him into the examination room to see the doctor.",
           "ja": "プローイが外で待っている間、エークは体重、体温、血圧を測った。その後、看護師に呼ばれて診察室で医師に会った。",
           "ko": "플로이가 밖에서 기다리는 동안 엑은 체중과 체온, 혈압을 쟀다. 그 뒤 간호사가 엑을 진료실로 불러 의사를 만나게 했다.",
-          "romanization": "khà-nà-thî phlɔj kam-lang rɔ jù khâng-nɔ̂k èk kɔ̂ paj châng-nám-nàk wát khâj lɛ́ wát khwam-dan-lʉât jàk-nán phá-ja-ban kɔ̂ chən èk khâw-paj phóp mɔ̌ naj hɔ̂ng truàt"
+          "romanization": "khà-nà-thî phlɔj kam-lang rɔ jù khâng-nɔ̂k èk kɔ̂ paj châng-nám-nàk wát khâj lɛ́ wát khwam-dan-lʉât jàk-nán phá-ja-ban kɔ̂ chən èk khâw-paj phóp mɔ̌ naj hɔ̂ng truàt",
+          "page": "20"
         },
         {
           "thai": "“เป็นอะไรมาคะ” คุณหมอถาม",
@@ -168,7 +185,8 @@
           "en": "“What seems to be the problem?” the doctor asked.",
           "ja": "「どうされましたか」と医師が尋ねた。",
           "ko": "“어디가 불편해서 오셨나요?” 의사가 물었다.",
-          "romanization": "“ pen à-raj ma khá ” khun-mɔ̌ thǎm"
+          "romanization": "“ pen à-raj ma khá ” khun-mɔ̌ thǎm",
+          "page": "20"
         },
         {
           "thai": "“ผมรู้สึกเหมือนจะเป็นไข้ครับ” เอกตอบ",
@@ -176,7 +194,8 @@
           "en": "“I feel like I have a fever,” Ek replied.",
           "ja": "「熱があるような気がします」とエークは答えた。",
           "ko": "“열이 나는 것 같아요.” 엑이 대답했다.",
-          "romanization": "“ phǒm rú-sʉ̀k mʉǎn jà pen-khâj khráp ” èk tɔ̀p"
+          "romanization": "“ phǒm rú-sʉ̀k mʉǎn jà pen-khâj khráp ” èk tɔ̀p",
+          "page": "20"
         },
         {
           "thai": "“มีอาการไอ เจ็บคอ มีเสมหะด้วยไหมคะ” หมอถามต่อ",
@@ -184,7 +203,8 @@
           "en": "“Do you have a cough, a sore throat, or phlegm?” the doctor continued.",
           "ja": "「せき、喉の痛み、たんはありますか」と医師は続けて尋ねた。",
           "ko": "“기침이나 인후통, 가래도 있나요?” 의사가 이어서 물었다.",
-          "romanization": "“ mi a-kan-aj jèp khɔ mi sěm-hà duâj mǎj khá ” mɔ̌ thǎm tɔ̀"
+          "romanization": "“ mi a-kan-aj jèp khɔ mi sěm-hà duâj mǎj khá ” mɔ̌ thǎm tɔ̀",
+          "page": "20"
         },
         {
           "thai": "เอกเอามือจับคอพร้อมกลืนน้ำลายแล้วตอบว่า “มีไอกับเจ็บคอนิดหน่อยครับ”",
@@ -192,7 +212,8 @@
           "en": "Ek touched his throat and swallowed before replying, “I have a slight cough and sore throat.”",
           "ja": "エークは喉に手を当てて唾をのみ込み、「少しせきと喉の痛みがあります」と答えた。",
           "ko": "엑은 목을 만지고 침을 삼킨 뒤 “기침과 인후통이 조금 있어요”라고 대답했다.",
-          "romanization": "èk aw mʉ-jàp khɔ phrɔ́m klʉn-nám-laj lɛ́w tɔ̀p wâ “ mi aj kàp jèp khɔ nít-nɔ̀j khráp ”"
+          "romanization": "èk aw mʉ-jàp khɔ phrɔ́m klʉn-nám-laj lɛ́w tɔ̀p wâ “ mi aj kàp jèp khɔ nít-nɔ̀j khráp ”",
+          "page": "20"
         },
         {
           "thai": "“อุณหภูมิคนไข้สูงนิดหน่อยนะคะ เดี๋ยวต้องเจาะเลือดเพื่อตรวจดูให้แน่ใจ เผื่อเป็นไข้หวัดใหญ่” หมอกล่าว",
@@ -200,7 +221,8 @@
           "en": "“Your temperature is slightly high. We'll need a blood test to be certain, in case it's influenza,” the doctor said.",
           "ja": "「体温が少し高いですね。インフルエンザかもしれないので、念のため採血して調べましょう」と医師は言った。",
           "ko": "“체온이 조금 높네요. 독감일 수도 있으니 정확히 확인하려면 잠시 후 채혈해야 합니다.” 의사가 말했다.",
-          "romanization": "“ un-hà-phum khon-khâj sǔng nít-nɔ̀j ná-khá diǎw tɔ̂ng jɔ̀ lʉât phʉâ truàt-du hâj nɛ̂-jaj phʉà pen khâj-wàt-jàj ” mɔ̌ klàw"
+          "romanization": "“ un-hà-phum khon-khâj sǔng nít-nɔ̀j ná-khá diǎw tɔ̂ng jɔ̀ lʉât phʉâ truàt-du hâj nɛ̂-jaj phʉà pen khâj-wàt-jàj ” mɔ̌ klàw",
+          "page": "21"
         },
         {
           "thai": "“แล้วต้องตรวจปัสสาวะ อุจจาระด้วยไหมครับ” เอกถามด้วยความกังวล",
@@ -208,7 +230,8 @@
           "en": "“Will I need urine and stool tests too?” Ek asked anxiously.",
           "ja": "「尿や便の検査も必要ですか」とエークは心配そうに尋ねた。",
           "ko": "“소변과 대변 검사도 해야 하나요?” 엑이 걱정스럽게 물었다.",
-          "romanization": "“ lɛ́w tɔ̂ng truàt pàt-sǎ-wá ùt-ja-rá duâj mǎj khráp ” èk thǎm duâj khwam-kang-won"
+          "romanization": "“ lɛ́w tɔ̂ng truàt pàt-sǎ-wá ùt-ja-rá duâj mǎj khráp ” èk thǎm duâj khwam-kang-won",
+          "page": "21"
         },
         {
           "thai": "“ตรวจเลือดอย่างเดียวก็พอค่ะ” หมอตอบ",
@@ -216,7 +239,8 @@
           "en": "“A blood test alone will be enough,” the doctor replied.",
           "ja": "「血液検査だけで十分です」と医師は答えた。",
           "ko": "“혈액 검사만 하면 됩니다.” 의사가 대답했다.",
-          "romanization": "“ truàt-lʉât jàng diaw kɔ̂ phɔ khâ ” mɔ̌ tɔ̀p"
+          "romanization": "“ truàt-lʉât jàng diaw kɔ̂ phɔ khâ ” mɔ̌ tɔ̀p",
+          "page": "21"
         },
         {
           "thai": "หลังจากผ่านไปประมาณสองชั่วโมงผลเลือดก็ออก เอกเข้าพบหมออีกครั้ง คุณหมอบอกกับเอกว่า",
@@ -224,7 +248,8 @@
           "en": "After about two hours, the blood-test results came out. Ek saw the doctor again, and the doctor told him:",
           "ja": "約二時間後に血液検査の結果が出た。エークが再び診察を受けると、医師はこう告げた。",
           "ko": "약 두 시간이 지나 혈액 검사 결과가 나왔다. 엑이 다시 진료실에 들어가자 의사가 말했다.",
-          "romanization": "lǎng-jàk phàn paj prà-man sɔ̌ng chuâ-mong phǒn lʉât kɔ̂ ɔ̀k èk khâw-phóp mɔ̌ ìk-khráng khun-mɔ̌ bɔ̀k kàp e kwà"
+          "romanization": "lǎng-jàk phàn paj prà-man sɔ̌ng chuâ-mong phǒn lʉât kɔ̂ ɔ̀k èk khâw-phóp mɔ̌ ìk-khráng khun-mɔ̌ bɔ̀k kàp e kwà",
+          "page": "21"
         },
         {
           "thai": "“ผลตรวจเลือดออกมาแล้วนะคะ คนไข้เป็นไข้หวัดธรรมดา ไม่ได้เป็นไข้หวัดใหญ่”",
@@ -232,7 +257,8 @@
           "en": "“The blood-test results are back. You have a common cold, not influenza.”",
           "ja": "「血液検査の結果が出ました。普通の風邪で、インフルエンザではありません。」",
           "ko": "“혈액 검사 결과가 나왔습니다. 독감이 아니라 일반 감기예요.”",
-          "romanization": "“ phǒn truàt-lʉât ɔ̀k-ma lɛ́w ná-khá khon-khâj pen khâj-wàt tham-má-da mâj dâj pen khâj-wàt-jàj ”"
+          "romanization": "“ phǒn truàt-lʉât ɔ̀k-ma lɛ́w ná-khá khon-khâj pen khâj-wàt tham-má-da mâj dâj pen khâj-wàt-jàj ”",
+          "page": "21"
         },
         {
           "thai": "“ไม่ต้องนอนโรงพยาบาลใช่ไหมครับ” เอกถาม",
@@ -240,7 +266,8 @@
           "en": "“I don't need to stay in the hospital, right?” Ek asked.",
           "ja": "「入院する必要はないですよね」とエークは尋ねた。",
           "ko": "“입원할 필요는 없죠?” 엑이 물었다.",
-          "romanization": "“ mâj-tɔ̂ng nɔn rong-phá-ja-ban châj-mǎj khráp ” èk thǎm"
+          "romanization": "“ mâj-tɔ̂ng nɔn rong-phá-ja-ban châj-mǎj khráp ” èk thǎm",
+          "page": "21"
         },
         {
           "thai": "“ไม่ต้องค่ะ เดี๋ยวเอายาไปทานที่บ้าน พักผ่อนให้เพียงพอ ดื่มน้ำเยอะ ๆ งดดื่มน้ำเย็น เครื่องดื่มแอลกอฮอล์ ของทอด ของมัน ไปก่อนนะคะ ภายในหนึ่งอาทิตย์ก็ดีขึ้นแล้วค่ะ” หมอตอบ",
@@ -248,7 +275,8 @@
           "en": "“No. Take the medicine home, get enough rest, and drink plenty of water. For now, avoid cold water, alcohol, fried food, and greasy food. You should improve within a week,” the doctor replied.",
           "ja": "「必要ありません。薬を持ち帰って服用し、十分に休んで水をたくさん飲んでください。しばらくは冷たい水、酒類、揚げ物、脂っこい物を控えれば、一週間以内に良くなります」と医師は答えた。",
           "ko": "“아니요. 약을 집에 가져가 복용하고 충분히 쉬면서 물을 많이 드세요. 당분간 찬물과 술, 튀긴 음식, 기름진 음식은 피하세요. 일주일 안에 좋아질 겁니다.” 의사가 대답했다.",
-          "romanization": "“ mâj-tɔ̂ng khâ diǎw aw ja paj than thî bân phák-phɔ̀n hâj phiang-phɔ dʉ̀m nám jə́ jə́ ngót dʉ̀m nám-jen khrʉâng-dʉ̀m ɛn-kɔ-hɔ khɔ̌ng thɔ̂t khɔ̌ng man paj kɔ̀n ná-khá phaj-naj nʉ̀ng a-thít kɔ̂ di-khʉ̂n lɛ́w khâ ” mɔ̌ tɔ̀p"
+          "romanization": "“ mâj-tɔ̂ng khâ diǎw aw ja paj than thî bân phák-phɔ̀n hâj phiang-phɔ dʉ̀m nám jə́ jə́ ngót dʉ̀m nám-jen khrʉâng-dʉ̀m ɛn-kɔ-hɔ khɔ̌ng thɔ̂t khɔ̌ng man paj kɔ̀n ná-khá phaj-naj nʉ̀ng a-thít kɔ̂ di-khʉ̂n lɛ́w khâ ” mɔ̌ tɔ̀p",
+          "page": "21"
         },
         {
           "thai": "“ขอบคุณครับ” เอกกล่าวขอบคุณหมอ จากนั้นก็ไปชำระเงินแล้วรอรับยา",
@@ -256,7 +284,8 @@
           "en": "“Thank you,” Ek said. He then paid and waited to collect his medicine.",
           "ja": "「ありがとうございます」とエークは医師に礼を言い、会計を済ませて薬を待った。",
           "ko": "“감사합니다.” 엑은 의사에게 감사 인사를 한 뒤 수납하고 약을 기다렸다.",
-          "romanization": "“ khɔ̀p-khun khráp ” èk klàw khɔ̀p khun-mɔ̌ jàk-nán kɔ̂ paj cham-rá-ngən lɛ́w rɔ ráp ja"
+          "romanization": "“ khɔ̀p-khun khráp ” èk klàw khɔ̀p khun-mɔ̌ jàk-nán kɔ̂ paj cham-rá-ngən lɛ́w rɔ ráp ja",
+          "page": "21"
         },
         {
           "thai": "“คุณเอกชัยเชิญรับยาช่อง 2 ค่ะ” เภสัชกรเรียก",
@@ -264,7 +293,8 @@
           "en": "“Mr. Ekachai, please collect your medicine at window two,” the pharmacist called.",
           "ja": "「エーカチャイさん、二番窓口でお薬をお受け取りください」と薬剤師が呼んだ。",
           "ko": "“엑까차이 님, 2번 창구에서 약을 받아 가세요.” 약사가 불렀다.",
-          "romanization": "“ khun èk chaj chən ráp ja chɔ̂ng sɔ̌ng khâ ” phe-sàt-chá-kɔn riâk"
+          "romanization": "“ khun èk chaj chən ráp ja chɔ̂ng sɔ̌ng khâ ” phe-sàt-chá-kɔn riâk",
+          "page": "21"
         },
         {
           "thai": "“นี่ยาแก้ปวดลดไข้นะคะ ทานวันละ 3 ครั้ง เช้า กลางวัน เย็น หลังอาหาร ส่วนยานี้คือยาแก้ไอ ลดเสมหะ ทานพร้อมกับยาลดไข้ได้เลยค่ะ” เภสัชฯ อธิบายพร้อมยื่นยาให้เอกดู",
@@ -272,7 +302,8 @@
           "en": "“This is a pain reliever and fever reducer. Take it three times a day—morning, noon, and evening—after meals. This one relieves coughing and phlegm and can be taken with the fever medicine,” the pharmacist explained while showing Ek the medicine.",
           "ja": "「これは鎮痛解熱剤です。一日三回、朝・昼・晩の食後に服用してください。こちらはせきとたんの薬で、解熱剤と一緒に飲めます」と薬剤師は薬を見せながら説明した。",
           "ko": "“이건 진통·해열제예요. 아침, 점심, 저녁 식후에 하루 세 번 복용하세요. 이 약은 기침과 가래를 줄이는 약으로 해열제와 함께 드셔도 됩니다.” 약사는 약을 보여 주며 설명했다.",
-          "romanization": "“ nî ja-kɛ̂-puàt lót khâj ná-khá than wan lá sǎm khráng cháw klang-wan jen lǎng-a-hǎn suàn ja ní khʉ ja-kɛ̂-aj lót sěm-hà than phrɔ́m-kàp ja lót khâj dâj ləj khâ ” phe-sàt paí0+jan0+noj à-thí-baj phrɔ́m jʉ̂n ja hâj èk du"
+          "romanization": "“ nî ja-kɛ̂-puàt lót khâj ná-khá than wan lá sǎm khráng cháw klang-wan jen lǎng-a-hǎn suàn ja ní khʉ ja-kɛ̂-aj lót sěm-hà than phrɔ́m-kàp ja lót khâj dâj ləj khâ ” phe-sàt paí0+jan0+noj à-thí-baj phrɔ́m jʉ̂n ja hâj èk du",
+          "page": "21"
         },
         {
           "thai": "“ยาแก้ปวดมีไอบูโพรเฟนไหมครับ ผมแพ้ไอบูโพรเฟน” เอกถาม",
@@ -280,7 +311,8 @@
           "en": "“Does the painkiller contain ibuprofen? I'm allergic to ibuprofen,” Ek asked.",
           "ja": "「鎮痛剤にイブプロフェンは入っていますか。私はイブプロフェンにアレルギーがあります」とエークは尋ねた。",
           "ko": "“진통제에 이부프로펜이 들어 있나요? 저는 이부프로펜 알레르기가 있어요.” 엑이 물었다.",
-          "romanization": "“ ja-kɛ̂-puàt mi aj-bu-phro-fen mǎj khráp phǒm phɛ́ aj-bu-phro-fen ” èk thǎm"
+          "romanization": "“ ja-kɛ̂-puàt mi aj-bu-phro-fen mǎj khráp phǒm phɛ́ aj-bu-phro-fen ” èk thǎm",
+          "page": "21"
         },
         {
           "thai": "“ไม่มีค่ะ” เภสัชฯ ตอบ",
@@ -288,7 +320,8 @@
           "en": "“No, it doesn't,” the pharmacist replied.",
           "ja": "「入っていません」と薬剤師は答えた。",
           "ko": "“없습니다.” 약사가 대답했다.",
-          "romanization": "“ mâj mi khâ ” phe-sàt paí0+jan0+noj tɔ̀p"
+          "romanization": "“ mâj mi khâ ” phe-sàt paí0+jan0+noj tɔ̀p",
+          "page": "21"
         }
       ]
     },
@@ -309,7 +342,8 @@
           "en": "At a BTS station.",
           "ja": "BTSの駅で。",
           "ko": "BTS 역에서.",
-          "romanization": "thî sà-thǎ-ni rót-faj-fá bi-thi-es"
+          "romanization": "thî sà-thǎ-ni rót-faj-fá bi-thi-es",
+          "page": "37"
         },
         {
           "thai": "ฝน: ฮิเดะ ยืนขึ้น ๆ เพลงชาติดังแล้ว",
@@ -317,7 +351,8 @@
           "en": "Fon: Hide, stand up. The national anthem is playing.",
           "ja": "フォン：ヒデ、立って。国歌が流れたよ。",
           "ko": "폰: 히데, 일어나. 국가가 나오고 있어.",
-          "romanization": "fǒn : hí dè jʉn khʉ̂n khʉ̂n phleng-chât dang lɛ́w"
+          "romanization": "fǒn : hí dè jʉn khʉ̂n khʉ̂n phleng-chât dang lɛ́w",
+          "page": "37"
         },
         {
           "thai": "ฮิเดะ: ฉันขอนั่งได้ไหม เมื่อยจะตายอยู่แล้ว วันนี้เราเดิน ๆ ยืน ๆ กันมา 5 ชั่วโมงแล้วนะ",
@@ -325,7 +360,8 @@
           "en": "Hide: Can I stay seated? I'm aching to death. We've been walking and standing for five hours today.",
           "ja": "ヒデ：座ったままじゃだめ？もう疲れて死にそうだよ。今日は五時間も歩いたり立ったりしているんだ。",
           "ko": "히데: 앉아 있으면 안 돼? 몸이 뻐근해 죽겠어. 오늘 벌써 다섯 시간이나 걷고 서 있었잖아.",
-          "romanization": "hí dè : chǎn khɔ̌ nâng dâj mǎj mʉâj jà taj à-jù-lɛ́w wan-ní raw dən dən jʉn jʉn kan ma hâ chuâ-mong lɛ́w ná"
+          "romanization": "hí dè : chǎn khɔ̌ nâng dâj mǎj mʉâj jà taj à-jù-lɛ́w wan-ní raw dən dən jʉn jʉn kan ma hâ chuâ-mong lɛ́w ná",
+          "page": "37"
         },
         {
           "thai": "ฝน: ไม่ได้นะ เห็นไหม ใคร ๆ ก็ยืนกันทั้งนั้น ลุกขึ้น ๆ",
@@ -333,7 +369,8 @@
           "en": "Fon: No. See? Everyone is standing. Get up.",
           "ja": "フォン：だめ。ほら、みんな立っているでしょう。早く立って。",
           "ko": "폰: 안 돼. 봐, 다들 서 있잖아. 어서 일어나.",
-          "romanization": "fǒn : mâj dâj ná hěn mǎj khraj khraj kɔ̂ jʉn kan tháng-nán lúk-khʉ̂n lúk-khʉ̂n"
+          "romanization": "fǒn : mâj dâj ná hěn mǎj khraj khraj kɔ̂ jʉn kan tháng-nán lúk-khʉ̂n lúk-khʉ̂n",
+          "page": "37"
         },
         {
           "thai": "ฮิเดะ: โอเค ๆ ยืนก็ยืน เราต้องยืนไปนานแค่ไหนล่ะ",
@@ -341,7 +378,8 @@
           "en": "Hide: Okay, okay, I'll stand. How long do we have to stand?",
           "ja": "ヒデ：分かったよ、立てばいいんでしょう。どのくらい立っていればいいの？",
           "ko": "히데: 알았어, 설게. 얼마나 오래 서 있어야 해?",
-          "romanization": "hí dè : o-khe o-khe jʉn kɔ̂ jʉn raw tɔ̂ng jʉn paj nan khɛ̂ nǎj-lâ"
+          "romanization": "hí dè : o-khe o-khe jʉn kɔ̂ jʉn raw tɔ̂ng jʉn paj nan khɛ̂ nǎj-lâ",
+          "page": "37"
         },
         {
           "thai": "ฝน: ยืนไปจนเพลงชาติจบ โอเค เพลงจบแล้ว นั่งลงได้",
@@ -349,7 +387,8 @@
           "en": "Fon: Stand until the anthem ends. Okay, it's over. You can sit down now.",
           "ja": "フォン：国歌が終わるまで。はい、終わったから座っていいよ。",
           "ko": "폰: 국가가 끝날 때까지 서 있어. 자, 끝났으니 이제 앉아도 돼.",
-          "romanization": "fǒn : jʉn paj jon phleng-chât jɔ-bɔ o-khe phleng jɔ-bɔ lɛ́w nâng-long dâj"
+          "romanization": "fǒn : jʉn paj jon phleng-chât jɔ-bɔ o-khe phleng jɔ-bɔ lɛ́w nâng-long dâj",
+          "page": "37"
         },
         {
           "thai": "ฮิเดะ: ฝน ฉันถามหน่อยสิ ทำไมเราต้องยืนด้วยล่ะ ฉันว่ามันตลกมากนะ อย่างกับหุ่นยนต์",
@@ -357,7 +396,8 @@
           "en": "Hide: Fon, let me ask—why do we have to stand? I think it's really funny, like we're robots.",
           "ja": "ヒデ：フォン、ちょっと聞くけど、どうして立たなきゃいけないの？ロボットみたいで、すごくおかしいと思う。",
           "ko": "히데: 폰, 하나 물어볼게. 왜 우리도 서 있어야 해? 로봇 같아서 정말 우스워.",
-          "romanization": "hí dè : fǒn chǎn thǎm nɔ̀j sì tham-maj raw tɔ̂ng jʉn duâj lâ chǎn wâ man tà-lòk mâk ná jàng kàp hùn-jon"
+          "romanization": "hí dè : fǒn chǎn thǎm nɔ̀j sì tham-maj raw tɔ̂ng jʉn duâj lâ chǎn wâ man tà-lòk mâk ná jàng kàp hùn-jon",
+          "page": "37"
         },
         {
           "thai": "ฝน: แหม ที่เมืองไทย เวลา 8 โมงเช้า และ 6 โมงเย็น ใคร ๆ ก็ยืนตรงเคารพธงชาติกันทั้งนั้น มันเป็นธรรมเนียม",
@@ -365,7 +405,8 @@
           "en": "Fon: Come on. In Thailand, at 8 a.m. and 6 p.m., everyone stands at attention to honor the flag. It's customary.",
           "ja": "フォン：もう。タイでは朝八時と夕方六時に、みんな直立して国旗に敬意を表すの。そういう習慣なのよ。",
           "ko": "폰: 참나. 태국에서는 오전 8시와 오후 6시에 모두 차렷 자세로 국기에 경의를 표해. 관습이야.",
-          "romanization": "fǒn : mɛ̌ thî mʉang thaj-já we-la pɛ̀t mong cháw lɛ́ hòk mong jen khraj khraj kɔ̂ jʉn trong khaw-róp thong-chât kan tháng-nán man pen tham-niam"
+          "romanization": "fǒn : mɛ̌ thî mʉang thaj-já we-la pɛ̀t mong cháw lɛ́ hòk mong jen khraj khraj kɔ̂ jʉn trong khaw-róp thong-chât kan tháng-nán man pen tham-niam",
+          "page": "37"
         },
         {
           "thai": "ฮิเดะ: อ๋อ เคยได้ยินมาว่า เวลาดูหนังเราก็ต้องยืนตรงแสดงความเคารพเพลงชาติด้วยใช่ไหม",
@@ -373,7 +414,8 @@
           "en": "Hide: Oh, I've heard that when watching a movie, we also have to stand to show respect for the national anthem, right?",
           "ja": "ヒデ：ああ、映画を見るときも立って国歌に敬意を表すって聞いたことがあるけど、そうだよね？",
           "ko": "히데: 아, 영화 볼 때도 일어서서 국가에 경의를 표해야 한다고 들었는데, 맞지?",
-          "romanization": "hí dè : ɔ̌ khəj dâj-jin ma wâ we-la du nǎng raw kɔ̂ tɔ̂ng jʉn trong sà-dɛng khwam-khaw-róp phleng-chât duâj châj-mǎj"
+          "romanization": "hí dè : ɔ̌ khəj dâj-jin ma wâ we-la du nǎng raw kɔ̂ tɔ̂ng jʉn trong sà-dɛng khwam-khaw-róp phleng-chât duâj châj-mǎj",
+          "page": "37"
         },
         {
           "thai": "ฝน: ใช่จ้ะ แต่นั่นไม่ใช่เพลงชาติ นั่นเรียกว่าเพลงสรรเสริญพระบารมี เป็นเพลงสำหรับพระมหากษัตริย์ไทย",
@@ -381,7 +423,8 @@
           "en": "Fon: Yes, but that isn't the national anthem. It's called the Royal Anthem, a song for the Thai monarch.",
           "ja": "フォン：そう。でもあれは国歌ではなく「国王賛歌」といって、タイ国王のための歌なの。",
           "ko": "폰: 맞아. 하지만 그건 국가가 아니라 ‘국왕 찬가’라고 해. 태국 국왕을 위한 노래야.",
-          "romanization": "fǒn : châj jâ tɛ̀ nân mâj châj phleng-chât nân riâk wâ phleng sǎn-sə̌n phrá ba-rá-mi pen phleng sǎm-ràp phrá-má-hǎ-kà-sàt thaj-já"
+          "romanization": "fǒn : châj jâ tɛ̀ nân mâj châj phleng-chât nân riâk wâ phleng sǎn-sə̌n phrá ba-rá-mi pen phleng sǎm-ràp phrá-má-hǎ-kà-sàt thaj-já",
+          "page": "37"
         },
         {
           "thai": "ฮิเดะ: คนไทยนี่ธรรมเนียมเยอะจริง ๆ แล้วยังมีเรื่องมารยาทอีก ไม่เห็นจะเข้าใจสักอย่าง",
@@ -389,7 +432,8 @@
           "en": "Hide: Thai people really have a lot of customs, plus all the etiquette. I don't understand any of it.",
           "ja": "ヒデ：タイ人には本当に習慣が多いね。礼儀のことまであって、何一つ分からないよ。",
           "ko": "히데: 태국 사람들은 관습이 정말 많네. 예절 문제까지 있고, 난 하나도 모르겠어.",
-          "romanization": "hí dè : khon-thaj nî tham-niam jə́ jing jing lɛ́w jang mi-rʉâng ma-rá-jât ìk mâj-hěn-jà khâw-jaj sàk jàng"
+          "romanization": "hí dè : khon-thaj nî tham-niam jə́ jing jing lɛ́w jang mi-rʉâng ma-rá-jât ìk mâj-hěn-jà khâw-jaj sàk jàng",
+          "page": "38"
         },
         {
           "thai": "ฝน: ไม่เห็นจะยากตรงไหนเลย เธอก็ต้องสังเกตคนรอบข้างว่าเขาทำอะไรกัน เธอก็ทำตามไป เดี๋ยวก็ชิน เดี๋ยวก็เรียนรู้เอง เข้าเมืองตาหลิ่ว ต้องหลิ่วตาตาม",
@@ -397,7 +441,8 @@
           "en": "Fon: What's hard about it? Watch what the people around you do and follow them. You'll get used to it and learn on your own. When in Rome, do as the Romans do.",
           "ja": "フォン：どこが難しいの？周りの人が何をしているか観察して、まねすればいいの。そのうち慣れて自然に分かるよ。郷に入っては郷に従え、でしょう。",
           "ko": "폰: 뭐가 어렵다는 거야? 주변 사람들이 뭘 하는지 보고 그대로 따라 하면 돼. 곧 익숙해지고 저절로 배우게 될 거야. 로마에 가면 로마법을 따르는 거지.",
-          "romanization": "fǒn : mâj-hěn-jà jâk trong-nǎj ləj thə kɔ̂ tɔ̂ng sǎng-kèt khon rɔ̂p-khâng wâ khǎw tham à-raj kan thə kɔ̂ tham-tam paj diǎw kɔ̂ chin diǎw kɔ̂ rian-rú eng khâw mʉang ta lìw tɔ̂ng lìw-ta tam"
+          "romanization": "fǒn : mâj-hěn-jà jâk trong-nǎj ləj thə kɔ̂ tɔ̂ng sǎng-kèt khon rɔ̂p-khâng wâ khǎw tham à-raj kan thə kɔ̂ tham-tam paj diǎw kɔ̂ chin diǎw kɔ̂ rian-rú eng khâw mʉang ta lìw tɔ̂ng lìw-ta tam",
+          "page": "38"
         },
         {
           "thai": "ฮิเดะ: ว่าแต่วันนี้เธอจะพาฉันไปกินอะไร ไหนว่าจะพาไปกินอะไรอร่อย ๆ หิวแล้วนะ",
@@ -405,7 +450,8 @@
           "en": "Hide: Anyway, what are you taking me to eat today? Didn't you say you'd take me for something delicious? I'm hungry.",
           "ja": "ヒデ：ところで今日は何を食べに連れて行ってくれるの？おいしいものを食べに行くって言っていたでしょう。おなかすいたよ。",
           "ko": "히데: 그런데 오늘은 뭘 먹으러 데려갈 거야? 맛있는 거 먹으러 가자고 했잖아. 배고파.",
-          "romanization": "hí dè : wâ-tɛ̀ wan-ní thə jà pha chǎn paj kin à-raj nǎj-wâ-jà pha paj kin à-raj à-rɔ̀j à-rɔ̀j hǐw lɛ́w ná"
+          "romanization": "hí dè : wâ-tɛ̀ wan-ní thə jà pha chǎn paj kin à-raj nǎj-wâ-jà pha paj kin à-raj à-rɔ̀j à-rɔ̀j hǐw lɛ́w ná",
+          "page": "38"
         },
         {
           "thai": "ฝน: ฮะ! ไหนเธอบอกว่า ช่วงนี้อ้วนขึ้น อยากลดน้ำหนักไง",
@@ -413,7 +459,8 @@
           "en": "Fon: Huh? Didn't you say you'd gained weight lately and wanted to lose some?",
           "ja": "フォン：えっ？最近太ったから痩せたいって言ってなかった？",
           "ko": "폰: 뭐? 요즘 살쪄서 빼고 싶다고 하지 않았어?",
-          "romanization": "fǒn : há ! nǎj thə bɔ kwà chuâng-ní uân khʉ̂n jàk lót-nám-nàk ngaj"
+          "romanization": "fǒn : há ! nǎj thə bɔ kwà chuâng-ní uân khʉ̂n jàk lót-nám-nàk ngaj",
+          "page": "38"
         },
         {
           "thai": "ฮิเดะ: ขอเริ่มลดพรุ่งนี้ก็แล้วกัน ตอนนี้พาฉันไปกินของอร่อย ๆ ก่อน",
@@ -421,7 +468,8 @@
           "en": "Hide: I'll start losing weight tomorrow. For now, take me to get something delicious first.",
           "ja": "ヒデ：ダイエットは明日からにする。今はまず、おいしいものを食べに連れて行って。",
           "ko": "히데: 다이어트는 내일부터 시작할게. 지금은 먼저 맛있는 거 먹으러 데려가 줘.",
-          "romanization": "hí dè : khɔ̌ rə̂m lót phrûng-ní kɔ̂-lɛ́w-kan tɔn-ní pha chǎn paj kin khɔ̌ng à-rɔ̀j à-rɔ̀j kɔ̀n"
+          "romanization": "hí dè : khɔ̌ rə̂m lót phrûng-ní kɔ̂-lɛ́w-kan tɔn-ní pha chǎn paj kin khɔ̌ng à-rɔ̀j à-rɔ̀j kɔ̀n",
+          "page": "38"
         },
         {
           "thai": "ฝน: จ้า",
@@ -429,7 +477,8 @@
           "en": "Fon: Fine.",
           "ja": "フォン：はいはい。",
           "ko": "폰: 그래.",
-          "romanization": "fǒn : jâ"
+          "romanization": "fǒn : jâ",
+          "page": "38"
         }
       ]
     },
@@ -450,7 +499,8 @@
           "en": "Loy Krathong is an ancient tradition connected with water. Some believe that people float krathongs to worship the river goddess (Phra Mae Khongkha), while others believe the tradition is connected with Buddhism.",
           "ja": "ロイクラトンは水に関わる古くからの伝統である。川の女神（プラ・メー・コンカー）を祭るためにクラトンを流すと信じる人もいれば、仏教に関係する伝統だと考える人もいる。",
           "ko": "러이끄라통은 물과 관련된 오래된 전통이다. 강의 여신인 프라매콩카를 숭배하기 위해 끄라통을 띄운다고 믿는 사람도 있고, 이 전통이 불교와 관련 있다고 믿는 사람도 있다.",
-          "romanization": "lɔj-krà-thong pen prà-phe-ni thî kiàw-khɔ̂ng kàp nám lɛ́ mi ma tâng-tɛ̀ bo-ran bang-khon chʉâ wâ raw lɔj-krà-thong phʉâ bu-cha thép-jâw kiàw-kàp mɛ̂-nám ( phrá mɛ̂-khong-kha ) suàn bang-khon chʉâ wâ prà-phe-ni ní kiàw-khɔ̂ng kàp sàt-sà-nǎ-phút"
+          "romanization": "lɔj-krà-thong pen prà-phe-ni thî kiàw-khɔ̂ng kàp nám lɛ́ mi ma tâng-tɛ̀ bo-ran bang-khon chʉâ wâ raw lɔj-krà-thong phʉâ bu-cha thép-jâw kiàw-kàp mɛ̂-nám ( phrá mɛ̂-khong-kha ) suàn bang-khon chʉâ wâ prà-phe-ni ní kiàw-khɔ̂ng kàp sàt-sà-nǎ-phút",
+          "page": "48"
         },
         {
           "thai": "วันจัดงานลอยกระทงไม่ตรงกันทุกปี ถ้าคุณวางแผนจะมาเที่ยวงานลอยกระทงในประเทศไทย คุณควรเช็คให้แน่ใจก่อนว่า ปีนั้น ๆ วันลอยกระทงเป็นวันที่เท่าไหร่",
@@ -458,15 +508,17 @@
           "en": "The date of Loy Krathong is not the same every year. If you plan to attend it in Thailand, first make sure which date it falls on that year.",
           "ja": "ロイクラトンの開催日は毎年同じではない。タイで参加する予定なら、その年の開催日をあらかじめ確認したほうがよい。",
           "ko": "러이끄라통 날짜는 해마다 같지 않다. 태국에서 축제를 즐길 계획이라면 그해 날짜가 언제인지 먼저 정확히 확인해야 한다.",
-          "romanization": "wan jàt-ngan lɔj-krà-thong mâj trong-kan thúk-pi thâ khun wang-phɛ̌n jà ma thiâw-ngan lɔj-krà-thong naj-prà-thêt thaj-já khun khuan chék hâj nɛ̂-jaj kɔ̀n wâ pi nán nán wan lɔj-krà-thong pen wan-thî thâw-ràj"
+          "romanization": "wan jàt-ngan lɔj-krà-thong mâj trong-kan thúk-pi thâ khun wang-phɛ̌n jà ma thiâw-ngan lɔj-krà-thong naj-prà-thêt thaj-já khun khuan chék hâj nɛ̂-jaj kɔ̀n wâ pi nán nán wan lɔj-krà-thong pen wan-thî thâw-ràj",
+          "page": "48"
         },
         {
           "thai": "ลอย แปลว่า อยู่บนผิวน้ำ ส่วน กระทง มีหลายความหมาย แต่คำว่ากระทงในชื่อประเพณีนี้ แปลว่า ภาชนะทำจากใบตอง (ใบของกล้วย) หรือใบไม้ที่สามารถลอยอยู่บนผิวน้ำได้",
-        "zh-Hant": "「漂浮」意為浮在水面上；「水燈」一詞有多種意思，但在這個節慶名稱中，是指用香蕉葉或其他能浮在水面的葉子製成的容器。",
+          "zh-Hant": "「漂浮」意為浮在水面上；「水燈」一詞有多種意思，但在這個節慶名稱中，是指用香蕉葉或其他能浮在水面的葉子製成的容器。",
           "en": "Loi means to stay on the surface of water. Krathong has several meanings, but in this tradition it means a container made from banana leaves or other leaves that can float on the water.",
           "ja": "「ロイ」は水面に浮くことを意味する。「クラトン」には複数の意味があるが、この行事名では、バナナの葉や水に浮く葉で作った容器を指す。",
           "ko": "‘러이’는 물 위에 떠 있다는 뜻이다. ‘끄라통’은 여러 뜻이 있지만 이 전통의 이름에서는 바나나 잎이나 물에 뜰 수 있는 잎으로 만든 용기를 뜻한다.",
-          "romanization": "lɔj plɛ wâ jù bon phǐw-nám suàn krà-thong mi lǎj khwam-mǎj tɛ̀ kham wâ krà-thong naj chʉ̂ prà-phe-ni ní plɛ wâ pha-chá-ná tham jàk baj-tɔng ( baj khɔ̌ng kluâj ) rʉ̌ baj-máj thî sǎ-mât lɔj jù bon phǐw-nám dâj"
+          "romanization": "lɔj plɛ wâ jù bon phǐw-nám suàn krà-thong mi lǎj khwam-mǎj tɛ̀ kham wâ krà-thong naj chʉ̂ prà-phe-ni ní plɛ wâ pha-chá-ná tham jàk baj-tɔng ( baj khɔ̌ng kluâj ) rʉ̌ baj-máj thî sǎ-mât lɔj jù bon phǐw-nám dâj",
+          "page": "48"
         },
         {
           "thai": "สมัยก่อนฐานของกระทงทำจากหยวกกล้วย (ส่วนที่ดูเหมือนต้นของกล้วย) เพราะมีน้ำหนักเบา ลอยน้ำได้ ของตกแต่งทำจากใบตอง ดอกไม้หลายสีหลายชนิดตามความชอบของคนทำ และปักธูปเทียนไว้ตรงกลาง แต่ปัจจุบันมีการทำกระทงด้วยวัสดุหลายอย่างมากขึ้น บางคนทำกระทงจากขี้ผึ้ง เพราะหลังจากจบงาน สามารถเก็บขึ้นจากน้ำได้ง่าย บางคนทำกระทงจากน้ำแข็ง เพราะกระทงจะได้ละลายลงไปในน้ำและไม่เหลือขยะ บางคนทำกระทงจากขนมปังหรืออาหารปลา เพราะเชื่อว่าสัตว์ที่อยู่ในน้ำ จะได้กินเป็นอาหาร",
@@ -474,7 +526,8 @@
           "en": "In the past, krathong bases were made from banana stalk because it is light and floats. Decorations used banana leaves and flowers of many colors and kinds, according to the maker's preference, with incense and candles placed in the center. Today, more materials are used: wax because it is easy to collect after the event; ice because it melts without leaving waste; or bread and fish food so aquatic animals can eat it.",
           "ja": "昔は、軽くて水に浮くバナナの茎を土台にし、作り手の好みに合わせてバナナの葉やさまざまな色と種類の花で飾り、中央に線香とろうそくを立てた。現在は材料が多様化し、行事後に回収しやすい蜜ろう、水に溶けてごみを残さない氷、水中の動物の餌になるパンや魚の餌なども使われる。",
           "ko": "과거에는 가볍고 물에 뜨는 바나나 줄기로 끄라통의 바닥을 만들었다. 장식은 만든 사람의 취향에 따라 바나나 잎과 여러 색깔·종류의 꽃으로 하고 중앙에는 향과 초를 꽂았다. 오늘날에는 행사 후 쉽게 건질 수 있는 밀랍, 녹아서 쓰레기가 남지 않는 얼음, 물속 동물이 먹을 수 있는 빵이나 물고기 사료 등 더 다양한 재료를 쓴다.",
-          "romanization": "sà-maj-kɔ̀n thǎn khɔ̌ng krà-thong tham jàk juàk kluâj ( suàn thî du-mʉǎn tôn khɔ̌ng kluâj ) phrɔ́ mi nám-nàk baw lɔj-nám dâj khɔ̌ng tòk-tɛ̀ng tham jàk baj-tɔng dɔ̀k-máj lǎj sǐ lǎj-chá-nít tam khwam-chɔ̂p khɔ̌ng khon tham lɛ́ pàk thûp thian wáj trong-klang tɛ̀ pàt-jù-ban mi kan tham krà-thong duâj wát-sà-dù lǎj-jàng mâk-khʉ̂n bang-khon tham krà-thong jàk khî-phʉ̂ng phrɔ́ lǎng-jàk jɔ-bɔ ngan sǎ-mât kèp khʉ̂n jàk nám dâj ngâj bang-khon tham krà-thong jàk nám-khɛ̌ng phrɔ́ krà-thong jà dâj lá-laj long paj naj nám lɛ́ mâj lʉǎ khà-jà bang-khon tham krà-thong jàk khà-nǒm-pang rʉ̌ a-hǎn pla phrɔ́ chʉâ wâ sàt thî-jù naj nám jà dâj kin pen a-hǎn"
+          "romanization": "sà-maj-kɔ̀n thǎn khɔ̌ng krà-thong tham jàk juàk kluâj ( suàn thî du-mʉǎn tôn khɔ̌ng kluâj ) phrɔ́ mi nám-nàk baw lɔj-nám dâj khɔ̌ng tòk-tɛ̀ng tham jàk baj-tɔng dɔ̀k-máj lǎj sǐ lǎj-chá-nít tam khwam-chɔ̂p khɔ̌ng khon tham lɛ́ pàk thûp thian wáj trong-klang tɛ̀ pàt-jù-ban mi kan tham krà-thong duâj wát-sà-dù lǎj-jàng mâk-khʉ̂n bang-khon tham krà-thong jàk khî-phʉ̂ng phrɔ́ lǎng-jàk jɔ-bɔ ngan sǎ-mât kèp khʉ̂n jàk nám dâj ngâj bang-khon tham krà-thong jàk nám-khɛ̌ng phrɔ́ krà-thong jà dâj lá-laj long paj naj nám lɛ́ mâj lʉǎ khà-jà bang-khon tham krà-thong jàk khà-nǒm-pang rʉ̌ a-hǎn pla phrɔ́ chʉâ wâ sàt thî-jù naj nám jà dâj kin pen a-hǎn",
+          "page": "48"
         },
         {
           "thai": "มีความเชื่อหลายความเชื่อในการลอยกระทง บางคนมีความเชื่อเกี่ยวกับความรัก พวกเขาเชื่อว่า ถ้าคนโสดมาลอยกระทง จะได้พบเนื้อคู่ แต่ถ้าคนมีคู่มาลอยกระทง แล้วกระทงของพวกเขาลอยแยกออกจากกัน อาจจะต้องเลิกกัน บางคนมีความเชื่อเกี่ยวกับโชคดีและโชคร้าย พวกเขาเชื่อว่าถ้าใส่เงินลงในกระทงแล้วลอยไป จะทำให้โชคดี และยังเชื่ออีกว่า ถ้านำเล็บหรือผมใส่ลงในกระทงแล้วลอยไป จะทำให้โชคร้ายลอยออกไปจากชีวิตพวกเขาด้วย",
@@ -482,7 +535,8 @@
           "en": "Many beliefs surround floating krathongs. Some concern love: single people may meet a soulmate, but couples whose krathongs drift apart may separate. Others concern luck: putting money in a krathong is believed to bring good fortune, while placing nail clippings or hair in it is believed to carry bad luck away from one's life.",
           "ja": "ロイクラトンには多くの言い伝えがある。恋愛については、独身者が流せば運命の相手に出会い、恋人同士のクラトンが離れて流れれば別れるかもしれないとされる。金を入れて流すと幸運を招き、爪や髪を入れると不運が人生から流れ去るという信仰もある。",
           "ko": "끄라통을 띄우는 데에는 여러 믿음이 있다. 사랑과 관련해서는 솔로가 띄우면 짝을 만나고, 연인이 띄운 두 끄라통이 갈라져 떠가면 헤어질 수도 있다고 믿는다. 돈을 넣어 띄우면 행운이 오고, 손톱이나 머리카락을 넣으면 불운이 삶에서 떠내려간다고 믿기도 한다.",
-          "romanization": "mi khwam-chʉâ lǎj khwam-chʉâ naj kan lɔj-krà-thong bang-khon mi khwam-chʉâ kiàw-kàp khwam-rák phuâk-khǎw chʉâ wâ thâ khon-sòt ma lɔj-krà-thong jà dâj phóp nʉá-khû tɛ̀ thâ khon mi khû ma lɔj-krà-thong lɛ́w krà-thong khɔ̌ng phuâk-khǎw lɔj jɛ̂k ɔ̀k jàk-kan àt-jà tɔ̂ng lə̂k-kan bang-khon mi khwam-chʉâ kiàw-kàp chôk-di lɛ́ chôk-ráj phuâk-khǎw chʉâ wâ thâ sàj ngən long naj krà-thong lɛ́w lɔj paj jà tham-hâj chôk-di lɛ́ jang chʉâ i kwà thâ nam lép rʉ̌ phǒm sàj long naj krà-thong lɛ́w lɔj paj jà tham-hâj chôk-ráj lɔj ɔ̀k paj jàk chi-wít phuâk-khǎw duâj"
+          "romanization": "mi khwam-chʉâ lǎj khwam-chʉâ naj kan lɔj-krà-thong bang-khon mi khwam-chʉâ kiàw-kàp khwam-rák phuâk-khǎw chʉâ wâ thâ khon-sòt ma lɔj-krà-thong jà dâj phóp nʉá-khû tɛ̀ thâ khon mi khû ma lɔj-krà-thong lɛ́w krà-thong khɔ̌ng phuâk-khǎw lɔj jɛ̂k ɔ̀k jàk-kan àt-jà tɔ̂ng lə̂k-kan bang-khon mi khwam-chʉâ kiàw-kàp chôk-di lɛ́ chôk-ráj phuâk-khǎw chʉâ wâ thâ sàj ngən long naj krà-thong lɛ́w lɔj paj jà tham-hâj chôk-di lɛ́ jang chʉâ i kwà thâ nam lép rʉ̌ phǒm sàj long naj krà-thong lɛ́w lɔj paj jà tham-hâj chôk-ráj lɔj ɔ̀k paj jàk chi-wít phuâk-khǎw duâj",
+          "page": "49"
         },
         {
           "thai": "ประเพณีลอยกระทงแตกต่างกันไปตามภูมิภาคในประเทศไทย ส่วนใหญ่คนจะลอยกระทงในแหล่งน้ำ เช่น สระน้ำ ทะเลสาบ แม่น้ำ และทะเล แต่บางจังหวัดในภาคเหนือจะลอยโคมขึ้นไปบนฟ้าแทนการลอยกระทงลงไปในแหล่งน้ำ",
@@ -490,7 +544,8 @@
           "en": "Loy Krathong traditions vary by region in Thailand. Most people float krathongs on ponds, lakes, rivers, or the sea, but in some northern provinces people release lanterns into the sky instead.",
           "ja": "ロイクラトンの習慣はタイの地域によって異なる。多くは池、湖、川、海などでクラトンを流すが、北部の一部の県では水に流す代わりに灯籠を空へ放つ。",
           "ko": "러이끄라통 전통은 태국 지역에 따라 다르다. 대부분 연못, 호수, 강, 바다 같은 물에 끄라통을 띄우지만, 북부 일부 지역에서는 물에 띄우는 대신 등불을 하늘로 날린다.",
-          "romanization": "prà-phe-ni lɔj-krà-thong tɛ̀k tàng-kan paj tam phu-mí-phâk naj-prà-thêt thaj-já suàn-jàj khon jà lɔj-krà-thong naj lɛ̀ng-nám chên sà-nám thá-le-sàp mɛ̂-nám lɛ́ thá-le tɛ̀ bang jang-wàt naj phâk-nʉǎ jà lɔj khom khʉ̂n-paj bon fá thɛn kan lɔj-krà-thong long paj naj lɛ̀ng-nám"
+          "romanization": "prà-phe-ni lɔj-krà-thong tɛ̀k tàng-kan paj tam phu-mí-phâk naj-prà-thêt thaj-já suàn-jàj khon jà lɔj-krà-thong naj lɛ̀ng-nám chên sà-nám thá-le-sàp mɛ̂-nám lɛ́ thá-le tɛ̀ bang jang-wàt naj phâk-nʉǎ jà lɔj khom khʉ̂n-paj bon fá thɛn kan lɔj-krà-thong long paj naj lɛ̀ng-nám",
+          "page": "49"
         },
         {
           "thai": "ถึงแม้ว่าประเพณีลอยกระทงจะเป็นประเพณีที่สวยงาม น่าสนใจและช่วยดึงดูดนักท่องเที่ยวต่างประเทศให้เดินทางเข้ามาเที่ยวประเทศไทย แต่หลายคนเริ่มไม่เห็นด้วยกับการลอยกระทง เนื่องจากพวกเขาคิดว่าการลอยกระทงเป็นการเพิ่มขยะในแม่น้ำและทำให้แม่น้ำสกปรก มากกว่าการแสดงความขอบคุณแม่น้ำ",
@@ -498,7 +553,8 @@
           "en": "Although Loy Krathong is beautiful and interesting and helps attract foreign tourists to Thailand, many people are beginning to oppose it because they believe it adds rubbish to rivers and makes them dirty rather than expressing gratitude to the water.",
           "ja": "ロイクラトンは美しく興味深く、外国人観光客をタイへ呼び込む一方、反対する人も増えている。川への感謝を示すよりも、ごみを増やして川を汚す行為だと考えるからである。",
           "ko": "러이끄라통은 아름답고 흥미로우며 외국인 관광객을 태국으로 끌어들이지만, 반대하는 사람도 늘고 있다. 강에 감사를 표하기보다는 쓰레기를 늘리고 강을 더럽힌다고 생각하기 때문이다.",
-          "romanization": "thʉ̌ng-mɛ́-wâ prà-phe-ni lɔj-krà-thong jà pen prà-phe-ni thî suǎj-ngam nâ-sǒn-jaj lɛ́ chuâj dʉng-dùt nák-thɔ̂ng-thiâw tàng-prà-thêt hâj dən-thang khâw-ma thiâw prà-thêt thaj-já tɛ̀ lǎj khon rə̂m mâj hěn-duâj kàp kan lɔj-krà-thong nʉâng-jàk phuâk-khǎw khít wâ-kan lɔj-krà-thong pen-kan phə̂m khà-jà naj mɛ̂-nám lɛ́ tham-hâj mɛ̂-nám sòk-kà-pròk mâk-kwà kan-sà-dɛng khwam khɔ̀p-khun mɛ̂-nám"
+          "romanization": "thʉ̌ng-mɛ́-wâ prà-phe-ni lɔj-krà-thong jà pen prà-phe-ni thî suǎj-ngam nâ-sǒn-jaj lɛ́ chuâj dʉng-dùt nák-thɔ̂ng-thiâw tàng-prà-thêt hâj dən-thang khâw-ma thiâw prà-thêt thaj-já tɛ̀ lǎj khon rə̂m mâj hěn-duâj kàp kan lɔj-krà-thong nʉâng-jàk phuâk-khǎw khít wâ-kan lɔj-krà-thong pen-kan phə̂m khà-jà naj mɛ̂-nám lɛ́ tham-hâj mɛ̂-nám sòk-kà-pròk mâk-kwà kan-sà-dɛng khwam khɔ̀p-khun mɛ̂-nám",
+          "page": "49"
         },
         {
           "thai": "แล้วคุณล่ะ ถ้าคุณมีโอกาสมาเที่ยวงานลอยกระทงที่ประเทศไทย คุณอยากลองลอยกระทงไหม",
@@ -506,7 +562,8 @@
           "en": "What about you? If you had the chance to attend Loy Krathong in Thailand, would you like to try floating a krathong?",
           "ja": "あなたはどうだろう。タイのロイクラトンを訪れる機会があれば、クラトンを流してみたいだろうか。",
           "ko": "당신은 어떤가? 태국의 러이끄라통 축제에 갈 기회가 있다면 끄라통을 띄워 보고 싶은가?",
-          "romanization": "lɛ́w khun lâ thâ khun mi-o-kàt ma thiâw-ngan lɔj-krà-thong thî prà-thêt thaj-já khun jàk lɔng lɔj-krà-thong mǎj"
+          "romanization": "lɛ́w khun lâ thâ khun mi-o-kàt ma thiâw-ngan lɔj-krà-thong thî prà-thêt thaj-já khun jàk lɔng lɔj-krà-thong mǎj",
+          "page": "49"
         }
       ]
     },
@@ -527,7 +584,8 @@
           "en": "Ek: Where have you two been? Why are you dressed so nicely today?",
           "ja": "エーク：どこへ行ってきたの？今日はどうしてそんなにきれいな格好なの？",
           "ko": "엑: 어디 갔다 왔어? 오늘은 왜 이렇게 예쁘게 차려입었어?",
-          "romanization": "èk : paj nǎj kan ma tham-maj wan-ní tɛ̀ng-tua suǎj kan jang"
+          "romanization": "èk : paj nǎj kan ma tham-maj wan-ní tɛ̀ng-tua suǎj kan jang",
+          "page": "63"
         },
         {
           "thai": "ฝน: อ๋อ! ฉันกับอ้อยไปดูดวงกันมา",
@@ -535,7 +593,8 @@
           "en": "Fon: Oh! Oi and I went to have our fortunes told.",
           "ja": "フォン：ああ、オーイと一緒に占いに行ってきたの。",
           "ko": "폰: 아! 나랑 어이가 운세 보러 갔다 왔어.",
-          "romanization": "fǒn : ɔ̌ ! chǎn kàp ɔ̂j paj du-duang kan ma"
+          "romanization": "fǒn : ɔ̌ ! chǎn kàp ɔ̂j paj du-duang kan ma",
+          "page": "63"
         },
         {
           "thai": "เอก: อะไรกัน เชื่อเรื่องโชคเรื่องดวงกันด้วยเหรอ งมงายไม่เข้าท่า",
@@ -543,7 +602,8 @@
           "en": "Ek: What? You believe in luck and fate too? That's absurdly superstitious.",
           "ja": "エーク：何だって？運や運勢なんて信じているの？ばかばかしい迷信だよ。",
           "ko": "엑: 뭐라고? 너희도 운이나 사주 같은 걸 믿어? 말도 안 되는 미신이네.",
-          "romanization": "èk : à-raj kan chʉâ rʉâng chôk rʉâng duang kan duâj rə̌ ngom-ngaj mâj khâw-thâ"
+          "romanization": "èk : à-raj kan chʉâ rʉâng chôk rʉâng duang kan duâj rə̌ ngom-ngaj mâj khâw-thâ",
+          "page": "63"
         },
         {
           "thai": "ฝน: งมงายอะไร ไม่เห็นจะงมงายตรงไหน ใคร ๆ เขาก็ดูกันทั้งนั้น",
@@ -551,7 +611,8 @@
           "en": "Fon: Superstitious how? I don't see anything superstitious about it. Everyone does it.",
           "ja": "フォン：どこが迷信なの？全然そうは思わない。みんな占ってもらっているよ。",
           "ko": "폰: 뭐가 미신이야? 전혀 미신 같지 않은데. 다들 보잖아.",
-          "romanization": "fǒn : ngom-ngaj à-raj mâj-hěn-jà ngom-ngaj trong-nǎj khraj khraj khǎw kɔ̂ du kan tháng-nán"
+          "romanization": "fǒn : ngom-ngaj à-raj mâj-hěn-jà ngom-ngaj trong-nǎj khraj khraj khǎw kɔ̂ du kan tháng-nán",
+          "page": "63"
         },
         {
           "thai": "เอก: แหม! ก็พูดเล่นไปอย่างนั้น ว่าแต่ค่าดูกี่บาทล่ะ",
@@ -559,7 +620,8 @@
           "en": "Ek: Come on, I was just joking. Anyway, how much did it cost?",
           "ja": "エーク：もう、ちょっと冗談を言っただけだよ。ところで料金はいくら？",
           "ko": "엑: 참, 그냥 농담한 거야. 그런데 보는 데 얼마였어?",
-          "romanization": "èk : mɛ̌ ! kɔ̂ phût-lên paj à-jàng-nán wâ-tɛ̀ khâ du kì bàt lâ"
+          "romanization": "èk : mɛ̌ ! kɔ̂ phût-lên paj à-jàng-nán wâ-tɛ̀ khâ du kì bàt lâ",
+          "page": "63"
         },
         {
           "thai": "อ้อย: ร้อยเก้าเก้า",
@@ -567,7 +629,8 @@
           "en": "Oi: One hundred and ninety-nine.",
           "ja": "オーイ：百九十九バーツ。",
           "ko": "어이: 199밧.",
-          "romanization": "ɔ̂j : rɔ́j kâw kâw"
+          "romanization": "ɔ̂j : rɔ́j kâw kâw",
+          "page": "63"
         },
         {
           "thai": "เอก: โอ้โห! ตั้งร้อยเก้าเก้า แล้วได้เรื่องหรือเปล่า",
@@ -575,7 +638,8 @@
           "en": "Ek: Wow, a whole 199! Was it any good?",
           "ja": "エーク：うわ、百九十九も！それで当たっていたの？",
           "ko": "엑: 와, 무려 199밧이나! 그럴듯했어?",
-          "romanization": "èk : ô-hǒ ! tâng rɔ́j kâw kâw lɛ́w dâj-rʉâng rʉ̌-plàw"
+          "romanization": "èk : ô-hǒ ! tâng rɔ́j kâw kâw lɛ́w dâj-rʉâng rʉ̌-plàw",
+          "page": "63"
         },
         {
           "thai": "อ้อย: ก็ได้อยู่ หมอดูทำนายว่าปีนี้ดวงจะดีแต่อาจต้องเหนื่อยหน่อย อยากได้อะไรต้องทำด้วยตัวเอง ต้องช่วยเหลือตัวเอง",
@@ -583,7 +647,8 @@
           "en": "Oi: It was okay. The fortune-teller predicted that my luck would be good this year, but I might have to work hard. Whatever I want, I'll have to do it myself and rely on myself.",
           "ja": "オーイ：まあまあかな。今年は運勢がいいけれど少し苦労するかもしれない、欲しいものは自分で行動して自分を助けなければならないって占われた。",
           "ko": "어이: 괜찮았어. 올해 운은 좋지만 조금 힘들 수 있고, 원하는 게 있으면 스스로 해야 하고 자신을 도와야 한대.",
-          "romanization": "ɔ̂j : kɔ̂-dâj jù mɔ̌-du tham-naj wâ pi ní duang jà di-tɛ̀ àt tɔ̂ng nʉàj nɔ̀j à-jàk-dâj à-raj tɔ̂ng tham duâj-tua-eng tɔ̂ng chuâj-lʉǎ tua-eng"
+          "romanization": "ɔ̂j : kɔ̂-dâj jù mɔ̌-du tham-naj wâ pi ní duang jà di-tɛ̀ àt tɔ̂ng nʉàj nɔ̀j à-jàk-dâj à-raj tɔ̂ng tham duâj-tua-eng tɔ̂ng chuâj-lʉǎ tua-eng",
+          "page": "63"
         },
         {
           "thai": "เอก: โอ๊ย! ใคร ๆ ก็ต้องช่วยเหลือตัวเองกันทั้งนั้น ถ้าพูดอะไรก็ได้แบบนี้ ฉันก็เป็นหมอดูได้เหมือนกัน ว่าแต่พวกเธอดูดวงกันบ่อยแค่ไหนเหรอ",
@@ -591,7 +656,8 @@
           "en": "Ek: Oh, come on! Everyone has to help themselves. If you can say anything like that, I could be a fortune-teller too. Anyway, how often do you two go?",
           "ja": "エーク：もう！誰だって自分で何とかしなきゃいけないよ。そんなふうに何でも言っていいなら、僕だって占い師になれる。ところで、どのくらいの頻度で占ってもらうの？",
           "ko": "엑: 아이고! 누구나 자기를 도와야지. 그런 식으로 아무 말이나 해도 된다면 나도 점쟁이가 되겠네. 그런데 너희는 얼마나 자주 운세를 봐?",
-          "romanization": "èk : ój ! khraj khraj kɔ̂ tɔ̂ng chuâj-lʉǎ tua-eng kan tháng-nán thâ phût à-raj kɔ̂-dâj bɛ̀p-ní chǎn kɔ̂ pen mɔ̌-du dâj mʉǎn-kan wâ-tɛ̀ phuâk thə du-duang kan bɔ̀j khɛ̂ nǎj rə̌"
+          "romanization": "èk : ój ! khraj khraj kɔ̂ tɔ̂ng chuâj-lʉǎ tua-eng kan tháng-nán thâ phût à-raj kɔ̂-dâj bɛ̀p-ní chǎn kɔ̂ pen mɔ̌-du dâj mʉǎn-kan wâ-tɛ̀ phuâk thə du-duang kan bɔ̀j khɛ̂ nǎj rə̌",
+          "page": "63"
         },
         {
           "thai": "ฝน: ปกติเราดูดวงกันเดือนละสองครั้ง",
@@ -599,7 +665,8 @@
           "en": "Fon: We normally have our fortunes told twice a month.",
           "ja": "フォン：普段は月に二回見てもらうよ。",
           "ko": "폰: 보통 한 달에 두 번 봐.",
-          "romanization": "fǒn : pà-kà-tì raw du-duang kan dʉan lá sɔ̌ng khráng"
+          "romanization": "fǒn : pà-kà-tì raw du-duang kan dʉan lá sɔ̌ng khráng",
+          "page": "63"
         },
         {
           "thai": "เอก: โอ้โห! เดือนละตั้งสองครั้ง เธอชอบดูดวงกันขนาดนี้เลยเหรอ ไร้สาระจริง ๆ",
@@ -607,7 +674,8 @@
           "en": "Ek: Wow, twice every month! Do you really like fortune-telling that much? What nonsense.",
           "ja": "エーク：うわ、月に二回も！そんなに占いが好きなの？本当にくだらない。",
           "ko": "엑: 와, 한 달에 두 번이나! 운세 보는 걸 그렇게 좋아해? 정말 쓸데없다.",
-          "romanization": "èk : ô-hǒ ! dʉan lá tâng sɔ̌ng khráng thə chɔ̂p du-duang kan khà-nàt ní ləj rə̌ ráj-sǎ-rá jing jing"
+          "romanization": "èk : ô-hǒ ! dʉan lá tâng sɔ̌ng khráng thə chɔ̂p du-duang kan khà-nàt ní ləj rə̌ ráj-sǎ-rá jing jing",
+          "page": "63"
         },
         {
           "thai": "ฝน: ไร้สาระอะไรกัน ดูดวงก็เป็นศาสตร์ เป็นวิทยาศาสตร์อย่างหนึ่ง เขาเรียกว่า “โหราศาสตร์”",
@@ -615,7 +683,8 @@
           "en": "Fon: Nonsense how? Fortune-telling is a field of knowledge, a kind of science. It's called astrology.",
           "ja": "フォン：何がくだらないの？占いだって学問で、科学の一種なの。「占星術」っていうでしょう。",
           "ko": "폰: 뭐가 쓸데없어? 운세도 하나의 학문이고 과학이야. ‘점성술’이라고 부르잖아.",
-          "romanization": "fǒn : ráj-sǎ-rá à-raj kan du-duang kɔ̂ pen sàt pen wít-thá-ja-sàt à-jàng-nʉ̀ng khǎw riâk wâ “ hǒ-ra-sàt ”"
+          "romanization": "fǒn : ráj-sǎ-rá à-raj kan du-duang kɔ̂ pen sàt pen wít-thá-ja-sàt à-jàng-nʉ̀ng khǎw riâk wâ “ hǒ-ra-sàt ”",
+          "page": "64"
         },
         {
           "thai": "เอก: “โหราศาสตร์” เป็นวิทยาศาสตร์ที่ไหน “ดาราศาสตร์” สิ เป็นวิทยาศาสตร์ แล้วหมอดูเต็มบ้านเต็มเมืองไปหมด แล้วจะรู้ได้ยังไงว่าใครแม่นไม่แม่น",
@@ -623,7 +692,8 @@
           "en": "Ek: How is astrology a science? Astronomy is science. Fortune-tellers are everywhere—how can you know who is accurate and who isn't?",
           "ja": "エーク：「占星術」のどこが科学なの？科学なのは「天文学」だよ。それに占い師は町じゅうにいるのに、誰が当たるかどうやって分かるの？",
           "ko": "엑: ‘점성술’이 무슨 과학이야? ‘천문학’이 과학이지. 점쟁이가 온 동네에 넘쳐나는데 누가 잘 맞히고 못 맞히는지 어떻게 알아?",
-          "romanization": "èk : “ hǒ-ra-sàt ” pen wít-thá-ja-sàt thî-nǎj “ da-ra-sàt ” sì pen wít-thá-ja-sàt lɛ́w mɔ̌-du tem-bân-tem-mʉang paj mòt lɛ́ wá-jà rú dâj jang-ngaj wâ khraj mɛ̂n mâj mɛ̂n"
+          "romanization": "èk : “ hǒ-ra-sàt ” pen wít-thá-ja-sàt thî-nǎj “ da-ra-sàt ” sì pen wít-thá-ja-sàt lɛ́w mɔ̌-du tem-bân-tem-mʉang paj mòt lɛ́ wá-jà rú dâj jang-ngaj wâ khraj mɛ̂n mâj mɛ̂n",
+          "page": "64"
         },
         {
           "thai": "อ้อย: โอ๊ย! ถามมากจริง เอาเป็นว่า วันหลังจะพาไปดูด้วยก็แล้วกัน",
@@ -631,7 +701,8 @@
           "en": "Oi: Oh, you ask so many questions! Let's just say we'll take you with us next time.",
           "ja": "オーイ：もう、質問が多いなあ。今度一緒に連れて行ってあげることにしよう。",
           "ko": "어이: 아이고, 질문도 참 많네. 다음에 같이 데려가 줄게.",
-          "romanization": "ɔ̂j : ój ! thǎ má-mâk jing aw-pen-wâ wan-lǎng jà pha paj-du duâj kɔ̂-lɛ́w-kan"
+          "romanization": "ɔ̂j : ój ! thǎ má-mâk jing aw-pen-wâ wan-lǎng jà pha paj-du duâj kɔ̂-lɛ́w-kan",
+          "page": "64"
         },
         {
           "thai": "เอก: ได้เลย อยากจะรู้เหมือนกันว่ามันวิทยาศาสตร์ยังไง",
@@ -639,7 +710,8 @@
           "en": "Ek: Sure. I'd like to know how it's scientific too.",
           "ja": "エーク：いいよ。どう科学なのか僕も知りたい。",
           "ko": "엑: 좋아. 그게 어떻게 과학인지 나도 알고 싶어.",
-          "romanization": "èk : dâj ləj jàk jà rú mʉǎn-kan wâ man wít-thá-ja-sàt jang-ngaj"
+          "romanization": "èk : dâj ləj jàk jà rú mʉǎn-kan wâ man wít-thá-ja-sàt jang-ngaj",
+          "page": "64"
         }
       ]
     },
@@ -660,7 +732,8 @@
           "en": "Capricorn (14 Jan–12 Feb): Ambitious and determined, but sometimes takes life so seriously that they are constantly anxious about it.",
           "ja": "山羊座（1月14日～2月12日）：野心があり意志も強いが、人生に真剣になりすぎて、いつも不安を抱えることがある。",
           "ko": "염소자리(1월 14일~2월 12일): 야심 있고 굳은 의지를 지녔지만 때로 삶을 지나치게 심각하게 여겨 늘 걱정하기도 한다.",
-          "romanization": "ra-sǐ-mang-kɔn ( sìp sì má-kà-ra-khom sìp-sɔ̌ng kum-pha-phan ) pen khon thá-jə-thá-jan mûng-mân tɛ̀ bang-khráng aw-jing-aw-jang kàp chi-wít mâk paj jon tham-hâj wí-tòk-kang-won kàp chi-wít sà-mə̌"
+          "romanization": "ra-sǐ-mang-kɔn ( sìp sì má-kà-ra-khom sìp-sɔ̌ng kum-pha-phan ) pen khon thá-jə-thá-jan mûng-mân tɛ̀ bang-khráng aw-jing-aw-jang kàp chi-wít mâk paj jon tham-hâj wí-tòk-kang-won kàp chi-wít sà-mə̌",
+          "page": "74"
         },
         {
           "thai": "ราศีกุมภ์ (13 ก.พ. – 13 มี.ค.) เป็นคนสุภาพและมีเมตตา ภายนอกดูเหมือนเป็นคนมีเพื่อนมากแต่จริง ๆ กลับมีเพื่อนสนิทที่ไว้วางใจได้ไม่กี่คน",
@@ -668,7 +741,8 @@
           "en": "Aquarius (13 Feb–13 Mar): Polite and compassionate. They appear to have many friends but actually have only a few close friends they can trust.",
           "ja": "水瓶座（2月13日～3月13日）：礼儀正しく思いやりがある。外からは友人が多く見えるが、本当に信頼できる親友は数人しかいない。",
           "ko": "물병자리(2월 13일~3월 13일): 예의 바르고 자비롭다. 겉으로는 친구가 많아 보이지만 실제로 믿을 수 있는 가까운 친구는 몇 명뿐이다.",
-          "romanization": "ra-sǐ-kum ( sìp sǎm kum-pha-phan – sìp sǎm mi-na-khom ) pen khon sù-phâp lɛ́ mi mêt-ta phaj-nɔ̂k du-mʉǎn pen khon mi phʉân mâk tɛ̀ jing jing klàp mi phʉân-sà-nít thî wáj-wang-jaj dâj mâj kì khon"
+          "romanization": "ra-sǐ-kum ( sìp sǎm kum-pha-phan – sìp sǎm mi-na-khom ) pen khon sù-phâp lɛ́ mi mêt-ta phaj-nɔ̂k du-mʉǎn pen khon mi phʉân mâk tɛ̀ jing jing klàp mi phʉân-sà-nít thî wáj-wang-jaj dâj mâj kì khon",
+          "page": "74"
         },
         {
           "thai": "ราศีมีน (14 มี.ค. - 12 เม.ย.) เป็นคนอารมณ์อ่อนไหว ช่างเห็นอกเห็นใจผู้อื่น แต่ข้อเสียคือบางครั้งเป็นคนโลกสวยมากเกินไปจนทำให้ไม่กล้าเผชิญหน้ากับความจริง",
@@ -676,7 +750,8 @@
           "en": "Pisces (14 Mar–12 Apr): Emotionally sensitive and highly empathetic. Their downside is sometimes being so idealistic that they dare not face reality.",
           "ja": "魚座（3月14日～4月12日）：感受やすく、他人への共感力が高い。一方、理想主義が過ぎて現実に向き合えないことがある。",
           "ko": "물고기자리(3월 14일~4월 12일): 감수성이 예민하고 타인을 잘 공감한다. 하지만 때로 지나치게 이상적으로 생각해 현실을 마주하지 못하는 단점이 있다.",
-          "romanization": "ra-sǐ-min ( sìp sì mi-na-khom sìp-sɔ̌ng me-sǎ-jon ) pen khon a-rom ɔ̀n-wǎj châng hěn-òk-hěn-jaj phû-ʉ̀n tɛ̀ khɔ̂-siǎ khʉ bang-khráng pen khon lôk suǎj mâk-kən-paj jon tham-hâj mâj klâ phà-chən-nâ kàp khwam-jing"
+          "romanization": "ra-sǐ-min ( sìp sì mi-na-khom sìp-sɔ̌ng me-sǎ-jon ) pen khon a-rom ɔ̀n-wǎj châng hěn-òk-hěn-jaj phû-ʉ̀n tɛ̀ khɔ̂-siǎ khʉ bang-khráng pen khon lôk suǎj mâk-kən-paj jon tham-hâj mâj klâ phà-chən-nâ kàp khwam-jing",
+          "page": "74"
         },
         {
           "thai": "ราศีเมษ (13 เม.ย. - 13 พ.ค.) เป็นคนกระตือรือร้นคล่องแคล่ว กระฉับกระเฉง อย่างไรก็ตามคนราศีเมษเป็นคนอวดดี หยิ่ง จึงไม่ค่อยชอบฟังความเห็นของผู้อื่น",
@@ -684,7 +759,8 @@
           "en": "Aries (13 Apr–13 May): Enthusiastic, agile, and energetic. However, Aries can be conceited and proud, so they do not much like listening to others' opinions.",
           "ja": "牡羊座（4月13日～5月13日）：熱意があり機敏で活動的。ただし自信過剰で高慢なところがあり、他人の意見をあまり聞きたがらない。",
           "ko": "양자리(4월 13일~5월 13일): 열정적이고 민첩하며 활력이 넘친다. 하지만 잘난 체하고 거만해서 다른 사람의 의견을 잘 들으려 하지 않는다.",
-          "romanization": "ra-sǐ-mèt ( sìp sǎm me-sǎ-jon sìp sǎm phrʉ́t-sà-pha-khom ) pen khon krà-tʉ-rʉ-rón khlɔ̂ng-khlɛ̂w krà-chàp-krà-cheng à-jàng-raj-kɔ̂-tam khon ra-sǐ-mèt pen khon uàt-di jìng jʉng mâj-khɔ̂j chɔ̂p fang khwam-hěn khɔ̌ng phû-ʉ̀n"
+          "romanization": "ra-sǐ-mèt ( sìp sǎm me-sǎ-jon sìp sǎm phrʉ́t-sà-pha-khom ) pen khon krà-tʉ-rʉ-rón khlɔ̂ng-khlɛ̂w krà-chàp-krà-cheng à-jàng-raj-kɔ̂-tam khon ra-sǐ-mèt pen khon uàt-di jìng jʉng mâj-khɔ̂j chɔ̂p fang khwam-hěn khɔ̌ng phû-ʉ̀n",
+          "page": "74"
         },
         {
           "thai": "ราศีพฤษภ (14 พ.ค. - 13 มิ.ย.) เป็นคนเงียบขรึม แต่อดทน แข็งแกร่ง เป็นคนพูดจาตรงไปตรงมา ไม่เสแสร้ง",
@@ -692,7 +768,8 @@
           "en": "Taurus (14 May–13 Jun): Quiet and reserved, but patient and strong. They speak frankly and do not pretend.",
           "ja": "牡牛座（5月14日～6月13日）：物静かだが、忍耐強くたくましい。率直に話し、取り繕わない。",
           "ko": "황소자리(5월 14일~6월 13일): 말수가 적고 진중하지만 인내심 있고 강하다. 솔직하게 말하며 가식이 없다.",
-          "romanization": "ra-sǐ phrʉ́-sòp ( sìp sì phrʉ́t-sà-pha-khom sìp sǎm mí-thù-na-jon ) pen khon ngiâp-khrʉ̌m tɛ̀ òt-thon khɛ̌ng-krɛ̂ng pen khon phût-ja trong-paj-trong-ma mâj sě-sɛ̂ng"
+          "romanization": "ra-sǐ phrʉ́-sòp ( sìp sì phrʉ́t-sà-pha-khom sìp sǎm mí-thù-na-jon ) pen khon ngiâp-khrʉ̌m tɛ̀ òt-thon khɛ̌ng-krɛ̂ng pen khon phût-ja trong-paj-trong-ma mâj sě-sɛ̂ng",
+          "page": "74"
         },
         {
           "thai": "ราศีเมถุน (14 มิ.ย. - 14 ก.ค.) เป็นคนที่มีความขัดแย้งในตัวเอง บางครั้งก็รักความสนุกสนาน ชอบความตลกขบขัน บางครั้งชอบอยู่คนเดียว แต่บางครั้งก็ขี้เหงาง่าย",
@@ -700,7 +777,8 @@
           "en": "Gemini (14 Jun–14 Jul): Has contradictions within. Sometimes loves fun and humor, sometimes likes being alone, yet sometimes becomes lonely easily.",
           "ja": "双子座（6月14日～7月14日）：内面に矛盾を抱えている。楽しいことや冗談が好きなときもあれば、一人を好むときもあり、寂しがりになることもある。",
           "ko": "쌍둥이자리(6월 14일~7월 14일): 내면에 모순이 있다. 때로 즐거움과 유머를 좋아하고 혼자 있기를 좋아하기도 하지만, 또 쉽게 외로워하기도 한다.",
-          "romanization": "ra-sǐ me-thǔn ( sìp sì mí-thù-na-jon sìp sì kà-rá-kà-da-khom ) pen khon thî mi khwam-khàt-jɛ́ng naj tua-eng bang-khráng kɔ̂ rák khwam sà-nùk-sà-nǎn chɔ̂p khwam-tà-lòk-khòp-khǎn bang-khráng chɔ̂p jù khon-diaw tɛ̀ bang-khráng kɔ̂ khî-ngǎw ngâj"
+          "romanization": "ra-sǐ me-thǔn ( sìp sì mí-thù-na-jon sìp sì kà-rá-kà-da-khom ) pen khon thî mi khwam-khàt-jɛ́ng naj tua-eng bang-khráng kɔ̂ rák khwam sà-nùk-sà-nǎn chɔ̂p khwam-tà-lòk-khòp-khǎn bang-khráng chɔ̂p jù khon-diaw tɛ̀ bang-khráng kɔ̂ khî-ngǎw ngâj",
+          "page": "74"
         },
         {
           "thai": "ราศีกรกฎ (15 ก.ค. - 16 ส.ค.) เป็นคนที่รู้ตัวว่าเป็นคนอ่อนแอ อ่อนไหวง่าย จึงมักสร้างบุคลิกภายนอกให้ดูแข็งแกร่ง จนบางครั้งดูก้าวร้าวเพื่อปกป้องตัวเอง",
@@ -708,7 +786,8 @@
           "en": "Cancer (15 Jul–16 Aug): Knows they are vulnerable and sensitive, so they often create a tough exterior, sometimes appearing aggressive in order to protect themselves.",
           "ja": "蟹座（7月15日～8月16日）：自分が弱く傷つきやすいと分かっているため、外見上は強く見せようとし、自分を守るために攻撃的に見えることもある。",
           "ko": "게자리(7월 15일~8월 16일): 자신이 약하고 예민하다는 것을 알기에 겉으로 강해 보이는 성격을 만들며, 자신을 보호하려다 때로 공격적으로 보이기도 한다.",
-          "romanization": "ra-sǐ-kɔ-rá-kòt ( sìp-hâ kà-rá-kà-da-khom sìp hòk sǐng-hǎ-khom ) pen khon thî rú-tua wâ pen khon-ɔ̀n-ɛ ɔ̀n-wǎj ngâj jʉng mák sâng bùk-khá-lík phaj-nɔ̂k hâj du khɛ̌ng-krɛ̂ng jon bang-khráng du kâw-ráw phʉâ pòk-pɔ̂ng tua-eng"
+          "romanization": "ra-sǐ-kɔ-rá-kòt ( sìp-hâ kà-rá-kà-da-khom sìp hòk sǐng-hǎ-khom ) pen khon thî rú-tua wâ pen khon-ɔ̀n-ɛ ɔ̀n-wǎj ngâj jʉng mák sâng bùk-khá-lík phaj-nɔ̂k hâj du khɛ̌ng-krɛ̂ng jon bang-khráng du kâw-ráw phʉâ pòk-pɔ̂ng tua-eng",
+          "page": "75"
         },
         {
           "thai": "ราศีสิงห์ (17 ส.ค. - 16 ก.ย.) คนราศีสิงห์เป็นคนใจกว้าง มีนิสัยเอื้อเฟื้อเผื่อแผ่ อย่างไรก็ตามชาวราศีสิงห์เป็นคนดื้อรั้น จึงชอบเป็นผู้นำและชอบเจ้ากี้เจ้าการกับคนอื่นอยู่บ่อย ๆ",
@@ -716,7 +795,8 @@
           "en": "Leo (17 Aug–16 Sep): Broad-minded and generous. However, Leos are stubborn, so they like leading and often bossing others around.",
           "ja": "獅子座（8月17日～9月16日）：寛大で気前がよい。一方で頑固なため、リーダーになることや、人にあれこれ指図することを好む。",
           "ko": "사자자리(8월 17일~9월 16일): 마음이 넓고 베풀기를 좋아한다. 하지만 고집이 세서 지도자가 되려 하고 다른 사람에게 자주 이래라저래라 한다.",
-          "romanization": "ra-sǐ-sǐng ( sìp jèt sǐng-hǎ-khom sìp hòk kan-ja-jon ) khon ra-sǐ-sǐng pen khon jaj-kwâng mi ní-sǎj ʉâ-fʉá-phʉà-phɛ̀ à-jàng-raj-kɔ̂-tam chaw ra-sǐ-sǐng pen khon dʉ̂-rán jʉng chɔ̂p pen phû-nam lɛ́ chɔ̂p jâw-kî-jâw-kan kàp khon-ʉ̀n jù bɔ̀j bɔ̀j"
+          "romanization": "ra-sǐ-sǐng ( sìp jèt sǐng-hǎ-khom sìp hòk kan-ja-jon ) khon ra-sǐ-sǐng pen khon jaj-kwâng mi ní-sǎj ʉâ-fʉá-phʉà-phɛ̀ à-jàng-raj-kɔ̂-tam chaw ra-sǐ-sǐng pen khon dʉ̂-rán jʉng chɔ̂p pen phû-nam lɛ́ chɔ̂p jâw-kî-jâw-kan kàp khon-ʉ̀n jù bɔ̀j bɔ̀j",
+          "page": "75"
         },
         {
           "thai": "ราศีกันย์ (17 ก.ย. - 16 ต.ค.) ชาวราศีกันย์เป็นคนไม่ชอบนินทาว่าร้ายคนอื่น ถ้าไม่จำเป็นก็จะไม่พูดถึงใครในแง่ร้าย และมีความจำเป็นเลิศ",
@@ -724,7 +804,8 @@
           "en": "Virgo (17 Sep–16 Oct): Dislikes gossiping or speaking badly of others. Unless necessary, they will not discuss anyone negatively, and they have an excellent memory.",
           "ja": "乙女座（9月17日～10月16日）：人の悪口や陰口を好まず、必要がなければ否定的に語らない。記憶力も抜群である。",
           "ko": "처녀자리(9월 17일~10월 16일): 남을 험담하는 것을 싫어하며, 필요하지 않으면 누구도 나쁘게 말하지 않는다. 기억력도 뛰어나다.",
-          "romanization": "ra-sǐ-kan ( sìp jèt kan-ja-jon sìp hòk tù-la-khom ) chaw ra-sǐ-kan pen khon mâj chɔ̂p nin-tha wâ-ráj khon-ʉ̀n thâ mâj jam-pen kɔ̂ jà mâj phût-thʉ̌ng khraj naj ngɛ̂-ráj lɛ́ mi-khwam-jam-pen lə̂t"
+          "romanization": "ra-sǐ-kan ( sìp jèt kan-ja-jon sìp hòk tù-la-khom ) chaw ra-sǐ-kan pen khon mâj chɔ̂p nin-tha wâ-ráj khon-ʉ̀n thâ mâj jam-pen kɔ̂ jà mâj phût-thʉ̌ng khraj naj ngɛ̂-ráj lɛ́ mi-khwam-jam-pen lə̂t",
+          "page": "75"
         },
         {
           "thai": "ราศีตุลย์ (17 ต.ค. - 15 พ.ย.) เป็นราศีที่ได้ชื่อว่ามีเสน่ห์มากที่สุดเนื่องจากเป็นคนสุภาพอ่อนโยน มีมารยาท อัธยาศัยดี มีพรสวรรค์ในการเข้ากับคนอื่น",
@@ -732,7 +813,8 @@
           "en": "Libra (17 Oct–15 Nov): Known as the most charming sign because they are polite, gentle, well-mannered, friendly, and talented at getting along with others.",
           "ja": "天秤座（10月17日～11月15日）：最も魅力的な星座といわれる。礼儀正しく穏やかで、感じがよく、人と打ち解ける才能があるからだ。",
           "ko": "천칭자리(10월 17일~11월 15일): 가장 매력적인 별자리로 알려져 있다. 공손하고 부드러우며 예의 있고 붙임성이 좋아 다른 사람과 잘 지내는 재능이 있기 때문이다.",
-          "romanization": "ra-sǐ tun ( sìp jèt tù-la-khom sìp-hâ phrʉ́t-sà-jì-ka-jon ) pen ra-sǐ thî dâj chʉ̂-wâ mi-sà-nè mâk thî-sùt nʉâng-jàk pen khon sù-phâp-ɔ̀n-jon mi ma-rá-jât àt-thá-ja-sǎj di mi-phɔn-sà-wàk naj kan khâw-kàp khon-ʉ̀n"
+          "romanization": "ra-sǐ tun ( sìp jèt tù-la-khom sìp-hâ phrʉ́t-sà-jì-ka-jon ) pen ra-sǐ thî dâj chʉ̂-wâ mi-sà-nè mâk thî-sùt nʉâng-jàk pen khon sù-phâp-ɔ̀n-jon mi ma-rá-jât àt-thá-ja-sǎj di mi-phɔn-sà-wàk naj kan khâw-kàp khon-ʉ̀n",
+          "page": "75"
         },
         {
           "thai": "ราศีพิจิก (16 พ.ย. - 15 ธ.ค.) ชาวราศีพิจิกเป็นคนทำอะไรทุ่มเทมาก บางครั้งมากเกินไปจนทำให้ดูเป็นคนเอาแต่ใจตัวเอง",
@@ -740,7 +822,8 @@
           "en": "Scorpio (16 Nov–15 Dec): Puts a great deal into everything they do, sometimes so much that they appear self-centered.",
           "ja": "蠍座（11月16日～12月15日）：何事にも非常に打ち込むが、度が過ぎてわがままに見えることがある。",
           "ko": "전갈자리(11월 16일~12월 15일): 무슨 일이든 매우 헌신하지만 때로 지나쳐 자기중심적인 사람처럼 보이기도 한다.",
-          "romanization": "ra-sǐ-phí-jìk ( sìp hòk phrʉ́t-sà-jì-ka-jon sìp-hâ than-wa-khom ) chaw ra-sǐ-phí-jìk pen khon tham à-raj thûm-the mâk bang-khráng mâk-kən-paj jon tham-hâj du pen khon aw-tɛ̀-jaj-tua-eng"
+          "romanization": "ra-sǐ-phí-jìk ( sìp hòk phrʉ́t-sà-jì-ka-jon sìp-hâ than-wa-khom ) chaw ra-sǐ-phí-jìk pen khon tham à-raj thûm-the mâk bang-khráng mâk-kən-paj jon tham-hâj du pen khon aw-tɛ̀-jaj-tua-eng",
+          "page": "75"
         },
         {
           "thai": "ราศีธนู (16 ธ.ค. - 13 ม.ค.) ชาวราศีธนูเป็นคนมองโลกในแง่ดี สบาย ๆ ชาวราศีธนูเป็นคนที่มีความสุขอย่างแท้จริง เนื่องจากเขารู้ว่าไม่มีประโยชน์จะต้องมาวิตกกังวลเพราะทุกสิ่งจะเป็นไปตามทางของมัน",
@@ -748,7 +831,8 @@
           "en": "Sagittarius (16 Dec–13 Jan): Optimistic and easygoing. Sagittarians are truly happy because they know there is no use worrying; everything will follow its own course.",
           "ja": "射手座（12月16日～1月13日）：楽観的でおおらか。本当に幸せな人であり、心配しても意味はなく、すべてはなるようになると分かっている。",
           "ko": "사수자리(12월 16일~1월 13일): 낙관적이고 느긋하다. 걱정해도 소용없고 모든 일은 제 갈 길로 흘러간다는 것을 알기에 진정으로 행복한 사람이다.",
-          "romanization": "ra-sǐ-thá-nu ( sìp hòk than-wa-khom sìp sǎm má-kà-ra-khom ) chaw ra-sǐ-thá-nu pen khon mɔng-lôk-naj-ngɛ̂-di sà-baj sà-baj chaw ra-sǐ-thá-nu pen khon thî mi-khwam-sùk jàng thɛ́-jing nʉâng-jàk khǎw rú wâ mâj mi-prà-jòt jà tɔ̂ng ma wí-tòk-kang-won phrɔ́ thúk-sìng jà pen-paj-tam thang khɔ̌ng man"
+          "romanization": "ra-sǐ-thá-nu ( sìp hòk than-wa-khom sìp sǎm má-kà-ra-khom ) chaw ra-sǐ-thá-nu pen khon mɔng-lôk-naj-ngɛ̂-di sà-baj sà-baj chaw ra-sǐ-thá-nu pen khon thî mi-khwam-sùk jàng thɛ́-jing nʉâng-jàk khǎw rú wâ mâj mi-prà-jòt jà tɔ̂ng ma wí-tòk-kang-won phrɔ́ thúk-sìng jà pen-paj-tam thang khɔ̌ng man",
+          "page": "75"
         }
       ]
     },
@@ -769,7 +853,8 @@
           "en": "Fon: Ploy, where are you going? You're dressed so beautifully.",
           "ja": "フォン：プローイ、どこへ行くの？ずいぶんきれいな格好だね。",
           "ko": "폰: 플로이, 어디 가? 정말 예쁘게 차려입었네.",
-          "romanization": "fǒn : phlɔj thə jà paj nǎj tɛ̀ng-tua suǎj chiaw"
+          "romanization": "fǒn : phlɔj thə jà paj nǎj tɛ̀ng-tua suǎj chiaw",
+          "page": "89"
         },
         {
           "thai": "พลอย: จะไปงานแต่งงาน เธอล่ะ",
@@ -777,7 +862,8 @@
           "en": "Ploy: I'm going to a wedding. What about you?",
           "ja": "プローイ：結婚式に行くの。あなたは？",
           "ko": "플로이: 결혼식에 가. 너는?",
-          "romanization": "phlɔj : jà paj ngan-tɛ̀ng-ngan thə lâ"
+          "romanization": "phlɔj : jà paj ngan-tɛ̀ng-ngan thə lâ",
+          "page": "89"
         },
         {
           "thai": "ฝน: เรามีนัดกับอ้อยน่ะ มันเพิ่งหย่ากับสามีเมื่อวาน ว่าจะไปปลอบใจมันหน่อย คงกำลังร้องไห้อยู่คนเดียว",
@@ -785,7 +871,8 @@
           "en": "Fon: I'm meeting Oi. She just divorced her husband yesterday. I'm going to comfort her; she's probably crying alone.",
           "ja": "フォン：オーイと会う約束があるの。昨日夫と離婚したばかりだから、慰めに行こうと思って。きっと一人で泣いているよ。",
           "ko": "폰: 어이를 만나기로 했어. 어제 남편과 막 이혼했거든. 위로하러 가려고 해. 아마 혼자 울고 있을 거야.",
-          "romanization": "fǒn : raw mi-nát kàp ɔ̂j nâ man phə̂ng jà kàp sǎ-mi mʉâ-wan wâ jà paj plɔ̀p-jaj man nɔ̀j khong kam-lang rɔ́ng-hâj jù khon-diaw"
+          "romanization": "fǒn : raw mi-nát kàp ɔ̂j nâ man phə̂ng jà kàp sǎ-mi mʉâ-wan wâ jà paj plɔ̀p-jaj man nɔ̀j khong kam-lang rɔ́ng-hâj jù khon-diaw",
+          "page": "89"
         },
         {
           "thai": "พลอย: อ้าว หย่ากันแล้วเหรอ ทำไมล่ะ",
@@ -793,7 +880,8 @@
           "en": "Ploy: Oh, they divorced already? Why?",
           "ja": "プローイ：えっ、もう離婚したの？どうして？",
           "ko": "플로이: 어, 벌써 이혼했어? 왜?",
-          "romanization": "phlɔj : âw jà-kan lɛ́w rə̌ tham-maj lâ"
+          "romanization": "phlɔj : âw jà-kan lɛ́w rə̌ tham-maj lâ",
+          "page": "89"
         },
         {
           "thai": "ฝน: ใช่ มีปัญหาเยอะ ทั้งสามีเจ้าชู้ ทั้งแม่สามีที่ไม่ลงรอยกัน เวลาอยู่ด้วยกันก็ทะเลาะกันบ่อย ๆ",
@@ -801,7 +889,8 @@
           "en": "Fon: Yes. There were many problems: a womanizing husband and a mother-in-law she couldn't get along with. They often argued when together.",
           "ja": "フォン：うん。問題が多かったの。夫は浮気性だし、姑とはそりが合わなくて、一緒にいるとよくけんかしていた。",
           "ko": "폰: 응. 문제가 많았어. 남편은 바람둥이고 시어머니와도 사이가 안 좋아서 함께 있으면 자주 싸웠대.",
-          "romanization": "fǒn : châj mi-pan-hǎ jə́ tháng sǎ-mi jâw-chú tháng mɛ̂ sǎ-mi thî mâj long-rɔj-kan we-la jù duâj-kan kɔ̂ thá-lɔ́ kan bɔ̀j bɔ̀j"
+          "romanization": "fǒn : châj mi-pan-hǎ jə́ tháng sǎ-mi jâw-chú tháng mɛ̂ sǎ-mi thî mâj long-rɔj-kan we-la jù duâj-kan kɔ̂ thá-lɔ́ kan bɔ̀j bɔ̀j",
+          "page": "89"
         },
         {
           "thai": "พลอย: นั่นไง ฉันว่าแล้ว ฉันถึงไม่อยากแต่งงานกับใคร เดี๋ยวเจอคนไม่ดี",
@@ -809,7 +898,8 @@
           "en": "Ploy: See? I knew it. That's why I don't want to marry anyone—I might end up with a bad person.",
           "ja": "プローイ：ほら、やっぱり。だから私は誰とも結婚したくないの。悪い人に当たるかもしれないでしょう。",
           "ko": "플로이: 거봐, 그럴 줄 알았어. 그래서 난 누구와도 결혼하고 싶지 않아. 나쁜 사람을 만날 수도 있잖아.",
-          "romanization": "phlɔj : nân-ngaj chǎn wâ-lɛ́w chǎn thʉ̌ng mâj jàk tɛ̀ng-ngan kàp khraj diǎw jə khon mâj di"
+          "romanization": "phlɔj : nân-ngaj chǎn wâ-lɛ́w chǎn thʉ̌ng mâj jàk tɛ̀ng-ngan kàp khraj diǎw jə khon mâj di",
+          "page": "89"
         },
         {
           "thai": "ฝน: แหมเธอ ไม่ใช่ทุกคนหรอกมั้ง ใครจะไปรู้ คนไหนดี คนไหนไม่ดี ถ้าไม่แต่งงาน เธอก็ต้องขึ้นคาน แก่แล้วใครจะมาเลี้ยง",
@@ -817,7 +907,8 @@
           "en": "Fon: Oh, not everyone is like that. Who can know who is good or bad? If you don't marry, you'll remain an old maid. Who will care for you when you're old?",
           "ja": "フォン：もう、全員がそうなわけじゃないでしょう。誰がいい人か悪い人かなんて分からないよ。結婚しなければ行き遅れになるし、年を取ったら誰が面倒を見るの？",
           "ko": "폰: 참, 모두가 그런 건 아니잖아. 누가 좋은 사람이고 나쁜 사람인지 누가 알겠어? 결혼 안 하면 노처녀로 남을 텐데, 늙으면 누가 돌봐 줘?",
-          "romanization": "fǒn : mɛ̌ thə mâj châj thúk-khon rɔ̀k máng khraj jà paj rú khon nǎj di khon nǎj mâj di thâ mâj tɛ̀ng-ngan thə kɔ̂ tɔ̂ng khʉ̂n-khan kɛ̀ lɛ́w khraj jà ma liáng"
+          "romanization": "fǒn : mɛ̌ thə mâj châj thúk-khon rɔ̀k máng khraj jà paj rú khon nǎj di khon nǎj mâj di thâ mâj tɛ̀ng-ngan thə kɔ̂ tɔ̂ng khʉ̂n-khan kɛ̀ lɛ́w khraj jà ma liáng",
+          "page": "89"
         },
         {
           "thai": "พลอย: เดี๋ยวนี้ผู้หญิงอยู่เป็นโสดกันเยอะแยะ ถึงมีลูก ลูกก็คงไม่มาดูแลเราหรอก พอแก่ มันก็เอาเราไปไว้บ้านพักคนชรา ฉันว่าเราเก็บเงินไว้เลี้ยงตัวเองดีกว่า",
@@ -825,7 +916,8 @@
           "en": "Ploy: Lots of women stay single nowadays. Even with children, they probably wouldn't care for us; when we're old, they'd put us in a nursing home. I think it's better to save money and support ourselves.",
           "ja": "プローイ：今は独身でいる女性がたくさんいるよ。子どもがいても面倒を見てくれるとは限らず、年を取ったら老人ホームに入れられるだけ。自分を養うためにお金を貯めたほうがいいと思う。",
           "ko": "플로이: 요즘은 독신으로 사는 여자가 아주 많아. 아이가 있어도 우리를 돌봐 주지 않을걸. 늙으면 요양원에 보내겠지. 난 돈을 모아 스스로를 부양하는 게 낫다고 봐.",
-          "romanization": "phlɔj : diǎw-ní phû-jǐng jù pen-sòt kan jə́-jɛ́ thʉ̌ng mi-lûk lûk kɔ̂ khong mâj ma du-lɛ raw rɔ̀k phɔ kɛ̀ man kɔ̂ aw raw paj wáj bân-phák khon-chá-ra chǎn wâ raw kèp ngən wáj liáng tua-eng di-kwà"
+          "romanization": "phlɔj : diǎw-ní phû-jǐng jù pen-sòt kan jə́-jɛ́ thʉ̌ng mi-lûk lûk kɔ̂ khong mâj ma du-lɛ raw rɔ̀k phɔ kɛ̀ man kɔ̂ aw raw paj wáj bân-phák khon-chá-ra chǎn wâ raw kèp ngən wáj liáng tua-eng di-kwà",
+          "page": "89"
         },
         {
           "thai": "ฝน: ดูพูดเข้า ฉันไม่เชื่อหรอกว่าเธออยากเป็นโสด คนที่พูดแบบนี้ จริง ๆ แล้วอยากแต่งงาน แต่หาแฟนไม่ได้มากกว่า",
@@ -833,7 +925,8 @@
           "en": "Fon: Listen to yourself. I don't believe you want to be single. People who talk like that actually want to marry but can't find a partner.",
           "ja": "フォン：よく言うよ。あなたが独身でいたいなんて信じない。そう言う人は、本当は結婚したいのに相手が見つからないだけなんじゃない？",
           "ko": "폰: 말하는 것 좀 봐. 네가 독신이고 싶다는 말은 못 믿겠어. 그렇게 말하는 사람은 사실 결혼하고 싶은데 애인을 못 찾은 경우가 더 많아.",
-          "romanization": "fǒn : du phût khâw chǎn mâj chʉâ rɔ̌ kwà thə jàk pen-sòt khon thî phût bɛ̀p-ní jing jing lɛ́w jàk tɛ̀ng-ngan tɛ̀ hǎ fɛn mâj dâj mâk-kwà"
+          "romanization": "fǒn : du phût khâw chǎn mâj chʉâ rɔ̌ kwà thə jàk pen-sòt khon thî phût bɛ̀p-ní jing jing lɛ́w jàk tɛ̀ng-ngan tɛ̀ hǎ fɛn mâj dâj mâk-kwà",
+          "page": "89"
         },
         {
           "thai": "พลอย: โอ๊ย นี่ฉันจะสี่สิบแล้วนะฝน ไม่สนใจเรื่องนี้แล้ว กว่าจะหาใครมาแต่งงานได้ ตอนนั้นก็คงแก่เกินไปแล้ว ฉันขอเป็นโสดแบบนี้ดีกว่า",
@@ -841,7 +934,8 @@
           "en": "Ploy: Oh, I'm almost forty, Fon. I don't care about this anymore. By the time I find someone to marry, I'll probably be too old. I'd rather stay single like this.",
           "ja": "プローイ：もう、私も四十歳になるのよ、フォン。そんなことはもう気にしていない。結婚相手が見つかる頃には年を取りすぎているだろうし、このまま独身のほうがいい。",
           "ko": "플로이: 아이고, 나 이제 마흔이 다 돼 가, 폰. 이젠 그런 일에 관심 없어. 결혼할 사람을 찾을 때쯤이면 너무 늙었을 거야. 그냥 이렇게 독신으로 사는 게 나아.",
-          "romanization": "phlɔj : ój nî chǎn jà sì sìp lɛ́w ná fǒn mâj sǒn-jaj rʉâng ní lɛ́w kwà jà hǎ khraj ma tɛ̀ng-ngan dâj tɔn-nán kɔ̂ khong kɛ̀ kən-paj lɛ́w chǎn khɔ̌ pen-sòt bɛ̀p-ní di-kwà"
+          "romanization": "phlɔj : ój nî chǎn jà sì sìp lɛ́w ná fǒn mâj sǒn-jaj rʉâng ní lɛ́w kwà jà hǎ khraj ma tɛ̀ng-ngan dâj tɔn-nán kɔ̂ khong kɛ̀ kən-paj lɛ́w chǎn khɔ̌ pen-sòt bɛ̀p-ní di-kwà",
+          "page": "90"
         },
         {
           "thai": "ฝน: เธอนี่แปลกจริง ๆ ใคร ๆ ก็อยากแต่งงานกันทั้งนั้น เอาเถอะ ตามใจ ฉันไปละ แล้วเจอกันนะ",
@@ -849,7 +943,8 @@
           "en": "Fon: You're really strange. Everyone wants to get married. Fine, suit yourself. I'm going. See you.",
           "ja": "フォン：本当に変わっているね。みんな結婚したがるのに。まあいい、好きにして。私は行くね。またね。",
           "ko": "폰: 너 정말 이상하다. 다들 결혼하고 싶어 하는데. 됐어, 네 마음대로 해. 난 갈게. 또 봐.",
-          "romanization": "fǒn : thə nî plɛ̀k jing jing khraj khraj kɔ̂ jàk tɛ̀ng-ngan kan tháng-nán aw-thə̀ tam-jaj chǎn paj lá lɛ́w jə-kan ná"
+          "romanization": "fǒn : thə nî plɛ̀k jing jing khraj khraj kɔ̂ jàk tɛ̀ng-ngan kan tháng-nán aw-thə̀ tam-jaj chǎn paj lá lɛ́w jə-kan ná",
+          "page": "90"
         }
       ]
     },
@@ -870,7 +965,8 @@
           "en": "Every human needs love from others, especially from people they feel affection for. At each stage of life, people need love from different people.",
           "ja": "人は誰もが他者、特に好意を感じる人からの愛を必要とする。人生の各段階で、人が求める愛の相手は異なる。",
           "ko": "모든 인간은 다른 사람, 특히 자신이 호감을 느끼는 사람에게 사랑받기를 원한다. 연령대에 따라 서로 다른 사람에게서 사랑을 필요로 한다.",
-          "romanization": "má-nút thúk-khon tɔ̂ng-kan khwam-rák jàk phû-ʉ̀n doj-chà-phɔ́ jàk khon thî raw rú-sʉ̀k phɔ-jaj má-nút naj tɛ̀-lá chuâng waj tàng tɔ̂ng-kan khwam-rák jàk bùk-khon thî tɛ̀k tàng-kan"
+          "romanization": "má-nút thúk-khon tɔ̂ng-kan khwam-rák jàk phû-ʉ̀n doj-chà-phɔ́ jàk khon thî raw rú-sʉ̀k phɔ-jaj má-nút naj tɛ̀-lá chuâng waj tàng tɔ̂ng-kan khwam-rák jàk bùk-khon thî tɛ̀k tàng-kan",
+          "page": "99"
         },
         {
           "thai": "วัยเด็กเป็นวัยที่ต้องการการดูแลจากพ่อแม่ ถ้าเด็กได้รับการเลี้ยงดูด้วยวิธีที่ถูกต้อง เด็กก็จะนิสัยดีและบุคลิกภาพดี นิสัยต่าง ๆ ของเด็กเกิดจากสิ่งแวดล้อมและการเลี้ยงดูจากผู้ใหญ่",
@@ -878,7 +974,8 @@
           "en": "Childhood is a stage that requires parental care. If children are raised properly, they will have good habits and personalities. Children's traits arise from their environment and upbringing by adults.",
           "ja": "子ども時代は両親の世話を必要とする時期である。正しく育てられれば、よい性格と人格が形成される。子どものさまざまな性質は、環境と大人による養育から生まれる。",
           "ko": "아동기는 부모의 돌봄이 필요한 시기다. 아이가 올바른 방식으로 양육되면 성품과 인격이 좋아진다. 아이의 여러 성향은 환경과 어른의 양육에서 생긴다.",
-          "romanization": "waj-dèk pen waj thî tɔ̂ng-kan kan du-lɛ jàk phɔ̂-mɛ̂ thâ dèk dâj-ráp kan liáng-du duâj wí-thi thî thùk-tɔ̂ng dèk kɔ̂ jà ní-sǎj di lɛ́ bùk-khá-lík-kà-phâp di ní-sǎj tàng tàng khɔ̌ng dèk kə̀t jàk sìng-wɛ̂t-lɔ́m lɛ́ kan liáng-du jàk phû-jàj"
+          "romanization": "waj-dèk pen waj thî tɔ̂ng-kan kan du-lɛ jàk phɔ̂-mɛ̂ thâ dèk dâj-ráp kan liáng-du duâj wí-thi thî thùk-tɔ̂ng dèk kɔ̂ jà ní-sǎj di lɛ́ bùk-khá-lík-kà-phâp di ní-sǎj tàng tàng khɔ̌ng dèk kə̀t jàk sìng-wɛ̂t-lɔ́m lɛ́ kan liáng-du jàk phû-jàj",
+          "page": "99"
         },
         {
           "thai": "วัยรุ่นเป็นวัยที่ร่างกายกำลังเปลี่ยนแปลงและกำลังพัฒนาจากวัยเด็กไปสู่วัยผู้ใหญ่ คนในวัยนี้จะเริ่มสนใจเพศตรงข้ามและต้องการความรักจากเพศตรงข้าม พ่อแม่ควรดูแลลูกวัยรุ่นอย่างใกล้ชิด",
@@ -886,7 +983,8 @@
           "en": "Adolescence is when the body changes and develops from childhood toward adulthood. People at this age begin to take an interest in the opposite sex and want love from them. Parents should watch over teenage children closely.",
           "ja": "思春期は、体が変化し、子どもから大人へ発達する時期である。この年代は異性に関心を持ち始め、異性からの愛を求める。親は思春期の子どもを注意深く見守るべきである。",
           "ko": "청소년기는 몸이 변하며 아동기에서 성인기로 발달하는 시기다. 이 시기의 사람들은 이성에게 관심을 갖기 시작하고 이성의 사랑을 원한다. 부모는 청소년 자녀를 가까이에서 돌봐야 한다.",
-          "romanization": "waj-rûn pen waj thî râng-kaj kam-lang pliàn-plɛng lɛ́ kam-lang phát-thá-na jàk waj-dèk paj sù waj-phû-jàj khon-naj waj ní jà rə̂m sǒn-jaj phêt-trong-khâm lɛ́ tɔ̂ng-kan khwam-rák jàk phêt-trong-khâm phɔ̂-mɛ̂ khuan du-lɛ lûk waj-rûn jàng klâj-chít"
+          "romanization": "waj-rûn pen waj thî râng-kaj kam-lang pliàn-plɛng lɛ́ kam-lang phát-thá-na jàk waj-dèk paj sù waj-phû-jàj khon-naj waj ní jà rə̂m sǒn-jaj phêt-trong-khâm lɛ́ tɔ̂ng-kan khwam-rák jàk phêt-trong-khâm phɔ̂-mɛ̂ khuan du-lɛ lûk waj-rûn jàng klâj-chít",
+          "page": "99"
         },
         {
           "thai": "วัยผู้ใหญ่เป็นวัยที่ร่างกายเติบโตเต็มที่ ผู้ใหญ่โดยทั่วไป มีความรับผิดชอบสูง คนวัยผู้ใหญ่ต้องการความรักและมองหาใครสักคนเพื่อแต่งงาน สร้างครอบครัวเป็นของตนเอง",
@@ -894,7 +992,8 @@
           "en": "Adulthood is when the body is fully grown. Adults generally have a high level of responsibility. They need love and look for someone to marry and build a family of their own.",
           "ja": "成人期は体が十分に成長した時期である。一般に大人は責任感が強い。愛を求め、結婚して自分の家庭を築く相手を探す。",
           "ko": "성인기는 몸이 완전히 성장한 시기다. 일반적으로 성인은 책임감이 높다. 사랑을 원하며 결혼해 자신의 가정을 꾸릴 사람을 찾는다.",
-          "romanization": "waj-phû-jàj pen waj thî râng-kaj tə̀p-to tem-thî phû-jàj doj-thuâ-paj mi khwam-ráp-phìt-chɔ̂p sǔng khon waj-phû-jàj tɔ̂ng-kan khwam-rák lɛ́ mɔng-hǎ khraj sàk khon phʉâ tɛ̀ng-ngan sâng khrɔ̂p-khrua pen khɔ̌ng ton-eng"
+          "romanization": "waj-phû-jàj pen waj thî râng-kaj tə̀p-to tem-thî phû-jàj doj-thuâ-paj mi khwam-ráp-phìt-chɔ̂p sǔng khon waj-phû-jàj tɔ̂ng-kan khwam-rák lɛ́ mɔng-hǎ khraj sàk khon phʉâ tɛ̀ng-ngan sâng khrɔ̂p-khrua pen khɔ̌ng ton-eng",
+          "page": "99"
         },
         {
           "thai": "วัยชราเป็นวัยที่การทำงานของร่างกายเสื่อมลง ทำให้เกิดความชรา เช่น ผมหงอก ผิวเหี่ยว คนชราต้องพบกับการเปลี่ยนแปลงหลายอย่าง เช่น ออกจากงานประจำ ลูก ๆ จากไปมีครอบครัวใหม่ สามีหรือภรรยาตายจากไป คนชรามักจะรู้สึกหงุดหงิด ซึมเศร้า และน้อยใจ ดังนั้นลูกหลานจึงควรให้ความรักความเอาใจใส่กับคนชรา",
@@ -902,7 +1001,8 @@
           "en": "Old age is when bodily functions decline, causing signs of aging such as gray hair and wrinkled skin. Elderly people face many changes: retiring from regular work, children leaving to form new families, and a spouse passing away. They often feel irritable, depressed, and hurt, so children and grandchildren should give them love and attention.",
           "ja": "老年期は身体機能が衰え、白髪や皮膚のしわなど老化が現れる時期である。退職、子どもの独立と新家庭、配偶者との死別など、多くの変化に直面する。いら立ち、抑うつ、寂しさを感じやすいため、子や孫は愛情と気遣いを示すべきである。",
           "ko": "노년기는 신체 기능이 쇠퇴해 흰머리나 주름진 피부 같은 노화가 나타나는 시기다. 노인은 직장에서 은퇴하고, 자녀가 새 가정을 꾸려 떠나며, 배우자와 사별하는 등 많은 변화를 겪는다. 짜증과 우울함, 서운함을 자주 느끼므로 자녀와 손주가 사랑과 관심을 보여야 한다.",
-          "romanization": "waj-chá-ra pen waj thî kan-tham-ngan khɔ̌ng râng-kaj sʉàm long tham-hâj-kə̀t khwam chá-ra chên phǒm-ngɔ̀k phì-wá hiàw khon-chá-ra tɔ̂ng phóp kàp kan-pliàn-plɛng lǎj-jàng chên ɔ̀k-jàk ngan-prà-jam lûk lûk jàk-paj mi-khrɔ̂p-khrua màj sǎ-mi rʉ̌ phan-ja taj jàk-paj khon-chá-ra mák-jà rú-sʉ̀k ngùt-ngìt sʉm-sâw lɛ́ nɔ́j-jaj dang-nán lûk-lǎn jʉng khuan hâj khwam-rák khwam-aw-jaj-sàj kàp khon-chá-ra"
+          "romanization": "waj-chá-ra pen waj thî kan-tham-ngan khɔ̌ng râng-kaj sʉàm long tham-hâj-kə̀t khwam chá-ra chên phǒm-ngɔ̀k phì-wá hiàw khon-chá-ra tɔ̂ng phóp kàp kan-pliàn-plɛng lǎj-jàng chên ɔ̀k-jàk ngan-prà-jam lûk lûk jàk-paj mi-khrɔ̂p-khrua màj sǎ-mi rʉ̌ phan-ja taj jàk-paj khon-chá-ra mák-jà rú-sʉ̀k ngùt-ngìt sʉm-sâw lɛ́ nɔ́j-jaj dang-nán lûk-lǎn jʉng khuan hâj khwam-rák khwam-aw-jaj-sàj kàp khon-chá-ra",
+          "page": "99"
         }
       ]
     }

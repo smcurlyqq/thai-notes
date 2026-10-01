@@ -1,9 +1,9 @@
 <!doctype html>
-<html lang="zh-Hant">
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>第 6 課跟讀 · Thai Notes</title>
+<title>Lesson 6 Shadowing · Thai Notes</title>
 <style>
 :root {
   --bg: #f6f3ed; --surface: #ffffff; --ink: #252a31; --muted: #6f7680; --line: #dedbd3;
@@ -67,13 +67,13 @@ button.ctl[aria-pressed="true"] { background: var(--blue-soft); border-color: va
 <body data-page-type="practice" data-level="4" data-lessons="6" class="level-4">
 <main class="shell">
   <nav class="crumbs" aria-label="Breadcrumb">
-    <a href="../index.html" data-i18n="allLevels">所有 Level</a>
+    <a href="../index.html" data-i18n="allLevels">All Levels</a>
     <span aria-hidden="true">›</span>
-    <a href="index.html" data-i18n="levelHome">Level 4 首頁</a>
+    <a href="index.html" data-i18n="levelHome">Level 4 Home</a>
   </nav>
   <header class="card head">
     <p class="eyebrow">Intensive Thai · Level 4 · Lesson 6</p>
-    <h1><span class="title-unit" data-thai-unit><span data-thai lang="th">นิสัยเด่นสิบสองราศี</span><span class="title-rom" data-romanization lang="th-Latn">ní-sǎj dèn sìp-sɔ̌ɔng raa-sǐi</span></span> <span data-i18n="heading">跟讀</span></h1>
+    <h1><span class="title-unit" data-thai-unit><span data-thai lang="th">นิสัยเด่นสิบสองราศี</span><span class="title-rom" data-romanization lang="th-Latn">ní-sǎj dèn sìp-sɔ̌ɔng raa-sǐi</span></span> <span data-i18n="heading">Shadowing</span></h1>
   </header>
   <div id="text"></div>
   <audio id="audio" src="audio/l6-reading.m4a" preload="auto"></audio>
@@ -87,10 +87,9 @@ button.ctl[aria-pressed="true"] { background: var(--blue-soft); border-color: va
     <button type="button" class="ctl" id="next">→</button>
     <span class="spacer"></span>
     <button type="button" class="ctl" id="rep"></button>
-    <button type="button" class="ctl" id="speed">1×</button>
+    <button type="button" class="ctl" id="speed" lang="en">Speed 1×</button>
     <button type="button" class="ctl" id="gap" aria-pressed="true" data-i18n="gap"></button>
     <button type="button" class="ctl" id="hide" aria-pressed="false" data-i18n="hide"></button>
-    <button type="button" class="ctl" id="lang" lang="ja">日本語</button>
   </div>
 </div>
 
@@ -129,28 +128,24 @@ const REPS = [1, 2, 3], SPEEDS = [1, 0.85, 0.7], TURN_SECONDS = 8;
 let reps = 1, speed = 1, cur = 0, token = 0, running = false;
 
 const UI = {
-  zh: { allLevels: '所有 Level', levelHome: 'Level 4 首頁', title: '第 6 課跟讀 · Thai Notes', heading: '跟讀', idle: '點任何一句開始，或按「開始跟讀」', start: '▶ 開始跟讀', pause: '❚❚ 暫停',
-        reps: n => `每句 ${n} 次`, gap: '留跟讀時間', hide: '隱藏泰文', listen: '聽', round: (r, n) => `（第 ${r} / ${n} 次）`,
-        yours: '換你說', secs: n => `${n} 秒`, finished: '整課跟讀完成', resume: '按 ▶ 從這句繼續', paused: '已暫停', prev: '上一句', next: '下一句',
-        playErr: '無法播放：', loadErr: c => `音檔讀取失敗（錯誤碼 ${c}）：請確認 網路連線後重新整理頁面`, other: '日本語', otherLang: 'ja' },
-  ja: { allLevels: 'すべてのレベル', levelHome: 'レベル4 トップ', title: '第6課 シャドーイング · Thai Notes', heading: 'シャドーイング', idle: '好きな文をクリックするか、「スタート」を押してください', start: '▶ スタート', pause: '❚❚ 一時停止',
-        reps: n => `各文 ${n} 回`, gap: '復唱の間をあける', hide: 'タイ語を隠す', listen: '聞く', round: (r, n) => `（${r} / ${n} 回目）`,
-        yours: 'あなたの番', secs: n => `残り ${n} 秒`, finished: '全文完了', resume: '▶ でこの文から再開', paused: '一時停止中', prev: '前の文', next: '次の文',
-        playErr: '再生できません：', loadErr: c => `音声ファイルを読み込めません（エラーコード ${c}）：ネット接続を確認してページを再読み込みしてください`, other: '中文', otherLang: 'zh-Hant' },
+  en: { allLevels: 'All Levels', levelHome: 'Level 4 Home', title: 'Lesson 6 Shadowing · Thai Notes', heading: 'Shadowing',
+        idle: 'Tap any sentence, or press Start', start: '▶ Start', pause: '❚❚ Pause',
+        reps: n => `Repeat ${n}×`, gap: 'Pause to repeat', hide: 'Hide Thai', listen: 'Listen', round: (r, n) => ` (${r}/${n})`,
+        yours: 'Your turn', secs: n => `${n}s`, finished: 'All done', resume: 'Press ▶ to continue from here', paused: 'Paused',
+        prev: 'Previous', next: 'Next', playErr: 'Cannot play: ',
+        loadErr: c => `Audio failed to load (error ${c}). Check your connection and reload.` },
 };
-let lang = 'zh';
+const lang = 'en';
 const T = () => UI[lang];
 let lastStatus = () => T().idle;
 function applyLang() {
   const t = T();
-  document.documentElement.lang = lang === 'ja' ? 'ja' : 'zh-Hant';
   document.title = t.title;
   document.querySelectorAll('[data-i18n]').forEach(el => { el.textContent = t[el.dataset.i18n]; });
   $('prev').setAttribute('aria-label', t.prev);
   $('next').setAttribute('aria-label', t.next);
   $('rep').textContent = t.reps(reps);
   $('go').textContent = running ? t.pause : t.start;
-  $('lang').textContent = t.other; $('lang').lang = t.otherLang;
   $('status').innerHTML = lastStatus();
 }
 
@@ -210,8 +205,7 @@ $('go').onclick = () => { if (!running) return runFrom(cur, true); stop(); const
 $('prev').onclick = () => { const was = running; stop(); cur = Math.max(0, cur - 1); runFrom(cur, was); };
 $('next').onclick = () => { const was = running; stop(); cur = Math.min(lines.length - 1, cur + 1); runFrom(cur, was); };
 $('rep').onclick = e => { reps = REPS[(REPS.indexOf(reps) + 1) % REPS.length]; e.currentTarget.textContent = T().reps(reps); };
-$('lang').onclick = () => { lang = lang === 'zh' ? 'ja' : 'zh'; applyLang(); };
-$('speed').onclick = e => { speed = SPEEDS[(SPEEDS.indexOf(speed) + 1) % SPEEDS.length]; e.currentTarget.textContent = speed + '×'; };
+$('speed').onclick = e => { speed = SPEEDS[(SPEEDS.indexOf(speed) + 1) % SPEEDS.length]; e.currentTarget.textContent = `Speed ${speed}×`; };
 $('gap').onclick = e => { const b = e.currentTarget; b.setAttribute('aria-pressed', b.getAttribute('aria-pressed') !== 'true'); };
 $('hide').onclick = e => {
   const b = e.currentTarget, on = b.getAttribute('aria-pressed') !== 'true';

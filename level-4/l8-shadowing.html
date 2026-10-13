@@ -1,0 +1,220 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lesson 8 Shadowing · Thai Notes</title>
+<style>
+:root {
+  --bg: #f6f3ed; --surface: #ffffff; --ink: #252a31; --muted: #6f7680; --line: #dedbd3;
+  --blue: #315f7c; --blue-dark: #24485f; --blue-soft: #eaf1f5;
+  --red: #9f3840; --red-soft: #f8ebec; --focus: #d28319;
+  --shadow: 0 12px 34px rgba(48, 43, 34, 0.08);
+  color-scheme: light;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink);
+  font-family: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", "Noto Sans Thai", system-ui, sans-serif;
+  font-size: 16px; line-height: 1.65; -webkit-text-size-adjust: 100%;
+}
+button:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }
+.shell { width: min(100% - 32px, 760px); margin: 0 auto; padding: 34px 0 140px; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 18px; box-shadow: var(--shadow); padding: clamp(20px, 4vw, 34px); }
+.head { border-top: 5px solid var(--red); margin-bottom: 18px; }
+.eyebrow { margin: 0 0 6px; color: var(--muted); font-size: .78rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
+h1 { margin: 0; font-size: clamp(1.5rem, 4vw, 2rem); line-height: 1.25; }
+.title-unit { display: block; }
+.para { margin-bottom: 14px; }
+.para h2 { margin: 0 0 6px; font-size: 1rem; color: var(--muted); font-weight: 700; }
+.para h2 span { font-weight: 400; }
+.line {
+  display: block; width: 100%; text-align: left; border: 0; background: none; cursor: pointer;
+  padding: 6px 10px; margin: 0 -10px; border-radius: 10px; color: var(--ink);
+  font: 1.3rem/1.7 "Noto Sans Thai", "Thonburi", system-ui, sans-serif;
+}
+.line:hover { background: var(--blue-soft); }
+.line.now { background: var(--red-soft); box-shadow: inset 4px 0 0 var(--red); }
+.line.now.yours { background: var(--blue-soft); box-shadow: inset 4px 0 0 var(--blue); }
+.date { color: var(--muted); font-size: 1rem; }
+.crumbs { display: flex; gap: 8px; margin-bottom: 14px; font-size: .9rem; color: var(--muted); }
+.crumbs a { color: var(--blue-dark); }
+.zh { margin: 8px 0 0; color: var(--muted); font-size: .92rem; }
+.ja { margin: 2px 0 0; color: var(--muted); font-size: .92rem; }
+.hide-text .line .t { filter: blur(7px); }
+.hide-text .line.revealed .t { filter: none; }
+.dock {
+  position: fixed; left: 0; right: 0; bottom: 0; background: rgba(255,255,255,.96);
+  border-top: 1px solid var(--line); box-shadow: 0 -8px 24px rgba(48,43,34,.06); padding: 12px 16px;
+}
+.dock-in { width: min(100%, 760px); margin: 0 auto; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.status { flex: 1 1 100%; color: var(--muted); font-size: .88rem; min-height: 1.4em; }
+.status b { color: var(--ink); }
+.status .count { display: inline-block; min-width: 4.5em; margin-left: 6px; padding: 0 8px; border-radius: 999px; background: var(--blue); color: #fff; font-weight: 700; font-variant-numeric: tabular-nums; text-align: center; }
+button.ctl {
+  font: inherit; font-size: .92rem; cursor: pointer; border-radius: 999px; padding: 8px 14px;
+  border: 1px solid var(--line); background: var(--surface); color: var(--ink);
+}
+button.ctl:hover { border-color: var(--blue); color: var(--blue-dark); }
+button.ctl.primary { background: var(--blue); border-color: var(--blue); color: #fff; min-width: 7.5em; }
+button.ctl[aria-pressed="true"] { background: var(--blue-soft); border-color: var(--blue); color: var(--blue-dark); }
+.spacer { flex: 1; }
+</style>
+</head>
+<body data-page-type="practice" data-level="4" data-lessons="8" class="level-4">
+<main class="shell">
+  <nav class="crumbs" aria-label="Breadcrumb">
+    <a href="../index.html" data-i18n="allLevels">All Levels</a>
+    <span aria-hidden="true">›</span>
+    <a href="index.html" data-i18n="levelHome">Level 4 Home</a>
+  </nav>
+  <header class="card head">
+    <p class="eyebrow">Intensive Thai · Level 4 · Lesson 8</p>
+    <h1><span class="title-unit" lang="th">ความรักในแต่ละช่วงวัย</span> <span data-i18n="heading">Shadowing</span></h1>
+  </header>
+  <div id="text"></div>
+  <audio id="audio" src="audio/l8-reading.m4a" preload="auto"></audio>
+</main>
+
+<div class="dock">
+  <div class="dock-in">
+    <div class="status" id="status"></div>
+    <button type="button" class="ctl" id="prev">←</button>
+    <button type="button" class="ctl primary" id="go"></button>
+    <button type="button" class="ctl" id="next">→</button>
+    <span class="spacer"></span>
+    <button type="button" class="ctl" id="rep"></button>
+    <button type="button" class="ctl" id="speed" lang="en">Speed 1×</button>
+    <button type="button" class="ctl" id="gap" aria-pressed="true" data-i18n="gap"></button>
+    <button type="button" class="ctl" id="hide" aria-pressed="false" data-i18n="hide"></button>
+  </div>
+</div>
+
+<script type="application/json" id="practice-data">[{"label": "มนุษย์", "zh": "每個人都需要他人的愛，尤其是來自自己喜歡的人。", "ja": "人は誰もが他者、特に好意を感じる人からの愛を必要とする。", "phrases": [{"th": "มนุษย์ทุกคนต้องการความรักจากผู้อื่น", "start": 8.34, "end": 12.42}, {"th": "โดยเฉพาะจากคนที่เรารู้สึกพอใจ", "start": 12.86, "end": 17.02}]}, {"label": "มนุษย์", "zh": "不同人生階段的人，需要來自不同對象的愛。", "ja": "人生の各段階で、人が求める愛の相手は異なる。", "phrases": [{"th": "มนุษย์ในแต่ละช่วงวัย", "start": 17.96, "end": 20.18}, {"th": "ต่างต้องการความรักจากบุคคลที่แตกต่างกัน", "start": 20.76, "end": 24.92}]}, {"label": "วัยเด็ก", "zh": "童年是需要父母照顧的階段。", "ja": "子ども時代は両親の世話を必要とする時期である。", "phrases": [{"th": "วัยเด็กเป็นวัยที่ต้องการการดูแลจากพ่อแม่", "start": 26.46, "end": 31.48}]}, {"label": "วัยเด็ก", "zh": "如果孩子受到正確方式的養育，就會有良好的性格和人格。", "ja": "正しく育てられれば、よい性格と人格が形成される。", "phrases": [{"th": "ถ้าเด็กได้รับการเลี้ยงดูด้วยวิธีที่ถูกต้อง", "start": 32.24, "end": 37.08}, {"th": "เด็กก็จะนิสัยดีและบุคลิกภาพดี", "start": 37.96, "end": 42.82}]}, {"label": "วัยเด็ก", "zh": "孩子的各種習慣與性格，來自環境以及成人的教養。", "ja": "子どものさまざまな性質は、環境と大人による養育から生まれる。", "phrases": [{"th": "นิสัยต่าง ๆ ของเด็กเกิดจากสิ่งแวดล้อม", "start": 43.66, "end": 47.86}, {"th": "และการเลี้ยงดูจากผู้ใหญ่", "start": 47.96, "end": 50.48}]}, {"label": "วัยรุ่น", "zh": "青春期是身體正在改變、從兒童向成人發展的階段。", "ja": "思春期は、体が変化し、子どもから大人へ発達する時期である。", "phrases": [{"th": "วัยรุ่นเป็นวัยที่ร่างกายกำลังเปลี่ยนแปลง", "start": 52.4, "end": 56.78}, {"th": "และกำลังพัฒนาจากวัยเด็กไปสู่วัยผู้ใหญ่", "start": 57.22, "end": 61.88}]}, {"label": "วัยรุ่น", "zh": "這個年齡的人會開始對異性感興趣，也渴望異性的愛。", "ja": "この年代は異性に関心を持ち始め、異性からの愛を求める。", "phrases": [{"th": "คนในวัยนี้จะเริ่มสนใจเพศตรงข้าม", "start": 63.3, "end": 67.6}, {"th": "และต้องการความรักจากเพศตรงข้าม", "start": 68.2, "end": 71.38}]}, {"label": "วัยรุ่น", "zh": "父母應密切關心青春期的孩子。", "ja": "親は思春期の子どもを注意深く見守るべきである。", "phrases": [{"th": "พ่อแม่ควรดูแลลูกวัยรุ่นอย่างใกล้ชิด", "start": 72.2, "end": 76.4}]}, {"label": "วัยผู้ใหญ่", "zh": "成年期是身體完全成熟的階段。一般而言，成人責任感高。", "ja": "成人期は体が十分に成長した時期である。一般に大人は責任感が強い。", "phrases": [{"th": "วัยผู้ใหญ่เป็นวัยที่ร่างกายเติบโตเต็มที่", "start": 78.9, "end": 83.76}, {"th": "ผู้ใหญ่โดยทั่วไป มีความรับผิดชอบสูง", "start": 84.64, "end": 89.14}]}, {"label": "วัยผู้ใหญ่", "zh": "成年人需要愛，也會尋找一個人結婚，建立自己的家庭。", "ja": "愛を求め、結婚して自分の家庭を築く相手を探す。", "phrases": [{"th": "คนวัยผู้ใหญ่ต้องการความรักและมองหาใครสักคนเพื่อแต่งงาน", "start": 89.94, "end": 96.22}, {"th": "สร้างครอบครัวเป็นของตนเอง", "start": 96.74, "end": 99.34}]}, {"label": "วัยชรา", "zh": "老年期是身體機能衰退的階段。", "ja": "老年期は身体機能が衰える時期である。", "phrases": [{"th": "วัยชราเป็นวัยที่การทำงานของร่างกายเสื่อมลง", "start": 101.46, "end": 106.64}]}, {"label": "วัยชรา", "zh": "因而出現老化現象，例如白髮、皮膚皺縮。", "ja": "そのため老化が現れる。たとえば白髪や皮膚のしわである。", "phrases": [{"th": "ทำให้เกิดความชรา", "start": 107.22, "end": 109.24}, {"th": "เช่น ผมหงอก ผิวเหี่ยว", "start": 109.96, "end": 114.02}]}, {"label": "วัยชรา", "zh": "老人必須面對許多變化，例如離開固定工作。", "ja": "老人は多くの変化に直面する。たとえば定職を離れることである。", "phrases": [{"th": "คนชราต้องพบกับการเปลี่ยนแปลงหลายอย่าง", "start": 114.76, "end": 118.36}, {"th": "เช่น ออกจากงานประจำ", "start": 119.0, "end": 121.88}]}, {"label": "วัยชรา", "zh": "子女離家建立新家庭，配偶也離開人世。", "ja": "子どもは家を出て新しい家庭を持ち、配偶者とも死別する。", "phrases": [{"th": "ลูก ๆ จากไปมีครอบครัวใหม่", "start": 122.52, "end": 125.6}, {"th": "สามีหรือภรรยาตายจากไป", "start": 126.58, "end": 129.7}]}, {"label": "วัยชรา", "zh": "老人常感到煩躁、憂鬱與委屈，因此子孫應給予老人愛與關心。", "ja": "老人はいら立ち、抑うつ、寂しさを感じやすいため、子や孫は愛情と気遣いを示すべきである。", "phrases": [{"th": "คนชรามักจะรู้สึกหงุดหงิด ซึมเศร้า และน้อยใจ", "start": 130.84, "end": 136.44}, {"th": "ดังนั้นลูกหลานจึงควรให้ความรักความเอาใจใส่กับคนชรา", "start": 137.14, "end": 143.0}]}]</script>
+<script>
+const DATA = JSON.parse(document.getElementById('practice-data').textContent);
+const $ = id => document.getElementById(id);
+const audio = $('audio');
+
+// build transcript
+const lines = [];
+DATA.forEach(para => {
+  const box = document.createElement('section');
+  box.className = 'card para';
+  para.phrases.forEach((ph, i) => {
+    const b = document.createElement('button');
+    b.type = 'button'; b.className = 'line'; b.lang = 'th';
+    const t = document.createElement('span'); t.className = 't';
+    t.textContent = ph.th;
+    b.append(t);
+    if (ph.date) { const s = document.createElement('span'); s.className = 'date'; s.textContent = '  (' + ph.date + ')'; b.append(s); }
+    const k = lines.length;
+    b.onclick = () => { stop(); cur = k; runFrom(k, false); };
+    box.append(b);
+    lines.push({ ...ph, el: b, sign: para.label || para.phrases[0].th });
+  });
+  const zh = document.createElement('p'); zh.className = 'zh'; zh.textContent = para.zh;
+  const ja = document.createElement('p'); ja.className = 'ja'; ja.lang = 'ja'; ja.textContent = para.ja;
+  box.append(zh, ja);
+  $('text').append(box);
+});
+
+const REPS = [1, 2, 3], SPEEDS = [1, 0.85, 0.7], TURN_SECONDS = 8;
+let reps = 1, speed = 1, cur = 0, token = 0, running = false;
+
+const UI = {
+  en: { allLevels: 'All Levels', levelHome: 'Level 4 Home', title: 'Lesson 8 Shadowing · Thai Notes', heading: 'Shadowing',
+        idle: 'Tap any sentence, or press Start', start: '▶ Start', pause: '❚❚ Pause',
+        reps: n => `Repeat ${n}×`, gap: 'Pause to repeat', hide: 'Hide Thai', listen: 'Listen', round: (r, n) => ` (${r}/${n})`,
+        yours: 'Your turn', secs: n => `${n}s`, finished: 'All done', resume: 'Press ▶ to continue from here', paused: 'Paused',
+        prev: 'Previous', next: 'Next', playErr: 'Cannot play: ',
+        loadErr: c => `Audio failed to load (error ${c}). Check your connection and reload.` },
+};
+const lang = 'en';
+const T = () => UI[lang];
+let lastStatus = () => T().idle;
+function applyLang() {
+  const t = T();
+  document.title = t.title;
+  document.querySelectorAll('[data-i18n]').forEach(el => { el.textContent = t[el.dataset.i18n]; });
+  $('prev').setAttribute('aria-label', t.prev);
+  $('next').setAttribute('aria-label', t.next);
+  $('rep').textContent = t.reps(reps);
+  $('go').textContent = running ? t.pause : t.start;
+  $('status').innerHTML = lastStatus();
+}
+
+function setStatus(fn) { lastStatus = fn; $('status').innerHTML = fn(); }
+function mark(k, yours) {
+  lines.forEach((l, i) => { l.el.classList.toggle('now', i === k); l.el.classList.toggle('yours', i === k && yours); });
+  lines[k].el.classList.add('revealed');
+  lines[k].el.scrollIntoView({ block: 'center', behavior: 'smooth' });
+}
+function wait(ms, my) { return new Promise(r => setTimeout(() => r(my === token), ms)); }
+function playSeg(l, my) {
+  return new Promise(resolve => {
+    audio.playbackRate = speed;
+    audio.currentTime = Math.max(0, l.start - 0.08);
+    const stopAt = l.end + 0.18;
+    audio.play().catch(err => setStatus(() => '<b>' + T().playErr + '</b>' + err.name + ' — ' + err.message));
+    const tick = () => {
+      if (my !== token) return resolve(false);
+      if (audio.currentTime >= stopAt || audio.ended) { audio.pause(); return resolve(true); }
+      requestAnimationFrame(tick);
+    };
+    requestAnimationFrame(tick);
+  });
+}
+async function runFrom(k, continuous) {
+  const my = ++token;
+  running = continuous;
+  $('go').textContent = continuous ? T().pause : T().start;
+  for (let i = k; i < lines.length; i++) {
+    cur = i;
+    const l = lines[i];
+    for (let r = 0; r < reps; r++) {
+      mark(i, false);
+      setStatus(() => `<b>${i + 1} / ${lines.length}</b> · ${l.sign} · ${T().listen}` + (reps > 1 ? T().round(r + 1, reps) : ''));
+      if (!await playSeg(l, my)) return;
+      if (continuous && $('gap').getAttribute('aria-pressed') === 'true') {
+        mark(i, true);
+        for (let left = TURN_SECONDS; left > 0; left--) {
+          setStatus(() => `<b>${i + 1} / ${lines.length}</b> · ${l.sign} · <b>${T().yours}</b> <span class="count">${T().secs(left)}</span>`);
+          if (!await wait(1000, my)) return;
+        }
+      }
+    }
+    if (!continuous) break;
+  }
+  if (my === token) {
+    running = false;
+    $('go').textContent = T().start;
+    const done = continuous && cur === lines.length - 1, at = cur;
+    setStatus(() => done ? T().finished : `<b>${at + 1} / ${lines.length}</b> · ${T().resume}`);
+  }
+}
+audio.addEventListener('error', () => setStatus(() => '<b>' + T().loadErr(audio.error && audio.error.code) + '</b>'));
+function stop() { token++; audio.pause(); running = false; $('go').textContent = T().start; }
+
+$('go').onclick = () => { if (!running) return runFrom(cur, true); stop(); const at = cur; setStatus(() => `<b>${at + 1} / ${lines.length}</b> · ${T().paused}`); };
+$('prev').onclick = () => { const was = running; stop(); cur = Math.max(0, cur - 1); runFrom(cur, was); };
+$('next').onclick = () => { const was = running; stop(); cur = Math.min(lines.length - 1, cur + 1); runFrom(cur, was); };
+$('rep').onclick = e => { reps = REPS[(REPS.indexOf(reps) + 1) % REPS.length]; e.currentTarget.textContent = T().reps(reps); };
+$('speed').onclick = e => { speed = SPEEDS[(SPEEDS.indexOf(speed) + 1) % SPEEDS.length]; e.currentTarget.textContent = `Speed ${speed}×`; };
+$('gap').onclick = e => { const b = e.currentTarget; b.setAttribute('aria-pressed', b.getAttribute('aria-pressed') !== 'true'); };
+$('hide').onclick = e => {
+  const b = e.currentTarget, on = b.getAttribute('aria-pressed') !== 'true';
+  b.setAttribute('aria-pressed', on);
+  document.body.classList.toggle('hide-text', on);
+  lines.forEach(l => l.el.classList.remove('revealed'));
+};
+document.addEventListener('keydown', e => {
+  if (e.target.closest('button') && e.key === ' ') { e.preventDefault(); $('go').click(); return; }
+  if (e.key === ' ') { e.preventDefault(); $('go').click(); }
+  if (e.key === 'ArrowRight') $('next').click();
+  if (e.key === 'ArrowLeft') $('prev').click();
+});
+applyLang();
+</script>
+</body>
+</html>

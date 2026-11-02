@@ -2,6 +2,24 @@
 
 Static multilingual Thai study notes published with GitHub Pages.
 
+## Level 5 complete-source workflow
+
+Lessons 1–8, four review sets, and the final exam sample are written line by line in `level-5/source/*.txt` (Thai | romanization | zh-Hant | en | ja | ko). Rendered pages are generated; do not edit them by hand.
+
+```bash
+python3 scripts/build_level5.py
+python3 scripts/audit_level5_source.py
+python3 /path/to/agent-core/skills/thai-notes/scripts/audit_thai_notes.py .
+```
+
+With the local source PDF, check both directions against the printed pages:
+
+```bash
+python3 scripts/verify_level5_against_pdf.py /path/to/source.pdf
+```
+
+`level-5/source-freeze.json` holds frozen counts and ordered page + Thai hashes. It uses a different shape from Level 4's `source-manifest.json`, so `audit_level5_source.py` checks it, not the shared auditor. Refreeze with `scripts/freeze_level5_source_manifest.py` only after rechecking changed text against the source.
+
 ## Level 4 complete-source workflow
 
 Lessons 1–8 contain 443 ordered, page-labelled source units: 100 dialogue/reading units in `level-4/lesson-content.json`; 221 vocabulary, 26 note, and 60 grammar units in `level-4/supporting-content.json`; and 36 complete in-lesson exercise blocks in `level-4/exercise-content.json`. Multi-line source units are expanded into sentence-aligned rows, producing 1,058 content rows in total. Each Thai row immediately pairs its tone-marked romanization with `zh-Hant` / `en` / `ja` / `ko` translations; the per-line translations live in `level-4/line-translations/lesson-*.json`. The explicit lesson layout preserves textbook interleaving such as grammar → exercise → the next grammar subsection.

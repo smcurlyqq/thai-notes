@@ -428,3 +428,13 @@ html.js:not(.languages-expanded) [data-extra-language] {
     display: none !important;
   }
 }
+
+/* Level 5 */
+:root { --green: #2f6f62; --green-dark: #235549; --green-soft: #e8f2ef; }
+.site-header.level-5 { border-top-color: var(--green); }
+.level-5 h1, h1.level-5 { color: var(--green-dark); }
+.level-card.level-5, .lesson-card.level-5 { border-top-color: var(--green); }
+.level-card.level-5:hover, .lesson-card.level-5:hover { border-color: var(--green); }
+.level-5 .card-title { color: var(--green-dark); }
+.level-5 .lesson-section > h2 { color: var(--green-dark); }
+.level-5 .section-label { background: var(--green-soft); color: var(--green-dark); }
